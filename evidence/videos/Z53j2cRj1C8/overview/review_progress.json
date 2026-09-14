@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T07:05:54.000Z",
+  "updated_at": "2026-09-14T07:12:26.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -125,23 +125,35 @@
     117,
     118,
     119,
-    120
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    720
+    792
   ],
-  "reviewed_frame_count": 720,
+  "reviewed_frame_count": 792,
   "reviewed_nominal_grid_s": [
     0,
-    10785
+    11865
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 121,
+  "next_sheet": 133,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -846,6 +858,94 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10800,
+        10920
+      ],
+      "observed": "sheet121〜122前半。飲食店のポーカー対談を続け、出場大会を追うアプリ画面PIP、賞金規模に関する発言、街頭の感想を経て、黄枠白箱の企業/スポンサー募集CTAを表示する。",
+      "limits": "アプリ、出場履歴、賞金規模、人脈、スポンサー条件、募集の現在性・契約は未確認。アカウント情報を読み取らず、画面/ロゴ/人物素材の再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10935,
+        11010
+      ],
+      "observed": "sheet122後半〜123前半。済州島の説明カードから青紫のイベント会場へ入り、BLOW CUPのトーナメント/キャッシュゲーム案内を示す。本人は現金70万円しか持参していないという字幕の後、紙幣を見せてバカラ卓へ向かう。",
+      "limits": "イベント名、会場、賞金、持参現金は画面上の説明で、公式要項、入出金、両替、残高との照合なし。70万円をバイイン・損失・全予算へ変換せず、素材権利をUNKNOWNに保つ。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11025,
+        11145
+      ],
+      "observed": "sheet123後半〜124。バカラ卓を斜め後方から撮り、右下に約17万円、続いて約10万円のベット表示を置く。左下HUDはPLAYERを赤、BANKERを黄緑の枠で分け、公開カードと各点数を更新し、卓外の本人の反応へつなぐ。",
+      "limits": "17万円/10万円は別局の画面表示で、現金70万円との配分、チップ換算、全ベット、勝敗、払戻、残高は未確認。HUD表示を券面・精算証跡にせず、局を混ぜない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11160,
+        11235
+      ],
+      "observed": "sheet125。『初手滅び』の大型青字幕で持参金が急減したと要約し、約15万円出しのBLOW CUPトーナメント説明、飲食場面、火球ブリッジ、会場での結果説明へ進む。",
+      "limits": "持参金の減少、約15万円、トーナメント結果を会計記録や公式結果と照合していない。バカラ損失、トーナメントバイイン、残高を足し引きせず、料理/会場/火球素材の権利はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11250,
+        11415
+      ],
+      "observed": "sheet126〜127。イベント会場でバカラ大会への出場を説明し、番組タイトルスティング後、ポーカー卓、スマートフォン、ルーレット卓を短く往復する。2日目ラベルを置き、バカラを続けたという字幕、ポーカーのポット獲得、本人の反応を経て夜の屋外へ出る。",
+      "limits": "バカラ大会の形式、ポーカー/ルーレットの投入・結果、2日目の残高、ゲーム間の資金移動は未確認。タイトル前後の章境界、各卓の順序・音、撮影許可も静止点から確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11430,
+        11535
+      ],
+      "observed": "sheet128後半〜130前半。観光客が少ないというローカル飲食店で同行男性と済州の観光を話し、夜のアミューズメントカジノへ移る。200万円負けという大型字幕、入店、アバターで顔を隠したスタッフとの乾杯を順に見せる。",
+      "limits": "観光状況、200万円の対象/期間/通貨、店舗区分、スタッフの国籍・同意は未確認。顔隠しを匿名化方針の一般則にせず、店舗・人物・アバター素材の権利をUNKNOWNに保つ。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11550,
+        11670
+      ],
+      "observed": "sheet130後半〜131前半。3日目ラベルでカジノ会場に戻り、トーナメント敗退の字幕、ポーカー/スポーツ/競馬のアイコン図解、スマートフォンの競馬映像を見せる。その後、白箱『バカラで巻き返しを図る』から約12万円ベットの卓へ移る。",
+      "limits": "トーナメント結果、競馬購入、ゲーム間の資金、12万円のチップ換算・購入証跡は未確認。敗退を収支額にせず、競馬とバカラを別ゲームとして管理する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11685,
+        11865
+      ],
+      "observed": "sheet131後半〜132。約12万円ベットのバカラ局で左下HUDのPLAYER/BANKERカードと点数を更新し、次の約3.5万円ベット局へ進む。卓の接写、ディーラーのカード提示、本人の反応を繰り返す。",
+      "limits": "12万円/3.5万円は局別表示。HUDの途中状態だけで最終勝敗、ペア等の追加賭け、払戻、残高、通算収支を確定せず、各局とカードを混ぜない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -991,6 +1091,20 @@
       "nominal_grid_s": [
         9720,
         10785
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        121,
+        132
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        10800,
+        11865
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
