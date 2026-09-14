@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T06:51:38.000Z",
+  "updated_at": "2026-09-14T06:59:22.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -101,23 +101,35 @@
     93,
     94,
     95,
-    96
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    576
+    648
   ],
-  "reviewed_frame_count": 576,
+  "reviewed_frame_count": 648,
   "reviewed_nominal_grid_s": [
     0,
-    8625
+    9705
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 97,
+  "next_sheet": 109,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -657,6 +669,83 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8640,
+        8775
+      ],
+      "observed": "sheet97〜98前半。車内会話の直後に水色の視聴感謝/登録CTAを全面表示し、街頭の別区間へ移る。本人がカード関連商品を査定へ出し、商品接写、265,000円の緑字幕、受付書類、査定終了後の会話を順に見せる。",
+      "limits": "終了カード前後の正確な章境界、査定対象、真贋、所有権、提示額か売却額か、支払完了は未確認。書類や店舗情報の個人データを転記せず、商品/IPの再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8790,
+        8865
+      ],
+      "observed": "sheet98後半〜99前半。駐車場で渡航書類に関する忘れ物を大字幕で示し、女性が先に移動した後、本人の縦長スマートフォン動画へ切り替える。途中に『HIGH LIMIT POKER』の番組説明カードを小さく重ねる。",
+      "limits": "忘れ物の実態、渡航予定、人物関係、番組出演・契約、縦素材の撮影時刻は未確認。画面上の個人情報を読み取らず、番組画像・ロゴの権利はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8880,
+        9015
+      ],
+      "observed": "sheet99後半〜101前半。軍資金100万円の固定表示を置いた本人の縦動画から、収録後の本人と女性2名の横長3ショットへ移る。通常字幕、ピンク強調、編集注釈を使い、最後に黄色大型字幕で『約20万円（400BB）勝ち』と結果を示す。",
+      "limits": "100万円は軍資金表示、約20万円/400BBは画面上の結果説明で、持込、バイイン、返却、レーキ、現金受領、純利益との照合なし。別日の発言や後続の回想と足し引きしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9030,
+        9105
+      ],
+      "observed": "sheet101後半〜102前半。飲食スペースで前日のポーカーを振り返り、結果を知る本人の反応を白字幕/大型明朝系で見せる。赤黒い番組タイトルスティングを挟み、水族館の白い鯨類と女性の短い実写へ切り替える。",
+      "limits": "回想内の金額や『無になった』の対象を先行の20万円表示と同一精算にしない。タイトルの正確な尺と音、水族館素材の撮影日・権利・章内での役割は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9120,
+        9285
+      ],
+      "observed": "sheet102後半〜104前半。車内で帰国前のバカラ資金に関する字幕を出し、スマートフォンの競馬中継と本人の反応を続ける。その後、家庭内の未成年者と端末を映し、第三者コメントの白い画面カードを挟んで端末を取り上げる企画を説明し、夜の車内で帰国後を示す。",
+      "limits": "資金調達、競馬/バカラの投入・結果、家族関係、コメント内容、企画の同意・演出は未確認。未成年者と投稿者の識別情報・コメント本文を転載せず、端末画面や家庭内素材の再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9300,
+        9645
+      ],
+      "observed": "sheet104後半〜108前半。『おきもちゴルフ』の大型見出しと金銭を賭けていない旨の注記で開始し、人物紹介、独自ルールの説明箱、各打、ホールの勝敗ラベル、グリップパター/タオル投げ等の余興を見せ、食堂での会話へつなぐ。",
+      "limits": "カジノ損失や回復、人物プロフィール、年間額は画面上の会話/誇張を含み、裏付けなし。ゴルフ区間は明示どおり金銭賭博として扱わず、独自ルールを一般ルールにしない。人物・施設・素材権利はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9660,
+        9705
+      ],
+      "observed": "sheet108後半。ゴルフ場実写に黄色大型字幕で特定馬の単勝50万円を示し、東京競馬場の中継映像へ切り替える。下部に『単勝500,000円（12. リバティアイランド）』、右側に出走表、右下に屋外の本人たちの反応PIPを置く。",
+      "limits": "50万円は画面上の買い目表示で、購入証跡、オッズ、着順、的中、払戻、純利益は未確認。競馬中継、出走表、施設映像の再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -774,6 +863,20 @@
       "nominal_grid_s": [
         7560,
         8625
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        97,
+        108
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        8640,
+        9705
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false

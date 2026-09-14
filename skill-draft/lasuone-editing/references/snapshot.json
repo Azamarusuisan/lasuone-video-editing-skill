@@ -34,10 +34,10 @@
         "direct_audio_review": false
       },
       "Z53j2cRj1C8": {
-        "reviewed_grid_frames": 576,
+        "reviewed_grid_frames": 648,
         "total_grid_frames": 1059,
-        "reviewed_nominal_grid_s": [0, 8625],
-        "next_sheet": 97,
+        "reviewed_nominal_grid_s": [0, 9705],
+        "next_sheet": 109,
         "timestamp_uncertainty_s": 7.5,
         "continuous_visual_review": false,
         "direct_audio_review": false
