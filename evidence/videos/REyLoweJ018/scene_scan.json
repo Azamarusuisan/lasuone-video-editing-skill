@@ -1,0 +1,101 @@
+{
+  "video_id": "REyLoweJ018",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    72.37
+  ],
+  "source_duration_s": 72.37,
+  "candidate_count": 21,
+  "candidates": [
+    {
+      "time_s": 2.433,
+      "score": 0.470994
+    },
+    {
+      "time_s": 4.333,
+      "score": 0.354374
+    },
+    {
+      "time_s": 7.233,
+      "score": 0.449747
+    },
+    {
+      "time_s": 8.6,
+      "score": 0.356281
+    },
+    {
+      "time_s": 15.333,
+      "score": 0.38796
+    },
+    {
+      "time_s": 19.533,
+      "score": 0.244853
+    },
+    {
+      "time_s": 21.7,
+      "score": 0.235016
+    },
+    {
+      "time_s": 24.667,
+      "score": 0.255025
+    },
+    {
+      "time_s": 32.6,
+      "score": 0.41235
+    },
+    {
+      "time_s": 38.167,
+      "score": 0.334064
+    },
+    {
+      "time_s": 40.633,
+      "score": 0.255007
+    },
+    {
+      "time_s": 41.533,
+      "score": 0.182382
+    },
+    {
+      "time_s": 43.5,
+      "score": 0.540388
+    },
+    {
+      "time_s": 45.633,
+      "score": 0.551109
+    },
+    {
+      "time_s": 47.2,
+      "score": 0.228879
+    },
+    {
+      "time_s": 49.8,
+      "score": 0.385968
+    },
+    {
+      "time_s": 58.233,
+      "score": 0.417141
+    },
+    {
+      "time_s": 62.1,
+      "score": 0.338467
+    },
+    {
+      "time_s": 62.133,
+      "score": 0.264704
+    },
+    {
+      "time_s": 66.033,
+      "score": 0.53863
+    },
+    {
+      "time_s": 69.8,
+      "score": 0.528474
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

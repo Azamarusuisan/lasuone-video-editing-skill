@@ -3,7 +3,7 @@
   "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
   "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
   "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
-  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "compiled_at": "2026-09-14T11:31:34.991Z",
   "full_watch_completed_count": 0,
   "definitions": "Download / machine scan / ASR / static samples / continuous audiovisual review are different states. No video is certified fully watched yet.",
   "videos": [
@@ -549,11 +549,17 @@
         }
       ],
       "asr_quality": null,
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/-L-J8DqwMZk/overview_pts/review.json",
+        "frame_count": 144,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "MyVnNIgfBS8",
@@ -861,11 +867,17 @@
         }
       ],
       "asr_quality": null,
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/AqcEeAHJo8c/overview_pts/review.json",
+        "frame_count": 162,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "oJy-n3DqK98",
@@ -971,11 +983,17 @@
         }
       ],
       "asr_quality": null,
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/qqoMZgLkcdI/overview_pts/review.json",
+        "frame_count": 168,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "Q1ydGCm90R8",
@@ -997,11 +1015,17 @@
         }
       ],
       "asr_quality": null,
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/Q1ydGCm90R8/overview_pts/review.json",
+        "frame_count": 199,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "EgH5b_ea6U8",
@@ -1023,11 +1047,17 @@
         }
       ],
       "asr_quality": null,
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/EgH5b_ea6U8/overview_pts/review.json",
+        "frame_count": 139,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "PDRNAq7RNvc",
@@ -1309,7 +1339,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1335,7 +1365,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1489,7 +1519,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": true,
       "subtitle_sample_count": 4,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1515,7 +1545,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1541,7 +1571,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1567,7 +1597,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1593,7 +1623,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1619,7 +1649,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1709,7 +1739,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1724,11 +1754,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/HTmeybHIr94/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/HTmeybHIr94/overview_pts/review.json",
+        "frame_count": 20,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "CEf_sKZk6d8",
@@ -1767,7 +1803,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1796,7 +1832,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1889,7 +1925,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1953,7 +1989,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -1982,7 +2018,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2011,7 +2047,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2040,7 +2076,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2069,7 +2105,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2098,7 +2134,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2127,7 +2163,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2156,7 +2192,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2185,7 +2221,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": true,
       "subtitle_sample_count": 4,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2214,7 +2250,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2243,7 +2279,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2272,7 +2308,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2301,7 +2337,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2316,11 +2352,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/tNZXZonoJGU/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/tNZXZonoJGU/overview_pts/review.json",
+        "frame_count": 15,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "fhaGsz7fjho",
@@ -2330,7 +2372,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2359,7 +2401,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2388,7 +2430,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2417,7 +2459,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2446,7 +2488,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2475,7 +2517,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2504,7 +2546,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2533,7 +2575,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": true,
       "subtitle_sample_count": 4,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2562,7 +2604,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2591,7 +2633,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2606,11 +2648,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/XasqLYz2aKs/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/XasqLYz2aKs/overview_pts/review.json",
+        "frame_count": 20,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "CiSVtr20PMg",
@@ -2620,7 +2668,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2649,7 +2697,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2678,7 +2726,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2707,7 +2755,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2736,7 +2784,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2765,7 +2813,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2794,7 +2842,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2823,7 +2871,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2852,7 +2900,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2881,7 +2929,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2910,7 +2958,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2939,7 +2987,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2968,7 +3016,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -2983,11 +3031,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/bKFFro3UTsw/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/bKFFro3UTsw/overview_pts/review.json",
+        "frame_count": 23,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "ejj5vM8OgUA",
@@ -2997,7 +3051,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3026,7 +3080,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3055,7 +3109,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3084,7 +3138,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3113,7 +3167,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3142,7 +3196,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3171,7 +3225,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3200,7 +3254,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3229,7 +3283,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3258,7 +3312,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3287,7 +3341,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3316,7 +3370,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3345,7 +3399,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3374,7 +3428,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3403,7 +3457,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3432,7 +3486,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3461,7 +3515,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3490,7 +3544,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3519,7 +3573,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3548,7 +3602,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3563,11 +3617,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/Yq7hgMXoR94/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/Yq7hgMXoR94/overview_pts/review.json",
+        "frame_count": 21,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "WXGif4L0otU",
@@ -3577,7 +3637,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3606,7 +3666,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3635,7 +3695,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3664,7 +3724,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3693,7 +3753,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3722,7 +3782,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3751,7 +3811,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3780,7 +3840,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3809,7 +3869,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3838,7 +3898,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3867,7 +3927,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3896,7 +3956,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3925,7 +3985,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3954,7 +4014,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -3983,7 +4043,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4012,7 +4072,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4041,7 +4101,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4070,7 +4130,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4118,7 +4178,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4147,7 +4207,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4176,7 +4236,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4205,7 +4265,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4234,7 +4294,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4263,7 +4323,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4292,7 +4352,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4321,7 +4381,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4350,7 +4410,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4379,7 +4439,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4408,7 +4468,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4437,7 +4497,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4466,7 +4526,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4495,7 +4555,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4510,11 +4570,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/3PrvwqvttLE/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/3PrvwqvttLE/overview_pts/review.json",
+        "frame_count": 21,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "epvlviW9NNA",
@@ -4524,7 +4590,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4553,7 +4619,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4582,7 +4648,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4611,7 +4677,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4640,7 +4706,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4655,11 +4721,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/C7xvfBEHBEU/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/C7xvfBEHBEU/overview_pts/review.json",
+        "frame_count": 21,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "REyLoweJ018",
@@ -4669,7 +4741,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4698,7 +4770,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4727,7 +4799,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4756,7 +4828,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4785,7 +4857,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4800,11 +4872,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/6uOOxo_wTMo/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/6uOOxo_wTMo/overview_pts/review.json",
+        "frame_count": 21,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "d7Az1N1rx68",
@@ -4814,7 +4892,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4843,7 +4921,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4872,7 +4950,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4887,11 +4965,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/CNeAQAOeqXE/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/CNeAQAOeqXE/overview_pts/review.json",
+        "frame_count": 27,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "3P16Kw9-nFc",
@@ -4901,7 +4985,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4916,11 +5000,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/3P16Kw9-nFc/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/3P16Kw9-nFc/overview_pts/review.json",
+        "frame_count": 28,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "if9xAVfnCOI",
@@ -4930,7 +5020,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4959,7 +5049,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -4988,7 +5078,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5017,7 +5107,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5046,7 +5136,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5075,7 +5165,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5090,11 +5180,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/8lmznnSBDeI/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/8lmznnSBDeI/overview_pts/review.json",
+        "frame_count": 21,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "e9c0LrnhMzU",
@@ -5104,7 +5200,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5133,7 +5229,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5162,7 +5258,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5191,7 +5287,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5220,7 +5316,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5235,11 +5331,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/-uW0A0oMN_0/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/-uW0A0oMN_0/overview_pts/review.json",
+        "frame_count": 25,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "G5EOVcN_bLM",
@@ -5249,7 +5351,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5278,7 +5380,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5307,7 +5409,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5322,11 +5424,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/0cnzjFXmhIs/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/0cnzjFXmhIs/overview_pts/review.json",
+        "frame_count": 23,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "7DuofPsONG4",
@@ -5336,7 +5444,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5351,11 +5459,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/7DuofPsONG4/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/7DuofPsONG4/overview_pts/review.json",
+        "frame_count": 28,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "zCfXR47tjvs",
@@ -5365,7 +5479,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [
@@ -5394,7 +5508,7 @@
       "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
       "static_capture": false,
       "subtitle_sample_count": 0,
-      "full_stream_scene_scan": false,
+      "full_stream_scene_scan": true,
       "full_stream_audio_measurement": true,
       "full_asr": true,
       "asr_candidates": [

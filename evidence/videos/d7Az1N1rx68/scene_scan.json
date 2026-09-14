@@ -1,0 +1,37 @@
+{
+  "video_id": "d7Az1N1rx68",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    30.45
+  ],
+  "source_duration_s": 30.45,
+  "candidate_count": 5,
+  "candidates": [
+    {
+      "time_s": 2.3,
+      "score": 0.206394
+    },
+    {
+      "time_s": 6.733,
+      "score": 0.484496
+    },
+    {
+      "time_s": 8.767,
+      "score": 0.517271
+    },
+    {
+      "time_s": 11.267,
+      "score": 0.449134
+    },
+    {
+      "time_s": 13.633,
+      "score": 0.586781
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}
