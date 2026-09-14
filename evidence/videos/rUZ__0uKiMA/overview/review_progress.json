@@ -1,8 +1,8 @@
 {
   "video_id": "rUZ__0uKiMA",
   "reference_video": "https://www.youtube.com/watch?v=rUZ__0uKiMA",
-  "updated_at": "2026-09-14T03:12:03.000Z",
-  "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
+  "updated_at": "2026-09-14T03:15:18.000Z",
+  "status": "FULL_MANUAL_REVIEW_OF_OVERVIEW_GRID_COMPLETE",
   "capture": "capture.json",
   "total_overview_frames": 799,
   "reviewed_sheet_numbers": [
@@ -133,23 +133,29 @@
     125,
     126,
     127,
-    128
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    768
+    799
   ],
-  "reviewed_frame_count": 768,
+  "reviewed_frame_count": 799,
   "reviewed_nominal_grid_s": [
     0,
-    11505
+    11970
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
-  "whole_duration_sparse_review_complete": false,
-  "next_sheet": 129,
+  "whole_duration_sparse_review_complete": true,
+  "next_sheet": null,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -970,6 +976,50 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11520,
+        11775
+      ],
+      "observed": "sheet129〜131。配偶者との食事会話を継続し、ビジネスや異性関係、従業員との距離、贈り物、返済について白/ピンクの通常字幕と大きい白い『ラスワンメモ』で要約する。11685は本人が紙を取り出す動作に赤い曲線/矢印を加え、以降は紙面を見ながら会話する。",
+      "limits": "第三者を含む私生活・雇用関係の主張は会話内の未検証発言で、事実認定や人物評価として拡散しない。発言者の意図、合意、紙の内容、字幕の正確な同期は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11790,
+        11865
+      ],
+      "observed": "sheet132。食卓実写の右側へ『誓約書』風の番号付き文書を大きく重ね、本人と配偶者が同じ紙を確認する。前後は通常の会話画面へ戻り、書面を話題の証拠物として一時可視化する構成。",
+      "limits": "画面上の文書は演出内資料で、署名、当事者の合意、法的有効性、履行、完全な文面は確認していない。契約書テンプレートとして転用しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11880,
+        11955
+      ],
+      "observed": "sheet133。食事と会話を続けた後、11910に白箱黒字の『昼食が終了』を置く。以後も片付け/短い会話を残し、終了カード直前まで同じ店内実写が続くサンプル列。",
+      "limits": "表示時点が会話全体の終了や退店の正確な境界とは限らない。字幕なしの点を無言とせず、音とカット境界は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11970,
+        11970
+      ],
+      "observed": "sheet134の最終1画像。水色背景のカジノ風イラストと本人の小ワイプを左側へまとめ、『ご視聴ありがとうございました』『チャンネル登録&高評価お願いします』を白太字/黒縁で表示し、右側を黒く残した終了カード。",
+      "limits": "動画尺11978.57秒に対して最終公称サンプルは11970秒で、最後の約8.57秒はグリッド画像がない。カードの実保持尺、動き、音、終了フレームは未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLE",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -1068,6 +1118,20 @@
       "nominal_grid_s": [
         10440,
         11505
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        129,
+        134
+      ],
+      "frame_count": 31,
+      "nominal_grid_s": [
+        11520,
+        11970
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false

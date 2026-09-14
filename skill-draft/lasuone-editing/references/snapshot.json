@@ -24,10 +24,11 @@
         "direct_audio_review": false
       },
       "rUZ__0uKiMA": {
-        "reviewed_grid_frames": 768,
+        "reviewed_grid_frames": 799,
         "total_grid_frames": 799,
-        "reviewed_nominal_grid_s": [0, 11505],
-        "next_sheet": 129,
+        "reviewed_nominal_grid_s": [0, 11970],
+        "next_sheet": null,
+        "last_approximately_8_57_s_unsampled": true,
         "timestamp_uncertainty_s": 7.5,
         "continuous_visual_review": false,
         "direct_audio_review": false
