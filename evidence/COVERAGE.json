@@ -3,7 +3,7 @@
   "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
   "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
   "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
-  "compiled_at": "2026-09-14T11:31:34.991Z",
+  "compiled_at": "2026-09-14T11:49:16.170Z",
   "full_watch_completed_count": 0,
   "definitions": "Download / machine scan / ASR / static samples / continuous audiovisual review are different states. No video is certified fully watched yet.",
   "videos": [
@@ -4087,11 +4087,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/6mD9b7SUJVs/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/6mD9b7SUJVs/overview_pts/review.json",
+        "frame_count": 40,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "lNKbg1iE94M",
@@ -4251,11 +4257,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/T1EBJvuOnE4/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/T1EBJvuOnE4/overview_pts/review.json",
+        "frame_count": 36,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "Nt5TW3RXSQ4",
@@ -4280,11 +4292,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/Nt5TW3RXSQ4/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/Nt5TW3RXSQ4/overview_pts/review.json",
+        "frame_count": 30,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "8jTReloNM8w",
@@ -4309,11 +4327,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/8jTReloNM8w/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/8jTReloNM8w/overview_pts/review.json",
+        "frame_count": 30,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "r6ZN_sSMlVw",
@@ -4483,11 +4507,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/0ZcwYMVcifU/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/0ZcwYMVcifU/overview_pts/review.json",
+        "frame_count": 33,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "1F6NQeQnMIQ",
@@ -4512,11 +4542,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/1F6NQeQnMIQ/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/1F6NQeQnMIQ/overview_pts/review.json",
+        "frame_count": 34,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "1UgjxM_LwCA",
@@ -4541,11 +4577,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/1UgjxM_LwCA/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/1UgjxM_LwCA/overview_pts/review.json",
+        "frame_count": 36,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "3PrvwqvttLE",
@@ -4692,11 +4734,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/5fxdOYJbNlA/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/5fxdOYJbNlA/overview_pts/review.json",
+        "frame_count": 29,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "C7xvfBEHBEU",
@@ -5366,11 +5414,17 @@
         "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
         "evidence": "evidence/videos/G5EOVcN_bLM/full_audio_asr_quality.json"
       },
-      "whole_duration_sparse_review": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/G5EOVcN_bLM/overview_pts/review.json",
+        "frame_count": 29,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
       "selected_points_review": null,
       "full_manual_visual_review": false,
       "full_manual_listening": false,
-      "style_review_status": "NOT_REVIEWED"
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
     },
     {
       "video_id": "v_Gn5pAp17E",
