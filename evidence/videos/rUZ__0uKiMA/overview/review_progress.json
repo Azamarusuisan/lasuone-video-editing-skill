@@ -1,7 +1,7 @@
 {
   "video_id": "rUZ__0uKiMA",
   "reference_video": "https://www.youtube.com/watch?v=rUZ__0uKiMA",
-  "updated_at": "2026-09-14T01:42:21.168Z",
+  "updated_at": "2026-09-14T02:56:40.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 799,
@@ -85,23 +85,35 @@
     77,
     78,
     79,
-    80
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    480
+    552
   ],
-  "reviewed_frame_count": 480,
+  "reviewed_frame_count": 552,
   "reviewed_nominal_grid_s": [
     0,
-    7185
+    8265
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 81,
+  "next_sheet": 93,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -709,8 +721,63 @@
         7185
       ],
       "observed": "sheet80末。昼の移動車内で前夜からの経緯を述べる通常字幕→空港内の本人。競艇の最終結果を回収した後、次の渡航/カジノの話題へ進むサンプル順。",
-      "limits": "撮影日時、実際の経過時間、次の場所はここだけで確定しない。次はsheet81から未確認。",
+      "limits": "撮影日時、実際の経過時間、次の場所はここだけで確定しない。",
       "reviewer": "Codex/Astra",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7200,
+        7275
+      ],
+      "observed": "sheet81。空港内の移動から送迎車内へ。7200〜7260の5点は隅ロゴ以外の追加字幕なし、7275だけ白い太明朝系で『いつもと違うターミナルで大慌て』と状況を要約する。移動中の会話/反応を全発話字幕にはしていないサンプル列。",
+      "limits": "実際に無言だったとは限らず、字幕のない発話を含むかは音声未聴取。75秒を連続保持尺や字幕表示率に換算しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7290,
+        7545
+      ],
+      "observed": "sheet82〜84。車内→7320の空港実写に白箱黒字の場所カード『韓国到着』→送迎車内の長い説明。7365は質問をピンク、7380/7455/7485は白い通常字幕、7440は白黒の大型強調に赤い『24』を混ぜる。間の多数の点は隅ロゴのみで、要点・質問・強調を選択的に分ける。",
+      "limits": "字幕の話者、7440の文言全体・赤数字の意味、発話に対する字幕採用率は音声未聴取。韓国到着カードの入退場と送迎車への正確な境界も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7560,
+        7905
+      ],
+      "observed": "sheet85〜88。車内説明から施設ロビー/LED展示/ウォーターパーク/ジムへ案内する内覧。7620〜7665は周囲の人物や表示へ大きい追従ぼかし、7680は説明対象の小PIP＋中央の人物ぼかし＋下部字幕を併用。7755は施設スタッフの連絡案内カードと上部の注意書き、7830は施設名・休業期間・再開予定を青/白/黄で階層化した情報カード、7860は白箱黒字の短い設備名『ジム』。",
+      "limits": "連絡先番号はプライバシー/鮮度確認対象として本文へ転記しない。画面で公開されていても制作物への再掲許可とはみなさない。ぼかし対象の同意状況、PIP素材の出所、施設情報の現在性、広告契約はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7920,
+        7995
+      ],
+      "observed": "sheet89。車内→施設前で、7935は白い状況説明＋緑の人物/目的強調を2行で表示。7950に赤ネオン/暗背景の『ギャンブル魂』タイトルカードを挟み、以降は別の屋内ロケへ移る。rUZ内で7155の炎/火の粉カードと異なる番組ブリッジが併存する。",
+      "limits": "7935の人物関係や目的は画面記載以上に拡張しない。7950を章境界とする正確な前後フレーム、遷移尺、SE、R9の同名カードとの素材同一性は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8010,
+        8265
+      ],
+      "observed": "sheet90〜92。施設内の飲食店紹介から3人の着席説明へ。8085/8100は『ジャンケット』の見出し＋複数文、8175/8220/8235/8265は『ジャンケットサービスその1〜4』を青い連番見出し・黄枠白パネル・黒本文・赤/緑の要点で段階提示する。8115/8130は人物近くの小さい白文字による名前紹介、8190は丸い顔写真PIP＋電話アイコン＋大きい白質問字幕、8250は通常画へ白い大型明朝系の要約を重ねる。",
+      "limits": "サービス内容・人物名・連絡方法は公開画面の観察で、現在の提供条件や事実性を保証しない。広告/提携/取材の契約関係、施設・店舗・連絡先の再利用権はUNKNOWN。4枚を独立4動画の傾向として数えない。",
+      "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
@@ -755,6 +822,20 @@
       "nominal_grid_s": [
         5760,
         7185
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        81,
+        92
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        7200,
+        8265
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
