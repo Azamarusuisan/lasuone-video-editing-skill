@@ -23,7 +23,7 @@ assert.equal(snapshot.learning.coverage_compiled_at,coverage.compiled_at);
 assert.equal(coverage.videos.length,189);
 assert.equal(new Set(coverage.videos.map(v=>v.video_id)).size,189);
 assert.equal(coverage.full_watch_completed_count,snapshot.learning.full_length_reviewed_video_count);
-for(const id of ['R9yghVLgI4s','rUZ__0uKiMA','Z53j2cRj1C8']){
+for(const id of ['R9yghVLgI4s','rUZ__0uKiMA','Z53j2cRj1C8','N2ecdYXYaXw']){
   const dir='evidence/videos/'+id+'/overview/',review=read(dir+'review_progress.json'),capture=read(dir+'capture.json');
   const saved=snapshot.learning.review_progress_auxiliary[id];
   assert.equal(capture.frames.length,review.total_overview_frames);

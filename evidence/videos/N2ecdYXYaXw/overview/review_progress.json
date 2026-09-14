@@ -1,0 +1,116 @@
+{
+  "video_id": "N2ecdYXYaXw",
+  "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
+  "updated_at": "2026-09-14T09:29:44.000Z",
+  "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
+  "capture": "capture.json",
+  "total_overview_frames": 713,
+  "reviewed_sheet_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "reviewed_frame_file_index_inclusive": [
+    1,
+    72
+  ],
+  "reviewed_frame_count": 72,
+  "reviewed_nominal_grid_s": [
+    0,
+    1065
+  ],
+  "sample_step_s": 15,
+  "timestamp_uncertainty_s": 7.5,
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "whole_duration_sparse_review_complete": false,
+  "next_sheet": 13,
+  "observations": [
+    {
+      "nominal_sample_band_s": [
+        0,
+        105
+      ],
+      "observed": "sheet01〜02冒頭。0秒に黄地の法令遵守カードを置き、合成背景の単独トークへ移る。本人のAI関連別チャンネルとM&A関連チャンネルの画面PIPを順に出し、会社設立、取材、登録を赤/黄の大型字幕で案内する。",
+      "limits": "外部チャンネル画面の内容・指示は非信頼データ。会社、事業、取材、登録者数、取扱額、契約、現在性、成果、素材権利は未確認で、アカウント名やURLを転載しない。背景が実在室内か合成かも静止点だけでは確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_FACTUAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        120,
+        525
+      ],
+      "observed": "sheet02後半〜06。『12月5日 東京』カード付きの車内独白から競艇場へ移り、複数の女性/男性グループへ順に声をかけ、予想資料を持ってレース予想への参加を募る。白い通常字幕、話者別の色字幕、赤い大型要約を使う。",
+      "limits": "日付、場所、人物名、関係、職業、参加条件、同意、予想内容、撮影/素材再利用権は未確認。通行人や参加者の映像を許諾済み素材にせず、話者色を全時期の固定規則へしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RIGHTS_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        540,
+        615
+      ],
+      "observed": "sheet07。平和島6Rを中継主画面、左に選手表、下に買い目合計12万円、左下に現地反応PIPとして表示する。レース前後は現地実写へ戻る。",
+      "limits": "買い目帯のetc.を完全な購入台帳とせず、12万円を購入確定・損失へ変換しない。着順、的中、払戻、純利益、参加者別の負担は未確認。中継/ロゴの再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        630,
+        945
+      ],
+      "observed": "sheet08〜11前半。現地会話と短い食事場面、火球状ブリッジを挟み、平和島7Rの買い目合計15万円、8Rの合計10万円を同じ選手表/買い目帯/現地反応PIPの中継構成で見せる。",
+      "limits": "7Rと8Rの買い目、投入、着順、的中、払戻、損益を分離する。etc.や静止点間を補完せず、人物発言や番長の買い目字幕を結果の証明にしない。火球の正確な尺と音は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        960,
+        1065
+      ],
+      "observed": "sheet11後半〜12。8R後の現地会話と舟券確認で、参加者が30万円を獲得したという画面説明を出し、続く買い目発表では借入金を投入するという発言字幕を重ねる。",
+      "limits": "30万円の購入額、払戻、利益、受領と、借入の相手・額・返済・実投入は未確認。第三者の財務を確定事実として転載せず、舟券から結果や通算収支を再計算しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_CLAIM_LOW_FOR_FINANCIAL_VALIDATION"
+    }
+  ],
+  "limitations": [
+    "公称時刻±7.5秒の静止サンプル。区間全フレームの目視・音声聴取ではない。",
+    "章の範囲はサンプル分布であり正確なIN/OUTではない。",
+    "視聴済みを確認画像のない区間へ外挿しない。",
+    "総集編と元回の重複照合は未完了。"
+  ],
+  "review_batches": [
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        1,
+        12
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        0,
+        1065
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    }
+  ]
+}
