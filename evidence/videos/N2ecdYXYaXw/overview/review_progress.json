@@ -1,7 +1,7 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T09:40:17.000Z",
+  "updated_at": "2026-09-14T09:50:00.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 713,
@@ -29,23 +29,35 @@
     21,
     22,
     23,
-    24
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    144
+    216
   ],
-  "reviewed_frame_count": 144,
+  "reviewed_frame_count": 216,
   "reviewed_nominal_grid_s": [
     0,
-    2145
+    3225
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 25,
+  "next_sheet": 37,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -167,6 +179,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_HUD_LOW_FOR_FINANCIAL_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        2160,
+        2265
+      ],
+      "observed": "sheet25〜26前半。約5万円ベット局でBanker 3・4＝7対Player 9・Q＝9と『ナチュラル9で勝利』を表示し、続いて約7万円ベット局のカード進行を同じ右下HUDで見せる。",
+      "limits": "約5万円局の賭け先、実投入、配当、受領、残高は未確認。約7万円局の最終カード、勝敗、払戻、損益を静止点間から補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_HUD_LOW_FOR_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        2280,
+        2355
+      ],
+      "observed": "sheet26後半〜27前半。夜の街頭で『AIに罫線を読ませた結果…』という大型白字幕と2,000ドルをポーカーに使うという発言字幕を置き、会場へ戻ってポーカーツアー関係者とサービスを紹介する。",
+      "limits": "AIの方式、入力、精度、成果と、2,000ドルの原資、実投入、両替、残高は未確認。人物の役職、組織、提供サービス、提携、権利は画面字幕だけで確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_CLAIM_LOW_FOR_TECHNICAL_AND_FINANCIAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        2370,
+        2535
+      ],
+      "observed": "sheet27後半〜29前半。ポーカー卓で本人写真付きHUDを左下、匿名の相手欄を左上、Pot/Blindsを右下に置く。QQのWIN表示、AKのALL-IN 106.4K対99 CALL/Pot 215.8K、6♣2♣のRAISE/BET、10♠10♣対相手ALL-IN 16.5Kを順に見せる。直前に『昨日と一緒で9万円出し』という発言字幕がある。",
+      "limits": "9万円の用途・通貨・参加費・バイインは未確認。各局の完全なアクション、ボード、役、最終勝者、点数推移、賞金、損益を別に検証し、黒地の『しかし』から前局の結果を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_HUD_LOW_FOR_HAND_COMPLETENESS_AND_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        2550,
+        2625
+      ],
+      "observed": "sheet29後半〜30。黒地の『しかし』から夜のカラオケへ移り、複数人の乾杯と歌唱を見せた後、火球状ブリッジで次章へ送る。",
+      "limits": "店舗、参加者、飲酒、出演条件、楽曲・音源・映像の権利は未確認。静止点だけで歌唱尺、楽曲、音量、転換音を特定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_AUDIO_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        2640,
+        3225
+      ],
+      "observed": "sheet30末〜36。モノクロの円形カード画像からヤニブの導入へ入り、『本日の動画』カード、左上の『悪魔のゲーム「ヤニブ」徹底解説』章ラベルを経て、紫卓でルール例を実演する。Joker、手札合計、複数枚捨て、宣言後の最終行動などを白/灰の説明パネルとカード画像で示し、後半は別のラウンジ卓へ移って複数人で実戦し、灰色の『ヤニブポイント』帯で戦略上の注意を重ねる。",
+      "limits": "動画内説明を公式ルールへ昇格しない。人数、開始枚数、点数閾値、Joker、宣言、勝敗、精算はゲーム版・ハウスルールごとに検証する。人物名、団体名、店舗、出演条件、カード画像/ロゴの権利は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_TUTORIAL_FORMAT_LOW_FOR_RULES_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -200,6 +267,20 @@
       "nominal_grid_s": [
         1080,
         2145
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        25,
+        36
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        2160,
+        3225
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
