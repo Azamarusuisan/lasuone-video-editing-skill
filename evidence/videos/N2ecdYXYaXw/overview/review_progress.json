@@ -1,7 +1,7 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T09:29:44.000Z",
+  "updated_at": "2026-09-14T09:40:17.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 713,
@@ -17,23 +17,35 @@
     9,
     10,
     11,
-    12
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    72
+    144
   ],
-  "reviewed_frame_count": 72,
+  "reviewed_frame_count": 144,
   "reviewed_nominal_grid_s": [
     0,
-    1065
+    2145
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 13,
+  "next_sheet": 25,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -89,6 +101,72 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_CLAIM_LOW_FOR_FINANCIAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1080,
+        1155
+      ],
+      "observed": "sheet13。転覆した艇と現地参加者の報告を見せ、黒地カードと屋外独白で競艇から競馬へ企画を切り替える。",
+      "limits": "事故の原因、選手の状態、レース結果、返還、損失、参加者別の成績は未確認。字幕の強い表現を事実認定や安全評価へ使わない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_TRANSITION_LOW_FOR_EVENT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1170,
+        1425
+      ],
+      "observed": "sheet14〜16。複数参加者が各自の馬券を購入する現地実写から競馬中継へ移る。中継は左に12頭の一覧、下に買い目、左下に現地反応PIPを置き、画面上の買い目合計を14万5,000円と表示する。",
+      "limits": "馬券画像の全項目、購入者、購入総額、着順、的中、払戻、損益は未確認。中継画面とロゴの再利用権はUNKNOWNで、競艇用レイアウトと同一テンプレートだと断定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_SETTLEMENT_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        1440,
+        1515
+      ],
+      "observed": "sheet17。競馬後の屋外飲食と参加者の会話を残し、夜の車内へ移る。食事中には集中が切れたという編集者側の白い要約字幕が出る。",
+      "limits": "会話の全内容、誰の評価か、競馬の最終精算、車内への正確な転換時刻は未確認。静止点だけで尺や間の意図を確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_EDITING_INTENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        1530,
+        1680
+      ],
+      "observed": "sheet18〜19。夜の車内で通話する本人を長く見せ、白い波括弧付き状況字幕で『ギャンブル依存症について相談中』と表示する。通話相手と見られる発話は緑字幕、本人の発話は白字幕で表すサンプルがある。",
+      "limits": "直接音声未聴取。字幕は番組上の説明であり、本人または第三者の診断、治療、相談機関、通話相手の身元・同意を証明しない。健康情報として転載・一般化しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LABEL_LOW_FOR_MEDICAL_OR_IDENTITY_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1695,
+        1965
+      ],
+      "observed": "sheet19末〜22。火球状ブリッジ後に夜の街頭へ移り、ダナンのポーカーツアー会場を紹介する。翌日のスクーター移動、車内独白、同行者との会場到着を続け、会場内では初日に10万円を出したという発言字幕が見える。",
+      "limits": "開催者、提携、参加資格、日付、場所、参加費、両替、結果、10万円の用途・通貨・精算は未確認。同行者の身元・出演条件・撮影権利も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_EVENT_AND_FINANCIAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1980,
+        2145
+      ],
+      "observed": "sheet23〜24。会場前で『20万から500万にしました』という大型黄字幕を出した後、16人席の大きなバカラ卓へ入る。約7万円ベットの表示、Banker 7・7＝4対Player 4・5＝9と『ナチュラル9で勝利』のHUD、続く約5万円ベット表示を順に見せる。HUDは右下の黄/赤枠カード欄と上部の赤い概算ベット字幕で構成する。",
+      "limits": "20万/500万の通貨、元金、期間、利益、残高は未確認。約7万円局の賭け先、実投入、配当、受領、残高と、約5万円局のカード・勝敗・精算を分離する。画面結果から通算収支を再計算しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_HUD_LOW_FOR_FINANCIAL_SETTLEMENT"
     }
   ],
   "limitations": [
@@ -108,6 +186,20 @@
       "nominal_grid_s": [
         0,
         1065
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        13,
+        24
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        1080,
+        2145
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
