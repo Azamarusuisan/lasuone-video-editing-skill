@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T03:37:42.000Z",
+  "updated_at": "2026-09-14T03:43:33.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -41,23 +41,35 @@
     33,
     34,
     35,
-    36
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    216
+    288
   ],
-  "reviewed_frame_count": 216,
+  "reviewed_frame_count": 288,
   "reviewed_nominal_grid_s": [
     0,
-    3225
+    4305
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 37,
+  "next_sheet": 49,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -267,6 +279,72 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        3240,
+        3405
+      ],
+      "observed": "sheet37〜38。熊本の施設内トークから、家族写真にチャンネル登録/高評価CTAを重ねたカード、白箱『息子との休日』を伴う水上レジャーへ移る。その後はコンビニ外壁前で本人の長い単独トークを続ける。",
+      "limits": "家族、とくに未成年者の画像はプライバシーと再利用許可を個別確認する。施設、休日、店舗前トークの正確な章境界と音は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        3420,
+        3585
+      ],
+      "observed": "sheet39〜40。店舗前トークで遊技機の不正改造を示唆する青い大型注釈を一例だけ出した後、店舗外観、白箱『早速台選び』、機種情報カード、本人PIP付きの遊技機画面へ進む。投資額1万円の表示後、黒画面白字『全然当たらず』を挟む。",
+      "limits": "不正改造に関する発言は裏付けのない会話/注釈で、事実や操作手順として再掲しない。店舗、機種、導入日、確率等は撮影時点の画面情報。1万円を後続の本人/カメラマン投資や収支と自動合算しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        3600,
+        3765
+      ],
+      "observed": "sheet41〜42。本人の店内トーク、大きい白字幕『カメラマンにも打たせる戦略』、残額2,500円の白字幕を経て、上部にカメラマン名を付けた別台の遊技画面へ移る。途中で大きい白字幕『知らないうちに4万円投入してた』と右下の投資額4万円を表示する。",
+      "limits": "2,500円が予算・残高・現金のどれか、4万円が追加額か累計額かは未確認。本人分とカメラマン分、投入、回収、損失を分離し、疎静止点から精算しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        3780,
+        4035
+      ],
+      "observed": "sheet43〜45。本人PIPと右下の投資額4万円を保持し、黄色の『確変突入』、1連から5連まで更新する『大当たり』表示、遊技機の演出を見せる。4035では店外の本人へ戻る。",
+      "limits": "連数は画面上の局所状態で、出玉、換金、回収額、純利益を意味しない。投資額4万円が誰のどの範囲の累計かは前区間と合わせても未確定。映像・機種IP・店舗の素材権利はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        4050,
+        4215
+      ],
+      "observed": "sheet46〜47。店外トークから室内の本人トークへ移り、過去動画らしき小さなサムネイル、競艇企画への評価、一日10万円で競艇に賭けるという大型白字幕を順に表示する。その後はオンライン投票画面を主画面、本人を右下に置き、買い目帯の合計98,000円まで示す。",
+      "limits": "室内背景が実景か合成か、過去動画の同一性、評価の根拠は未確認。一日10万円は企画説明、98,000円は画面上の買い目合計として分け、購入確定、追加額、払戻、収支を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        4230,
+        4305
+      ],
+      "observed": "sheet48。福岡12Rの中継を主画面、右に選手表、下に本人の買い目合計98,000円、右下に本人反応を置く。レース中は左下に小さい別映像、右下寄りに3者の予想カードを追加し、最後は室内トークへ戻して大きい白字幕で継続意思を要約する。",
+      "limits": "本人と3者の買い目を混同せず、中継の着順、的中、払戻、純利益、企画通算を静止点から確定しない。中継、選手表、第三者画像、ロゴの再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -314,6 +392,20 @@
       "nominal_grid_s": [
         2160,
         3225
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        37,
+        48
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        3240,
+        4305
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
