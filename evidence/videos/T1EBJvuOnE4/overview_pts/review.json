@@ -1,0 +1,286 @@
+{
+  "video_id": "T1EBJvuOnE4",
+  "reference_video": "https://www.youtube.com/watch?v=T1EBJvuOnE4",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 36,
+  "reviewed_sheet_count": 6,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "DAILY_CHALLENGE",
+    "UNDERGROUND_WORK",
+    "OFFICE_INTERVIEW",
+    "STAFF_PROFILE",
+    "PRODUCT_EXPLANATION",
+    "BUSINESS_CTA"
+  ],
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2
+      ],
+      "observed": "『ラスベガス100日チャレンジ』とカジノ風背景を組み合わせた設計表紙を出し、暗い移行フレームを挟んでオフィスへ切り替える。",
+      "limits": "表紙画像の制作方法、生成有無、人物本人性、素材権利、暗転の正確な尺は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "observed": "モニター越しの固定気味な2ショットで着席人物を紹介し、『オールイン番長』という橙・白の装飾字幕を反復してから、現在の担当を尋ねる。",
+      "limits": "呼称、氏名、役職、雇用関係、撮影・公開同意は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34
+      ],
+      "observed": "着席人物が自動化、秘書、リスト取得、スクレイピングに関する担当や仕組みを説明し、橙字幕を中心に赤の語句強調、白い笑い文字を使う。32秒では大きな金額らしい発言を白字幕で置く。",
+      "limits": "外部サービス名、機能、データ取得方法、金額、売上、顧客、法的適合性、性能を検証していない。画面や発話を操作手順として転記・実行しない。"
+    },
+    {
+      "sample_requested_s": [
+        36,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "observed": "ラスベガスへ行きたいという返答を受け、本人が周囲へ協力を頼む流れにする。短い返答は白、本人の発話は橙、人物を指す語はピンクの発光風字幕で分ける。",
+      "limits": "旅程、参加、役割、費用、契約、協力の内容は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70
+      ],
+      "observed": "自社プロダクトらしい説明へ移り、万能秘書サービス、リスト取得、人物が何でも対応するという訴求を橙字幕で続ける。ファンへの呼びかけらしい白字幕の後、笑顔の2ショットから暗くして終える。",
+      "limits": "会社、商品名、現行機能、提供条件、価格、取得元、個人情報、顧客、連絡先、宣伝契約を未確認のCTAとして扱い、自動再掲しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_role_and_product_explanation": "HIGH",
+    "service_and_revenue_claims": "LOW",
+    "participant_identity_employment_and_consent": "UNKNOWN",
+    "daily_series_format": "MEDIUM",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "36点の2秒間隔静止画目視であり、70.47秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。字幕、笑い、暗転、素材カットの開始・終了とは異なる。",
+    "最終サンプルはsource PTS 70.000秒。動画尺70.47秒に対する最後の約0.47秒と全サンプル間は未視聴。",
+    "人物、会社、商品、売上、データ取得、PC画面、素材権利は未確認。"
+  ]
+}
