@@ -1,0 +1,229 @@
+{
+  "video_id": "CNeAQAOeqXE",
+  "reference_video": "https://www.youtube.com/watch?v=CNeAQAOeqXE",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 27,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "POKER_BROADCAST_RECUT",
+    "RIVER_ALL_IN",
+    "STACKED_HUD"
+  ],
+  "observations": [
+    {
+      "sample_requested_s": [
+        0
+      ],
+      "observed": "別撮りの本人が卓前で笑う寄りへ、黄緑系の短い人物評価を置く先行カット。"
+    },
+    {
+      "sample_requested_s": [
+        2,
+        4,
+        6,
+        8
+      ],
+      "observed": "外部ポーカー配信らしい卓映像を上部、二人の顔写真・KQ対AK・勝率とボード・Potを下部へ縦積みし、上端のオリーブ色帯に『脳汁全開の神引き！』を固定する。RAISE 60K、CALL 60K、Pot 185Kまで更新する。",
+      "limits": "人物名、手札、確率、アクション、Pot、配信元、大会を原配信・公式記録と照合していない。映像・ロゴ・HUDの再利用権はUNKNOWN。",
+      "rights_status": "UNKNOWN"
+    },
+    {
+      "sample_requested_s": [
+        10,
+        12,
+        14,
+        16,
+        18
+      ],
+      "observed": "J・10・4のフロップ表示後、本人側BET 30K、相手側CALL 30K、Pot 245Kへ更新する。上部配信映像では卓全体と両者の表情を見せる。",
+      "limits": "スート、位置、Blinds、スタック、全ベット履歴、役、戦略は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34
+      ],
+      "observed": "ターンにQを追加して勝率を5%対95%へ変更し、実況風の白・赤文字を上部映像へ一時重ねる。本人側BET 150K、相手側CALL 150K、Pot 545Kへ段階更新する。",
+      "limits": "実況内容、勝率計算、コール判断、Pot計算を一般的な戦略や完全な履歴として扱わない。"
+    },
+    {
+      "sample_requested_s": [
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52
+      ],
+      "observed": "リバーに7を追加し0%対100%を表示。本人側ALL-IN 1.4MとPot 2Mを経て、50秒以降は相手LOSE・本人WIN、Pot 1.2Mを表示し、本人と相手の反応へ短い実況字幕を重ねる。",
+      "limits": "Potが2Mから1.2Mへ変わる理由、実コール額、未コール分、サイドポット、賞金・精算は未確認。数値差を誤字と断定せず、最後の約0.87秒も推定しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_hand_result": "HIGH",
+    "complete_hand_history": "LOW",
+    "pot_reconciliation": "UNKNOWN",
+    "channel_wide_generalization": "LOW",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "27点の2秒間隔静止画目視であり、52.87秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。アクション、ボード、勝率、Pot、結果、実況字幕、反応の開始・終了とは異なる。",
+    "最終サンプルはsource PTS 52.000秒。動画尺52.87秒に対する最後の約0.87秒と全サンプル間は未視聴。",
+    "外部配信の人物、大会、全カード・アクション、Pot精算、賞金、戦略、映像・ロゴ・HUD権利は未確認。"
+  ]
+}
