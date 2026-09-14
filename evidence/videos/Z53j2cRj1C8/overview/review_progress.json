@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T03:19:51.000Z",
+  "updated_at": "2026-09-14T03:32:20.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -17,23 +17,35 @@
     9,
     10,
     11,
-    12
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    72
+    144
   ],
-  "reviewed_frame_count": 72,
+  "reviewed_frame_count": 144,
   "reviewed_nominal_grid_s": [
     0,
-    1065
+    2145
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 13,
+  "next_sheet": 25,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -100,6 +112,83 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1080,
+        1245
+      ],
+      "observed": "sheet13〜14。飲食店で本人と男性2名の会話を継続。白い通常字幕、青い発言字幕、大きい白要約を使い分け、1200頃はファンとの制作案、1215は別チャンネルの画面PIP＋赤い出演案、1245は青い『韓国ロケ決定』で企画案を着地させる。",
+      "limits": "出演・韓国ロケ・共同制作は会話内の企画案/決定表示で、撮影実施、契約、出演許可を保証しない。チャンネル画面、人物/団体情報、ロゴの再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1260,
+        1425
+      ],
+      "observed": "sheet15〜17。食事会話で株式買戻しによる資金作り、年間3,000万円の顧問契約復活などを本人/同席者が説明し、白/青字幕と白箱の問いで段階提示する。1395付近から企業提携・報酬方式の話へ進み、1425は黄枠白パネルの『ラスワン顧問制度』と連絡CTAで要約する。",
+      "limits": "株式、資金、契約額、報酬は画面上の自己申告/宣伝説明で、登記・契約書・入金の照合なし。先に受け取った額、年額、月額、利益連動額を別項目とし、足し引きしない。制度の現在性・適法性・募集条件・成果を保証せず、電話番号は本文へ転記しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1440,
+        1605
+      ],
+      "observed": "sheet17後半〜18。顧問制度の会話後に火球状ブリッジを挟み、人物を大きくぼかした短い回想風カット、白箱『知り合い限定会員制Barへ』、ソファでの本人、麻雀卓へ移る。",
+      "limits": "店名、会員条件、人物、撮影許可、ぼかし理由は未確認。火球の正確な遷移尺と音、回想か同日の素材か、麻雀の開始境界は静止点から確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1620,
+        1785
+      ],
+      "observed": "sheet19〜20。会員制バーの麻雀卓/会話から空港へ移る。1680は『当然お金は賭けてない』と白字幕で麻雀を非金銭ゲームとして説明。空港では馬券らしき紙を持つ本人の会話、着席、スマートフォン確認、建物外への移動をつなぐ。",
+      "limits": "麻雀牌・点棒・チップが写っても金銭賭博HUDを付けない。競艇の損失発言、麻雀、後続の競馬を別ゲーム/収支にする。空港で述べるオッズや金額の単位、券種、購入完了はこの範囲だけで確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1800,
+        1965
+      ],
+      "observed": "sheet21〜22。鹿児島の空港周辺で銅像との短いリアクション後、知人が運転する車内へ。赤/白の大型要約と店舗写真PIPで知人・飲食店を紹介し、続けて『SAKURAJIMA POKER CUP』の大会情報カードを表示。その後は車内で発走予定、東京12R、的中時の宿泊案を話す。",
+      "limits": "知人、店舗、ポーカー大会の日付・賞金・肩書は撮影時点の画面記載で、現在性や許諾を保証しない。大会賞金と本人の競馬資金/収支を混同しない。宿泊は的中時の企画案で実施済みとしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        1980,
+        2055
+      ],
+      "observed": "sheet23。競馬中継を主画面、左下に車内反応PIP、下段に『複勝 3 ウインダミア 100,000円 (3.6〜5.3)』の買い目帯として表示し、レース中は対象馬へ白い指アイコンを重ねる。終了後は車内全画面へ戻る。",
+      "limits": "10万円は当該買い目の表示額、3.6〜5.3はオッズ範囲。的中/不的中、払戻、純利益、当日の通算結果を疎サンプルから補完しない。中継映像・馬名/ロゴの再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        2070,
+        2145
+      ],
+      "observed": "sheet24。車内で大きい白字幕『次から泊まろ』を置いた後、赤/白の大型要約で応援するバスケットボールチームの開幕戦観戦を宣言。会場内の観客席、コート、フリースロー付近のプレー実写へ移る。",
+      "limits": "競馬結果と宿泊判断の因果、チームとの関係、試合結果、撮影/中継権は未確認。競馬・ポーカー・バスケットボールを独立した情報として扱う。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -119,6 +208,20 @@
       "nominal_grid_s": [
         0,
         1065
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        13,
+        24
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        1080,
+        2145
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false

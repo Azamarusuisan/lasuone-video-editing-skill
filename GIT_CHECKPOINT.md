@@ -8,7 +8,7 @@
 
 `evidence/COVERAGE.json`と草案の凍結集計は2026-09-14T01:45:19.180Z時点（映像解析57本）のまま整合している。上記のライブ値と集計時点を混ぜない。今回の保存では再集計や学習済み範囲の追加をしていない。
 
-R9は1101画像、rUZは799画像の全概要グリッドを確認済み。Z53は72/1059画像、公称0〜1065秒まで確認し、次の目視位置は`Z53j2cRj1C8/overview/sheet_13.jpg`。全編の連続映像・音声確認完了は0本、`production_ready=false`、CHANNEL_MATCHはNOT_EVALUATED。
+R9は1101画像、rUZは799画像の全概要グリッドを確認済み。Z53は144/1059画像、公称0〜2145秒まで確認し、次の目視位置は`Z53j2cRj1C8/overview/sheet_25.jpg`。全編の連続映像・音声確認完了は0本、`production_ready=false`、CHANNEL_MATCHはNOT_EVALUATED。
 
 既存チェックに加え、`node check-evidence.mjs`で次を照合する。
 
