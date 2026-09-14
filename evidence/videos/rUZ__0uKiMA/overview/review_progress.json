@@ -1,7 +1,7 @@
 {
   "video_id": "rUZ__0uKiMA",
   "reference_video": "https://www.youtube.com/watch?v=rUZ__0uKiMA",
-  "updated_at": "2026-09-14T02:56:40.000Z",
+  "updated_at": "2026-09-14T03:04:05.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 799,
@@ -97,23 +97,35 @@
     89,
     90,
     91,
-    92
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    552
+    624
   ],
-  "reviewed_frame_count": 552,
+  "reviewed_frame_count": 624,
   "reviewed_nominal_grid_s": [
     0,
-    8265
+    9345
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 93,
+  "next_sheet": 105,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -780,6 +792,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8280,
+        8355
+      ],
+      "observed": "sheet93。着席説明の続きで『ジャンケットサービスその5』を青い連番見出し・黄枠白パネルで提示し、タクシー手配をLINEで依頼できるという画面上の説明へ進む。8310は女性の手配に触れる文を大きい白文字で強調し、以後は通常の着席会話へ戻る。",
+      "limits": "公開画面にあるサービス説明の存在だけを記録し、合法性・現在の提供条件・仲介内容・連絡方法を保証しない。その5を先の4枚と別動画の傾向に数えない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8370,
+        8805
+      ],
+      "observed": "sheet94〜98。着席説明に100万円・300万円・1,000万円の3段階比較、300万円持参時の宿泊/航空券/送迎例、現金等からチップへ交換する説明、資金利用ルール、VIPプログラム、負けサビ、ローリングの図解カードを順次差し込む。カードは青見出し、白パネル、写真/PIP、黄の金額、赤/緑の要点を組み合わせる。ローリングはWIN/LOSEのチップ図と矢印で流れを説明し、8805は連絡を促す青いCTAを重ねる。",
+      "limits": "各金額は画面上の参加条件・持参額・所持金・賭け目安等であり、本人の損失額や純利益へ統合しない。宿泊、航空券、送迎、食事、キャッシュバック等は現行契約として検証していない。連絡先番号は本文へ転記せず、制作での再掲は許可と現在性を確認する。運用ルールを正確な契約条件として再現しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8820,
+        9055
+      ],
+      "observed": "sheet99〜101前半。連絡CTAを着席画面で再掲した後、紫青照明のボウリング場へ移動。白箱黒字の場所ラベル、プレー実写、ガーターに反応する白い大型字幕などで短い体験パートを構成し、9030頃から館内移動へ進む。",
+      "limits": "画面に表示された電話番号は本文へ転記しない。ボウリングの正確な得点、ルール、カット境界、発話と字幕の同期、SE/BGMは静止サンプルと未聴取音声から確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9060,
+        9285
+      ],
+      "observed": "sheet101後半〜104前半。赤い『ギャンブル魂』カードからバカラの再編集区間へ移り、ぼかした卓映像を背景に本人写真を左、相手写真を右へ固定し、中央のBANKER/PLAYER欄へカードと点数を段階表示する。右上の所持金、上部のチップ/賭け額、下部の発話字幕を別レイヤーで更新し、複数局の後に所持金0円表示と大きい損失要約へ進む。",
+      "limits": "所持金・賭け額・各局結果・通算損失を別項目として扱う。疎サンプル間の増減を連続した精算履歴とみなさず、未知カードや結果を補完しない。人物写真の素材出所、元回との重複、画面が実況/回想/再現のどれか、正確な境界は未照合。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9300,
+        9345
+      ],
+      "observed": "sheet104後半。白箱黒字の『スイートルーム紹介』ラベルでバカラ区間から客室内覧へ転換し、リビング、家具、テレビ周辺を広角実写で見せた後に本人の案内へ戻る。",
+      "limits": "施設名、部屋種別、宿泊条件、撮影日時はこの4点だけで確定しない。正確な章境界と音の切替は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -836,6 +903,20 @@
       "nominal_grid_s": [
         7200,
         8265
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        93,
+        104
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        8280,
+        9345
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
