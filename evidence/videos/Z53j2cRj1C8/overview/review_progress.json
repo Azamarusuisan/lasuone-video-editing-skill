@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T03:52:22.000Z",
+  "updated_at": "2026-09-14T03:55:27.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -77,23 +77,35 @@
     69,
     70,
     71,
-    72
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    432
+    504
   ],
-  "reviewed_frame_count": 432,
+  "reviewed_frame_count": 504,
   "reviewed_nominal_grid_s": [
     0,
-    6465
+    7545
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 73,
+  "next_sheet": 85,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -501,6 +513,72 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6480,
+        6645
+      ],
+      "observed": "sheet73〜74。競艇場内の飲食店舗で本人と金髪女性が会話し、白/ピンク字幕で貸付相談や個人関係、性的な噂を扱う。大きい白い編集注釈で不穏さを要約し、途中に『レース中』の状態字幕を置いた後、屋外へ移る。",
+      "limits": "貸付、第三者の発言、性的関係、人物評価は未検証の会話/編集表現で、確定事実として転載しない。プライバシー、出演許可、店舗撮影権はUNKNOWN。レース内容と会話の正確な同期は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6660,
+        6825
+      ],
+      "observed": "sheet75〜76。屋外で女性の『フリーハグ1,000円』というピンク字幕と、軍資金作りの『千円ハグ』を説明する赤/白の大型注釈を出す。続いて複数参加者が6Rの舟券を見せ、選手表/オッズ表PIPを保持した後、多摩川6R中継を本人の買い目合計130,000円と左下反応PIPで見せる。",
+      "limits": "ハグ企画の実際の支払、合意、収益、実施範囲は未確認。参加者ごとの券面と本人の13万円帯を分け、etc.、着順、払戻、収支を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6840,
+        7005
+      ],
+      "observed": "sheet77〜78。多摩川6R中継後、女性参加者の舟券に赤字幕で2-1-6を5,000円購入したと示し、黄/赤の大型字幕で24万円を当てたと要約する。その後は屋外会話、ハグ企画の相手との場面、通路移動を経て黒画面白字『第7レースへ』へ進む。",
+      "limits": "24万円は画面上の的中/払戻表現で、券面照合、受領済み現金、純利益、本人の収支を意味しない。ハグ場面の金額、相手、同意、支払は字幕から確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7020,
+        7185
+      ],
+      "observed": "sheet79〜80。場内の券売機前で別の女性参加者が購入する白箱を出し、本人との会話後、屋外で複数参加者が7Rの舟券を見せる。選手表/オッズ表PIPと白い固定見出し『それぞれ7Rの買い目発表』を維持する。",
+      "limits": "家族・子供・資金用途に関する発言は会話で、購入動機や支出の事実を裏付けない。券面の一部を完全な購入台帳とせず、参加者、買い目、金額、払戻を別管理する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7200,
+        7275
+      ],
+      "observed": "sheet81。多摩川7Rの中継を主画面、左に選手表、下に本人の買い目合計100,000円、左下に現地の複数人を置く。レース中はこの合成を維持する。",
+      "limits": "10万円は本人欄の画面表示で、他参加者の舟券やハグ企画の金額を含むとは限らない。着順、的中、払戻、純利益は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7290,
+        7545
+      ],
+      "observed": "sheet82〜84。7R後の屋外リアクションと券の確認を経て、白い固定見出し『それぞれ8Rの買い目発表』の下で複数参加者の券面を順に見せる。雨の場内を移動・待機し、透明傘の下から白字幕『レーススタート』、その後の複数人会話へつなぐ。",
+      "limits": "7Rの結果、8Rの全買い目・投入額・結果は疎静止点から確定しない。券面、PIP、参加者を取り違えず、雨天時の撮影境界や音も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -590,6 +668,20 @@
       "nominal_grid_s": [
         5400,
         6465
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        73,
+        84
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        6480,
+        7545
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
