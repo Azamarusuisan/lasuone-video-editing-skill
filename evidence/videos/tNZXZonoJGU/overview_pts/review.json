@@ -1,0 +1,143 @@
+{
+  "video_id": "tNZXZonoJGU",
+  "reference_video": "https://www.youtube.com/watch?v=tNZXZonoJGU",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 15,
+  "reviewed_sheet_count": 3,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.028
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.023
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.017
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.012
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.006
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.001
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.029
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.024
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.018
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.013
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.007
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.002
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.03
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.024
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "SHORT",
+    "CINEMATIC_MONTAGE",
+    "PORTRAIT_IN_LANDSCAPE_CANVAS",
+    "AI_MARKED_VISUALS"
+  ],
+  "observations": [
+    {
+      "sample_requested_s": [
+        0
+      ],
+      "observed": "黒一色の画面中央に、斜体の白い英字『LASUONE CINEMA』を小さく置くタイトルカード。"
+    },
+    {
+      "sample_requested_s": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "observed": "黒い左右余白の中央に縦長映像を置き、夕日の屋上で黒衣の人物が壁や手すりを越える実写風アクションを短くつなぐ。2〜6秒の映像左上には小さなAI表示が見える。",
+      "limits": "人物本人性、撮影場所、実写・生成・合成の内訳、危険動作の実施、安全対策は未確認。再現時は映像だけを根拠に危険な実演を指示しない。",
+      "rights_status": "UNKNOWN"
+    },
+    {
+      "sample_requested_s": [
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28
+      ],
+      "observed": "未来都市風の夕景へ転換し、黒衣の人物、空中車両らしい物体、高層建築を縦長の映画的ショットで見せる。14〜26秒の複数点にAI表示があり、22〜24秒は都市をぼかした移動・転換中のような画面。",
+      "limits": "AI表示は画面上の印。生成モデル、作者、プロンプト、生成範囲、素材権利を証明しない。最後の約1.33秒と音、動き、正確なカット時刻は未確認。",
+      "rights_status": "UNKNOWN"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "channel_wide_generalization": "LOW",
+    "generation_provenance": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "15点の2秒間隔静止画目視であり、29.35秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。タイトル、動作、転換、ショットの開始・終了とは異なる。",
+    "最終サンプルはsource PTS 28.024秒。動画尺29.35秒に対する最後の約1.33秒と全サンプル間は未視聴。",
+    "画面上のAI表示から生成元、モデル、人物本人性、制作工程、利用権を推定していない。"
+  ]
+}
