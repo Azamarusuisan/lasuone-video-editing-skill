@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T07:21:16.000Z",
+  "updated_at": "2026-09-14T08:56:47.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -149,23 +149,35 @@
     141,
     142,
     143,
-    144
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    864
+    936
   ],
-  "reviewed_frame_count": 864,
+  "reviewed_frame_count": 936,
   "reviewed_nominal_grid_s": [
     0,
-    12945
+    14025
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 145,
+  "next_sheet": 157,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -1035,6 +1047,72 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        12960,
+        13035
+      ],
+      "observed": "sheet145。ダナン1日目ラベルで男性同行者との飲食店会話を続け、遊技機の並ぶ施設へ移る。白箱で施設名を示した後、大勢のポーカートーナメント会場で本人が前日の動画に触れる。",
+      "limits": "同行者、店舗、遊技機の区分、ポーカー大会名/結果、前日動画との対応、撮影許可は未確認。飲食・遊技・大会を別企画として管理し、ロゴ/施設素材の権利をUNKNOWNに保つ。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        13050,
+        13215
+      ],
+      "observed": "sheet146〜147。ダナン2日目ラベルで海沿いの宿泊施設を案内し、室内/庭/プールを見せる。黒地白字幕の短い独白からバカラ卓へ移り、約14万円ベットとカードHUD、ハイテンションで賭け続けたという要約後、屋外で感想を話す。",
+      "limits": "宿泊施設、部屋、同行者、14万円局の購入・勝敗・払戻・残高は未確認。黒カード前後の章境界、HUD同期、施設/卓素材の権利を確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        13230,
+        13590
+      ],
+      "observed": "sheet148〜151。別コーナー/『ビジネス魂』の注記で熊本の医療施設へ切り替え、医師との固定2ショットで幹細胞治療の仕組み、対象、費用、普及を説明する。図解PIP、大型白/緑/黄/赤字幕、連絡CTAを使い、黒カード『実際に治療を受けます』、強いぼかしをかけた処置場面、屋外の経過説明へ進む。",
+      "limits": "治療効果、安全性、適応、費用、提供体制、医学的妥当性、本人の健康状態は未検証の番組/出演者主張。医療助言や広告根拠に使わず、連絡先を転記しない。処置画像・診療情報・性的機能に関する発言はセンシティブ情報として転載せず、同意/権利を個別確認する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        13605,
+        13710
+      ],
+      "observed": "sheet152〜153前半。招き猫の壁画前の経過説明からフーコック1日目へ切り替え、島の写真付き紹介カード、カート移動、ヴィラ室内、専用プール/海景、ソファでの早期敗北字幕を見せる。",
+      "limits": "健康経過、島/宿泊施設の説明、敗北の対象・損失額、宿泊契約、撮影許可は未確認。旅行紹介と医療区間、後続のポーカー区間を分離し、写真/施設素材の権利をUNKNOWNに保つ。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        13725,
+        13920
+      ],
+      "observed": "sheet153後半〜155前半。APTの写真付き説明、会場受付、DK JAPANの白い事業紹介カード、黄色枠の本人の想い/社長の願いを挟み、海外大会での宿泊・送迎・観光支援を複数人で話す。連絡CTAと、最低ベット500ドル（約8万円）のバカラ卓へ20万円で挑んだという赤字幕を表示する。",
+      "limits": "大会、企業、代表就任、サービス、保証、料金、契約、実績、最低額/換算は画面上の宣伝・自己申告で独立検証なし。連絡先を転記せず、20万円を実際の投入・損失へ変換しない。人物/ロゴ/会場素材の権利はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        13935,
+        14025
+      ],
+      "observed": "sheet155後半〜156。フーコック2日目ラベルで海沿いのプールに入る本人を見せ、別の会場で残り募集枠に触れる短い告知を挟む。駐車場で同行者にポーカー参加を促し、施設内移動から海上を見渡すロープウェーへ進む。",
+      "limits": "募集枠、参加、契約、同行者の同意、移動先、日程は未確認。プール、車両、施設、ロープウェー、告知内の画像/連絡先の権利・プライバシーを個別確認する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -1208,6 +1286,20 @@
       "nominal_grid_s": [
         11880,
         12945
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        145,
+        156
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        12960,
+        14025
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
