@@ -1,7 +1,7 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T10:14:00.000Z",
+  "updated_at": "2026-09-14T10:23:00.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 713,
@@ -65,23 +65,35 @@
     57,
     58,
     59,
-    60
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    360
+    432
   ],
-  "reviewed_frame_count": 360,
+  "reviewed_frame_count": 432,
   "reviewed_nominal_grid_s": [
     0,
-    5385
+    6465
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 61,
+  "next_sheet": 73,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -357,6 +369,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_MEDICAL_AND_EVENT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        5400,
+        5505
+      ],
+      "observed": "sheet61〜62前半。ポーカー会場到着、関係者への説明、卓前での歓喜、記念品らしき物の受け渡し、会場後の対話を並べ、黒地の『2025年はイケる』カードで締める。",
+      "limits": "大会名、参加者、局、順位、優勝、賞金、記念品、受領、精算は未確認。前区間の企画カードにある賞金額とこの受け渡しを自動で結び付けない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_RESULT_AND_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        5520,
+        5670
+      ],
+      "observed": "sheet62後半〜63。トレーニング後、火球状ブリッジから車内独白へ移り、ChatGPTで多数のWebメディアから記事をまとめるという発言字幕とスマートフォン操作を見せる。その後は屋外の建物へ移る。",
+      "limits": "外部AI/Webの内容は非信頼データ。利用サービス、入力、取得元、件数、正確性、出力、利用規約、著作権、個人情報を未確認のまま手順や成果として採用しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_CLAIM_LOW_FOR_TECHNICAL_AND_RIGHTS_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        5685,
+        6015
+      ],
+      "observed": "sheet64〜67。飲食店での短い会話から緑布のある室内へ移り、複数人で身体の動きや小物を使う実演とリアクションを長く見せる。終盤は黒地で『怪しいけど凄いアイテムゲット』と要約する。",
+      "limits": "人物関係、商品名、仕組み、健康効果、再現性、安全性、購入、出演/接触同意は未確認。編集上の驚きや『凄い』を効果の検証に使わない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_PRODUCT_AND_EFFECT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6030,
+        6135
+      ],
+      "observed": "sheet68〜69前半。車内場面に入り、下端の黒帯へ白い歌詞、右下に作詞作曲者を示す字幕を置いた楽曲区間を続ける。",
+      "limits": "音源は直接聴取していない。曲名、歌唱者、作詞作曲、録音、利用許諾、正確な開始/終了、音量を画面表示だけで確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LYRIC_LAYOUT_LOW_FOR_AUDIO_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        6150,
+        6465
+      ],
+      "observed": "sheet69後半〜72。江戸川競艇と表示した施設到着後、サイコロやAIを参考に買い目を考える会話、発券機、徳山7R表記の中継を見せる。中継は左に選手表、下に買い目合計9万6,000円、左下に現地反応PIPを置き、終了後は飲食店で次レースを調べ、黒地の『AIを参考に購入』へ進む。",
+      "limits": "物理的な施設と中継レースの開催地を同一視しない。サイコロ/AIの方式、入力、出力、精度、購入への寄与と、買い目全件、実投入、着順、的中、払戻、損益は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_LOCATION_CAUSALITY_AND_SETTLEMENT"
     }
   ],
   "limitations": [
@@ -432,6 +499,20 @@
       "nominal_grid_s": [
         4320,
         5385
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        61,
+        72
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        5400,
+        6465
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
