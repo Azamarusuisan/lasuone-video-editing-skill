@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T03:32:20.000Z",
+  "updated_at": "2026-09-14T03:37:42.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -29,23 +29,35 @@
     21,
     22,
     23,
-    24
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    144
+    216
   ],
-  "reviewed_frame_count": 144,
+  "reviewed_frame_count": 216,
   "reviewed_nominal_grid_s": [
     0,
-    2145
+    3225
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 25,
+  "next_sheet": 37,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -189,6 +201,72 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        2160,
+        2325
+      ],
+      "observed": "sheet25〜26。バスケットボールの試合実写を続け、2160は白箱で残り1分を示す。2250は会場画面に地元チームへのスポンサー募集を緑文字で重ね、その後はホテル到着、火球状ブリッジ、夜の天文館の街歩きと地域説明カードへ移る。",
+      "limits": "試合結果、チームとの契約、スポンサー募集の現在性・条件・成果、会場映像の再利用権は未確認。残り時間表示から正確な試合終了境界を決めず、宣伝を許諾済み素材へ自動昇格しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        2340,
+        2505
+      ],
+      "observed": "sheet27〜28。天文館の街歩きと会話から、入口ロゴ、白い施設説明カード、店内、スタッフ/ディーラー紹介へ進む。説明カードは『BLOW 天文館』でポーカー、ブラックジャック、ルーレット、バカラを飲みながら遊べる施設として紹介する。",
+      "limits": "2370の『無償で色々やってくれる』は対象と条件を音声未確認のまま確定しない。この施設を現金賭博のカジノとせず、チップ・カードから金銭、配当、結果を補完しない。人物の出演許可、店舗情報の現在性、素材再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        2520,
+        2685
+      ],
+      "observed": "sheet29〜30。施設内のポーカー/テーブルゲーム実写に大きい白字幕で運の強さを要約し、屋外リアクション、白箱『夜飯にトマトラーメン』、食事中の『YouTubeを始めて半年経った心境は?』という固定質問見出しへつなぐ。2655で白箱『翌日』を置き、街歩きへ切り替える。",
+      "limits": "ゲームの買い目、賭け金、勝敗、精算は不明。質問への回答内容、字幕化範囲、章境界、音は疎静止点から確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        2700,
+        2865
+      ],
+      "observed": "sheet31〜32。火球状ブリッジ後、競艇場の投票端末とレース中継へ移る。中継は左に選手表、下に買い目帯、左右下部に現地反応を置き、表示上の買い目は1・2・3号艇のボックス各2,000円と4号艇起点の組合せ各1,000円、計32,000円。",
+      "limits": "買い目帯は当該レースの画面表示で、券面との完全一致、追加購入、的中、払戻、純利益、通算収支は未確認。レース中継映像とロゴの再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        2880,
+        3045
+      ],
+      "observed": "sheet33〜34。舟券の接写に続き、本人の顔へ黄色の大型字幕『まさかの2-3-1が120倍』を重ね、端末操作と白字幕『その後も賭ける』を挟む。その後は公園のベンチで長い会話へ移る。",
+      "limits": "券面と字幕から当選額、実払戻、純利益を計算しない。120倍は画面上の倍率表示として扱い、追加購入の額・結果や公園会話の全内容は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        3060,
+        3225
+      ],
+      "observed": "sheet35〜36。公園の会話でスタッフ発言の白字幕『今日は10万円勝ちです』、熊本へ向かう白い要約、事業成長や従業員の幸福を支援できる人への緑色CTAを表示する。続いて『BLOW 熊本新市街』の店内とスタッフを紹介し、画面字幕は本人経営の施設と説明する。",
+      "limits": "10万円は字幕化された発言で、対象レース、払戻、純利益、当日通算との照合なし。事業支援、経営関係、店舗情報、スタッフの出演許可、素材再利用権は画面外の契約等で未確認。連絡先は転記しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -222,6 +300,20 @@
       "nominal_grid_s": [
         1080,
         2145
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        25,
+        36
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        2160,
+        3225
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
