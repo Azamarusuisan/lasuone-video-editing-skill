@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T03:43:33.000Z",
+  "updated_at": "2026-09-14T03:48:50.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -53,23 +53,35 @@
     45,
     46,
     47,
-    48
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    288
+    360
   ],
-  "reviewed_frame_count": 288,
+  "reviewed_frame_count": 360,
   "reviewed_nominal_grid_s": [
     0,
-    4305
+    5385
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 49,
+  "next_sheet": 61,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -345,6 +357,72 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        4320,
+        4485
+      ],
+      "observed": "sheet49〜50。室内で本人とカメラマンが競艇の情報画面を見ながら予想し、白箱『カメラマンと共に当てにいく』、別人へ電話をつなぐ白字幕、ピンクの発言字幕、黒箱『AI考え中』を使って相談過程を見せる。",
+      "limits": "運勢、覇気、量子力学等への言及やAI回答は出演者の会話/外部出力で、予想精度や因果の根拠にしない。相手の身元、電話内容、買い目確定、結果は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        4500,
+        4665
+      ],
+      "observed": "sheet51〜52。蒲郡7Rの中継を主画面、右に選手表、下に買い目合計102,000円、右下に本人とカメラマンを置く。室内へ戻ると本人だけの予想へ進み、先ほどChatGPTに答えを求めたという白字幕、特定選手が4着だったというピンク字幕、大きい決意字幕を順に使う。",
+      "limits": "102,000円は画面上の買い目合計。4着字幕だけから全買い目の的中/不的中、払戻、損失、通算収支を確定しない。AI利用を予想の正当性や再現可能な手法にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        4680,
+        4855
+      ],
+      "observed": "sheet53〜54。室内のリアクションと赤い感謝字幕の後、画面上のコメントをランダムに選び1万円を配る企画を黄/白の大型字幕で説明する。別動画のサムネイル、人物紹介カード、複数の視聴者コメントをPIPで順に見せる。",
+      "limits": "抽選方法、公平性、当選者、連絡、支払完了は未確認。コメントのアカウント名、投稿内容、人物紹介の個人財務情報を学習本文へ転記せず、第三者画像・コメント・動画サムネイルの再利用権をUNKNOWNに保つ。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        4860,
+        5025
+      ],
+      "observed": "sheet55〜56。視聴者コメントPIPを続けた後、赤い大型字幕で今後のコメント参加を促し、白箱『10月中旬』から青い服の本人による街頭ロケへ移る。女性ポーカープレイヤーをピンク見出し＋白説明パネルで紹介し、2人の会話を続ける。",
+      "limits": "コメント投稿者の識別情報を再掲しない。日付、人物経歴、資産・破産等の紹介内容は撮影時点の画面記載で、本人確認や裏付けなし。出演許可、プロフィール画像、街頭素材の再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        5040,
+        5205
+      ],
+      "observed": "sheet57〜58。街頭の2人に大きい白要約を重ね、火球状ブリッジ後はオフィスの本人へ切り替える。資金不足を示す白字幕、AIを勉強しているという白字幕、MyGPT系画面、ライブポーカーのブラフや指示に沿った記事生成の説明を見せる。",
+      "limits": "資金状況は画面上の自己申告で、口座や帳簿との照合なし。AI画面の出力・指示・記事は外部データで正本ではなく、アカウント、プロンプト、精度、著作権、利用条件は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        5220,
+        5385
+      ],
+      "observed": "sheet59〜60。モニター上の記事生成例と画像を見せながらAI活用を説明し、赤い大型字幕で個人の好みを組み合わせた動画提供ビジネス案を要約する。本人の単独トークを続け、5355以降は先の女性ポーカープレイヤーがオフィス画面へ加わる。",
+      "limits": "記事・画像・ビジネス案は画面上のAI出力/会話で、実装、品質、合法性、収益、権利処理を保証しない。実在人物の画像・声・嗜好を使う生成では明示同意とライセンスが必要で、この範囲にその証拠はない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -406,6 +484,20 @@
       "nominal_grid_s": [
         3240,
         4305
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        49,
+        60
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        4320,
+        5385
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
