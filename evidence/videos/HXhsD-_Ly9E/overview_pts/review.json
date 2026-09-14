@@ -1,0 +1,287 @@
+{
+  "video_id": "HXhsD-_Ly9E",
+  "reference_video": "https://www.youtube.com/watch?v=HXhsD-_Ly9E",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 36,
+  "reviewed_sheet_count": 6,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "DAILY_CHALLENGE",
+    "UNDERGROUND_WORK",
+    "STAFF_PROFILE",
+    "BIRTHDAY",
+    "PROPOSED_GAMBLING_CHALLENGE",
+    "COMEDIC_INSET"
+  ],
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4
+      ],
+      "observed": "シャンデリア、人物、チップ、紙幣風素材を組み合わせた『ラスベガス100日チャレンジ』表紙から暗い移行を挟み、壁前の2人を全身で見せてメンバー紹介を始める。",
+      "limits": "表紙素材の制作方法、生成有無、人物本人性、素材権利、移行の正確な尺は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22
+      ],
+      "observed": "人物名を尋ね、当日が誕生日という話から、貯金箱らしい青い物と紙幣らしい物を示し、ギャンブルの軍資金として渡す条件を橙字幕で説明する。",
+      "limits": "人物の氏名、誕生日、物品、金額、贈与、所有、支払、撮影・公開同意は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        24,
+        26,
+        28,
+        30,
+        32,
+        34
+      ],
+      "observed": "100万円が当たった場合という仮定、受け取る資金でバカラを賭ける提案、了承、手渡し、結果報告の依頼へ進む。",
+      "limits": "100万円は仮定。実際の賭け、資金移動、契約、勝敗、払戻、返済、純利益を示さない。"
+    },
+    {
+      "sample_requested_s": [
+        36,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "observed": "36秒から人物映像を黒い縦画面内の小さな横長インセットへ縮め、字幕を下の黒地へ分離する。『ダブルアップチャレンジ』、5000円、じゃんけんを使う提案を橙・水色字幕で進める。",
+      "limits": "インセット化の正確な境界、アニメーション、5000円の実在・所有・支払、ゲーム条件は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70
+      ],
+      "observed": "あいこ回数らしい条件、50倍、25万円、負けた場合の没収、勝った場合の条件を提示し、赤い発光風の金額・語句、水色の返答、大量の白い笑い文字、最後の発光する目の効果でオチを作る。",
+      "limits": "5000円、50倍、25万円は提示条件で、達成・勝利・受領・精算ではない。あいこ回数、条件全文、最後の呼称、勝敗、続きは未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_birthday_and_challenge_proposal": "HIGH",
+    "money_transfer_and_gambling_result": "LOW",
+    "participant_identity_and_consent": "UNKNOWN",
+    "daily_series_format": "MEDIUM",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "36点の2秒間隔静止画目視であり、72.01秒の連続視聴・聴取ではない。",
+    "requested_s 72のレコードは正当なNO_FRAME_AT_SOURCE_ENDで、画像・視聴数に含めない。",
+    "time_sは抽出画像のsource PTS。暗転、インセット化、字幕、笑い、発光効果の開始・終了とは異なる。",
+    "最終画像はsource PTS 70.000秒。動画尺72.01秒に対する最後の約2.01秒と全サンプル間は未視聴。",
+    "人物、物品、誕生日、金額、贈与、ゲーム条件、素材権利は未確認。"
+  ]
+}
