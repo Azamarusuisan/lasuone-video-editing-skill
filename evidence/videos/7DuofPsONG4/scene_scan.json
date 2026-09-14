@@ -1,0 +1,33 @@
+{
+  "video_id": "7DuofPsONG4",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    56.01
+  ],
+  "source_duration_s": 56.01,
+  "candidate_count": 4,
+  "candidates": [
+    {
+      "time_s": 6.433,
+      "score": 0.524977
+    },
+    {
+      "time_s": 7.367,
+      "score": 0.541942
+    },
+    {
+      "time_s": 9.467,
+      "score": 0.493655
+    },
+    {
+      "time_s": 11.167,
+      "score": 0.466145
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}
