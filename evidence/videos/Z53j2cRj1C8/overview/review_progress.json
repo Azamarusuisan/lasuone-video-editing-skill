@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T06:59:22.000Z",
+  "updated_at": "2026-09-14T07:05:54.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -113,23 +113,35 @@
     105,
     106,
     107,
-    108
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    648
+    720
   ],
-  "reviewed_frame_count": 648,
+  "reviewed_frame_count": 720,
   "reviewed_nominal_grid_s": [
     0,
-    9705
+    10785
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 109,
+  "next_sheet": 121,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -746,6 +758,94 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9720,
+        9795
+      ],
+      "observed": "sheet109。東京競馬場の中継、右の出走表、下部の単勝500,000円、右下のゴルフ場反応PIPを維持する。レース後は屋外の本人へ戻り、焼肉店へ切り替える。",
+      "limits": "着順、的中、払戻、純利益は静止点から確定しない。レース終了と屋外反応の同期、焼肉店への正確な章境界と音は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9810,
+        9885
+      ],
+      "observed": "sheet110。焼肉店でスクラッチ/野球の結果を『おきもち』単位で表示し、カラオケ採点の十の位と一の位を足して9に近い側が勝つ『カラオケバカラ』の赤いルールカードへ進む。縦長の歌唱映像、AI採点画面、敗退字幕を順に見せる。",
+      "limits": "『おきもち』を円や実際の賭け金へ換算しない。カラオケ採点、ルール、勝敗は企画内表示で、正確な点数計算・賞罰・精算・音源権利は未確認。通常のバカラやゴルフ収支と混ぜない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9900,
+        10005
+      ],
+      "observed": "sheet111〜112前半。カラオケ区間後にゴルフへ戻り、独自のチーム/サイドゲーム説明箱、パット、カートを使うチキンレース、結果発表を見せる。食事席では当日の結果を0.5『おきもち』勝ちと発言字幕で示す。",
+      "limits": "先行する金銭なしの注記を保持し、独自ゲームや『おきもち』を現金賭博・実際の損益として扱わない。競技結果、ルール全体、カット順、事故防止措置、音は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10020,
+        10125
+      ],
+      "observed": "sheet112後半〜113前半。別衣装の本人と男性をゴルフ場で紹介し、競馬データをAIで数値化する勝利ツールの説明カードを重ねる。取り決めの会話、パット、休憩スペースでの『100を切る』目標と5『おきもち』表示へ進む。",
+      "limits": "人物/事業プロフィール、AI機能、予測性能、所有・提携、勝率は画面上の宣伝/説明で、独立検証なし。『おきもち』を金銭に換算せず、ゴルフ結果や契約を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10140,
+        10230
+      ],
+      "observed": "sheet113後半〜114前半。暗いポーカーラウンジを移動し、白い説明箱で施設とコーチングを紹介する。本人とスタッフの立ち話を白/青字幕で続け、氷水へ手を入れる短い余興へ切り替える。",
+      "limits": "施設名、本人の所有関係、営業内容、コーチング、契約、許諾、現在性は未確認。ポーカーテーブルが写っても実戦HUDを自動付与せず、余興の安全条件も静止点から判断しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10245,
+        10320
+      ],
+      "observed": "sheet114後半〜115前半。屋外観客席で家族のテニスを観戦しながらスマートフォンで競馬を見る本人を映す。左下にレースPIP、右下の白い買い目箱に単勝50万円、複数の3連単各2,000円、計約80万円を表示する。",
+      "limits": "約80万円はetc.を含む画面表示で完全な購入台帳ではない。対象レース、購入確定、着順、的中、払戻、純利益は未確認。家族・周囲の観客・端末画面のプライバシーと素材権利を確認する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10335,
+        10410
+      ],
+      "observed": "sheet115後半〜116前半。本人、成人女性、未成年に見える人物の室内3ショットで海外経験や競技継続について会話し、白/ピンク字幕と赤い大型『スポンサーを募集します』を重ねる。",
+      "limits": "年齢、家族関係、競技歴、進路、スポンサー条件、募集の現在性・契約は未確認。未成年者の出演/二次利用同意を個別確認し、私生活や識別情報を再掲しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10425,
+        10785
+      ],
+      "observed": "sheet116後半〜120。飲食店の2ショットで女性ポーカープレイヤーを写真付きプロフィールカードで紹介し、海外大会、ハイローラー、資金、競技目標を対談する。Triton Poker説明カード、本人の10連敗/4,000万円損失表示、APT Taipeiの実績挿入映像を挟み、白/ピンク/青字幕で議論を続ける。",
+      "limits": "人物経歴、大会実績、本人の損失額、資金、出場予定は画面上の紹介/自己申告で、公式記録・会計・契約との照合なし。人物画像、大会ロゴ/映像、店舗素材の再利用権はUNKNOWN。40,000,000円を別企画の収支へ合算しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -877,6 +977,20 @@
       "nominal_grid_s": [
         8640,
         9705
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        109,
+        120
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        9720,
+        10785
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
