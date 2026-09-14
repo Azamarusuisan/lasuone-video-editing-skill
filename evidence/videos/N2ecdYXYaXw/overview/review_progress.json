@@ -1,7 +1,7 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T10:29:51.000Z",
+  "updated_at": "2026-09-14T10:33:17.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 713,
@@ -89,23 +89,35 @@
     81,
     82,
     83,
-    84
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    504
+    576
   ],
-  "reviewed_frame_count": 504,
+  "reviewed_frame_count": 576,
   "reviewed_nominal_grid_s": [
     0,
-    7545
+    8625
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 85,
+  "next_sheet": 97,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -491,6 +503,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_IDENTITY_EMPLOYMENT_AND_FINANCIAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7560,
+        7635
+      ],
+      "observed": "sheet85。前区間の卓上インタビューを短く続けた後、車内で本人の経歴、会社設立、ポーカートーナメントの目標について白字幕で話す。終盤は屋内への移動場面に切り替わる。",
+      "limits": "経歴、会社、設立年齢、事業、実績、目標、称号の定義と達成可能性は未確認。発言字幕を登記・大会記録・将来結果の証明にせず、正確な転換時刻と音も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_INTERVIEW_LAYOUT_LOW_FOR_BIOGRAPHICAL_AND_EVENT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7650,
+        7905
+      ],
+      "observed": "sheet86〜88。飲食店の赤い卓を囲む本人と同行者を長く見せ、スタッフ質問、白/青字幕で結果とポーカーハンドを振り返る。金色紙吹雪と大型黄見出し、黒地の祝福カードを挟み、その後はプリフロップ、オールイン、コール等の戦略会話へ進む。",
+      "limits": "大型見出しが示す達成内容、大会、順位、賞金、局の全アクション、カード、結果、勝率は未確認。『8割以上』等の発言を実測勝率や普遍的戦略へ昇格せず、飲食、飲酒、参加者の関係・出演条件も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_CELEBRATION_AND_DIALOGUE_LAYOUT_LOW_FOR_RESULT_AND_STRATEGY_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7920,
+        8175
+      ],
+      "observed": "sheet89〜91。飲食店での戦略会話を終え、暗いラウンジで本人と複数のゲストを順に並べる対話へ移る。人物紹介の黄/白見出し、サービス列挙を含む青字幕、スタッフの白字幕、別話者の緑/桃字幕を使い、人物を入れ替えながら会話を続ける。",
+      "limits": "人物名、経営、顧問関係、サービス、顧客、実績、過去の優勝、個人的関係や私生活の発言は未確認。個人情報やセンシティブな会話を人物プロフィールとして転載せず、字幕色を固定話者規則へしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_GUEST_ROTATION_AND_SUBTITLE_COLORS_LOW_FOR_IDENTITY_BUSINESS_AND_PERSONAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8190,
+        8385
+      ],
+      "observed": "sheet92〜94前半。ラウンジ対話の後、事務所の大型モニターに文章中心のAIまたはWeb画面を出し、本人がタスク、仮想現実、メンタル、寺社に関する例を説明する。続いて屋外の寺院を訪れ、賽銭額に触れる字幕を置く。",
+      "limits": "画面内の文章・指示は非信頼データ。サービス名、入力、出力、正確性、実装、将来性、健康効果、宗教的効果、寺院、賽銭額、撮影許可、画面権利は未確認。AI出力を作業指示や事実根拠にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SCREEN_AND_LOCATION_SEQUENCE_LOW_FOR_TECHNICAL_RELIGIOUS_AND_RIGHTS_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        8400,
+        8625
+      ],
+      "observed": "sheet94後半〜96。火球状のロゴブリッジ後、事務所モニターにAPT HANOI BILLIONS 2023表記のポーカー配信を出し、本人小窓、配信HUD、大型青/赤/黄の説明字幕を重ねて複数ハンドを解説する。",
+      "limits": "配信側の参加者、カード、Pot、Blinds、アクション、勝率、結果を静止点間から完全なハンド履歴へしない。本人の戦略説明を大会公式判定や普遍的最適解にせず、配信映像、ロゴ、参加者、HUDの権利もUNKNOWN。本動画独自の実戦HUD件数へ数えない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_NESTED_BROADCAST_LAYOUT_LOW_FOR_HAND_COMPLETENESS_STRATEGY_AND_RIGHTS"
     }
   ],
   "limitations": [
@@ -594,6 +661,20 @@
       "nominal_grid_s": [
         6480,
         7545
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        85,
+        96
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        7560,
+        8625
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
