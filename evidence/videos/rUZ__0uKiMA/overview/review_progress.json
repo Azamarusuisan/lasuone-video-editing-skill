@@ -1,7 +1,7 @@
 {
   "video_id": "rUZ__0uKiMA",
   "reference_video": "https://www.youtube.com/watch?v=rUZ__0uKiMA",
-  "updated_at": "2026-09-14T03:08:48.000Z",
+  "updated_at": "2026-09-14T03:12:03.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 799,
@@ -121,23 +121,35 @@
     113,
     114,
     115,
-    116
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    696
+    768
   ],
-  "reviewed_frame_count": 696,
+  "reviewed_frame_count": 768,
   "reviewed_nominal_grid_s": [
     0,
-    10425
+    11505
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 117,
+  "next_sheet": 129,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -903,6 +915,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10440,
+        10605
+      ],
+      "observed": "sheet117〜118。炎/火の粉の番組カード後、豪華な客室風の固定背景を伴う正面インタビューへ。冒頭は直前の着席会話を左上PIPで参照し、白い通常字幕と大きい要約字幕を使い分ける。10590には施設ロゴ付きの連絡CTAを下部帯で再掲する。",
+      "limits": "背景が実景・合成・画像のどれかは静止点だけで確定しない。PIP素材の出所、撮影許可、発話同期、連絡先の現在性は未確認。電話番号は本文へ転記しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10620,
+        10785
+      ],
+      "observed": "sheet119〜120。自宅/事務所風の机横で近況を語り、『新たな借金も2,000万円くらい』という自己申告を通常字幕で表示。続いて配偶者の誕生日に喜ばれる商品を買いに行くという赤い大型要約を挟み、右上『ラスワンショッピング』付きの複数人によるウォーターサーバー実演へ移る。",
+      "limits": "借入額・家庭への入金・許容に関する発言は本人の自己申告で、第三者確認や残高/返済状況の証明ではない。家族の財務情報は新規制作で公開範囲を再確認する。商品性能、提供条件、広告契約はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10800,
+        11055
+      ],
+      "observed": "sheet121〜123。『ラスワンショッピング』見出しを保ったままウォーターサーバーの飲用/調理実演、絵画の購入相談と連絡CTAへ進み、百貨店で女性同行者と化粧品・衣料品を選ぶ。10950は白/赤の大型字幕で『健康系』探しを同行者に手伝ってもらうと要約し、購入後は紙袋を見せて車内へ移る。",
+      "limits": "商品名・性能・価格・購入者・贈答相手は確認できた表示以上に補完しない。同行者の関係性や顔出し同意、店舗/商品素材の再利用権、広告契約は未確認。連絡先番号は本文へ転記しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11070,
+        11145
+      ],
+      "observed": "sheet124。徒歩/車内からテニスコートへ移り、矢印付き白字幕で競技中の人物を『ラスワンの娘さん』と紹介。続けて飲食店の本人へ切り替え、白箱黒字で『昼食を食べながら奥様と話す予定』と次場面の目的を示す。",
+      "limits": "家族関係は画面上の紹介に基づく。本人以外、とくに家族/未成年の可能性がある人物の顔・場所・生活情報を新規制作で使う際は同意とプライバシーを再確認する。正確な時間経過と境界は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11160,
+        11505
+      ],
+      "observed": "sheet125〜128。飲食店で画面上『奥様』とされた女性と食事し、購入品を渡した後、返品や子ども向けの代替、借金返済、物を渡して解決する案を話す。本人の通常字幕は白、相手の発言はピンクの例があり、11475/11490は返済を先に終えるべきというピンク字幕、11505は白箱黒字の『ラスワンメモ』で暫定案を要約する。",
+      "limits": "夫婦間の会話・借入・贈答はセンシティブな私生活/財務情報で、発言の事実性、合意、実行、現在の関係を保証しない。白/ピンクを全動画共通の固定話者色にせず、この区間の画面例として扱う。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -987,6 +1054,20 @@
       "nominal_grid_s": [
         9360,
         10425
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        117,
+        128
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        10440,
+        11505
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false

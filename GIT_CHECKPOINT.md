@@ -8,7 +8,7 @@
 
 `evidence/COVERAGE.json`と草案の凍結集計は2026-09-14T01:45:19.180Z時点（映像解析57本）のまま整合している。上記のライブ値と集計時点を混ぜない。今回の保存では再集計や学習済み範囲の追加をしていない。
 
-目視の再開位置は`rUZ__0uKiMA/overview/sheet_117.jpg`。R9は1101画像、rUZは696/799画像の疎サンプル記録。全編の連続映像・音声確認完了は0本、`production_ready=false`、CHANNEL_MATCHはNOT_EVALUATED。
+目視の再開位置は`rUZ__0uKiMA/overview/sheet_129.jpg`。R9は1101画像、rUZは768/799画像の疎サンプル記録。全編の連続映像・音声確認完了は0本、`production_ready=false`、CHANNEL_MATCHはNOT_EVALUATED。
 
 既存チェックに加え、`node check-evidence.mjs`で次を照合する。
 
