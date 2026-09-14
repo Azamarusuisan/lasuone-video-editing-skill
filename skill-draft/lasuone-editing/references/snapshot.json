@@ -44,10 +44,10 @@
         "direct_audio_review": false
       },
       "N2ecdYXYaXw": {
-        "reviewed_grid_frames": 288,
+        "reviewed_grid_frames": 360,
         "total_grid_frames": 713,
-        "reviewed_nominal_grid_s": [0, 4305],
-        "next_sheet": 49,
+        "reviewed_nominal_grid_s": [0, 5385],
+        "next_sheet": 61,
         "timestamp_uncertainty_s": 7.5,
         "continuous_visual_review": false,
         "direct_audio_review": false

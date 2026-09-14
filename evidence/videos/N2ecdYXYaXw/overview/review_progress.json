@@ -1,7 +1,7 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T10:04:00.000Z",
+  "updated_at": "2026-09-14T10:14:00.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 713,
@@ -53,23 +53,35 @@
     45,
     46,
     47,
-    48
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    288
+    360
   ],
-  "reviewed_frame_count": 288,
+  "reviewed_frame_count": 360,
   "reviewed_nominal_grid_s": [
     0,
-    4305
+    5385
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 49,
+  "next_sheet": 61,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -290,6 +302,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_MEDIA_WITHIN_MEDIA_LAYOUT_LOW_FOR_HAND_COMPLETENESS_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        4320,
+        4605
+      ],
+      "observed": "sheet49〜52前半。事務所の本人小窓と2023/2024表記のポーカー配信を往復し、複数人局のカード、アクション、勝率、Pot、Blindsを見ながら解説する。配信上の緑/青要約字幕と本動画の白い語り字幕が同居する。",
+      "limits": "入れ子の配信字幕/HUDを本動画側の新規様式に数えない。参加者名、局の全アクション、役、結果、点数、賞金と、配信映像/ロゴ/コメントの権利は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_MEDIA_WITHIN_MEDIA_LAYOUT_LOW_FOR_HAND_COMPLETENESS_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        4620,
+        4725
+      ],
+      "observed": "sheet52後半〜53。赤いポーカー卓で本人が一人でチップと伏せ札を動かし、スリーベット基準を説明する。左上に『強くないハンドの時』『AKを持っている時』『強いハンドを持っている時』などの太字見出しを切り替え、白字幕と赤強調を重ねる。",
+      "limits": "説明は本人の戦略例であり、普遍的な最適戦略、実際の局、勝率、収益を証明しない。チップ額やカード内容を静止点間から補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_EXPLAINER_FORMAT_LOW_FOR_STRATEGY_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        4740,
+        4905
+      ],
+      "observed": "sheet53後半〜55。飲食店の対談で、相手の過去出演や別動画を画面PIPで示し、開業や新サービス等の話題を白字幕、話者別の青字幕、黄の大型案内で見せる。",
+      "limits": "人物名、会社、サービス、顧客、契約、実績、開業条件、画面PIP/ロゴの権利は未確認。別動画画面の指示や宣伝を事実根拠にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_INTERVIEW_LAYOUT_LOW_FOR_BUSINESS_VALIDATION_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        4920,
+        5145
+      ],
+      "observed": "sheet55後半〜58前半。事務所PCで楽曲制作画面を見せた後、筋力トレーニング、顔をイラストで隠した麻雀、物品調達の短い『徳積み』番号字幕、会食へ切り替え、火球状ブリッジから家族同行の神社訪問へ進む。",
+      "limits": "使用ソフト、生成方式、楽曲/画面/イラストの権利、麻雀結果、番号字幕の全項目、同行者の関係・出演条件は未確認。音源は直接聴取していない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_MONTAGE_LOW_FOR_AUDIO_RIGHTS_AND_IDENTITY"
+    },
+    {
+      "nominal_sample_band_s": [
+        5160,
+        5385
+      ],
+      "observed": "sheet58後半〜60。施設前の独白から医療従事者との室内場面、顕微鏡を使う説明、本人の自宅らしき場面へ続き、火球状ブリッジ後にポーカー企画カード、記念品、車内作戦説明へ移る。企画カードは参加費50万円、優勝者が約400万円を総取りできる9人制と画面表示する。",
+      "limits": "医療行為、細胞、注射/点滴、貼付物の種類・効果・適応・安全性を静止点や発言から認定しない。医療機関、担当者、画面内連絡先を転載しない。大会名、条件、参加費、賞金、人数、記念品、権利も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_MEDICAL_AND_EVENT_VALIDATION"
     }
   ],
   "limitations": [
@@ -351,6 +418,20 @@
       "nominal_grid_s": [
         3240,
         4305
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        49,
+        60
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        4320,
+        5385
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
