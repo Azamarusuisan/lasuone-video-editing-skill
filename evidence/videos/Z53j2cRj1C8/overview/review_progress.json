@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T08:56:47.000Z",
+  "updated_at": "2026-09-14T09:10:11.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -161,23 +161,35 @@
     153,
     154,
     155,
-    156
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    936
+    1008
   ],
-  "reviewed_frame_count": 936,
+  "reviewed_frame_count": 1008,
   "reviewed_nominal_grid_s": [
     0,
-    14025
+    15105
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 157,
+  "next_sheet": 169,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -1113,6 +1125,83 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        14040,
+        14115
+      ],
+      "observed": "sheet157。ロープウェーからポーカートーナメントへ移り、本人9♠5♣のオールイン局をアクションHUDで追った後、画面上で本人WIN/相手LOSEと勝利字幕を示す。",
+      "limits": "疎静止点ではカード、アクション順、役、勝率、最終結果を独立検証できない。画面表示を観察記録として保持し、ポット分配・損益を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        14130,
+        14220
+      ],
+      "observed": "sheet158〜159冒頭。本人7♣6♥の局は相手FOLD/本人WIN表示、続くQ♦Q♣対A♦10♥のオールインは約70%という字幕と最終の本人WIN/相手LOSE表示で見せる。",
+      "limits": "勝率計算、全アクション、ボード/ハンド、結果、配当、純利益を独立検証せず、画面上の各局表示を別々に保持する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        14235,
+        14340
+      ],
+      "observed": "sheet159〜160。本人A♦4♥を含む複数人のオールイン局、バブル局面、インマネー決定、495,000点表示を経て、会場外で大会を振り返る。",
+      "limits": "A♦4♥局の最終結果、495,000点の時点/順位、賞金、換金、通算損益は未確認。点数と円、バイイン、賞金を混同しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        14355,
+        14490
+      ],
+      "observed": "sheet160後半〜162前半。リゾート外観、Day2/Day3のカード、体調への短い言及を挟み、Day3のトーナメントで本人10♣9♣の局へ進む。",
+      "limits": "日付、体調、診断、大会日程、10♣9♣局の全アクション/結果は未確認。健康に関する発言は未検証の本人申告で、診断や一般化へ使わない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_FACTUAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        14505,
+        14745
+      ],
+      "observed": "sheet162後半〜164。本人A♥Q♠を含む複数人オールインでPot 501K、続くJ♥10♥の局でPot 444Kを表示する。別局のAK対AQ敗北という回想字幕を挟み、本人K♣K♠対A♥3♦のオールインへ進む。",
+      "limits": "501K局とK♣K♠局の最終結果、J♥10♥局の正確なアクション、Potの確定時点、チップ移動、賞金、損益は未確認。別局の回想字幕を隣接局の結果へ結び付けない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        14760,
+        14925
+      ],
+      "observed": "sheet165〜166。黒地白文字で大会を立て直せず敗退したと要約し、会場外の資金に関する発言後、約15万円、約30万円、再び約15万円のバカラ局をカードHUDで見せる。",
+      "limits": "トーナメント結果、残金、各バカラ局の投入、カード、勝敗、払戻、残高を分離する。発言金額やBET表示を通算損失へ変換せず、疎サンプル間の局を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        14940,
+        15105
+      ],
+      "observed": "sheet167〜168。約15万円のバカラ局と逆転への集団反応、退出場面を経てフーコック4日目へ移る。高額参加費と参加者10人という説明、ファイナルテーブル写真の後、本人6♣5♠の新しいポーカー局をHUDで開始する。",
+      "limits": "バカラの精算、大会の正式要項、参加人数、ファイナル進出条件、6♣5♠局の全アクション/結果、賞金は未確認。説明カードと写真を公式記録や許諾済み素材にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
     }
   ],
   "limitations": [
@@ -1300,6 +1389,20 @@
       "nominal_grid_s": [
         12960,
         14025
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        157,
+        168
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        14040,
+        15105
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
