@@ -1,8 +1,8 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T10:36:41.000Z",
-  "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
+  "updated_at": "2026-09-14T10:42:03.000Z",
+  "status": "FULL_MANUAL_REVIEW_OF_OVERVIEW_GRID_COMPLETE",
   "capture": "capture.json",
   "total_overview_frames": 713,
   "reviewed_sheet_numbers": [
@@ -113,23 +113,34 @@
     105,
     106,
     107,
-    108
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    648
+    713
   ],
-  "reviewed_frame_count": 648,
+  "reviewed_frame_count": 713,
   "reviewed_nominal_grid_s": [
     0,
-    9705
+    10680
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
-  "whole_duration_sparse_review_complete": false,
-  "next_sheet": 109,
+  "whole_duration_sparse_review_complete": true,
+  "next_sheet": null,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -625,13 +636,80 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_AND_PRIVACY_TREATMENT_LOW_FOR_EVENT_HEALTH_SCIENCE_AND_RIGHTS_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9720,
+        9795
+      ],
+      "observed": "sheet109。身体実演後の会話を短く続け、空港内の独白へ切り替える。左上に『海外密着 トリトン編 1日目』を固定し、到着地を示す白い場所字幕から海外遠征章へ入る。",
+      "limits": "商品、入浴剤、効果、安全性、空港、到着地、日付、旅程、大会、参加者、撮影許可は未確認。場所字幕を渡航記録や大会要項の外部検証にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_CHAPTER_LABEL_AND_TRANSITION_LOW_FOR_PRODUCT_TRAVEL_AND_EVENT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9810,
+        9975
+      ],
+      "observed": "sheet110〜111。空港外と車内の独白からポーカー会場へ入り、胸元へスポンサー表示らしき札を付ける。火球状ブリッジ後、過去に告知したパーカーのプレゼント企画と連絡方法を赤字幕で説明する。",
+      "limits": "空港、渡航、大会、スポンサー、契約、ロゴ、提供、プレゼント条件、当選者、連絡先、配布、権利は未確認。画面内のLINE等へ連絡せず、アカウントや個人情報を転載しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SPONSOR_AND_CAMPAIGN_LABELS_LOW_FOR_CONTRACT_FULFILLMENT_PRIVACY_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        9990,
+        10155
+      ],
+      "observed": "sheet112〜113。プレゼント企画後、飲食場面を挟んで左上を『海外密着 トリトン編 2日目』へ替え、会場で『$15K NLH 8-HANDED day1』の大型黄見出しを出す。黒地の『遂に開幕』カードから、本人写真付きHUDと匿名相手欄を重ねた実戦へ入る。",
+      "limits": "飲食店、同行者、プレゼント、大会名、参加費、通貨、日程、形式、本人登録、局のカード/アクション/結果、素材権利は未確認。『当たり卓などない』等の字幕を客観的な卓評価にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_DAY_LABEL_EVENT_TITLE_AND_HUD_LOW_FOR_EVENT_HAND_AND_RIGHTS_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10170,
+        10425
+      ],
+      "observed": "sheet114〜116。本人のK♠K♣、10♠10♥、A♦J♦を順に表示し、匿名相手欄、Pot/Blinds、RAISE/BET/CALL/CHECK/FOLD/WIN/LOSEと大型色字幕で複数ハンドを構成する。",
+      "limits": "静止点で見えるカード、アクション、Pot、勝敗表示は局別に分離する。全アクション、実チップ、サイドポット、役、正確な勝敗、収支、残高を補完せず、匿名相手のカードや人物情報を生成しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_HUD_STATES_LOW_FOR_COMPLETE_HAND_HISTORY_AND_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        10440,
+        10605
+      ],
+      "observed": "sheet117〜118。A♦J♦局の後半からポット獲得表示へ進み、会場内の短い対話を挟んでA♣A♥局へ移る。本人写真付きHUD、匿名相手欄、ボード、Pot/Blinds、大型赤字幕で進行を示す。",
+      "limits": "A♦J♦局とA♣A♥局を分離し、全アクション、相手カード、役、結果、チップ増減、収支を静止点間から補完しない。会場内の人物紹介、戦績、賞金、権利も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_HUD_SEQUENCE_LOW_FOR_HAND_COMPLETENESS_RESULTS_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        10620,
+        10680
+      ],
+      "observed": "sheet119。A♣A♥局をWIN表示で終え、会場で対戦相手らしき人物と話す場面、次回予告風の短い卓映像を置き、最後は別撮りの人物を前にチャンネル登録を促すカードで締める。",
+      "limits": "局の全履歴、相手、戦績グラフィック、賞金、次回内容、登録施策、出演条件、素材権利は未確認。動画尺10699.73秒に対し最終公称グリッドは10680秒で、末尾約19.73秒の映像、保持、音、終了フレームは未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_END_SEQUENCE_LOW_FOR_HAND_PROFILE_PROMOTION_AND_UNSAMPLED_TAIL"
     }
   ],
   "limitations": [
     "公称時刻±7.5秒の静止サンプル。区間全フレームの目視・音声聴取ではない。",
     "章の範囲はサンプル分布であり正確なIN/OUTではない。",
     "視聴済みを確認画像のない区間へ外挿しない。",
-    "総集編と元回の重複照合は未完了。"
+    "総集編と元回の重複照合は未完了。",
+    "動画尺10699.73秒に対し最終公称グリッドは10680秒。末尾約19.73秒はグリッド画像がなく未確認。"
   ],
   "review_batches": [
     {
@@ -756,6 +834,20 @@
       "nominal_grid_s": [
         8640,
         9705
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        109,
+        119
+      ],
+      "frame_count": 65,
+      "nominal_grid_s": [
+        9720,
+        10680
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
