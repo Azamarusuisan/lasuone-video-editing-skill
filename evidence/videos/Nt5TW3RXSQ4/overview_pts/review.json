@@ -1,0 +1,251 @@
+{
+  "video_id": "Nt5TW3RXSQ4",
+  "reference_video": "https://www.youtube.com/watch?v=Nt5TW3RXSQ4",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 30,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "DAILY_CHALLENGE",
+    "UNDERGROUND_WORK",
+    "OFFICE_CHECK_IN",
+    "WHITEBOARD",
+    "STAFF_REACTION",
+    "BUSINESS_PROGRESS"
+  ],
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2
+      ],
+      "observed": "『ラスベガス100日チャレンジ』の設計表紙からオフィスへ切り替え、ピンクの発光風『社長』ラベルで話者を導入する。",
+      "limits": "表紙画像の制作方法、生成有無、人物本人性、素材権利は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22
+      ],
+      "observed": "ホワイトボード前の人物へ前日の売上を尋ね、2件・30万円と表示する黄色い角丸カードを2項目出した後、合計が60万円ほどで日次100万円へ足りないという会話を黄字幕で続ける。",
+      "limits": "2項目の名称、件数、金額、計上時期、売上・利益の別、合計は画面上の説明で、会計資料や実績として検証していない。"
+    },
+    {
+      "sample_requested_s": [
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38
+      ],
+      "observed": "ホワイトボードへ寄り、社員のラスベガス参加、プレイヤー、WSOPのポーカー、ステーキング、WSOPメインなどの候補らしい語を指しながら、必要額や実現方法を話す。",
+      "limits": "手書き文字、金額、人数、参加大会、資金提供、契約、旅程、実行状況は静止画だけでは確定しない。"
+    },
+    {
+      "sample_requested_s": [
+        40,
+        42,
+        44,
+        46,
+        48
+      ],
+      "observed": "カメラをオフィス全体へ振って参加希望者を尋ね、複数の着席人物の返答を水色・黄色の字幕で拾う。48秒でホワイトボード前の人物へ戻る。",
+      "limits": "人物の氏名、雇用関係、希望の本気度、選考、参加確定、撮影・公開同意は未確認。PC画面や机上情報は転記しない。"
+    },
+    {
+      "sample_requested_s": [
+        50,
+        52,
+        54,
+        56,
+        58
+      ],
+      "observed": "ポーカーを勉強する必要や準備を話し、黄色字幕を中心に、最後の短い返答を赤い縁取り文字で強調して締める。",
+      "limits": "発話全文、準備内容、役割、技能、参加・資金提供の確定、正確なオチと音は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_sales_and_plan_statements": "HIGH",
+    "business_financial_accuracy": "LOW",
+    "travel_tournament_and_staking_plan": "LOW",
+    "participant_identity_employment_and_consent": "UNKNOWN",
+    "daily_series_format": "MEDIUM",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "30点の2秒間隔静止画目視であり、59.51秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。字幕、カメラ移動、話者交代、素材カットの開始・終了とは異なる。",
+    "最終サンプルはsource PTS 58.000秒。動画尺59.51秒に対する最後の約1.51秒と全サンプル間は未視聴。",
+    "人物、会社、売上、利益、計画、ホワイトボード、PC画面、素材権利は未確認。"
+  ]
+}
