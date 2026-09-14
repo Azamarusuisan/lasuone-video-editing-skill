@@ -1,7 +1,7 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T10:33:17.000Z",
+  "updated_at": "2026-09-14T10:36:41.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 713,
@@ -101,23 +101,35 @@
     93,
     94,
     95,
-    96
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    576
+    648
   ],
-  "reviewed_frame_count": 576,
+  "reviewed_frame_count": 648,
   "reviewed_nominal_grid_s": [
     0,
-    8625
+    9705
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 97,
+  "next_sheet": 109,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -558,6 +570,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_NESTED_BROADCAST_LAYOUT_LOW_FOR_HAND_COMPLETENESS_STRATEGY_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        8640,
+        8805
+      ],
+      "observed": "sheet97〜98。APT HANOI BILLIONS 2023表記の配信解説を継続し、本人小窓、カード/アクション/Pot/Blindsの配信HUD、黄と青の大型説明字幕でハンドの進行と戦略を振り返る。",
+      "limits": "参加者、カード、全アクション、役、結果、スタック、賞金、戦略の正確性は未確認。誕生日や運量に触れる字幕を因果説明にせず、配信映像、ロゴ、HUD、参加者の権利もUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_NESTED_BROADCAST_LAYOUT_LOW_FOR_HAND_STRATEGY_CAUSALITY_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        8820,
+        9075
+      ],
+      "observed": "sheet99〜101。事務所トークからPokerGO表記の2023 WSOP配信へ切り替え、5,000ドルNLH、735人参加、ファイナルテーブル残り4人という番組側の説明を出す。本人小窓と黄/赤の大型戦略字幕を重ね、複数局面を往復する。",
+      "limits": "大会要項、通貨換算、参加者数、残人数、カード、Pot、アクション、結果、順位、賞金は外部照合していない。戦略解説を普遍的最適解にせず、配信映像、ロゴ、参加者、HUDの権利はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_NESTED_BROADCAST_AND_LABELS_LOW_FOR_EVENT_HAND_STRATEGY_AND_RIGHTS_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9090,
+        9255
+      ],
+      "observed": "sheet102〜103。配信解説後、屋外で占い師を訪ねる企画を説明し、室内で『占い師からのお言葉』や本人の過去世、車内の霊等を白い情報パネルに表示する。続いて車で移動し、屋外でスマートフォンを確認する。",
+      "limits": "占い師、予言、霊、過去世、勝負結果との因果、場所、人物、料金、同意、撮影権利を未確認。情報パネルを事実、健康・安全判断、行動指示にせず、個人情報やセンシティブな主張を転載しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_FORTUNE_TELLING_LABELS_LOW_FOR_CLAIM_IDENTITY_AND_RIGHTS_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9270,
+        9435
+      ],
+      "observed": "sheet104〜105。屋外の寺院らしき場所の後、紙袋と多数の同形の束または箱を卓上に並べ、次のトーナメント資金、予算、支援への謝意を話す。最後は黒地の視聴者向け謝辞カードで区切る。",
+      "limits": "場所、束/箱の内容、額、所有、受領、寄付、貸付、予算、トーナメント資金、提供者、精算は未確認。見た目から現金や金券と断定せず、謝辞字幕を契約・支払・資金移動の証明にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_DISPLAY_AND_CLOSING_CARD_LOW_FOR_CONTENT_AND_FINANCIAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9450,
+        9705
+      ],
+      "observed": "sheet106〜108。大会の優勝場面らしき短い映像から美容施設の案内、顔の施術、施術後の会話へ進む。その後は別室で衣類や装置を使う身体実演を見せ、一部を大きくぼかし、粒子やプラズマに触れる大型字幕を置いて夜景で区切る。",
+      "limits": "大会、人物、優勝、賞金、美容施設、施術内容、効果、安全性、商品、粒子、プラズマ、再現性、装置、ぼかし内部は未確認。健康・科学的主張を認定せず、画面内の連絡先や個人情報を転載しない。施術/接触同意と素材権利もUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_AND_PRIVACY_TREATMENT_LOW_FOR_EVENT_HEALTH_SCIENCE_AND_RIGHTS_VALIDATION"
     }
   ],
   "limitations": [
@@ -675,6 +742,20 @@
       "nominal_grid_s": [
         7560,
         8625
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        97,
+        108
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        8640,
+        9705
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
