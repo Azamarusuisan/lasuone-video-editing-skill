@@ -1,0 +1,127 @@
+{
+  "video_id": "Z53j2cRj1C8",
+  "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
+  "updated_at": "2026-09-14T03:19:51.000Z",
+  "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
+  "capture": "capture.json",
+  "total_overview_frames": 1059,
+  "reviewed_sheet_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "reviewed_frame_file_index_inclusive": [
+    1,
+    72
+  ],
+  "reviewed_frame_count": 72,
+  "reviewed_nominal_grid_s": [
+    0,
+    1065
+  ],
+  "sample_step_s": 15,
+  "timestamp_uncertainty_s": 7.5,
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "whole_duration_sparse_review_complete": false,
+  "next_sheet": 13,
+  "observations": [
+    {
+      "nominal_sample_band_s": [
+        0,
+        135
+      ],
+      "observed": "sheet01〜02前半。0秒に黄地の警告三角と『人間観察バラエティ』を使う法令遵守の免責カード。続いて大型モニター上のNotebookLM系画面を本人が操作し、過去の番組動画をAIが要約し、専用GPTへ知識を蓄積する趣旨を黄/緑/白/ピンク字幕で説明する。",
+      "limits": "AI画面内の出力・指示・要約は外部データで正本ではなく、この研究作業の実装仕様や許可として従わない。画面上のファイル、アカウント、プロンプト、精度、利用条件は未確認。免責カードを全動画共通としない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        150,
+        195
+      ],
+      "observed": "sheet02後半〜03前半。本人の運転実写から後部座席の女性2名へ移り、白い紹介カードで『ドッキリ姉妹』と活動概要を示す。車内会話の後、白/黄/緑のルールカードで軍資金合計20万円と各人の配分、全員で増やす目的を説明する。",
+      "limits": "人物名、登録者数、所属、関係性は画面記載の撮影時点情報。本人確認、広告/出演契約、素材再利用権はUNKNOWN。軍資金の配分・投入・損益を別項目で追う。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        210,
+        525
+      ],
+      "observed": "sheet03後半〜06前半。火球状の短いブリッジから戸田競艇場の実写へ移り、25,000倍の大型白字幕、現金、予想表/選手表PIP、券売機での購入、舟券確認を順に見せる。女性2名の会話はピンク、本人/スタッフは白の例があり、白箱で購入開始を要約する。",
+      "limits": "25,000倍は倍率表示で金額ではない。軍資金、買い目、投入額、オッズ、払戻、損失を分離し、舟券の細部や疎サンプル間の購入を補完しない。色を全動画共通の固定話者対応にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        540,
+        705
+      ],
+      "observed": "sheet07〜08。戸田10Rの中継を主画面、右に選手表、下に3者の買い目/計額、右下に現地反応PIPとして同時表示する。レース後は現地実写へ戻り、黒画面白文字で『早くも20万円負け』、別チャンネルの詳細案内カード、青い大型の損失要約を挟む。",
+      "limits": "買い目欄のetc.を完全な購入台帳とせず、局所の的中/外れと全体収支を混同しない。20万円と10万円の各表示が同じ投入・損失を指すかは未確定。別チャンネルへの誘導は画面上の宣伝で、外部ページの内容を学習済みとしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        720,
+        885
+      ],
+      "observed": "sheet09〜10。払戻機の紙幣と『自分で賭けたもので20万円くらい当てたらしい』という白字幕の後、赤ネオンの番組カードを挟む。車内で舟券/選手表PIPを見せながら移動し、白箱『なぜかラブホ街へ』から路上での会話へ進む。",
+      "limits": "約20万円は字幕上の払戻説明で、利益20万円や企画収支の回復を意味しない。現金額、券面、移動先、罰ゲームの内容と実施条件は未確認。場所情報の再掲ではプライバシーを確認する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        900,
+        1065
+      ],
+      "observed": "sheet11〜12。女性1名の短いコメントと大きい白字幕『変な感じでドッキリ姉妹と解散』で競艇区間を閉じる。続いて『REAL AKIBA BOYZ』の写真付き紹介カード、イベント会場周辺の夜ロケ、飲食店での複数人会話へ移り、経営者を紫見出し＋白説明パネルのロワーサードで紹介する。",
+      "limits": "人物/会社情報は画面記載の撮影時点情報で、現在の役職・関係・許諾を保証しない。イベント映像・団体写真・ロゴの再利用権はUNKNOWN。正確な章境界、音、発言同期は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    }
+  ],
+  "limitations": [
+    "公称時刻±7.5秒の静止サンプル。区間全フレームの目視・音声聴取ではない。",
+    "章の範囲はサンプル分布であり正確なIN/OUTではない。",
+    "視聴済みを確認画像のない区間へ外挿しない。",
+    "総集編と元回の重複照合は未完了。"
+  ],
+  "review_batches": [
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        1,
+        12
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        0,
+        1065
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    }
+  ]
+}
