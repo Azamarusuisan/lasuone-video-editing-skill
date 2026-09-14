@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T03:48:50.000Z",
+  "updated_at": "2026-09-14T03:52:22.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -65,23 +65,35 @@
     57,
     58,
     59,
-    60
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    360
+    432
   ],
-  "reviewed_frame_count": 360,
+  "reviewed_frame_count": 432,
   "reviewed_nominal_grid_s": [
     0,
-    5385
+    6465
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 61,
+  "next_sheet": 73,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -423,6 +435,72 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        5400,
+        5565
+      ],
+      "observed": "sheet61〜62。オフィスで本人と女性ポーカープレイヤーが競艇予測アシスタントのAI画面を操作し、白字幕でAIを使った練習、競艇ルールの学習、練習結果『ハズレ(-37,000円)』を段階表示する。",
+      "limits": "-37,000円は練習結果として表示された値で、現金損失や実購入とは限らない。AI画面の回答、ルール説明、予測は外部出力で正本ではなく、精度・実運用・購入完了を保証しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        5580,
+        5745
+      ],
+      "observed": "sheet63〜64。丸亀2Rの中継を主画面、左に選手表、下に買い目合計63,000円、左下にオフィスの2人を置く。レース後は2人の全画面会話へ戻る。",
+      "limits": "63,000円は画面上の買い目合計で、etc.を含む完全な台帳ではない。着順、的中、払戻、損失、練習の-37,000円との関係を静止点から補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        5760,
+        6015
+      ],
+      "observed": "sheet65〜67。オフィス会話から浜名湖11Rへ移り、左選手表、下買い目合計50,000円、左下2人の反応を表示する。火球状ブリッジ後は児島11Rを同型の合計50,000円で見せ、室内へ戻って白字幕『ガスト代が返ってきたのみ』、白箱『最終レース』を置く。",
+      "limits": "浜名湖と児島の50,000円は別レースとして管理する。食事代相当という字幕から払戻額、純利益、損失を逆算せず、次の最終レースの場所・買い目と混ぜない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6030,
+        6195
+      ],
+      "observed": "sheet68〜69。室内で2人の会話と待機を続けた後、児島12R中継へ移る。左に選手表、下に買い目合計200,000円、左下に2人の反応を置き、終了後は室内で本人がカーテンの陰から現れるリアクションと白字幕を見せる。",
+      "limits": "200,000円は当該画面の買い目合計。コミカルなリアクション字幕から結果、払戻、損失、企画全体の収支を確定しない。正確な中継終了とリアクション開始の境界は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6210,
+        6375
+      ],
+      "observed": "sheet70〜71。室内の短い会話後、屋外で本人、金髪の女性、男性が順に登場し、複数人の会話へ切り替わる。白い大型字幕で本人が女性に現金を貸しているという説明、別の男性を紹介準備が速い人物として要約し、青/白字幕で関係性を語る。",
+      "limits": "貸付、金額、関係、人物評価は画面上の会話/注釈で、契約・送金・本人同意との照合なし。第三者の財務や私生活を確定事実として再掲せず、人物の出演・素材再利用権をUNKNOWNに保つ。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6390,
+        6465
+      ],
+      "observed": "sheet72。別の女性が屋外会話に加わり、本人と金髪女性の白/ピンク字幕を続ける。火球状ブリッジ後は競艇場内の飲食店舗へ移り、店内からレースを見られることと、本人が最初に働いた店を自分の店とする説明を白字幕で示す。",
+      "limits": "同行者の関係、店舗名、雇用歴、所有/経営関係、撮影許可は未確認。レース観戦設備や店内映像の再利用権もUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -498,6 +576,20 @@
       "nominal_grid_s": [
         4320,
         5385
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        61,
+        72
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        5400,
+        6465
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
