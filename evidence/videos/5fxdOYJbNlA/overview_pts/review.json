@@ -1,0 +1,243 @@
+{
+  "video_id": "5fxdOYJbNlA",
+  "reference_video": "https://www.youtube.com/watch?v=5fxdOYJbNlA",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 29,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "POKER_BROADCAST_RECUT",
+    "PREFLOP_ALL_IN",
+    "STACKED_HUD",
+    "RED_TEMPLATE_VARIANT"
+  ],
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2
+      ],
+      "observed": "本人の笑顔と両腕を広げる動作へ、赤い『この男の必殺技炸裂！』を重ねる先行カット。",
+      "limits": "発話、動作の開始・終了、原配信との時系列は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14
+      ],
+      "observed": "上部に外部ポーカー配信らしい映像、下部に二人の顔写真・AとK対10と9・勝率、ボード、Potを積む。濃赤の画面枠と上端の白い『必殺技炸裂！』を固定し、本人側RAISE 325K、相手側3-BET 1.25M、Pot 1.895Mへ更新する。",
+      "limits": "人物名、スート、位置、Blinds、スタック、配信元、大会を原配信・公式記録と照合していない。映像・ロゴ・HUDの再利用権はUNKNOWN。",
+      "rights_status": "UNKNOWN"
+    },
+    {
+      "sample_requested_s": [
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34
+      ],
+      "observed": "本人側ALL-IN 5.635M、Pot 7.205Mを長く保持し、相手のCALL後にPot 11.59Mへ更新する。上部映像は両者の寄りと同画面分割を切り替え、実況風の白文字を一時的に重ねる。",
+      "limits": "全アクション、実コール額、Pot計算、実況内容、戦略は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        36,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "observed": "卓全体、相手、本人、ボード表示を切り替え、Q・Q・8のフロップを下段ボードへ反映する。36秒には青い反応字幕、46秒には本人の大型青文字反応を上部映像へ重ねる。",
+      "limits": "字幕の正確な文言・話者・音同期、スート、役、勝率計算は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        48,
+        50,
+        52,
+        54,
+        56
+      ],
+      "observed": "ターン10、リバー4を追加して勝率を23%対77%へ変え、56秒で相手LOSE 0%・本人WIN 100%と『ナチュラル9。』を表示する。",
+      "limits": "『ナチュラル9。』は画面上の反応表現で、ポーカーの正式な役名やバカラの局情報へ変換しない。Pot分配、賞金、純利益は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_hand_result": "HIGH",
+    "complete_hand_history": "LOW",
+    "cross_video_layout_tendency": "HIGH_WITHIN_REVIEWED_BROADCAST_RECUT_SHORTS",
+    "fixed_palette_generalization": "REJECTED_BY_COUNTEREXAMPLE",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "29点の2秒間隔静止画目視であり、56.59秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。アクション、ボード、勝率、Pot、字幕、反応の開始・終了とは異なる。",
+    "最終サンプルはsource PTS 56.000秒。動画尺56.59秒に対する最後の約0.59秒と全サンプル間は未視聴。",
+    "外部配信の人物、大会、全カード・アクション、Pot精算、賞金、戦略、映像・ロゴ・HUD権利は未確認。"
+  ]
+}
