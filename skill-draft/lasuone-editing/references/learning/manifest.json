@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-09-14T10:46:09.120941+09:00",
+  "snapshot_date": "2026-09-14T19:32:00+09:00",
   "provenance_root": "../..",
   "media_bundled": false,
   "external_evidence_note": "Research video/audio/frame files are not bundled. URLs, video IDs, timecodes, and evidence paths inside the documents are references only.",
@@ -12,7 +12,7 @@
     {
       "path": "references/learning/CHANNEL_EDITING_BIBLE.md",
       "source_relative_path": "CHANNEL_EDITING_BIBLE.md",
-      "sha256": "554e691e788937b7963159d941895e3bd3e8f01f5643df80a6d0d074e7dfe07e"
+      "sha256": "3b6029c36d116505402b93cdacb83abf90322ae3d8ad66f1a5ed6436dd8c07ef"
     },
     {
       "path": "references/learning/QUALITY_CHECKLIST.md",

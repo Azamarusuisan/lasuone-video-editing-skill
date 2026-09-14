@@ -1,7 +1,7 @@
 {
   "video_id": "N2ecdYXYaXw",
   "reference_video": "https://www.youtube.com/watch?v=N2ecdYXYaXw",
-  "updated_at": "2026-09-14T10:23:00.000Z",
+  "updated_at": "2026-09-14T10:29:51.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 713,
@@ -77,23 +77,35 @@
     69,
     70,
     71,
-    72
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    432
+    504
   ],
-  "reviewed_frame_count": 432,
+  "reviewed_frame_count": 504,
   "reviewed_nominal_grid_s": [
     0,
-    6465
+    7545
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 73,
+  "next_sheet": 85,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -424,6 +436,61 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_LOCATION_CAUSALITY_AND_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        6480,
+        6645
+      ],
+      "observed": "sheet73〜74。飲食店で予想を確認した後、児島7R表記の中継へ移る。左に選手表、下に買い目合計4万5,000円、左下に現地反応PIPを置き、レース後は券面や端末を確認して別室で会話する。",
+      "limits": "予想方法、買い目全件、購入、着順、的中、払戻、損益は未確認。別室の『50貸すよ』という字幕は対象、単位、受け渡し、返済、実投入が不明で、貸付事実や金額へ確定しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_SETTLEMENT_AND_FINANCIAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        6660,
+        6915
+      ],
+      "observed": "sheet75〜77。火球状ブリッジ後、暗い室内で置物とスマートフォンを見せ、『3つ数字を言った』『3-5-6』という字幕を置く。ラウンジへ戻って券面を示し、レース中継と参加者の反応を続ける。",
+      "limits": "置物が数字を示す仕組み、予想との因果、数字の用途、券面、買い目、レース、着順、的中、払戻、損益は未確認。超常的効果や予測精度を認定せず、静止点間から結果を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_CAUSALITY_AND_SETTLEMENT"
+    },
+    {
+      "nominal_sample_band_s": [
+        6930,
+        7185
+      ],
+      "observed": "sheet78〜80。黒地の『しかしその後当たらず…』からラウンジ、車移動を経て、複数人がいる室内で商品または機器を実演する。中央付近を大きくぼかした画面、『撮影は出来ないがここに機械がある』『ただ商品はめちゃくちゃ良い』等の字幕、検査や身体への貼付を示す説明が見える。終盤はカード卓のある別室へ移る。",
+      "limits": "30万円に見える発言字幕の対象、期間、投入、損失、残高は未確認。ぼかしの内側、機器、商品、事業者、検査、がん、健康効果、診断性能、安全性、再現性を推定・検証済みにしない。人物名、連絡先、健康情報を転載せず、参加者の同意と素材権利もUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_PRIVACY_TREATMENT_LOW_FOR_MEDICAL_PRODUCT_AND_FINANCIAL_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        7200,
+        7365
+      ],
+      "observed": "sheet81〜82。ヤニブ卓の短い場面からRFID POKER ROOM表記の紫卓へ移り、卓上カメラ、参加者別カード/勝率HUD、ボード表示、別モニターを見る人物の小窓を使って一つのポーカーハンドを解説する。",
+      "limits": "冒頭ヤニブの勝敗・精算と、ポーカーの参加者、全アクション、役、最終結果、点数、賞金を未確認。『真実はいつも1つ』等の字幕は説明演出で、RFID表示や戦略の正確性・一般性を証明しない。配信画面、ロゴ、参加者映像の権利もUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_REPLAY_LAYOUT_LOW_FOR_HAND_COMPLETENESS_AND_RIGHTS"
+    },
+    {
+      "nominal_sample_band_s": [
+        7380,
+        7545
+      ],
+      "observed": "sheet83〜84。飲食店での会話から商業施設内で同行者を紹介し、複数人への挨拶、舞台または客席の確認を挟む。火球状ブリッジ後、緑のカード卓前に座る本人へのスタッフ質問と、過去の職歴等を説明する大型白字幕を置いたインタビューへ移る。",
+      "limits": "人物名、役職、勤務先、雇用、10万円に見える発言の対象、贈答、契約、施設、催事、職歴、実績、出演条件は未確認。字幕上の経歴を外部検証済みの事実にせず、正確な章境界と音も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SEQUENCE_LOW_FOR_IDENTITY_EMPLOYMENT_AND_FINANCIAL_VALIDATION"
     }
   ],
   "limitations": [
@@ -513,6 +580,20 @@
       "nominal_grid_s": [
         5400,
         6465
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        73,
+        84
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        6480,
+        7545
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
