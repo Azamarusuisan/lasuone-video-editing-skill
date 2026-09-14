@@ -1,8 +1,8 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T09:10:11.000Z",
-  "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
+  "updated_at": "2026-09-14T09:17:12.000Z",
+  "status": "FULL_MANUAL_REVIEW_OF_OVERVIEW_GRID_COMPLETE",
   "capture": "capture.json",
   "total_overview_frames": 1059,
   "reviewed_sheet_numbers": [
@@ -173,23 +173,32 @@
     165,
     166,
     167,
-    168
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    1008
+    1059
   ],
-  "reviewed_frame_count": 1008,
+  "reviewed_frame_count": 1059,
   "reviewed_nominal_grid_s": [
     0,
-    15105
+    15870
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
-  "whole_duration_sparse_review_complete": false,
-  "next_sheet": 169,
+  "whole_duration_sparse_review_complete": true,
+  "next_sheet": null,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -1202,6 +1211,50 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        15120,
+        15300
+      ],
+      "observed": "sheet169〜171冒頭。6♠5♠の局で本人のBET/ALL-INとPot 108K、続くA♠3♦対K♠8♠のオールインと生存要約、A♠9♥対10♥10♦のオールインとPot 478Kを表示し、その後チップが減ったという字幕へ進む。",
+      "limits": "各局の全アクション、ボード、役、勝率、最終結果、Pot確定時点、チップ移動を独立検証しない。生存要約やチップ減少字幕を賞金・純損益へ変換しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        15315,
+        15420
+      ],
+      "observed": "sheet171後半〜172前半。本人Q♠7♠が327Kをオールインし、相手A♣6♥のCALL、Pot 666K、フロップ表示、本人の反応まで追う。その後はフーコック5日目の屋外ロケへ切り替える。",
+      "limits": "オールイン局の最終ボード、勝敗、順位、賞金、精算は未確認。直後の反応字幕を確定結果へ置き換えず、正確な章境界と音も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RESULT_VALIDATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        15435,
+        15720
+      ],
+      "observed": "sheet172後半〜175。フーコック5日目として屋外で女性出演者と合流し、プール/海辺、サファリ施設の移動、動物観察、動物との接触を会話字幕とリアクション中心でつなぐ。",
+      "limits": "出演者の関係、施設、企画条件、動物種/扱い、撮影許可、素材再利用権は未確認。ポーカーや後続テーブルゲームの情報をこの観光区間へ持ち込まない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_RIGHTS_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        15735,
+        15870
+      ],
+      "observed": "sheet175後半〜177。サファリ後にテーブルゲーム施設のバカラ実写、宿泊施設のプールでの振り返りへ移る。最後は『2024年 ギャンブル総収支』カードで、軍資金1億円開始から約1億1,000万円負けという番組内集計を表示する。",
+      "limits": "バカラの賭け金、カード、勝敗、払戻は未確認。年間集計はポーカー、麻雀、競馬、競艇、サイド等を含む画面上の自己集計で、会計・期間・通貨換算・重複・追加資金の照合なし。局別表示から再計算せず、最後の12.81秒はグリッド画像がなく未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_SUMMARY_LOW_FOR_ACCOUNTING_VALIDATION"
     }
   ],
   "limitations": [
@@ -1403,6 +1456,20 @@
       "nominal_grid_s": [
         14040,
         15105
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        169,
+        177
+      ],
+      "frame_count": 51,
+      "nominal_grid_s": [
+        15120,
+        15870
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
