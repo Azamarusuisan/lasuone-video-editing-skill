@@ -1,0 +1,890 @@
+{
+  "video_id": "6MmoXPWO9Mg",
+  "reference_video": "https://www.youtube.com/watch?v=6MmoXPWO9Mg",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 76,
+  "reviewed_sheet_count": 13,
+  "sample_step_s": 15,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000015000.jpg",
+      "requested_s": 15,
+      "time_s": 15.015
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.03
+    },
+    {
+      "file": "frame_000045000.jpg",
+      "requested_s": 45,
+      "time_s": 45.003
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.018
+    },
+    {
+      "file": "frame_000075000.jpg",
+      "requested_s": 75,
+      "time_s": 75.033
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.007
+    },
+    {
+      "file": "frame_000105000.jpg",
+      "requested_s": 105,
+      "time_s": 105.022
+    },
+    {
+      "file": "frame_000120000.jpg",
+      "requested_s": 120,
+      "time_s": 120.037
+    },
+    {
+      "file": "frame_000135000.jpg",
+      "requested_s": 135,
+      "time_s": 135.01
+    },
+    {
+      "file": "frame_000150000.jpg",
+      "requested_s": 150,
+      "time_s": 150.025
+    },
+    {
+      "file": "frame_000165000.jpg",
+      "requested_s": 165,
+      "time_s": 165.04
+    },
+    {
+      "file": "frame_000180000.jpg",
+      "requested_s": 180,
+      "time_s": 180.013
+    },
+    {
+      "file": "frame_000195000.jpg",
+      "requested_s": 195,
+      "time_s": 195.028
+    },
+    {
+      "file": "frame_000210000.jpg",
+      "requested_s": 210,
+      "time_s": 210.001
+    },
+    {
+      "file": "frame_000225000.jpg",
+      "requested_s": 225,
+      "time_s": 225.016
+    },
+    {
+      "file": "frame_000240000.jpg",
+      "requested_s": 240,
+      "time_s": 240.031
+    },
+    {
+      "file": "frame_000255000.jpg",
+      "requested_s": 255,
+      "time_s": 255.005
+    },
+    {
+      "file": "frame_000270000.jpg",
+      "requested_s": 270,
+      "time_s": 270.02
+    },
+    {
+      "file": "frame_000285000.jpg",
+      "requested_s": 285,
+      "time_s": 285.035
+    },
+    {
+      "file": "frame_000300000.jpg",
+      "requested_s": 300,
+      "time_s": 300.008
+    },
+    {
+      "file": "frame_000315000.jpg",
+      "requested_s": 315,
+      "time_s": 315.023
+    },
+    {
+      "file": "frame_000330000.jpg",
+      "requested_s": 330,
+      "time_s": 330.038
+    },
+    {
+      "file": "frame_000345000.jpg",
+      "requested_s": 345,
+      "time_s": 345.011
+    },
+    {
+      "file": "frame_000360000.jpg",
+      "requested_s": 360,
+      "time_s": 360.026
+    },
+    {
+      "file": "frame_000375000.jpg",
+      "requested_s": 375,
+      "time_s": 375
+    },
+    {
+      "file": "frame_000390000.jpg",
+      "requested_s": 390,
+      "time_s": 390.015
+    },
+    {
+      "file": "frame_000405000.jpg",
+      "requested_s": 405,
+      "time_s": 405.03
+    },
+    {
+      "file": "frame_000420000.jpg",
+      "requested_s": 420,
+      "time_s": 420.003
+    },
+    {
+      "file": "frame_000435000.jpg",
+      "requested_s": 435,
+      "time_s": 435.018
+    },
+    {
+      "file": "frame_000450000.jpg",
+      "requested_s": 450,
+      "time_s": 450.033
+    },
+    {
+      "file": "frame_000465000.jpg",
+      "requested_s": 465,
+      "time_s": 465.006
+    },
+    {
+      "file": "frame_000480000.jpg",
+      "requested_s": 480,
+      "time_s": 480.021
+    },
+    {
+      "file": "frame_000495000.jpg",
+      "requested_s": 495,
+      "time_s": 495.036
+    },
+    {
+      "file": "frame_000510000.jpg",
+      "requested_s": 510,
+      "time_s": 510.01
+    },
+    {
+      "file": "frame_000525000.jpg",
+      "requested_s": 525,
+      "time_s": 525.025
+    },
+    {
+      "file": "frame_000540000.jpg",
+      "requested_s": 540,
+      "time_s": 540.04
+    },
+    {
+      "file": "frame_000555000.jpg",
+      "requested_s": 555,
+      "time_s": 555.013
+    },
+    {
+      "file": "frame_000570000.jpg",
+      "requested_s": 570,
+      "time_s": 570.028
+    },
+    {
+      "file": "frame_000585000.jpg",
+      "requested_s": 585,
+      "time_s": 585.001
+    },
+    {
+      "file": "frame_000600000.jpg",
+      "requested_s": 600,
+      "time_s": 600.016
+    },
+    {
+      "file": "frame_000615000.jpg",
+      "requested_s": 615,
+      "time_s": 615.031
+    },
+    {
+      "file": "frame_000630000.jpg",
+      "requested_s": 630,
+      "time_s": 630.004
+    },
+    {
+      "file": "frame_000645000.jpg",
+      "requested_s": 645,
+      "time_s": 645.019
+    },
+    {
+      "file": "frame_000660000.jpg",
+      "requested_s": 660,
+      "time_s": 660.034
+    },
+    {
+      "file": "frame_000675000.jpg",
+      "requested_s": 675,
+      "time_s": 675.008
+    },
+    {
+      "file": "frame_000690000.jpg",
+      "requested_s": 690,
+      "time_s": 690.023
+    },
+    {
+      "file": "frame_000705000.jpg",
+      "requested_s": 705,
+      "time_s": 705.038
+    },
+    {
+      "file": "frame_000720000.jpg",
+      "requested_s": 720,
+      "time_s": 720.011
+    },
+    {
+      "file": "frame_000735000.jpg",
+      "requested_s": 735,
+      "time_s": 735.026
+    },
+    {
+      "file": "frame_000750000.jpg",
+      "requested_s": 750,
+      "time_s": 750.041
+    },
+    {
+      "file": "frame_000765000.jpg",
+      "requested_s": 765,
+      "time_s": 765.014
+    },
+    {
+      "file": "frame_000780000.jpg",
+      "requested_s": 780,
+      "time_s": 780.029
+    },
+    {
+      "file": "frame_000795000.jpg",
+      "requested_s": 795,
+      "time_s": 795.003
+    },
+    {
+      "file": "frame_000810000.jpg",
+      "requested_s": 810,
+      "time_s": 810.018
+    },
+    {
+      "file": "frame_000825000.jpg",
+      "requested_s": 825,
+      "time_s": 825.033
+    },
+    {
+      "file": "frame_000840000.jpg",
+      "requested_s": 840,
+      "time_s": 840.006
+    },
+    {
+      "file": "frame_000855000.jpg",
+      "requested_s": 855,
+      "time_s": 855.021
+    },
+    {
+      "file": "frame_000870000.jpg",
+      "requested_s": 870,
+      "time_s": 870.036
+    },
+    {
+      "file": "frame_000885000.jpg",
+      "requested_s": 885,
+      "time_s": 885.009
+    },
+    {
+      "file": "frame_000900000.jpg",
+      "requested_s": 900,
+      "time_s": 900.024
+    },
+    {
+      "file": "frame_000915000.jpg",
+      "requested_s": 915,
+      "time_s": 915.039
+    },
+    {
+      "file": "frame_000930000.jpg",
+      "requested_s": 930,
+      "time_s": 930.012
+    },
+    {
+      "file": "frame_000945000.jpg",
+      "requested_s": 945,
+      "time_s": 945.027
+    },
+    {
+      "file": "frame_000960000.jpg",
+      "requested_s": 960,
+      "time_s": 960.001
+    },
+    {
+      "file": "frame_000975000.jpg",
+      "requested_s": 975,
+      "time_s": 975.016
+    },
+    {
+      "file": "frame_000990000.jpg",
+      "requested_s": 990,
+      "time_s": 990.031
+    },
+    {
+      "file": "frame_001005000.jpg",
+      "requested_s": 1005,
+      "time_s": 1005.004
+    },
+    {
+      "file": "frame_001020000.jpg",
+      "requested_s": 1020,
+      "time_s": 1020.019
+    },
+    {
+      "file": "frame_001035000.jpg",
+      "requested_s": 1035,
+      "time_s": 1035.034
+    },
+    {
+      "file": "frame_001050000.jpg",
+      "requested_s": 1050,
+      "time_s": 1050.007
+    },
+    {
+      "file": "frame_001065000.jpg",
+      "requested_s": 1065,
+      "time_s": 1065.022
+    },
+    {
+      "file": "frame_001080000.jpg",
+      "requested_s": 1080,
+      "time_s": 1080.037
+    },
+    {
+      "file": "frame_001095000.jpg",
+      "requested_s": 1095,
+      "time_s": 1095.011
+    },
+    {
+      "file": "frame_001110000.jpg",
+      "requested_s": 1110,
+      "time_s": 1110.026
+    },
+    {
+      "file": "frame_001125000.jpg",
+      "requested_s": 1125,
+      "time_s": 1125.041
+    }
+  ],
+  "excluded_capture_records": [
+    {
+      "requested_s": 1140,
+      "time_s": null,
+      "file": null,
+      "status": "NO_FRAME_AT_SOURCE_END"
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "DOCUMENTARY",
+    "TRAVEL",
+    "HORSE_AUCTION",
+    "TALK",
+    "BILINGUAL_INTERVIEW"
+  ],
+  "observations": [
+    {
+      "requested_sample_band_s": [
+        0,
+        45
+      ],
+      "observation": "車内の本人とPCの実写から開始。15/30秒は白い細ゴシック＋暗い縁/影の通常下字幕、45秒は大きい白い手書き風『プレイヤーテレコー』。この4点にOPロゴや日数ラベルはない。",
+      "limits": "最初の15秒間の未抽出フレームにOPがないとは確定しない。PC内容は読み取らない。口癖の正書は音声校正待ち。",
+      "reference_frames": [
+        {
+          "file": "frame_000000000.jpg",
+          "requested_s": 0,
+          "time_s": 0
+        },
+        {
+          "file": "frame_000015000.jpg",
+          "requested_s": 15,
+          "time_s": 15.015
+        },
+        {
+          "file": "frame_000030000.jpg",
+          "requested_s": 30,
+          "time_s": 30.03
+        },
+        {
+          "file": "frame_000045000.jpg",
+          "requested_s": 45,
+          "time_s": 45.003
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        60,
+        150
+      ],
+      "observation": "60はピンアイコン＋『ノーザンホースパーク』の場所ラベル。75〜105は馬のセール会場、120は歩き、135〜150は馬の囲い前で本人の会話。75の『現在3700万』は小さい通常字幕、90は会場の価格表示を実写に残す。",
+      "limits": "会場価格・発話金額を本人が購入した馬の価格やBETとして確定しない。『馬主になったら(ギャンブル)辞められるし』は話者の主張であり治療根拠ではない。",
+      "reference_frames": [
+        {
+          "file": "frame_000060000.jpg",
+          "requested_s": 60,
+          "time_s": 60.018
+        },
+        {
+          "file": "frame_000075000.jpg",
+          "requested_s": 75,
+          "time_s": 75.033
+        },
+        {
+          "file": "frame_000090000.jpg",
+          "requested_s": 90,
+          "time_s": 90.007
+        },
+        {
+          "file": "frame_000105000.jpg",
+          "requested_s": 105,
+          "time_s": 105.022
+        },
+        {
+          "file": "frame_000120000.jpg",
+          "requested_s": 120,
+          "time_s": 120.037
+        },
+        {
+          "file": "frame_000135000.jpg",
+          "requested_s": 135,
+          "time_s": 135.01
+        },
+        {
+          "file": "frame_000150000.jpg",
+          "requested_s": 150,
+          "time_s": 150.025
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        165,
+        285
+      ],
+      "observation": "野球場を背景に本人の構想を通常字幕で説明→球場の見える入浴場面→屋外カヌー。270は『葉っぱギャンブル！』の左下注釈、285は手元・葉っぱへカメラを向ける。全サンプルをゲームHUD化しない。",
+      "limits": "場所・施設名は未確認、全裸/私的部位は示されておらず上半身のみ。構想や『治療法』という発言を医学的効能に変換しない。背景は収録実写、生成風景や自動B-rollと推定しない。",
+      "reference_frames": [
+        {
+          "file": "frame_000165000.jpg",
+          "requested_s": 165,
+          "time_s": 165.04
+        },
+        {
+          "file": "frame_000180000.jpg",
+          "requested_s": 180,
+          "time_s": 180.013
+        },
+        {
+          "file": "frame_000195000.jpg",
+          "requested_s": 195,
+          "time_s": 195.028
+        },
+        {
+          "file": "frame_000210000.jpg",
+          "requested_s": 210,
+          "time_s": 210.001
+        },
+        {
+          "file": "frame_000225000.jpg",
+          "requested_s": 225,
+          "time_s": 225.016
+        },
+        {
+          "file": "frame_000240000.jpg",
+          "requested_s": 240,
+          "time_s": 240.031
+        },
+        {
+          "file": "frame_000255000.jpg",
+          "requested_s": 255,
+          "time_s": 255.005
+        },
+        {
+          "file": "frame_000270000.jpg",
+          "requested_s": 270,
+          "time_s": 270.02
+        },
+        {
+          "file": "frame_000285000.jpg",
+          "requested_s": 285,
+          "time_s": 285.035
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        300,
+        345
+      ],
+      "observation": "室内の2人対談に切替。300は左下『林さんとの対談』、315は通常の白ゴシック、330は赤い太明朝系＋黒影の2行巨大字幕『別で金借りたりぶっ込んでるから／ここ1ヶ月で2億負けてる』、345は聞き手寄りの通常字幕。",
+      "limits": "『林さん』は映像内の紹介を根拠にする。姓名・肩書きの補完はしない。同じ会話の別動画への再編集かは未照合で、独立3動画票に数えない。金額は未校正発話の字幕記載であり真偽・決済未確認。",
+      "reference_frames": [
+        {
+          "file": "frame_000300000.jpg",
+          "requested_s": 300,
+          "time_s": 300.008
+        },
+        {
+          "file": "frame_000315000.jpg",
+          "requested_s": 315,
+          "time_s": 315.023
+        },
+        {
+          "file": "frame_000330000.jpg",
+          "requested_s": 330,
+          "time_s": 330.038
+        },
+        {
+          "file": "frame_000345000.jpg",
+          "requested_s": 345,
+          "time_s": 345.011
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        360,
+        630
+      ],
+      "observation": "2人の対談で実物トランプを使って説明。通常は白い細ゴシック下字幕で、390は2行。450/465/570/585/630など追加字幕のない表情やカードもある。600は本人の手元付近に大きい白い『？』＋黒影を重ねる。",
+      "limits": "カードを使う説明は現金実戦ではない。実戦用のBET/COUNT/勝敗HUDを自動付与しない。『唯一の勝ちパターン』等の会話字幕を保証された戦略として採用しない。疑問符の出入り・SEは未計測。",
+      "reference_frames": [
+        {
+          "file": "frame_000360000.jpg",
+          "requested_s": 360,
+          "time_s": 360.026
+        },
+        {
+          "file": "frame_000375000.jpg",
+          "requested_s": 375,
+          "time_s": 375
+        },
+        {
+          "file": "frame_000390000.jpg",
+          "requested_s": 390,
+          "time_s": 390.015
+        },
+        {
+          "file": "frame_000405000.jpg",
+          "requested_s": 405,
+          "time_s": 405.03
+        },
+        {
+          "file": "frame_000420000.jpg",
+          "requested_s": 420,
+          "time_s": 420.003
+        },
+        {
+          "file": "frame_000435000.jpg",
+          "requested_s": 435,
+          "time_s": 435.018
+        },
+        {
+          "file": "frame_000450000.jpg",
+          "requested_s": 450,
+          "time_s": 450.033
+        },
+        {
+          "file": "frame_000465000.jpg",
+          "requested_s": 465,
+          "time_s": 465.006
+        },
+        {
+          "file": "frame_000480000.jpg",
+          "requested_s": 480,
+          "time_s": 480.021
+        },
+        {
+          "file": "frame_000495000.jpg",
+          "requested_s": 495,
+          "time_s": 495.036
+        },
+        {
+          "file": "frame_000510000.jpg",
+          "requested_s": 510,
+          "time_s": 510.01
+        },
+        {
+          "file": "frame_000525000.jpg",
+          "requested_s": 525,
+          "time_s": 525.025
+        },
+        {
+          "file": "frame_000540000.jpg",
+          "requested_s": 540,
+          "time_s": 540.04
+        },
+        {
+          "file": "frame_000555000.jpg",
+          "requested_s": 555,
+          "time_s": 555.013
+        },
+        {
+          "file": "frame_000570000.jpg",
+          "requested_s": 570,
+          "time_s": 570.028
+        },
+        {
+          "file": "frame_000585000.jpg",
+          "requested_s": 585,
+          "time_s": 585.001
+        },
+        {
+          "file": "frame_000600000.jpg",
+          "requested_s": 600,
+          "time_s": 600.016
+        },
+        {
+          "file": "frame_000615000.jpg",
+          "requested_s": 615,
+          "time_s": 615.031
+        },
+        {
+          "file": "frame_000630000.jpg",
+          "requested_s": 630,
+          "time_s": 630.004
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        645,
+        705
+      ],
+      "observation": "645は2人の写真と半透明白い情報箱を含む青枠の告知画像を画面中央に重ね、背景の対談は残る。660の1000万/2000万は通常下字幕、675の『負けサビ1,000万って何？』は話者寄りの中央小字幕、690の『負けサビは身から出たサビ』は大きい白明朝＋黒影。",
+      "limits": "告知内の日時・参加条件は当時の画面内容であり現在有効な募集とは扱わない。画像・人物切り抜きの再利用権はUNKNOWN。字幕のない区間が無音とは限らない。",
+      "rights_status": "UNKNOWN",
+      "reference_frames": [
+        {
+          "file": "frame_000645000.jpg",
+          "requested_s": 645,
+          "time_s": 645.019
+        },
+        {
+          "file": "frame_000660000.jpg",
+          "requested_s": 660,
+          "time_s": 660.034
+        },
+        {
+          "file": "frame_000675000.jpg",
+          "requested_s": 675,
+          "time_s": 675.008
+        },
+        {
+          "file": "frame_000690000.jpg",
+          "requested_s": 690,
+          "time_s": 690.023
+        },
+        {
+          "file": "frame_000705000.jpg",
+          "requested_s": 705,
+          "time_s": 705.038
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        720,
+        855
+      ],
+      "observation": "720は対談の笑顔で追加字幕なし。735〜765は縦素材を中央に置き左右を強くぼかし、白い通常字幕で入賞後の会話。780〜855はソファで鍋を囲む会話へ。",
+      "limits": "『インマネ』『3,000ドル』は画面上の報告で、実際の入賞・払戻を別に検証したわけではない。縦素材の左右ぼかしはアスペクト補完として観察し、全てを人物秘匿用モザイクに数えない。ホワイトボードの詳細は読まない。",
+      "reference_frames": [
+        {
+          "file": "frame_000720000.jpg",
+          "requested_s": 720,
+          "time_s": 720.011
+        },
+        {
+          "file": "frame_000735000.jpg",
+          "requested_s": 735,
+          "time_s": 735.026
+        },
+        {
+          "file": "frame_000750000.jpg",
+          "requested_s": 750,
+          "time_s": 750.041
+        },
+        {
+          "file": "frame_000765000.jpg",
+          "requested_s": 765,
+          "time_s": 765.014
+        },
+        {
+          "file": "frame_000780000.jpg",
+          "requested_s": 780,
+          "time_s": 780.029
+        },
+        {
+          "file": "frame_000795000.jpg",
+          "requested_s": 795,
+          "time_s": 795.003
+        },
+        {
+          "file": "frame_000810000.jpg",
+          "requested_s": 810,
+          "time_s": 810.018
+        },
+        {
+          "file": "frame_000825000.jpg",
+          "requested_s": 825,
+          "time_s": 825.033
+        },
+        {
+          "file": "frame_000840000.jpg",
+          "requested_s": 840,
+          "time_s": 840.006
+        },
+        {
+          "file": "frame_000855000.jpg",
+          "requested_s": 855,
+          "time_s": 855.021
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        870,
+        930
+      ],
+      "observation": "家族への声掛けらしい室内移動を通常字幕で残し、885は相手の発話付近に白明朝＋暗い光彩の『娘に何を聞いてんねん』。915〜930は縦の街歩き＋左右ぼかし。",
+      "limits": "『娘』は字幕表現であり、画面内人物の年齢や実名は推定しない。スマートフォンの投票/金銭画面は拡大・読取しない。",
+      "reference_frames": [
+        {
+          "file": "frame_000870000.jpg",
+          "requested_s": 870,
+          "time_s": 870.036
+        },
+        {
+          "file": "frame_000885000.jpg",
+          "requested_s": 885,
+          "time_s": 885.009
+        },
+        {
+          "file": "frame_000900000.jpg",
+          "requested_s": 900,
+          "time_s": 900.024
+        },
+        {
+          "file": "frame_000915000.jpg",
+          "requested_s": 915,
+          "time_s": 915.039
+        },
+        {
+          "file": "frame_000930000.jpg",
+          "requested_s": 930,
+          "time_s": 930.012
+        }
+      ]
+    },
+    {
+      "requested_sample_band_s": [
+        945,
+        1125
+      ],
+      "observation": "別の2人対談へ。全13点で英語が白・黒縁の小さめ字幕、その下の日本語訳が黄・黒縁の太ゴシック系。英語と日本語はそれぞれ1〜2行の例があり、人物胸元から下側に2層配置。通常の日本語トーク字幕やShortsのセーフゾーンと分離する。",
+      "limits": "相手の氏名や肩書きは顔から同定しない。翻訳精度・発話同期・実フォント・他動画/Shortsとの重複は未確認。1125.041が最後の実画像で、そこから動画終端までの約15秒は未確認。末尾が会話で突然終わる/EDなしとは確定しない。",
+      "reference_frames": [
+        {
+          "file": "frame_000945000.jpg",
+          "requested_s": 945,
+          "time_s": 945.027
+        },
+        {
+          "file": "frame_000960000.jpg",
+          "requested_s": 960,
+          "time_s": 960.001
+        },
+        {
+          "file": "frame_000975000.jpg",
+          "requested_s": 975,
+          "time_s": 975.016
+        },
+        {
+          "file": "frame_000990000.jpg",
+          "requested_s": 990,
+          "time_s": 990.031
+        },
+        {
+          "file": "frame_001005000.jpg",
+          "requested_s": 1005,
+          "time_s": 1005.004
+        },
+        {
+          "file": "frame_001020000.jpg",
+          "requested_s": 1020,
+          "time_s": 1020.019
+        },
+        {
+          "file": "frame_001035000.jpg",
+          "requested_s": 1035,
+          "time_s": 1035.034
+        },
+        {
+          "file": "frame_001050000.jpg",
+          "requested_s": 1050,
+          "time_s": 1050.007
+        },
+        {
+          "file": "frame_001065000.jpg",
+          "requested_s": 1065,
+          "time_s": 1065.022
+        },
+        {
+          "file": "frame_001080000.jpg",
+          "requested_s": 1080,
+          "time_s": 1080.037
+        },
+        {
+          "file": "frame_001095000.jpg",
+          "requested_s": 1095,
+          "time_s": 1095.011
+        },
+        {
+          "file": "frame_001110000.jpg",
+          "requested_s": 1110,
+          "time_s": 1110.026
+        },
+        {
+          "file": "frame_001125000.jpg",
+          "requested_s": 1125,
+          "time_s": 1125.041
+        }
+      ]
+    }
+  ],
+  "confidence": "HIGH_FOR_VISIBLE_SAMPLED_FRAMES",
+  "generalization_confidence": "LOW",
+  "limitations": [
+    "15秒おきの静止点。間のカット・字幕・音・未抽出終端を未確認。",
+    "最後のNO_FRAME_AT_SOURCE_ENDは画像でなく確認済みフレームに数えない。",
+    "実戦・説明・過去回挿入・対談を区別。再編集とShortsとの重複未照合。",
+    "生成素材か実素材か、字体完全一致、BGM/SEは未認定。"
+  ]
+}

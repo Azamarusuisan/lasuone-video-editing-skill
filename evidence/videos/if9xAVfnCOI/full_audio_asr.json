@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,300"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2300
+			},
+			"text": "社長の1週間の収支がヤバすぎた"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,300",
+				"to": "00:00:24,460"
+			},
+			"offsets": {
+				"from": 2300,
+				"to": 24460
+			},
+			"text": "ラザーさんお疲れ様です"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,460",
+				"to": "00:00:26,600"
+			},
+			"offsets": {
+				"from": 24460,
+				"to": 26600
+			},
+			"text": "ラザーさんって収支いくらぐらいですか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,600",
+				"to": "00:00:27,360"
+			},
+			"offsets": {
+				"from": 26600,
+				"to": 27360
+			},
+			"text": "あ今1000"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,360",
+				"to": "00:00:28,360"
+			},
+			"offsets": {
+				"from": 27360,
+				"to": 28360
+			},
+			"text": "1000万ってことですか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,360",
+				"to": "00:00:28,840"
+			},
+			"offsets": {
+				"from": 28360,
+				"to": 28840
+			},
+			"text": "1000万"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,840",
+				"to": "00:00:30,580"
+			},
+			"offsets": {
+				"from": 28840,
+				"to": 30580
+			},
+			"text": "まあ負けだけどね"
+		}
+	]
+}

@@ -1,0 +1,252 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,060"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5060
+			},
+			"text": "これでイケ袋には不毛なガチャがあるので"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,060",
+				"to": "00:00:06,900"
+			},
+			"offsets": {
+				"from": 5060,
+				"to": 6900
+			},
+			"text": "1万円のガチャをやってみましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,900",
+				"to": "00:00:09,620"
+			},
+			"offsets": {
+				"from": 6900,
+				"to": 9620
+			},
+			"text": "何が出るかな"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,620",
+				"to": "00:00:15,120"
+			},
+			"offsets": {
+				"from": 9620,
+				"to": 15120
+			},
+			"text": "ピンク"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,120",
+				"to": "00:00:18,200"
+			},
+			"offsets": {
+				"from": 15120,
+				"to": 18200
+			},
+			"text": "ポケか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,200",
+				"to": "00:00:20,040"
+			},
+			"offsets": {
+				"from": 18200,
+				"to": 20040
+			},
+			"text": "1万円で買った1万のガチャ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,040",
+				"to": "00:00:22,580"
+			},
+			"offsets": {
+				"from": 20040,
+				"to": 22580
+			},
+			"text": "当たりかなと思ったら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,580",
+				"to": "00:00:25,420"
+			},
+			"offsets": {
+				"from": 22580,
+				"to": 25420
+			},
+			"text": "このポケモンこれが1パックだけ1万円のガチャで買ったら出るしちゃう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,420",
+				"to": "00:00:27,360"
+			},
+			"offsets": {
+				"from": 25420,
+				"to": 27360
+			},
+			"text": "じゃあ俺が大喜利します"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,360",
+				"to": "00:00:31,100"
+			},
+			"offsets": {
+				"from": 27360,
+				"to": 31100
+			},
+			"text": "プレイヤー6連"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,100",
+				"to": "00:00:34,100"
+			},
+			"offsets": {
+				"from": 31100,
+				"to": 34100
+			},
+			"text": "ほんと今大喜利もないから"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,100",
+				"to": "00:00:35,540"
+			},
+			"offsets": {
+				"from": 34100,
+				"to": 35540
+			},
+			"text": "これ見て見ていくよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,540",
+				"to": "00:00:40,540"
+			},
+			"offsets": {
+				"from": 35540,
+				"to": 40540
+			},
+			"text": "3万貸してくれよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,440",
+				"to": "00:00:52,400"
+			},
+			"offsets": {
+				"from": 51440,
+				"to": 52400
+			},
+			"text": "3万貸してくれよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,400",
+				"to": "00:01:02,580"
+			},
+			"offsets": {
+				"from": 52400,
+				"to": 62580
+			},
+			"text": "ドラゴンになりかけたのに途中で切れたプレイヤー"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,140",
+				"to": "00:01:17,880"
+			},
+			"offsets": {
+				"from": 63140,
+				"to": 77880
+			},
+			"text": "ドラゴンになりかけたのに途中で切れたプレイヤー"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,880",
+				"to": "00:01:22,360"
+			},
+			"offsets": {
+				"from": 77880,
+				"to": 82360
+			},
+			"text": "ドラゴンになりかけたのに途中で切れたプレイヤー"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,360",
+				"to": "00:01:25,660"
+			},
+			"offsets": {
+				"from": 82360,
+				"to": 85660
+			},
+			"text": "ドラゴンになりかけたのに途中で切れたプレイヤー"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,660",
+				"to": "00:01:28,100"
+			},
+			"offsets": {
+				"from": 85660,
+				"to": 88100
+			},
+			"text": "ドラゴンになりかけたのに途中で切れたプレイヤー"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,100",
+				"to": "00:01:29,100"
+			},
+			"offsets": {
+				"from": 88100,
+				"to": 89100
+			},
+			"text": "ドラゴンになりかけたのに途中で切れたプレイヤー"
+		}
+	]
+}

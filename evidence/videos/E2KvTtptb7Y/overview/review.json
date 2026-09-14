@@ -1,0 +1,292 @@
+{
+  "video_id": "E2KvTtptb7Y",
+  "reference_video": "https://www.youtube.com/watch?v=E2KvTtptb7Y",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 79,
+  "reviewed_sheet_count": 14,
+  "sample_step_s": 15,
+  "timestamp_uncertainty_s": 7.5,
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "timestamp_warning": "Nominal overview-grid times only, up to 7.5 seconds from selected source PTS. Sample bands below are not verified chapter boundaries. Gaps have not been continuously reviewed.",
+  "confidence_scope": "HIGH for visible sampled frames; provisional logic only, not a channel-wide rule.",
+  "sampled_structure": [
+    {
+      "nominal_sample_band_s": [
+        0,
+        0
+      ],
+      "content": "共通注意書きと本人PIP。"
+    },
+    {
+      "nominal_sample_band_s": [
+        15,
+        45
+      ],
+      "content": "ビリヤード台のある室内で近況。黒い明朝系字幕＋白光彩。"
+    },
+    {
+      "nominal_sample_band_s": [
+        60,
+        150
+      ],
+      "content": "ポーカー大会前にバカラ。会話／準備から左右BANKER・PLAYERのHUD付き勝負へ。"
+    },
+    {
+      "nominal_sample_band_s": [
+        165,
+        165
+      ],
+      "content": "同行者との立ち話。緑字幕。"
+    },
+    {
+      "nominal_sample_band_s": [
+        180,
+        360
+      ],
+      "content": "大会条件の金色テキスト、ポーカーハンド複数。参加者数に応じHUD行数変化。"
+    },
+    {
+      "nominal_sample_band_s": [
+        375,
+        390
+      ],
+      "content": "廊下で途中報告・スタッフ質問。"
+    },
+    {
+      "nominal_sample_band_s": [
+        405,
+        540
+      ],
+      "content": "ポーカーへ戻り、ブラフ等の判断を字幕とカードHUDで説明。"
+    },
+    {
+      "nominal_sample_band_s": [
+        555,
+        555
+      ],
+      "content": "Day1通過と開始40,000点→現在177,500点を文字で整理。"
+    },
+    {
+      "nominal_sample_band_s": [
+        570,
+        675
+      ],
+      "content": "大会後の仲間との交流・クラップス卓を囲むリアクション。ゲーム専用HUDはサンプル上なし。"
+    },
+    {
+      "nominal_sample_band_s": [
+        690,
+        705
+      ],
+      "content": "画面右上は密着生活13日目、左下は大会Day2。会場の雑談と身体を使ったコミカルな場面。"
+    },
+    {
+      "nominal_sample_band_s": [
+        720,
+        885
+      ],
+      "content": "Day2のポーカーと会場での途中会話・交流。"
+    },
+    {
+      "nominal_sample_band_s": [
+        900,
+        915
+      ],
+      "content": "途中報告、その後に全面の炎素材。炎の開始・終了や音は未確認。"
+    },
+    {
+      "nominal_sample_band_s": [
+        930,
+        1020
+      ],
+      "content": "ポーカーハンド。確率、結果、次の手へ切替。"
+    },
+    {
+      "nominal_sample_band_s": [
+        1035,
+        1065
+      ],
+      "content": "屋外で状況・期待を話す。"
+    },
+    {
+      "nominal_sample_band_s": [
+        1080,
+        1095
+      ],
+      "content": "会場の拍手と4連続インマネの文字、本人の反応。"
+    },
+    {
+      "nominal_sample_band_s": [
+        1110,
+        1125
+      ],
+      "content": "本人AK対相手TTのオールイン、相手のストレートで敗退表示。"
+    },
+    {
+      "nominal_sample_band_s": [
+        1140,
+        1155
+      ],
+      "content": "退場・終了後の会話。"
+    },
+    {
+      "nominal_sample_band_s": [
+        1170,
+        1170
+      ],
+      "content": "カジノ図柄のED。謝辞、チャンネル登録と10人への紹介CTA。"
+    }
+  ],
+  "observations": [
+    {
+      "nominal_times_s": [
+        75,
+        90,
+        105,
+        120,
+        135,
+        150
+      ],
+      "type": "BACCARAT_PROFILE_WITHIN_POKER_EPISODE",
+      "observation": "左右分割・裏柄3枠のバカラHUD。未開示得点は空欄の例、BET表示はドル。550／200の白表示に対し1,000は黄色。金額の普遍的な閾値はこの例だけで設定しない。未使用裏柄を配布済みと数えない。"
+    },
+    {
+      "nominal_times_s": [
+        195,
+        210,
+        225,
+        240,
+        255,
+        270,
+        285,
+        300,
+        315,
+        330,
+        345,
+        360,
+        405,
+        420,
+        435,
+        450,
+        465,
+        495,
+        510,
+        525,
+        540,
+        720,
+        735,
+        750,
+        810,
+        825,
+        840,
+        855,
+        870,
+        885,
+        930,
+        945,
+        960,
+        990,
+        1005,
+        1020,
+        1110,
+        1125
+      ],
+      "type": "POKER_INFORMATION_LAYER",
+      "observation": "プレイヤーと手札・アクションを左、ボード・Pot・Blindsを右下。顔・手元・ボードに画角が変わってもHUDは画面座標に残る例。上部コメントは常時ではない。"
+    },
+    {
+      "nominal_times_s": [
+        375,
+        390,
+        555,
+        570,
+        600,
+        690,
+        705,
+        765,
+        780,
+        900,
+        1035,
+        1080,
+        1140
+      ],
+      "type": "BRANDING_AND_SEGMENT_MODE",
+      "observation": "会話・移動・交流には左上ロゴと右上密着日数、ポーカーの情報HUD付きサンプルではその角ロゴ／日数がない。バカラHUDには角ロゴ／日数が共存する。ゲームごとの情報優先順位を分ける。"
+    },
+    {
+      "nominal_times_s": [
+        285,
+        885,
+        945,
+        1080
+      ],
+      "type": "RESULT_COLOR_COUNTEREXAMPLE",
+      "observation": "成功は常に橙ではない。ダブルアップ／Pot獲得は橙、ストレート逆転勝利／インマネ到達は黄色の例。"
+    },
+    {
+      "nominal_times_s": [
+        465,
+        930,
+        1125
+      ],
+      "type": "RED_WITH_DARK_EDGE",
+      "observation": "ブラフレイズ、低い表示勝率約27%、敗退説明には赤＋暗い縁。通常アクションの赤＋白縁と同一プリセットにしない。約27%は画面記載で、計算の正しさは別途検証。"
+    },
+    {
+      "nominal_times_s": [
+        285,
+        945,
+        1125
+      ],
+      "type": "OUTCOME_HUD_COLOR",
+      "observation": "本人WINは赤、本人LOSEは青、相手のWIN/LOSEは白の例。上部の結果説明色とHUD内の文字色は別属性。"
+    },
+    {
+      "nominal_times_s": [
+        390,
+        900
+      ],
+      "type": "STAFF_QUESTION",
+      "observation": "スタッフ発言は小さな白い明朝系字幕＋『スタッフ）』ラベル。本人の黒明朝＋白光彩の通常字幕と分離。"
+    },
+    {
+      "nominal_times_s": [
+        555,
+        690,
+        1050,
+        1080
+      ],
+      "type": "NUMBERS_AND_CHRONOLOGY",
+      "observation": "開始／現在の点数、密着生活の日数、大会Day、インマネ連続回数を別フィールドとして保持。4連続インマネを4ハンド連勝や4日連勝に変えない。"
+    },
+    {
+      "nominal_times_s": [
+        615,
+        630,
+        660,
+        675
+      ],
+      "type": "COMPANION_REACTION",
+      "observation": "本人が見守る説明→同行者の行動→仲間と周囲の反応を残すサンプル。勝負の結果数値だけに短縮する根拠はない。"
+    },
+    {
+      "nominal_times_s": [
+        1170
+      ],
+      "type": "ENDING",
+      "observation": "独立したカジノ図柄EDがある。このポーカー回にはEDがない／全回実写で終了と一般化しない。",
+      "rights_status": "UNKNOWN",
+      "production_approved": false
+    }
+  ],
+  "unverified": [
+    "各章の正確な境界",
+    "発話と字幕の一致率",
+    "全アクション・Pot計算",
+    "BGM・SE・確率表示の検算",
+    "カット間隔と演出密度の全編統計"
+  ]
+}

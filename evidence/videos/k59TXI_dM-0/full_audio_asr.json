@@ -1,0 +1,142 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": "ん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,440",
+				"to": "00:00:07,440"
+			},
+			"offsets": {
+				"from": 3440,
+				"to": 7440
+			},
+			"text": "見られます 天候ごたらし"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,180",
+				"to": "00:00:15,400"
+			},
+			"offsets": {
+				"from": 8180,
+				"to": 15400
+			},
+			"text": "この機械なんですか これはいびきを睡眠時無呼吸症候群のシーパプです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,400",
+				"to": "00:00:21,100"
+			},
+			"offsets": {
+				"from": 15400,
+				"to": 21100
+			},
+			"text": "ここありますか?え?こうかありますか? シーパプつけたら寝べちゃ寝れるんだけどもう10年くらいつけてるから"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,100",
+				"to": "00:00:25,480"
+			},
+			"offsets": {
+				"from": 21100,
+				"to": 25480
+			},
+			"text": "もう慣れちゃって ただ最初つけたときは人生"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,480",
+				"to": "00:00:29,360"
+			},
+			"offsets": {
+				"from": 25480,
+				"to": 29360
+			},
+			"text": "人生1眠りを保証します本当です ちなみにおいくらなんですか?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,360",
+				"to": "00:00:33,120"
+			},
+			"offsets": {
+				"from": 29360,
+				"to": 33120
+			},
+			"text": "月保険が効くんでちゃんと本当に固形の人は誤制限"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,120",
+				"to": "00:00:38,480"
+			},
+			"offsets": {
+				"from": 33120,
+				"to": 38480
+			},
+			"text": "で普通に買うとしたら30番とか40番くらい 私レンタル1台とシーパプ3台もあります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,480",
+				"to": "00:00:41,260"
+			},
+			"offsets": {
+				"from": 38480,
+				"to": 41260
+			},
+			"text": "そんなにいりますか?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,260",
+				"to": "00:00:49,060"
+			},
+			"offsets": {
+				"from": 41260,
+				"to": 49060
+			},
+			"text": "いろんなところに置きたい"
+		}
+	]
+}

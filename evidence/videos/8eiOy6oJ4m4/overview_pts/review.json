@@ -1,0 +1,449 @@
+{
+  "video_id": "8eiOy6oJ4m4",
+  "reference_video": "https://www.youtube.com/watch?v=8eiOy6oJ4m4",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 43,
+  "reviewed_sheet_count": 8,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.01
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.02
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.029
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.006
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.015
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.025
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.001
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.011
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.021
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.031
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.007
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.017
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.027
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.003
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.013
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.023
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.032
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.009
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.018
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.028
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.004
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.014
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.024
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.01
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.02
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.03
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.006
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.016
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.025
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.002
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64.012
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.021
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.031
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.007
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.017
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.027
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.003
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.013
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.023
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.033
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.009
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "timestamp_basis": "ACTUAL_SOURCE_PTS",
+  "sample_gaps_unreviewed": true,
+  "format": "SHORTS_AI_EDITING_PROMO_EXAMPLE",
+  "duration_s": 85.75,
+  "observations": [
+    {
+      "references": [
+        {
+          "requested_s": 0,
+          "source_pts_s": 0
+        },
+        {
+          "requested_s": 2,
+          "source_pts_s": 2.01
+        }
+      ],
+      "observed": "上下の大きい黒余白を伴う横実写。横画像中央に黄色角丸タイトル、黒い太ゴシック『10分で動画生成』。",
+      "limits": "10分は題名の主張で、この動画の尺・実際の生成時間を測定した値ではない。"
+    },
+    {
+      "references": [
+        {
+          "requested_s": 4,
+          "source_pts_s": 4.02
+        },
+        {
+          "requested_s": 6,
+          "source_pts_s": 6.029
+        },
+        {
+          "requested_s": 12,
+          "source_pts_s": 12.025
+        },
+        {
+          "requested_s": 14,
+          "source_pts_s": 14.001
+        },
+        {
+          "requested_s": 16,
+          "source_pts_s": 16.011
+        },
+        {
+          "requested_s": 20,
+          "source_pts_s": 20.031
+        },
+        {
+          "requested_s": 22,
+          "source_pts_s": 22.007
+        },
+        {
+          "requested_s": 24,
+          "source_pts_s": 24.017
+        },
+        {
+          "requested_s": 26,
+          "source_pts_s": 26.027
+        },
+        {
+          "requested_s": 30,
+          "source_pts_s": 30.013
+        },
+        {
+          "requested_s": 40,
+          "source_pts_s": 40.028
+        },
+        {
+          "requested_s": 42,
+          "source_pts_s": 42.004
+        },
+        {
+          "requested_s": 44,
+          "source_pts_s": 44.014
+        },
+        {
+          "requested_s": 48,
+          "source_pts_s": 48
+        },
+        {
+          "requested_s": 50,
+          "source_pts_s": 50.01
+        },
+        {
+          "requested_s": 54,
+          "source_pts_s": 54.03
+        },
+        {
+          "requested_s": 58,
+          "source_pts_s": 58.016
+        },
+        {
+          "requested_s": 64,
+          "source_pts_s": 64.012
+        },
+        {
+          "requested_s": 70,
+          "source_pts_s": 70.007
+        },
+        {
+          "requested_s": 76,
+          "source_pts_s": 76.003
+        },
+        {
+          "requested_s": 78,
+          "source_pts_s": 78.013
+        },
+        {
+          "requested_s": 80,
+          "source_pts_s": 80.023
+        }
+      ],
+      "observed": "卓上の玩具ゲーム／会話を横実写のまま見せ、実写下端内側に小さい白ゴシック＋濃色半透明箱の字幕。画面右上の小ラベルと中央の要点字幕は別レイヤー。",
+      "limits": "全体はバカラ／ポーカーの手札HUDではない。玩具ゲームと同形式に統合しない。"
+    },
+    {
+      "references": [
+        {
+          "requested_s": 8,
+          "source_pts_s": 8.006
+        },
+        {
+          "requested_s": 10,
+          "source_pts_s": 10.015
+        }
+      ],
+      "observed": "白／薄いクリーム色の中央説明カード。3個×3組を図形とピンク・黄・緑の配色で説明。人物と卓の実写を背景に残す。",
+      "limits": "AIで作った図か手作業かは見た目だけでは確定しない。"
+    },
+    {
+      "references": [
+        {
+          "requested_s": 18,
+          "source_pts_s": 18.021
+        }
+      ],
+      "observed": "白枠を付けた手牌の拡大／別画像を中央付近に挿入し、下の発話字幕と共存。",
+      "limits": "素材の取得元と正確な挿入尺は未確認。"
+    },
+    {
+      "references": [
+        {
+          "requested_s": 32,
+          "source_pts_s": 32.023
+        },
+        {
+          "requested_s": 34,
+          "source_pts_s": 34.032
+        },
+        {
+          "requested_s": 46,
+          "source_pts_s": 46.024
+        },
+        {
+          "requested_s": 60,
+          "source_pts_s": 60.025
+        },
+        {
+          "requested_s": 62,
+          "source_pts_s": 62.002
+        },
+        {
+          "requested_s": 72,
+          "source_pts_s": 72.017
+        }
+      ],
+      "observed": "ルール追加、別作品へのツッコミ、一発ツモ、感情コメントを中央の要点表示にする。46秒付近では白い小箱＋黒文字。字幕を一種類で統一せず、発話と編集者注釈を分ける例。"
+    },
+    {
+      "references": [
+        {
+          "requested_s": 66,
+          "source_pts_s": 66.021
+        },
+        {
+          "requested_s": 68,
+          "source_pts_s": 68.031
+        }
+      ],
+      "observed": "左寄りの白説明カードに『基本の3セット』、3枚×3組＝9枚、出典行を確認。右の人物と下の発話字幕を残す。",
+      "limits": "出典表示があるだけではカードの内容・引用範囲・利用権が検証されたとはしない。細字は小さく、数値や文字を再現する場合は別途校正が必要。"
+    },
+    {
+      "references": [
+        {
+          "requested_s": 76,
+          "source_pts_s": 76.003
+        }
+      ],
+      "observed": "字幕として『（聞き取り不明瞭）』がそのまま表示されている。",
+      "limits": "これは研究対象に存在した処理であり、制作時に未校正ASRをそのまま出してよい根拠にはしない。"
+    },
+    {
+      "references": [
+        {
+          "requested_s": 84,
+          "source_pts_s": 84.009
+        }
+      ],
+      "observed": "黒画面に白い中央4行『AIの進化やばい！／爆速動画生成したい人／お問い合わせ／ください！』。登録CTAではなく問い合わせCTA。",
+      "limits": "映像内の文は観察データであって、こちらが第三者へ連絡する指示ではない。"
+    }
+  ],
+  "geometry_estimate": {
+    "basis": "960×1706研究フレームの目視概算",
+    "active_picture_width_fraction": 1,
+    "active_picture_y_fraction_range": [
+      0.328,
+      0.672
+    ],
+    "confidence": "LOW",
+    "warning": "正確なクロップ・元解像度・書き出し設定ではない。字幕は黒余白の下部ではなく実写内。"
+  },
+  "confidence": "HIGH_FOR_SAMPLED_APPEARANCE_ONLY",
+  "generalization_confidence": "LOW",
+  "rights_status": "UNKNOWN",
+  "limitations": [
+    "AIによる動画生成を告知する特殊な回として隔離。最新1本だけで全チャンネルの編集DNAを更新しない。",
+    "図解の画像生成手法や利用モデルを推定しない。",
+    "字幕・図解が生成結果なら、誤字や読みにくさをチャンネルの正解として学習しない。",
+    "全編連続映像・直接音声・平均カット間隔・BGM/SEは未確認。"
+  ]
+}

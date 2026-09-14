@@ -1,0 +1,274 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,980"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1980
+			},
+			"text": "バカなり一撃200万打ち込んでみた"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,980",
+				"to": "00:00:04,640"
+			},
+			"offsets": {
+				"from": 1980,
+				"to": 4640
+			},
+			"text": "物の数量で人の練習が動く"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,640",
+				"to": "00:00:07,140"
+			},
+			"offsets": {
+				"from": 4640,
+				"to": 7140
+			},
+			"text": "そんな狂った世界がここらすべやすにはある"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,140",
+				"to": "00:00:08,940"
+			},
+			"offsets": {
+				"from": 7140,
+				"to": 8940
+			},
+			"text": "今日も一人のギャンブル中毒者が"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,940",
+				"to": "00:00:10,560"
+			},
+			"offsets": {
+				"from": 8940,
+				"to": 10560
+			},
+			"text": "本日の負けを取り戻すべく"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,560",
+				"to": "00:00:12,160"
+			},
+			"offsets": {
+				"from": 10560,
+				"to": 12160
+			},
+			"text": "赤なり200万円を張った"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,160",
+				"to": "00:00:14,520"
+			},
+			"offsets": {
+				"from": 12160,
+				"to": 14520
+			},
+			"text": "この男にとっても一世一代の勝負を"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,520",
+				"to": "00:00:16,000"
+			},
+			"offsets": {
+				"from": 14520,
+				"to": 16000
+			},
+			"text": "一緒に見届けることとしよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,000",
+				"to": "00:00:20,120"
+			},
+			"offsets": {
+				"from": 16000,
+				"to": 20120
+			},
+			"text": "まずはこの男が賭けた反対の相手の合計数を確認していく"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,120",
+				"to": "00:00:23,000"
+			},
+			"offsets": {
+				"from": 20120,
+				"to": 23000
+			},
+			"text": "相手のトランプは10と4で合計数は4"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,000",
+				"to": "00:00:25,060"
+			},
+			"offsets": {
+				"from": 23000,
+				"to": 25060
+			},
+			"text": "この男にとっては悪くない条件だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,060",
+				"to": "00:00:27,860"
+			},
+			"offsets": {
+				"from": 25060,
+				"to": 27860
+			},
+			"text": "そしてこの男ラスワンの1枚目のトランプは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,860",
+				"to": "00:00:33,400"
+			},
+			"offsets": {
+				"from": 27860,
+				"to": 33400
+			},
+			"text": "2枚目のトランプはここで絵柄が確定した"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,400",
+				"to": "00:00:34,840"
+			},
+			"offsets": {
+				"from": 33400,
+				"to": 34840
+			},
+			"text": "1枚目のトランプに戻り"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,840",
+				"to": "00:00:36,780"
+			},
+			"offsets": {
+				"from": 34840,
+				"to": 36780
+			},
+			"text": "もしもスリーサイドなら激アツだが"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,780",
+				"to": "00:00:37,780"
+			},
+			"offsets": {
+				"from": 36780,
+				"to": 37780
+			},
+			"text": "果たしてどうだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,780",
+				"to": "00:00:39,900"
+			},
+			"offsets": {
+				"from": 37780,
+				"to": 39900
+			},
+			"text": "ここで真ん中にスペードが見えたら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,900",
+				"to": "00:00:42,960"
+			},
+			"offsets": {
+				"from": 39900,
+				"to": 42960
+			},
+			"text": "この時点でこのトランプは678のどれかが確定"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,960",
+				"to": "00:00:44,820"
+			},
+			"offsets": {
+				"from": 42960,
+				"to": 44820
+			},
+			"text": "もしも8ならナチュラル8"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,820",
+				"to": "00:00:47,360"
+			},
+			"offsets": {
+				"from": 44820,
+				"to": 47360
+			},
+			"text": "この男は200万円を掴めるのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,360",
+				"to": "00:00:54,660"
+			},
+			"offsets": {
+				"from": 47360,
+				"to": 54660
+			},
+			"text": "戻りました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,660",
+				"to": "00:00:57,100"
+			},
+			"offsets": {
+				"from": 54660,
+				"to": 57100
+			},
+			"text": "これがでもほんとギャンブル"
+		}
+	]
+}

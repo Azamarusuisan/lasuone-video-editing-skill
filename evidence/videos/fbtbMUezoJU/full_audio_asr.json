@@ -1,0 +1,164 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,020"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3020
+			},
+			"text": "me"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,020",
+				"to": "00:00:07,160"
+			},
+			"offsets": {
+				"from": 3020,
+				"to": 7160
+			},
+			"text": "社長今日は何やってるんですかをシール 交換"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,160",
+				"to": "00:00:12,380"
+			},
+			"offsets": {
+				"from": 7160,
+				"to": 12380
+			},
+			"text": "えっシールこれこれめっちゃレート高いかこれにプリプリしっ すごい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,380",
+				"to": "00:00:20,860"
+			},
+			"offsets": {
+				"from": 12380,
+				"to": 20860
+			},
+			"text": "キラキラしてるねこれ結構で高いよとかレート高い キラキラがやぶりーすげーすぐなるしどれこれ持っています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,860",
+				"to": "00:00:28,320"
+			},
+			"offsets": {
+				"from": 20860,
+				"to": 28320
+			},
+			"text": "寿司と緑の寿司 じゃあいつもちょっとケッキ上げるんでねゴルフシート"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,320",
+				"to": "00:00:33,460"
+			},
+			"offsets": {
+				"from": 28320,
+				"to": 33460
+			},
+			"text": "カズの子 カズの子かかえおい一番一時たちいいの"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,460",
+				"to": "00:00:37,760"
+			},
+			"offsets": {
+				"from": 33460,
+				"to": 37760
+			},
+			"text": "じゃあワニのワンゴンよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,760",
+				"to": "00:00:43,320"
+			},
+			"offsets": {
+				"from": 37760,
+				"to": 43320
+			},
+			"text": "おめんくんみたいなやつ じゃあこれはいこれとあげるね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,320",
+				"to": "00:00:46,580"
+			},
+			"offsets": {
+				"from": 43320,
+				"to": 46580
+			},
+			"text": "ちょっとできるので はいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,580",
+				"to": "00:00:49,500"
+			},
+			"offsets": {
+				"from": 46580,
+				"to": 49500
+			},
+			"text": "ここによるはずの子"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,500",
+				"to": "00:00:56,640"
+			},
+			"offsets": {
+				"from": 49500,
+				"to": 56640
+			},
+			"text": "ありがとう いいのこれ1枚とこれ2枚大丈夫もしかして避けられちゃう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,640",
+				"to": "00:01:01,380"
+			},
+			"offsets": {
+				"from": 56640,
+				"to": 61380
+			},
+			"text": "入車せんね"
+		}
+	]
+}

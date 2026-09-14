@@ -1,0 +1,183 @@
+{
+  "video_id": "ehJssPk1s7Q",
+  "url": "https://www.youtube.com/watch?v=ehJssPk1s7Q",
+  "captured_at": "2026-09-13T09:28:06.555Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【第２話】給料のあげ方｜ラスワンポッドキャスト - YouTube",
+  "duration_s": 977.041,
+  "width": 640,
+  "height": 360,
+  "description": "－－－－－－－－－－－－－－－ \n\nポッドキャスト始めました🎙 …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 147,
+      "time_s": 147,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0147000.jpg"
+    },
+    {
+      "requested_s": 244,
+      "time_s": 244,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0244000.jpg"
+    },
+    {
+      "requested_s": 342,
+      "time_s": 342,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0342000.jpg"
+    },
+    {
+      "requested_s": 440,
+      "time_s": 440,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0440000.jpg"
+    },
+    {
+      "requested_s": 537,
+      "time_s": 537,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0537000.jpg"
+    },
+    {
+      "requested_s": 635,
+      "time_s": 635,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0635000.jpg"
+    },
+    {
+      "requested_s": 733,
+      "time_s": 733,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0733000.jpg"
+    },
+    {
+      "requested_s": 830,
+      "time_s": 830,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0830000.jpg"
+    },
+    {
+      "requested_s": 899,
+      "time_s": 899,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0899000.jpg"
+    },
+    {
+      "requested_s": 947.041,
+      "time_s": 947.041,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0947041.jpg"
+    },
+    {
+      "requested_s": 962.041,
+      "time_s": 962.041,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0962041.jpg"
+    },
+    {
+      "requested_s": 974.041,
+      "time_s": 974.041,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0974041.jpg"
+    }
+  ]
+}

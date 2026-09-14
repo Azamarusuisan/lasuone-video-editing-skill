@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,020"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6020
+			},
+			"text": "とにかくAIの研修"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,020",
+				"to": "00:00:07,600"
+			},
+			"offsets": {
+				"from": 6020,
+				"to": 7600
+			},
+			"text": "例えば社長だったら今クロード"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,600",
+				"to": "00:00:09,240"
+			},
+			"offsets": {
+				"from": 7600,
+				"to": 9240
+			},
+			"text": "絶対に覚えた方がいいので"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,240",
+				"to": "00:00:12,120"
+			},
+			"offsets": {
+				"from": 9240,
+				"to": 12120
+			},
+			"text": "2日間社長に向けてクロードの研修を"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,120",
+				"to": "00:00:13,880"
+			},
+			"offsets": {
+				"from": 12120,
+				"to": 13880
+			},
+			"text": "とにかく若者たちが"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,880",
+				"to": "00:00:16,580"
+			},
+			"offsets": {
+				"from": 13880,
+				"to": 16580
+			},
+			"text": "社長が使いこなせるまで全部やったりとか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,580",
+				"to": "00:00:19,420"
+			},
+			"offsets": {
+				"from": 16580,
+				"to": 19420
+			},
+			"text": "例えば今競馬のAIを作っているとか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,420",
+				"to": "00:00:23,220"
+			},
+			"offsets": {
+				"from": 19420,
+				"to": 23220
+			},
+			"text": "会社に向けて従業員にとにかくクロードの研修を"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,220",
+				"to": "00:00:26,380"
+			},
+			"offsets": {
+				"from": 23220,
+				"to": 26380
+			},
+			"text": "どこよりも安く気が入れてやるという会社を作っています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,380",
+				"to": "00:00:27,900"
+			},
+			"offsets": {
+				"from": 26380,
+				"to": 27900
+			},
+			"text": "ぜひよろしくお願いします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,900",
+				"to": "00:00:31,580"
+			},
+			"offsets": {
+				"from": 27900,
+				"to": 31580
+			},
+			"text": "経験がないからちょっと身近なところではないから"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,580",
+				"to": "00:00:33,940"
+			},
+			"offsets": {
+				"from": 31580,
+				"to": 33940
+			},
+			"text": "失礼かけてしまうところもあるけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,940",
+				"to": "00:00:37,260"
+			},
+			"offsets": {
+				"from": 33940,
+				"to": 37260
+			},
+			"text": "そのような価格とスピードと情熱でやっていると"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,260",
+				"to": "00:00:39,080"
+			},
+			"offsets": {
+				"from": 37260,
+				"to": 39080
+			},
+			"text": "これが絶対の変わることです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,080",
+				"to": "00:00:41,620"
+			},
+			"offsets": {
+				"from": 39080,
+				"to": 41620
+			},
+			"text": "仕事を頑張ってバカらにいけるように"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,620",
+				"to": "00:00:45,700"
+			},
+			"offsets": {
+				"from": 41620,
+				"to": 45700
+			},
+			"text": "バカらにいけるように頑張っていきたいなと思っています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,700",
+				"to": "00:00:47,260"
+			},
+			"offsets": {
+				"from": 45700,
+				"to": 47260
+			},
+			"text": "ぜひ応援をよろしくお願いします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,260",
+				"to": "00:00:48,500"
+			},
+			"offsets": {
+				"from": 47260,
+				"to": 48500
+			},
+			"text": "お願いします"
+		}
+	]
+}

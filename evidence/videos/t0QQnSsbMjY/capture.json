@@ -1,0 +1,183 @@
+{
+  "video_id": "t0QQnSsbMjY",
+  "url": "https://www.youtube.com/watch?v=t0QQnSsbMjY",
+  "captured_at": "2026-09-13T09:27:04.282Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【死闘】\"激しすぎ..!!\"絶体絶命からギャン中が連続覚醒した結果... - YouTube",
+  "duration_s": 1085.521,
+  "width": 640,
+  "height": 360,
+  "description": "🔥 魂のギャンブラーチャンネル『ぎゃんたま！』へようこそ！\nリアルな人間観察バラエティをお届けする当チャンネルでは、\nポーカーやカジノの最新情報、ビジネス、そしてエンタ …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 163,
+      "time_s": 163,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0163000.jpg"
+    },
+    {
+      "requested_s": 271,
+      "time_s": 271,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0271000.jpg"
+    },
+    {
+      "requested_s": 380,
+      "time_s": 380,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0380000.jpg"
+    },
+    {
+      "requested_s": 488,
+      "time_s": 488,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0488000.jpg"
+    },
+    {
+      "requested_s": 597,
+      "time_s": 597,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0597000.jpg"
+    },
+    {
+      "requested_s": 706,
+      "time_s": 706,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0706000.jpg"
+    },
+    {
+      "requested_s": 814,
+      "time_s": 814,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0814000.jpg"
+    },
+    {
+      "requested_s": 923,
+      "time_s": 923,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0923000.jpg"
+    },
+    {
+      "requested_s": 999,
+      "time_s": 999,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0999000.jpg"
+    },
+    {
+      "requested_s": 1055.521,
+      "time_s": 1055.521,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1055521.jpg"
+    },
+    {
+      "requested_s": 1070.521,
+      "time_s": 1070.521,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1070521.jpg"
+    },
+    {
+      "requested_s": 1082.521,
+      "time_s": 1082.521,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1082521.jpg"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,660"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5660
+			},
+			"text": "この男がスロットにぶち込んだ金額は"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,660",
+				"to": "00:00:08,060"
+			},
+			"offsets": {
+				"from": 5660,
+				"to": 8060
+			},
+			"text": "2本円にして約16万円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,060",
+				"to": "00:00:09,220"
+			},
+			"offsets": {
+				"from": 8060,
+				"to": 9220
+			},
+			"text": "とりあえず回していきます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,220",
+				"to": "00:00:09,900"
+			},
+			"offsets": {
+				"from": 9220,
+				"to": 9900
+			},
+			"text": "高速で"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,900",
+				"to": "00:00:13,400"
+			},
+			"offsets": {
+				"from": 9900,
+				"to": 13400
+			},
+			"text": "この男はスロットの演出をまるで大事にしない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,400",
+				"to": "00:00:14,260"
+			},
+			"offsets": {
+				"from": 13400,
+				"to": 14260
+			},
+			"text": "いちいち見る必要がない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,260",
+				"to": "00:00:16,000"
+			},
+			"offsets": {
+				"from": 14260,
+				"to": 16000
+			},
+			"text": "いかにもキャンチューの特徴"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,000",
+				"to": "00:00:18,860"
+			},
+			"offsets": {
+				"from": 16000,
+				"to": 18860
+			},
+			"text": "お金をかけていれば何でもいいというのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,860",
+				"to": "00:00:22,620"
+			},
+			"offsets": {
+				"from": 18860,
+				"to": 22620
+			},
+			"text": "この男が現在かけている1回転の値段は"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,620",
+				"to": "00:00:26,540"
+			},
+			"offsets": {
+				"from": 22620,
+				"to": 26540
+			},
+			"text": "なんと2000円超高速でスロットを回し始め"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,540",
+				"to": "00:00:28,500"
+			},
+			"offsets": {
+				"from": 26540,
+				"to": 28500
+			},
+			"text": "400ドルが消えたその時だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,500",
+				"to": "00:00:33,380"
+			},
+			"offsets": {
+				"from": 28500,
+				"to": 33380
+			},
+			"text": "ここで激アツフリースピンを獲得で"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,380",
+				"to": "00:00:36,560"
+			},
+			"offsets": {
+				"from": 33380,
+				"to": 36560
+			},
+			"text": "大量の金をゲットできる第一ステップに到達した"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,560",
+				"to": "00:00:38,860"
+			},
+			"offsets": {
+				"from": 36560,
+				"to": 38860
+			},
+			"text": "このスロットは一撃最大賞金"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,860",
+				"to": "00:00:40,060"
+			},
+			"offsets": {
+				"from": 38860,
+				"to": 40060
+			},
+			"text": "なんと1000万円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,060",
+				"to": "00:00:42,820"
+			},
+			"offsets": {
+				"from": 40060,
+				"to": 42820
+			},
+			"text": "果たして手に入れることができるのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,820",
+				"to": "00:00:48,500"
+			},
+			"offsets": {
+				"from": 42820,
+				"to": 48500
+			},
+			"text": "大福津がゲットだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,500",
+				"to": "00:00:52,780"
+			},
+			"offsets": {
+				"from": 48500,
+				"to": 52780
+			},
+			"text": "3万円出ても反応が普通すぎる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,780",
+				"to": "00:00:55,000"
+			},
+			"offsets": {
+				"from": 52780,
+				"to": 55000
+			},
+			"text": "その後5分間"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,000",
+				"to": "00:00:57,940"
+			},
+			"offsets": {
+				"from": 55000,
+				"to": 57940
+			},
+			"text": "この超高額スロットを回し続けた結果"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,940",
+				"to": "00:00:58,760"
+			},
+			"offsets": {
+				"from": 57940,
+				"to": 58760
+			},
+			"text": "厳しい"
+		}
+	]
+}

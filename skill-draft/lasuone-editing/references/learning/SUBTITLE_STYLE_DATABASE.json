@@ -1,0 +1,6106 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "sample_count": 114,
+  "video_count": 30,
+  "unique_display_event_count": null,
+  "sampling_note": "Some samples are repeated holds or continuations. Do not treat sample count as independent subtitle-event count. All samples are partial-video evidence.",
+  "samples": [
+    {
+      "sample_id": "luauPBapN7U_8000",
+      "video_id": "luauPBapN7U",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=8",
+      "evidence_frame": "evidence/videos/luauPBapN7U/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日は8月24日から25",
+      "ocr_rows": [
+        9
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2333728276692435,
+            0.8391807729529616,
+            0.5316841125488281,
+            0.13322810067070856
+          ],
+          "raw_bbox_xywh_reference_px": [
+            448,
+            906,
+            1021,
+            144
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts.",
+      "manual_geometry_estimate": {
+        "basis": "Visual estimate on original 1280x720 frame, scaled 1.5x; no font match",
+        "canvas": [
+          1920,
+          1080
+        ],
+        "glyph_height_px_range": [
+          72,
+          84
+        ],
+        "glyph_bottom_margin_px_range": [
+          60,
+          75
+        ],
+        "center_x_px_range": [
+          945,
+          975
+        ],
+        "dark_edge_px_range": [
+          3,
+          7
+        ],
+        "confidence": "MEDIUM",
+        "nominal_font_size_px": null
+      }
+    },
+    {
+      "sample_id": "luauPBapN7U_16000",
+      "video_id": "luauPBapN7U",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=16",
+      "evidence_frame": "evidence/videos/luauPBapN7U/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "MINCHO_RED_GLOW",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "林さんとバカラソアー",
+      "ocr_rows": [
+        7
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.08593750257812509,
+            0.7555555553125001,
+            0.8250000000000001,
+            0.21666666666666667
+          ],
+          "raw_bbox_xywh_reference_px": [
+            165,
+            816,
+            1584,
+            234
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "luauPBapN7U_40000",
+      "video_id": "luauPBapN7U",
+      "time_s": 40,
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=40",
+      "evidence_frame": "evidence/videos/luauPBapN7U/frame_0040000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "WHITE_YELLOW_INLINE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今回の作戦は着いたら",
+      "ocr_rows": [
+        11
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.08593750115513395,
+            0.7805555558928572,
+            0.3921875,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            165,
+            843,
+            753,
+            102
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "luauPBapN7U_60000",
+      "video_id": "luauPBapN7U",
+      "time_s": 60,
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=60",
+      "evidence_frame": "evidence/videos/luauPBapN7U/frame_0060000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "なんですか？それ",
+      "ocr_rows": [
+        5
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3403958206190646,
+            0.8422712012092788,
+            0.31920835971832273,
+            0.11267982059054904
+          ],
+          "raw_bbox_xywh_reference_px": [
+            654,
+            910,
+            613,
+            122
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "luauPBapN7U_240000",
+      "video_id": "luauPBapN7U",
+      "time_s": 240,
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=240",
+      "evidence_frame": "evidence/videos/luauPBapN7U/frame_0240000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "何を言ってるん？",
+      "ocr_rows": [
+        8
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.09843750219238281,
+            0.7166666675086807,
+            0.8546875,
+            0.2694444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            189,
+            774,
+            1641,
+            291
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "luauPBapN7U_880000",
+      "video_id": "luauPBapN7U",
+      "time_s": 880,
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=880",
+      "evidence_frame": "evidence/videos/luauPBapN7U/frame_0880000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO_LARGE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "私は無くなった",
+      "ocr_rows": [
+        5
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.04852781267476045,
+            0.7027340048937796,
+            0.8123193740844727,
+            0.27508754730224605
+          ],
+          "raw_bbox_xywh_reference_px": [
+            93,
+            759,
+            1560,
+            297
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "3B5q6DXJNcE_5000",
+      "video_id": "3B5q6DXJNcE",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=3B5q6DXJNcE&t=5",
+      "evidence_frame": "evidence/videos/3B5q6DXJNcE/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "ROUND_WHITE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ちいかわ！！",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2433778508967972,
+            0.7034035474798802,
+            0.5257442951202392,
+            0.2931929164462619
+          ],
+          "raw_bbox_xywh_reference_px": [
+            467,
+            760,
+            1009,
+            317
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "3B5q6DXJNcE_12000",
+      "video_id": "3B5q6DXJNcE",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=3B5q6DXJNcE&t=12",
+      "evidence_frame": "evidence/videos/3B5q6DXJNcE/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "話変わるけどさ 答えてほ",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.23437500039062495,
+            0.8555555549652777,
+            0.53125,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            450,
+            924,
+            1020,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "3B5q6DXJNcE_16000",
+      "video_id": "3B5q6DXJNcE",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=3B5q6DXJNcE&t=16",
+      "evidence_frame": "evidence/videos/3B5q6DXJNcE/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ちん皮は板ってる方が好き",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.009375003671874983,
+            0.7722222213657406,
+            0.9874999999999999,
+            0.2055555555555556
+          ],
+          "raw_bbox_xywh_reference_px": [
+            18,
+            834,
+            1896,
+            222
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "3B5q6DXJNcE_197000",
+      "video_id": "3B5q6DXJNcE",
+      "time_s": 197,
+      "reference_video": "https://www.youtube.com/watch?v=3B5q6DXJNcE&t=197",
+      "evidence_frame": "evidence/videos/3B5q6DXJNcE/frame_0197000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "こちらの報酬袋ならOKら",
+      "ocr_rows": [
+        6
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.05625000166145835,
+            0.8055555550185185,
+            0.8984375,
+            0.1611111111111111
+          ],
+          "raw_bbox_xywh_reference_px": [
+            108,
+            870,
+            1725,
+            174
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "3B5q6DXJNcE_852000",
+      "video_id": "3B5q6DXJNcE",
+      "time_s": 852,
+      "reference_video": "https://www.youtube.com/watch?v=3B5q6DXJNcE&t=852",
+      "evidence_frame": "evidence/videos/3B5q6DXJNcE/frame_0852000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "MINCHO_BLUE_GLOW",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "2回戦目が開始しました",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.031249998585937532,
+            0.8027777772777777,
+            0.47656250000000006,
+            0.10000000000000009
+          ],
+          "raw_bbox_xywh_reference_px": [
+            60,
+            867,
+            915,
+            108
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gpnPgXXrPwk_5000",
+      "video_id": "gpnPgXXrPwk",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=gpnPgXXrPwk&t=5",
+      "evidence_frame": "evidence/videos/gpnPgXXrPwk/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今月のノルマですが・.",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.22500000320312497,
+            0.8611111108333335,
+            0.384375,
+            0.0888888888888888
+          ],
+          "raw_bbox_xywh_reference_px": [
+            432,
+            930,
+            738,
+            96
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gpnPgXXrPwk_8000",
+      "video_id": "gpnPgXXrPwk",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=gpnPgXXrPwk&t=8",
+      "evidence_frame": "evidence/videos/gpnPgXXrPwk/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今月のノルマですが・・未",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.22499999620535718,
+            0.8555555548809524,
+            0.55625,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            432,
+            924,
+            1068,
+            102
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gpnPgXXrPwk_12000",
+      "video_id": "gpnPgXXrPwk",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=gpnPgXXrPwk&t=12",
+      "evidence_frame": "evidence/videos/gpnPgXXrPwk/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ここ1ヶ月の様子を見てる",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.05312499437500007,
+            0.8611111114583333,
+            0.9000000000000001,
+            0.0888888888888889
+          ],
+          "raw_bbox_xywh_reference_px": [
+            102,
+            930,
+            1728,
+            96
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gpnPgXXrPwk_187000",
+      "video_id": "gpnPgXXrPwk",
+      "time_s": 187,
+      "reference_video": "https://www.youtube.com/watch?v=gpnPgXXrPwk&t=187",
+      "evidence_frame": "evidence/videos/gpnPgXXrPwk/frame_0187000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ハツハツハッハッハ",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.10000000049715911,
+            0.7972222225757577,
+            0.7937500000000001,
+            0.15555555555555556
+          ],
+          "raw_bbox_xywh_reference_px": [
+            192,
+            861,
+            1524,
+            168
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gpnPgXXrPwk_311000",
+      "video_id": "gpnPgXXrPwk",
+      "time_s": 311,
+      "reference_video": "https://www.youtube.com/watch?v=gpnPgXXrPwk&t=311",
+      "evidence_frame": "evidence/videos/gpnPgXXrPwk/frame_0311000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "初海外に不安そうなスタッ",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.23437500176562498,
+            0.43055555542592594,
+            0.5296875,
+            0.0888888888888888
+          ],
+          "raw_bbox_xywh_reference_px": [
+            450,
+            465,
+            1017,
+            96
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "AqcEeAHJo8c_8000",
+      "video_id": "AqcEeAHJo8c",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=AqcEeAHJo8c&t=8",
+      "evidence_frame": "evidence/videos/AqcEeAHJo8c/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOTHIC_RED",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "上まらない パカラ欲",
+      "ocr_rows": [
+        0,
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.01832597065856194,
+            0.02452904412764345,
+            0.5320980548858644,
+            0.2287197007073296
+          ],
+          "raw_bbox_xywh_reference_px": [
+            35,
+            26,
+            1022,
+            247
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.01225180515246711,
+            0.5316551192463363,
+            0.9598713874816895,
+            0.4533564461602104
+          ],
+          "raw_bbox_xywh_reference_px": [
+            24,
+            574,
+            1843,
+            490
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "AqcEeAHJo8c_12000",
+      "video_id": "AqcEeAHJo8c",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=AqcEeAHJo8c&t=12",
+      "evidence_frame": "evidence/videos/AqcEeAHJo8c/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOTHIC_YELLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "トーナメント",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.1562499980894886,
+            0.7222222224873737,
+            0.8406250000000001,
+            0.27222222222222225
+          ],
+          "raw_bbox_xywh_reference_px": [
+            300,
+            780,
+            1614,
+            294
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "AqcEeAHJo8c_16000",
+      "video_id": "AqcEeAHJo8c",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=AqcEeAHJo8c&t=16",
+      "evidence_frame": "evidence/videos/AqcEeAHJo8c/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GRADIENT_NAME",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "さんぼひよこ",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.008554839696940597,
+            0.6479328463502496,
+            0.9766403198242187,
+            0.3541343053181967
+          ],
+          "raw_bbox_xywh_reference_px": [
+            16,
+            700,
+            1875,
+            382
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "AqcEeAHJo8c_364000",
+      "video_id": "AqcEeAHJo8c",
+      "time_s": 364,
+      "reference_video": "https://www.youtube.com/watch?v=AqcEeAHJo8c&t=364",
+      "evidence_frame": "evidence/videos/AqcEeAHJo8c/frame_0364000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOTHIC_GREEN_STROKE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "インスパイアさんも全面バ",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.0421874990441176,
+            0.8499999995996733,
+            0.91875,
+            0.13611111111111107
+          ],
+          "raw_bbox_xywh_reference_px": [
+            81,
+            918,
+            1764,
+            147
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "AqcEeAHJo8c_1576000",
+      "video_id": "AqcEeAHJo8c",
+      "time_s": 1576,
+      "reference_video": "https://www.youtube.com/watch?v=AqcEeAHJo8c&t=1576",
+      "evidence_frame": "evidence/videos/AqcEeAHJo8c/frame_1576000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOTHIC_PURPLE_STROKE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "これが負けの矢印で",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2921874988762019,
+            0.8638888884615384,
+            0.4203125,
+            0.11111111111111116
+          ],
+          "raw_bbox_xywh_reference_px": [
+            561,
+            933,
+            807,
+            120
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "HBiRgIIzSR4_5000",
+      "video_id": "HBiRgIIzSR4",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=HBiRgIIzSR4&t=5",
+      "evidence_frame": "evidence/videos/HBiRgIIzSR4/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "また悪い車が迎えに来てる",
+      "ocr_rows": [
+        5
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.11250000494140622,
+            0.8944444444791666,
+            0.790625,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            216,
+            966,
+            1518,
+            102
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "HBiRgIIzSR4_12000",
+      "video_id": "HBiRgIIzSR4",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=HBiRgIIzSR4&t=12",
+      "evidence_frame": "evidence/videos/HBiRgIIzSR4/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "どうやら韓国に訪れている",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.20312500312499998,
+            0.4611111117063491,
+            0.6000000000000001,
+            0.08333333333333337
+          ],
+          "raw_bbox_xywh_reference_px": [
+            390,
+            498,
+            1152,
+            90
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "HBiRgIIzSR4_16000",
+      "video_id": "HBiRgIIzSR4",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=HBiRgIIzSR4&t=16",
+      "evidence_frame": "evidence/videos/HBiRgIIzSR4/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "どうやら韓国に訪れている",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.20312500374999995,
+            0.4611111109027778,
+            0.6,
+            0.07777777777777772
+          ],
+          "raw_bbox_xywh_reference_px": [
+            390,
+            498,
+            1152,
+            84
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "HBiRgIIzSR4_484000",
+      "video_id": "HBiRgIIzSR4",
+      "time_s": 484,
+      "reference_video": "https://www.youtube.com/watch?v=HBiRgIIzSR4&t=484",
+      "evidence_frame": "evidence/videos/HBiRgIIzSR4/frame_0484000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOLD_MONEY",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "3000万ウォン（約30",
+      "ocr_rows": [
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.040624998153124994,
+            0.863888889011111,
+            0.9234374999999999,
+            0.12777777777777777
+          ],
+          "raw_bbox_xywh_reference_px": [
+            78,
+            933,
+            1773,
+            138
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "8LyhF_w2vo8_16000",
+      "video_id": "8LyhF_w2vo8",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=8LyhF_w2vo8&t=16",
+      "evidence_frame": "evidence/videos/8LyhF_w2vo8/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ミステリーバウンティです",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2031250037890624,
+            0.8944444441666668,
+            0.60625,
+            0.09999999999999998
+          ],
+          "raw_bbox_xywh_reference_px": [
+            390,
+            966,
+            1164,
+            108
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "8LyhF_w2vo8_264000",
+      "video_id": "8LyhF_w2vo8",
+      "time_s": 264,
+      "reference_video": "https://www.youtube.com/watch?v=8LyhF_w2vo8&t=264",
+      "evidence_frame": "evidence/videos/8LyhF_w2vo8/frame_0264000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_BLUE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "BBがコールでヘッズアッ",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.18593750194754452,
+            0.01388888848214287,
+            0.6328125,
+            0.11388888888888893
+          ],
+          "raw_bbox_xywh_reference_px": [
+            357,
+            15,
+            1215,
+            123
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "8LyhF_w2vo8_440000",
+      "video_id": "8LyhF_w2vo8",
+      "time_s": 440,
+      "reference_video": "https://www.youtube.com/watch?v=8LyhF_w2vo8&t=440",
+      "evidence_frame": "evidence/videos/8LyhF_w2vo8/frame_0440000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_BLUE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "SBもコール",
+      "ocr_rows": [
+        17
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.5045078154131686,
+            0.012216133153202913,
+            0.27379686832427985,
+            0.09778995513916011
+          ],
+          "raw_bbox_xywh_reference_px": [
+            969,
+            13,
+            526,
+            106
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "8LyhF_w2vo8_792000",
+      "video_id": "8LyhF_w2vo8",
+      "time_s": 792,
+      "reference_video": "https://www.youtube.com/watch?v=8LyhF_w2vo8&t=792",
+      "evidence_frame": "evidence/videos/8LyhF_w2vo8/frame_0792000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLUE_GREEN_INFO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今回のトナメはS240サ",
+      "ocr_rows": [
+        2,
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.012286005388634802,
+            0.8052181627288854,
+            0.5614000797271729,
+            0.08829982545640735
+          ],
+          "raw_bbox_xywh_reference_px": [
+            24,
+            870,
+            1078,
+            95
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.012500002864583238,
+            0.8833333329629629,
+            0.978125,
+            0.11111111111111116
+          ],
+          "raw_bbox_xywh_reference_px": [
+            24,
+            954,
+            1878,
+            120
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "JogL0RWGkXc_16000",
+      "video_id": "JogL0RWGkXc",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=JogL0RWGkXc&t=16",
+      "evidence_frame": "evidence/videos/JogL0RWGkXc/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "なぜか旧友の会社にいるラ",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.05000000450520825,
+            0.8999999997685184,
+            0.540625,
+            0.0722222222222223
+          ],
+          "raw_bbox_xywh_reference_px": [
+            96,
+            972,
+            1038,
+            78
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "JogL0RWGkXc_1045000",
+      "video_id": "JogL0RWGkXc",
+      "time_s": 1045,
+      "reference_video": "https://www.youtube.com/watch?v=JogL0RWGkXc&t=1045",
+      "evidence_frame": "evidence/videos/JogL0RWGkXc/frame_1045000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_BLUE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "Hが13,000点のペッ",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.22031249860677082,
+            0.008333332719907438,
+            0.565625,
+            0.14722222222222225
+          ],
+          "raw_bbox_xywh_reference_px": [
+            423,
+            9,
+            1086,
+            159
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "k5GIOKkoAc4_16000",
+      "video_id": "k5GIOKkoAc4",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=k5GIOKkoAc4&t=16",
+      "evidence_frame": "evidence/videos/k5GIOKkoAc4/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "長時間フライト終了",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.16562499728125007,
+            0.8222222225555555,
+            0.271875,
+            0.06666666666666665
+          ],
+          "raw_bbox_xywh_reference_px": [
+            318,
+            888,
+            522,
+            72
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "k5GIOKkoAc4_671000",
+      "video_id": "k5GIOKkoAc4",
+      "time_s": 671,
+      "reference_video": "https://www.youtube.com/watch?v=k5GIOKkoAc4&t=671",
+      "evidence_frame": "evidence/videos/k5GIOKkoAc4/frame_0671000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_RED",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ラスワンが1,300点の",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.15937500214355466,
+            0.011111110954861059,
+            0.6859375000000001,
+            0.15000000000000002
+          ],
+          "raw_bbox_xywh_reference_px": [
+            306,
+            12,
+            1317,
+            162
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "t0QQnSsbMjY_16000",
+      "video_id": "t0QQnSsbMjY",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=t0QQnSsbMjY&t=16",
+      "evidence_frame": "evidence/videos/t0QQnSsbMjY/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "この後もう1個出ていきま",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.1625000028255208,
+            0.8999999996990741,
+            0.678125,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            312,
+            972,
+            1302,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "t0QQnSsbMjY_597000",
+      "video_id": "t0QQnSsbMjY",
+      "time_s": 597,
+      "reference_video": "https://www.youtube.com/watch?v=t0QQnSsbMjY&t=597",
+      "evidence_frame": "evidence/videos/t0QQnSsbMjY/frame_0597000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_RED",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ラスワンは60,000点",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.07656250052220397,
+            0.011111110687134551,
+            0.8484375000000001,
+            0.1611111111111111
+          ],
+          "raw_bbox_xywh_reference_px": [
+            147,
+            12,
+            1629,
+            174
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "E2KvTtptb7Y_294000",
+      "video_id": "E2KvTtptb7Y",
+      "time_s": 294,
+      "reference_video": "https://www.youtube.com/watch?v=E2KvTtptb7Y&t=294",
+      "evidence_frame": "evidence/videos/E2KvTtptb7Y/frame_0294000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_ORANGE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ラスワンはダブルアップに",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.03281250266544111,
+            4.493464489385701e-10,
+            0.9312500000000001,
+            0.1527777777777778
+          ],
+          "raw_bbox_xywh_reference_px": [
+            63,
+            0,
+            1788,
+            165
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "E2KvTtptb7Y_412000",
+      "video_id": "E2KvTtptb7Y",
+      "time_s": 412,
+      "reference_video": "https://www.youtube.com/watch?v=E2KvTtptb7Y&t=412",
+      "evidence_frame": "evidence/videos/E2KvTtptb7Y/frame_0412000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_RED",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ラスワンは18,000点",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.0812499998193359,
+            5.295138771899133e-10,
+            0.8421875000000001,
+            0.1694444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            156,
+            0,
+            1617,
+            183
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "E2KvTtptb7Y_530000",
+      "video_id": "E2KvTtptb7Y",
+      "time_s": 530,
+      "reference_video": "https://www.youtube.com/watch?v=E2KvTtptb7Y&t=530",
+      "evidence_frame": "evidence/videos/E2KvTtptb7Y/frame_0530000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_YELLOW",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ラスワンにフラッシュが完",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.033333309904039245,
+            -7.784093369878065e-10,
+            0.9041666984558104,
+            0.16296296119689946
+          ],
+          "raw_bbox_xywh_reference_px": [
+            64,
+            0,
+            1736,
+            176
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "E2KvTtptb7Y_766000",
+      "video_id": "E2KvTtptb7Y",
+      "time_s": 766,
+      "reference_video": "https://www.youtube.com/watch?v=E2KvTtptb7Y&t=766",
+      "evidence_frame": "evidence/videos/E2KvTtptb7Y/frame_0766000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_WHITE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "相手は自分のハンドを撮影",
+      "ocr_rows": [
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.13437499930729171,
+            0.008333332879629674,
+            0.7484375,
+            0.13611111111111107
+          ],
+          "raw_bbox_xywh_reference_px": [
+            258,
+            9,
+            1437,
+            147
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "j6dt3zbPjfE_16000",
+      "video_id": "j6dt3zbPjfE",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=j6dt3zbPjfE&t=16",
+      "evidence_frame": "evidence/videos/j6dt3zbPjfE/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "スーパーターボバウンティ",
+      "ocr_rows": [
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.03750000140624996,
+            0.9000000009444444,
+            0.9343750000000001,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            72,
+            972,
+            1794,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "j6dt3zbPjfE_129000",
+      "video_id": "j6dt3zbPjfE",
+      "time_s": 129,
+      "reference_video": "https://www.youtube.com/watch?v=j6dt3zbPjfE&t=129",
+      "evidence_frame": "evidence/videos/j6dt3zbPjfE/frame_0129000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_ORANGE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "相手が降りてポットを獲得",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.11718749760253902,
+            9.548606350051614e-11,
+            0.7671874999999999,
+            0.13611111111111118
+          ],
+          "raw_bbox_xywh_reference_px": [
+            225,
+            0,
+            1473,
+            147
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "j6dt3zbPjfE_302000",
+      "video_id": "j6dt3zbPjfE",
+      "time_s": 302,
+      "reference_video": "https://www.youtube.com/watch?v=j6dt3zbPjfE&t=302",
+      "evidence_frame": "evidence/videos/j6dt3zbPjfE/frame_0302000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POKER_ORANGE",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "相手を降ろしポットを獲得",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.10625000208059214,
+            -1.8274848301302882e-10,
+            0.7906249999999999,
+            0.13611111111111107
+          ],
+          "raw_bbox_xywh_reference_px": [
+            204,
+            0,
+            1518,
+            147
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "j6dt3zbPjfE_560000",
+      "video_id": "j6dt3zbPjfE",
+      "time_s": 560,
+      "reference_video": "https://www.youtube.com/watch?v=j6dt3zbPjfE&t=560",
+      "evidence_frame": "evidence/videos/j6dt3zbPjfE/frame_0560000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "防止するためのグラディエ",
+      "ocr_rows": [
+        4
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.15156250317471578,
+            0.897222222121212,
+            0.6984375,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            291,
+            969,
+            1341,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ehJssPk1s7Q_2000",
+      "video_id": "ehJssPk1s7Q",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=ehJssPk1s7Q&t=2",
+      "evidence_frame": "evidence/videos/ehJssPk1s7Q/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "こんぽんはアナウンサーの",
+      "ocr_rows": [
+        23
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.17187499647569454,
+            0.8055555549382717,
+            0.659375,
+            0.11111111111111116
+          ],
+          "raw_bbox_xywh_reference_px": [
+            330,
+            870,
+            1266,
+            120
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ehJssPk1s7Q_8000",
+      "video_id": "ehJssPk1s7Q",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=ehJssPk1s7Q&t=8",
+      "evidence_frame": "evidence/videos/ehJssPk1s7Q/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "配居を終えて",
+      "ocr_rows": [
+        28
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3748108169654813,
+            0.8205928216176835,
+            0.25350337028503417,
+            0.09770324495103633
+          ],
+          "raw_bbox_xywh_reference_px": [
+            720,
+            886,
+            487,
+            106
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ehJssPk1s7Q_147000",
+      "video_id": "ehJssPk1s7Q",
+      "time_s": 147,
+      "reference_video": "https://www.youtube.com/watch?v=ehJssPk1s7Q&t=147",
+      "evidence_frame": "evidence/videos/ehJssPk1s7Q/frame_0147000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "偉いところまで",
+      "ocr_rows": [
+        30
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3530514225657438,
+            0.8242291345724888,
+            0.2923346519470215,
+            0.09043061998155377
+          ],
+          "raw_bbox_xywh_reference_px": [
+            678,
+            890,
+            561,
+            98
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ehJssPk1s7Q_635000",
+      "video_id": "ehJssPk1s7Q",
+      "time_s": 635,
+      "reference_video": "https://www.youtube.com/watch?v=ehJssPk1s7Q&t=635",
+      "evidence_frame": "evidence/videos/ehJssPk1s7Q/frame_0635000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "YELLOW_BOLD_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "しゃべらせてあげるみたい",
+      "ocr_rows": [
+        38
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2390624984809028,
+            0.861111110632716,
+            0.5265625,
+            0.08611111111111114
+          ],
+          "raw_bbox_xywh_reference_px": [
+            459,
+            930,
+            1011,
+            93
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "IlXtl0Hq_As_2000",
+      "video_id": "IlXtl0Hq_As",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=IlXtl0Hq_As&t=2",
+      "evidence_frame": "evidence/videos/IlXtl0Hq_As/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "おはようございます",
+      "ocr_rows": [
+        4
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3218749977734376,
+            0.8222222225347222,
+            0.35625,
+            0.08333333333333337
+          ],
+          "raw_bbox_xywh_reference_px": [
+            618,
+            888,
+            684,
+            90
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "IlXtl0Hq_As_8000",
+      "video_id": "IlXtl0Hq_As",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=IlXtl0Hq_As&t=8",
+      "evidence_frame": "evidence/videos/IlXtl0Hq_As/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "やってみようと",
+      "ocr_rows": [
+        16
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.36192689171444437,
+            0.811726299680184,
+            0.2761462211608887,
+            0.11543628904554581
+          ],
+          "raw_bbox_xywh_reference_px": [
+            695,
+            877,
+            530,
+            125
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "IlXtl0Hq_As_16000",
+      "video_id": "IlXtl0Hq_As",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=IlXtl0Hq_As&t=16",
+      "evidence_frame": "evidence/videos/IlXtl0Hq_As/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "裏の話だったりとか",
+      "ocr_rows": [
+        13
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.32187500178125,
+            0.8277777774444445,
+            0.35625,
+            0.0888888888888889
+          ],
+          "raw_bbox_xywh_reference_px": [
+            618,
+            894,
+            684,
+            96
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "UE2SSdiQCUM_5000",
+      "video_id": "UE2SSdiQCUM",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=UE2SSdiQCUM&t=5",
+      "evidence_frame": "evidence/videos/UE2SSdiQCUM/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日はどこに行くでしょう",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.22187500403645827,
+            0.8555555547222222,
+            0.546875,
+            0.09999999999999998
+          ],
+          "raw_bbox_xywh_reference_px": [
+            426,
+            924,
+            1050,
+            108
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "UE2SSdiQCUM_188000",
+      "video_id": "UE2SSdiQCUM",
+      "time_s": 188,
+      "reference_video": "https://www.youtube.com/watch?v=UE2SSdiQCUM&t=188",
+      "evidence_frame": "evidence/videos/UE2SSdiQCUM/frame_0188000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "MINCHO_PURPLE_GLOW",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "予想家のおじさん選び能力",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.062499998998579456,
+            0.7861111114772728,
+            0.875,
+            0.1611111111111111
+          ],
+          "raw_bbox_xywh_reference_px": [
+            120,
+            849,
+            1680,
+            174
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "upFzFNjC1kk_2000",
+      "video_id": "upFzFNjC1kk",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=upFzFNjC1kk&t=2",
+      "evidence_frame": "evidence/videos/upFzFNjC1kk/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "WHITE_YELLOW_INLINE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日は息子の夏休みの自由",
+      "ocr_rows": [
+        4
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.03125000760416663,
+            0.861111111898148,
+            0.9374999999999999,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            60,
+            930,
+            1800,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "upFzFNjC1kk_5000",
+      "video_id": "upFzFNjC1kk",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=upFzFNjC1kk&t=5",
+      "evidence_frame": "evidence/videos/upFzFNjC1kk/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "WHITE_YELLOW_INLINE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日は息子の夏休みの自由",
+      "ocr_rows": [
+        4
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.031250001523437466,
+            0.8555555549652777,
+            0.9374999999999999,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            60,
+            924,
+            1800,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "upFzFNjC1kk_12000",
+      "video_id": "upFzFNjC1kk",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=upFzFNjC1kk&t=12",
+      "evidence_frame": "evidence/videos/upFzFNjC1kk/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "当たる気がしない・",
+      "ocr_rows": [
+        4
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3000000027604166,
+            0.8611111108333335,
+            0.33125000000000004,
+            0.0888888888888888
+          ],
+          "raw_bbox_xywh_reference_px": [
+            576,
+            930,
+            636,
+            96
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "upFzFNjC1kk_16000",
+      "video_id": "upFzFNjC1kk",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=upFzFNjC1kk&t=16",
+      "evidence_frame": "evidence/videos/upFzFNjC1kk/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "REPORT_TITLE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "〇年〇組〇番ゆうと自由研",
+      "ocr_rows": [
+        4,
+        5
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.04062500354910714,
+            0.7277777774603174,
+            0.49687499999999996,
+            0.07777777777777783
+          ],
+          "raw_bbox_xywh_reference_px": [
+            78,
+            786,
+            954,
+            84
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.04375000409374996,
+            0.80555555475,
+            0.9125000000000001,
+            0.1611111111111111
+          ],
+          "raw_bbox_xywh_reference_px": [
+            84,
+            870,
+            1752,
+            174
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ss1IFQqav-8_5000",
+      "video_id": "ss1IFQqav-8",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=ss1IFQqav-8&t=5",
+      "evidence_frame": "evidence/videos/ss1IFQqav-8/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLACK_YELLOW_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "競馬はもう良くないです",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.24999999638392864,
+            0.8444444447222222,
+            0.50625,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            480,
+            912,
+            972,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ss1IFQqav-8_8000",
+      "video_id": "ss1IFQqav-8",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=ss1IFQqav-8&t=8",
+      "evidence_frame": "evidence/videos/ss1IFQqav-8/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLACK_YELLOW_GOTHIC_RED_WORD",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今回 競艇AIを作ってき",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.16250001101361952,
+            0.8361111114285715,
+            0.6833333015441895,
+            0.10555555555555551
+          ],
+          "raw_bbox_xywh_reference_px": [
+            312,
+            903,
+            1312,
+            114
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ss1IFQqav-8_12000",
+      "video_id": "ss1IFQqav-8",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=ss1IFQqav-8&t=12",
+      "evidence_frame": "evidence/videos/ss1IFQqav-8/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLACK_YELLOW_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "戸田競艇来ました！",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            2.96874995697749e-9,
+            0.7000000009629629,
+            0.965625,
+            0.28888888888888886
+          ],
+          "raw_bbox_xywh_reference_px": [
+            0,
+            756,
+            1854,
+            312
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ss1IFQqav-8_421000",
+      "video_id": "ss1IFQqav-8",
+      "time_s": 421,
+      "reference_video": "https://www.youtube.com/watch?v=ss1IFQqav-8&t=421",
+      "evidence_frame": "evidence/videos/ss1IFQqav-8/frame_0421000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "POINT_BOX",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ウインウイン7とは？ ボ",
+      "ocr_rows": [
+        1,
+        2,
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.0765624986197917,
+            0.73333333345679,
+            0.24843749999999998,
+            0.050000000000000044
+          ],
+          "raw_bbox_xywh_reference_px": [
+            147,
+            792,
+            477,
+            54
+          ],
+          "ocr_confidence": 0.5
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.12812500103298613,
+            0.7944444447993827,
+            0.7453125,
+            0.06388888888888888
+          ],
+          "raw_bbox_xywh_reference_px": [
+            246,
+            858,
+            1431,
+            69
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.06666667034311935,
+            0.8592592618895203,
+            0.7291666507720947,
+            0.1037037001715766
+          ],
+          "raw_bbox_xywh_reference_px": [
+            128,
+            928,
+            1400,
+            112
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ss1IFQqav-8_757000",
+      "video_id": "ss1IFQqav-8",
+      "time_s": 757,
+      "reference_video": "https://www.youtube.com/watch?v=ss1IFQqav-8&t=757",
+      "evidence_frame": "evidence/videos/ss1IFQqav-8/frame_0757000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "食った？紙も",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2500000001041666,
+            0.7361111103333333,
+            0.4875,
+            0.2333333333333334
+          ],
+          "raw_bbox_xywh_reference_px": [
+            480,
+            795,
+            936,
+            252
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "fenmCOzaygE_2000",
+      "video_id": "fenmCOzaygE",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=fenmCOzaygE&t=2",
+      "evidence_frame": "evidence/videos/fenmCOzaygE/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日は競馬Aのお披露目会",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2218749960267858,
+            0.8777777780555555,
+            0.5562499999999999,
+            0.07222222222222219
+          ],
+          "raw_bbox_xywh_reference_px": [
+            426,
+            948,
+            1068,
+            78
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "fenmCOzaygE_5000",
+      "video_id": "fenmCOzaygE",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=fenmCOzaygE&t=5",
+      "evidence_frame": "evidence/videos/fenmCOzaygE/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日は競馬Aのお披露目会",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2218750034765625,
+            0.8777777775347223,
+            0.55625,
+            0.07222222222222219
+          ],
+          "raw_bbox_xywh_reference_px": [
+            426,
+            948,
+            1068,
+            78
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "fenmCOzaygE_8000",
+      "video_id": "fenmCOzaygE",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=fenmCOzaygE&t=8",
+      "evidence_frame": "evidence/videos/fenmCOzaygE/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "そこに潜入しそいたうかな",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2031250036718749,
+            0.8388888887847222,
+            0.5875,
+            0.1166666666666667
+          ],
+          "raw_bbox_xywh_reference_px": [
+            390,
+            906,
+            1128,
+            126
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "fenmCOzaygE_218000",
+      "video_id": "fenmCOzaygE",
+      "time_s": 218,
+      "reference_video": "https://www.youtube.com/watch?v=fenmCOzaygE&t=218",
+      "evidence_frame": "evidence/videos/fenmCOzaygE/frame_0218000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今撮った動画のパドックを",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2578125010503472,
+            0.8805555559567902,
+            0.48281250000000003,
+            0.07222222222222219
+          ],
+          "raw_bbox_xywh_reference_px": [
+            495,
+            951,
+            927,
+            78
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "MyVnNIgfBS8_5000",
+      "video_id": "MyVnNIgfBS8",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=MyVnNIgfBS8&t=5",
+      "evidence_frame": "evidence/videos/MyVnNIgfBS8/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "A時代 色んなサービスが",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.162500003375,
+            0.8611111108055556,
+            0.6749999999999999,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            312,
+            930,
+            1296,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "MyVnNIgfBS8_8000",
+      "video_id": "MyVnNIgfBS8",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=MyVnNIgfBS8&t=8",
+      "evidence_frame": "evidence/videos/MyVnNIgfBS8/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "番長 1番大事なことは何",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.16562500293750002,
+            0.8611111106388888,
+            0.6625,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            318,
+            930,
+            1272,
+            102
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "MyVnNIgfBS8_12000",
+      "video_id": "MyVnNIgfBS8",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=MyVnNIgfBS8&t=12",
+      "evidence_frame": "evidence/videos/MyVnNIgfBS8/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BRUSH_WHITE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "営業力",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3218749987500001,
+            0.37222222251851855,
+            0.37499999999999994,
+            0.2777777777777778
+          ],
+          "raw_bbox_xywh_reference_px": [
+            618,
+            402,
+            720,
+            300
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "MyVnNIgfBS8_90000",
+      "video_id": "MyVnNIgfBS8",
+      "time_s": 90,
+      "reference_video": "https://www.youtube.com/watch?v=MyVnNIgfBS8&t=90",
+      "evidence_frame": "evidence/videos/MyVnNIgfBS8/frame_0090000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SLIDE_CAPTION",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "「このサイト 登録いただ",
+      "ocr_rows": [
+        27
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.24583334499179427,
+            0.8958333345867354,
+            0.5083333015441895,
+            0.05972222222222223
+          ],
+          "raw_bbox_xywh_reference_px": [
+            472,
+            968,
+            976,
+            65
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "YINy5jM1p7M_5000",
+      "video_id": "YINy5jM1p7M",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=YINy5jM1p7M&t=5",
+      "evidence_frame": "evidence/videos/YINy5jM1p7M/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "出れて焙しい！",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.4029093756861618,
+            0.8591427852962348,
+            0.20355625152587897,
+            0.07615887324015302
+          ],
+          "raw_bbox_xywh_reference_px": [
+            774,
+            928,
+            391,
+            82
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "YINy5jM1p7M_8000",
+      "video_id": "YINy5jM1p7M",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=YINy5jM1p7M&t=8",
+      "evidence_frame": "evidence/videos/YINy5jM1p7M/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今林先生の顧問 3ヶ月目",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.10312500442708324,
+            0.8611111108641976,
+            0.796875,
+            0.07777777777777772
+          ],
+          "raw_bbox_xywh_reference_px": [
+            198,
+            930,
+            1530,
+            84
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "YINy5jM1p7M_116000",
+      "video_id": "YINy5jM1p7M",
+      "time_s": 116,
+      "reference_video": "https://www.youtube.com/watch?v=YINy5jM1p7M&t=116",
+      "evidence_frame": "evidence/videos/YINy5jM1p7M/frame_0116000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_GOTHIC",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "効果が出るまで一生あなた",
+      "ocr_rows": [
+        0,
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2545558498832351,
+            0.7923615621188355,
+            0.4971484184265137,
+            0.07449519899156365
+          ],
+          "raw_bbox_xywh_reference_px": [
+            489,
+            856,
+            955,
+            80
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2562500011272322,
+            0.8638888887698414,
+            0.31562500000000004,
+            0.06666666666666665
+          ],
+          "raw_bbox_xywh_reference_px": [
+            492,
+            933,
+            606,
+            72
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ftcX4PmRTLs_5000",
+      "video_id": "ftcX4PmRTLs",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=ftcX4PmRTLs&t=5",
+      "evidence_frame": "evidence/videos/ftcX4PmRTLs/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "MINCHO_PURPLE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "借徴こちいて",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3154391385101739,
+            0.404377122040515,
+            0.36599671840667725,
+            0.18569020165337446
+          ],
+          "raw_bbox_xywh_reference_px": [
+            606,
+            437,
+            703,
+            201
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ftcX4PmRTLs_8000",
+      "video_id": "ftcX4PmRTLs",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=ftcX4PmRTLs&t=8",
+      "evidence_frame": "evidence/videos/ftcX4PmRTLs/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "MINCHO_PURPLE_GLOW",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "借金について",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.315432454845058,
+            0.45390746829108397,
+            0.37226009368896484,
+            0.14218506283230248
+          ],
+          "raw_bbox_xywh_reference_px": [
+            606,
+            490,
+            715,
+            154
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ftcX4PmRTLs_12000",
+      "video_id": "ftcX4PmRTLs",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=ftcX4PmRTLs&t=12",
+      "evidence_frame": "evidence/videos/ftcX4PmRTLs/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "まず今日は固定資産税を1",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.15833333973895264,
+            0.8583333359765716,
+            0.6791666507720948,
+            0.08981481128268776
+          ],
+          "raw_bbox_xywh_reference_px": [
+            304,
+            927,
+            1304,
+            97
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "ftcX4PmRTLs_631000",
+      "video_id": "ftcX4PmRTLs",
+      "time_s": 631,
+      "reference_video": "https://www.youtube.com/watch?v=ftcX4PmRTLs&t=631",
+      "evidence_frame": "evidence/videos/ftcX4PmRTLs/frame_0631000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "例えば”今日codeXが",
+      "ocr_rows": [
+        6
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.06249999592968747,
+            0.8638888893194445,
+            0.8734375000000001,
+            0.08611111111111103
+          ],
+          "raw_bbox_xywh_reference_px": [
+            120,
+            933,
+            1677,
+            93
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "u1Gz_kTbc9g_5000",
+      "video_id": "u1Gz_kTbc9g",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=u1Gz_kTbc9g&t=5",
+      "evidence_frame": "evidence/videos/u1Gz_kTbc9g/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SERIOUS_BAND_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日は僕の現状 どういう",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.20000000502604162,
+            0.8611111108333335,
+            0.603125,
+            0.06666666666666665
+          ],
+          "raw_bbox_xywh_reference_px": [
+            384,
+            930,
+            1158,
+            72
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "u1Gz_kTbc9g_8000",
+      "video_id": "u1Gz_kTbc9g",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=u1Gz_kTbc9g&t=8",
+      "evidence_frame": "evidence/videos/u1Gz_kTbc9g/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SERIOUS_BAND_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "みたいな所をお話しできた",
+      "ocr_rows": [
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.16250000374999996,
+            0.861111110802469,
+            0.675,
+            0.06666666666666665
+          ],
+          "raw_bbox_xywh_reference_px": [
+            312,
+            930,
+            1296,
+            72
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "u1Gz_kTbc9g_12000",
+      "video_id": "u1Gz_kTbc9g",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=u1Gz_kTbc9g&t=12",
+      "evidence_frame": "evidence/videos/u1Gz_kTbc9g/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SERIOUS_BAND_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ちょっと語る会にしたいな",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.20937500484374993,
+            0.8666666663425926,
+            0.58125,
+            0.061111111111111116
+          ],
+          "raw_bbox_xywh_reference_px": [
+            402,
+            936,
+            1116,
+            66
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "u1Gz_kTbc9g_185000",
+      "video_id": "u1Gz_kTbc9g",
+      "time_s": 185,
+      "reference_video": "https://www.youtube.com/watch?v=u1Gz_kTbc9g&t=185",
+      "evidence_frame": "evidence/videos/u1Gz_kTbc9g/frame_0185000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SERIOUS_BAND_MINCHO",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ちょっと専業主婦をしてく",
+      "ocr_rows": [
+        6
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2833333466452025,
+            0.8666666662037036,
+            0.4291666507720947,
+            0.06666666666666665
+          ],
+          "raw_bbox_xywh_reference_px": [
+            544,
+            936,
+            824,
+            72
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "pOUrvKX-9Rs_5000",
+      "video_id": "pOUrvKX-9Rs",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=pOUrvKX-9Rs&t=5",
+      "evidence_frame": "evidence/videos/pOUrvKX-9Rs/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "開始5秒でヤバ動画確定し",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2875000030803571,
+            0.46111111079365075,
+            0.43124999999999997,
+            0.07777777777777783
+          ],
+          "raw_bbox_xywh_reference_px": [
+            552,
+            498,
+            828,
+            84
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "pOUrvKX-9Rs_8000",
+      "video_id": "pOUrvKX-9Rs",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=pOUrvKX-9Rs&t=8",
+      "evidence_frame": "evidence/videos/pOUrvKX-9Rs/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_BOLD_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "開始5秒でヤバ動画確定し",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2937500035416666,
+            0.4611111107870369,
+            0.42500000000000004,
+            0.0722222222222223
+          ],
+          "raw_bbox_xywh_reference_px": [
+            564,
+            498,
+            816,
+            78
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "pOUrvKX-9Rs_12000",
+      "video_id": "pOUrvKX-9Rs",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=pOUrvKX-9Rs&t=12",
+      "evidence_frame": "evidence/videos/pOUrvKX-9Rs/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLACK_YELLOW_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "今日は5月23日",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3374999979882813,
+            0.8444444446874999,
+            0.32187499999999997,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            648,
+            912,
+            618,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "pOUrvKX-9Rs_16000",
+      "video_id": "pOUrvKX-9Rs",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=pOUrvKX-9Rs&t=16",
+      "evidence_frame": "evidence/videos/pOUrvKX-9Rs/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "YELLOW_MINCHO_RED_SLATE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ギャンブルを減らそう！！",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.09952011309049551,
+            0.37793703011567104,
+            0.8322097778320314,
+            0.24968149397108286
+          ],
+          "raw_bbox_xywh_reference_px": [
+            191,
+            408,
+            1598,
+            270
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Q1ydGCm90R8_8000",
+      "video_id": "Q1ydGCm90R8",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=Q1ydGCm90R8&t=8",
+      "evidence_frame": "evidence/videos/Q1ydGCm90R8/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO_LARGE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "AIM 6:04",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.355977500804577,
+            0.4480120602428981,
+            0.29117000102996826,
+            0.13175365659925664
+          ],
+          "raw_bbox_xywh_reference_px": [
+            683,
+            484,
+            559,
+            142
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Q1ydGCm90R8_12000",
+      "video_id": "Q1ydGCm90R8",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=Q1ydGCm90R8&t=12",
+      "evidence_frame": "evidence/videos/Q1ydGCm90R8/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOTHIC_GREEN_STROKE",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ラスワンさんギャンブルを",
+      "ocr_rows": [
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.056249995086805615,
+            0.8722222224999999,
+            0.8843749999999999,
+            0.10555555555555551
+          ],
+          "raw_bbox_xywh_reference_px": [
+            108,
+            942,
+            1698,
+            114
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Q1ydGCm90R8_447000",
+      "video_id": "Q1ydGCm90R8",
+      "time_s": 447,
+      "reference_video": "https://www.youtube.com/watch?v=Q1ydGCm90R8&t=447",
+      "evidence_frame": "evidence/videos/Q1ydGCm90R8/frame_0447000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "RED_BLACK_RETORT",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "軽えながらキャンブルやら",
+      "ocr_rows": [
+        4
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.029687499114583283,
+            0.855555556,
+            0.940625,
+            0.13333333333333341
+          ],
+          "raw_bbox_xywh_reference_px": [
+            57,
+            924,
+            1806,
+            144
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "51UBRypjCPw_2000",
+      "video_id": "51UBRypjCPw",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=51UBRypjCPw&t=2",
+      "evidence_frame": "evidence/videos/51UBRypjCPw/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "とりあえず",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.39681851997870404,
+            0.8606535043253267,
+            0.21261296272277835,
+            0.0842485480838352
+          ],
+          "raw_bbox_xywh_reference_px": [
+            762,
+            930,
+            408,
+            91
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "51UBRypjCPw_12000",
+      "video_id": "51UBRypjCPw",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=51UBRypjCPw&t=12",
+      "evidence_frame": "evidence/videos/51UBRypjCPw/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "W_MINCHO",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "Astraが出まして",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.334375000125,
+            0.8611111102777778,
+            0.3375,
+            0.08333333333333337
+          ],
+          "raw_bbox_xywh_reference_px": [
+            642,
+            930,
+            648,
+            90
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "51UBRypjCPw_90000",
+      "video_id": "51UBRypjCPw",
+      "time_s": 90,
+      "reference_video": "https://www.youtube.com/watch?v=51UBRypjCPw&t=90",
+      "evidence_frame": "evidence/videos/51UBRypjCPw/frame_0090000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "EXPERIMENT_FRAME_CAPTION",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "ここはね、ちょっと難しい",
+      "ocr_rows": [
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2578124991974432,
+            0.9000000003535354,
+            0.4859375,
+            0.07777777777777772
+          ],
+          "raw_bbox_xywh_reference_px": [
+            495,
+            972,
+            933,
+            84
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "51UBRypjCPw_140000",
+      "video_id": "51UBRypjCPw",
+      "time_s": 140,
+      "reference_video": "https://www.youtube.com/watch?v=51UBRypjCPw&t=140",
+      "evidence_frame": "evidence/videos/51UBRypjCPw/frame_0140000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "EXPERIMENT_FRAME_CAPTION",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "三つ揃いセット",
+      "ocr_rows": [
+        4
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.37812499952256945,
+            0.8972222218364198,
+            0.24218750000000006,
+            0.06944444444444442
+          ],
+          "raw_bbox_xywh_reference_px": [
+            726,
+            969,
+            465,
+            75
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "dC-UoCnsa2Q_8000",
+      "video_id": "dC-UoCnsa2Q",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=dC-UoCnsa2Q&t=8",
+      "evidence_frame": "evidence/videos/dC-UoCnsa2Q/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLACK_YELLOW_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "おかけさまでお気持ち顧問",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.17499999767857144,
+            0.8333333336507938,
+            0.65,
+            0.11111111111111105
+          ],
+          "raw_bbox_xywh_reference_px": [
+            336,
+            900,
+            1248,
+            120
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "dC-UoCnsa2Q_16000",
+      "video_id": "dC-UoCnsa2Q",
+      "time_s": 16,
+      "reference_video": "https://www.youtube.com/watch?v=dC-UoCnsa2Q&t=16",
+      "evidence_frame": "evidence/videos/dC-UoCnsa2Q/frame_0016000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLACK_YELLOW_GOTHIC",
+      "source_resolution": [
+        640,
+        360
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "冷静に考えてさ・・・",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.3156250005208333,
+            0.8388888897685185,
+            0.36875,
+            0.10555555555555562
+          ],
+          "raw_bbox_xywh_reference_px": [
+            606,
+            906,
+            708,
+            114
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "dC-UoCnsa2Q_223000",
+      "video_id": "dC-UoCnsa2Q",
+      "time_s": 223,
+      "reference_video": "https://www.youtube.com/watch?v=dC-UoCnsa2Q&t=223",
+      "evidence_frame": "evidence/videos/dC-UoCnsa2Q/frame_0223000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "BLACK_YELLOW_GOTHIC",
+      "source_resolution": [
+        1280,
+        720
+      ],
+      "reference_canvas": [
+        1920,
+        1080
+      ],
+      "text_excerpt_ocr_unverified": "100回以内には1億にな",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.16874999793945306,
+            0.8416666668055557,
+            0.659375,
+            0.09444444444444444
+          ],
+          "raw_bbox_xywh_reference_px": [
+            324,
+            909,
+            1266,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Uieu_JqrI-8_150",
+      "video_id": "Uieu_JqrI-8",
+      "time_s": 0.15,
+      "reference_video": "https://www.youtube.com/watch?v=Uieu_JqrI-8&t=0",
+      "evidence_frame": "evidence/videos/Uieu_JqrI-8/frame_0000150.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_YELLOW_CARD",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "5分で完成 AI編集！",
+      "ocr_rows": [
+        0,
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.20490568239930332,
+            0.4296698157203156,
+            0.5901886410183377,
+            0.08128536939620978
+          ],
+          "raw_bbox_xywh_reference_px": [
+            221,
+            825,
+            637,
+            156
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.24444444714285712,
+            0.49687499941964286,
+            0.4888888888888889,
+            0.08125000000000004
+          ],
+          "raw_bbox_xywh_reference_px": [
+            264,
+            954,
+            528,
+            156
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Uieu_JqrI-8_2000",
+      "video_id": "Uieu_JqrI-8",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=Uieu_JqrI-8&t=2",
+      "evidence_frame": "evidence/videos/Uieu_JqrI-8/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BLACK_BAND",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "チルハビット",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2884527210775002,
+            0.7175054963310076,
+            0.3564278920491536,
+            0.0431140094995498
+          ],
+          "raw_bbox_xywh_reference_px": [
+            312,
+            1378,
+            385,
+            83
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Uieu_JqrI-8_8000",
+      "video_id": "Uieu_JqrI-8",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=Uieu_JqrI-8&t=8",
+      "evidence_frame": "evidence/videos/Uieu_JqrI-8/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BLACK_BAND",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "これをカパッとはめて",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.17222222552469127,
+            0.7218749998611111,
+            0.5944444444444444,
+            0.03749999999999998
+          ],
+          "raw_bbox_xywh_reference_px": [
+            186,
+            1386,
+            642,
+            72
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Uieu_JqrI-8_37000",
+      "video_id": "Uieu_JqrI-8",
+      "time_s": 37,
+      "reference_video": "https://www.youtube.com/watch?v=Uieu_JqrI-8&t=37",
+      "evidence_frame": "evidence/videos/Uieu_JqrI-8/frame_0037000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BLACK_BAND_YELLOW",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "めっちゃうまい",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2555555591203703,
+            0.72187499984375,
+            0.4277777777777778,
+            0.03749999999999998
+          ],
+          "raw_bbox_xywh_reference_px": [
+            276,
+            1386,
+            462,
+            72
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "Uieu_JqrI-8_40000",
+      "video_id": "Uieu_JqrI-8",
+      "time_s": 40,
+      "reference_video": "https://www.youtube.com/watch?v=Uieu_JqrI-8&t=40",
+      "evidence_frame": "evidence/videos/Uieu_JqrI-8/frame_0040000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BLACK_BAND",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "1本6,000円くらい",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.21594555782339062,
+            0.716178652215546,
+            0.5014422098795572,
+            0.05201769471168516
+          ],
+          "raw_bbox_xywh_reference_px": [
+            233,
+            1375,
+            542,
+            100
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "CEf_sKZk6d8_2000",
+      "video_id": "CEf_sKZk6d8",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=2",
+      "evidence_frame": "evidence/videos/CEf_sKZk6d8/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_GREEN_BELOW",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "（ラスワン）ありがとう ",
+      "ocr_rows": [
+        1,
+        2,
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.17777777325396826,
+            0.7031250001562499,
+            0.6333333333333333,
+            0.034375000000000044
+          ],
+          "raw_bbox_xywh_reference_px": [
+            192,
+            1350,
+            684,
+            66
+          ],
+          "ocr_confidence": 0.5
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.34444444211111114,
+            0.74062500034375,
+            0.3111111111111111,
+            0.034375000000000044
+          ],
+          "raw_bbox_xywh_reference_px": [
+            372,
+            1422,
+            336,
+            66
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.17222222635416656,
+            0.7749999998242186,
+            0.6611111111111112,
+            0.04062500000000002
+          ],
+          "raw_bbox_xywh_reference_px": [
+            186,
+            1488,
+            714,
+            78
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "CEf_sKZk6d8_12000",
+      "video_id": "CEf_sKZk6d8",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=12",
+      "evidence_frame": "evidence/videos/CEf_sKZk6d8/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_YELLOW_BELOW",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "（林さん）足が 生えてい",
+      "ocr_rows": [
+        7,
+        8
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.29971892288769686,
+            0.6772967679622658,
+            0.40056215922037763,
+            0.04540646374225621
+          ],
+          "raw_bbox_xywh_reference_px": [
+            324,
+            1300,
+            433,
+            87
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.19444444072916672,
+            0.7187500001367187,
+            0.5944444444444446,
+            0.04062500000000002
+          ],
+          "raw_bbox_xywh_reference_px": [
+            210,
+            1380,
+            642,
+            78
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "CEf_sKZk6d8_60000",
+      "video_id": "CEf_sKZk6d8",
+      "time_s": 60,
+      "reference_video": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=60",
+      "evidence_frame": "evidence/videos/CEf_sKZk6d8/frame_0060000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_RED_YELLOW_INSIDE",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "8が出たら 決まりでござ",
+      "ocr_rows": [
+        0,
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.344444447037037,
+            0.4593749998697916,
+            0.3111111111111111,
+            0.04062500000000002
+          ],
+          "raw_bbox_xywh_reference_px": [
+            372,
+            882,
+            336,
+            78
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.19999999597222226,
+            0.49687500039062493,
+            0.5944444444444443,
+            0.046875
+          ],
+          "raw_bbox_xywh_reference_px": [
+            216,
+            954,
+            642,
+            90
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "CEf_sKZk6d8_90000",
+      "video_id": "CEf_sKZk6d8",
+      "time_s": 90,
+      "reference_video": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=90",
+      "evidence_frame": "evidence/videos/CEf_sKZk6d8/frame_0090000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOLD_MONEY",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "500万かかってますから",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.09999999503472232,
+            0.6968750001562499,
+            0.7944444444444444,
+            0.050000000000000044
+          ],
+          "raw_bbox_xywh_reference_px": [
+            108,
+            1338,
+            858,
+            96
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "vmCVh6ft97I_150",
+      "video_id": "vmCVh6ft97I",
+      "time_s": 0.15,
+      "reference_video": "https://www.youtube.com/watch?v=vmCVh6ft97I&t=0",
+      "evidence_frame": "evidence/videos/vmCVh6ft97I/frame_0000150.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_YELLOW_ON_BLACK",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "林さんとバカラ",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.18333332814814826,
+            0.4750000001302084,
+            0.6222222222222222,
+            0.05312499999999998
+          ],
+          "raw_bbox_xywh_reference_px": [
+            198,
+            912,
+            672,
+            102
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "vmCVh6ft97I_12000",
+      "video_id": "vmCVh6ft97I",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=vmCVh6ft97I&t=12",
+      "evidence_frame": "evidence/videos/vmCVh6ft97I/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_YELLOW_BELOW",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "（林さん）足 ピク（ピク",
+      "ocr_rows": [
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.06666667211805546,
+            0.69999999984375,
+            0.8722222222222221,
+            0.03749999999999998
+          ],
+          "raw_bbox_xywh_reference_px": [
+            72,
+            1344,
+            942,
+            72
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "vmCVh6ft97I_51521",
+      "video_id": "vmCVh6ft97I",
+      "time_s": 51.521,
+      "reference_video": "https://www.youtube.com/watch?v=vmCVh6ft97I&t=51",
+      "evidence_frame": "evidence/videos/vmCVh6ft97I/frame_0051521.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "GOLD_MONEY",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "110万円",
+      "ocr_rows": [
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2769363427735494,
+            0.6953525571622323,
+            0.440571763780382,
+            0.08116988539695746
+          ],
+          "raw_bbox_xywh_reference_px": [
+            299,
+            1335,
+            476,
+            156
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gDkJ105rFjo_2000",
+      "video_id": "gDkJ105rFjo",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=gDkJ105rFjo&t=2",
+      "evidence_frame": "evidence/videos/gDkJ105rFjo/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_WHITE_BLUE",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "えつなんでそんな ハンド",
+      "ocr_rows": [
+        0,
+        1,
+        2
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.08888889488095231,
+            0.41562499984375,
+            0.8388888888888889,
+            0.06562500000000004
+          ],
+          "raw_bbox_xywh_reference_px": [
+            96,
+            798,
+            906,
+            126
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.14762501120448007,
+            0.4696317623249643,
+            0.7943363613552519,
+            0.06944321393966668
+          ],
+          "raw_bbox_xywh_reference_px": [
+            159,
+            902,
+            858,
+            133
+          ],
+          "ocr_confidence": 0.5
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.16666666190476193,
+            0.5312500001116071,
+            0.6666666666666667,
+            0.05312499999999998
+          ],
+          "raw_bbox_xywh_reference_px": [
+            180,
+            1020,
+            720,
+            102
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gDkJ105rFjo_5000",
+      "video_id": "gDkJ105rFjo",
+      "time_s": 5,
+      "reference_video": "https://www.youtube.com/watch?v=gDkJ105rFjo&t=5",
+      "evidence_frame": "evidence/videos/gDkJ105rFjo/frame_0005000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BLUE_YELLOW",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "ドラ◎もん ギャンブレシ",
+      "ocr_rows": [
+        0,
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.260565077076984,
+            0.4392979141538733,
+            0.4955365075005425,
+            0.06827917098999026
+          ],
+          "raw_bbox_xywh_reference_px": [
+            281,
+            843,
+            535,
+            131
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.04999999544444454,
+            0.4968750001718749,
+            0.9111111111111112,
+            0.06562500000000004
+          ],
+          "raw_bbox_xywh_reference_px": [
+            54,
+            954,
+            984,
+            126
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gDkJ105rFjo_8000",
+      "video_id": "gDkJ105rFjo",
+      "time_s": 8,
+      "reference_video": "https://www.youtube.com/watch?v=gDkJ105rFjo&t=8",
+      "evidence_frame": "evidence/videos/gDkJ105rFjo/frame_0008000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BLUE_YELLOW_BUBBLE",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "27goいる",
+      "ocr_rows": [
+        0
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.08227657942677619,
+            0.42933018755562513,
+            0.8354468451605903,
+            0.15071462392807
+          ],
+          "raw_bbox_xywh_reference_px": [
+            89,
+            824,
+            902,
+            289
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "gDkJ105rFjo_51521",
+      "video_id": "gDkJ105rFjo",
+      "time_s": 51.521,
+      "reference_video": "https://www.youtube.com/watch?v=gDkJ105rFjo&t=51",
+      "evidence_frame": "evidence/videos/gDkJ105rFjo/frame_0051521.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_WHITE_BLUE",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "あっすみません！！ ちょ",
+      "ocr_rows": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.09999999527777782,
+            0.38437500019097226,
+            0.85,
+            0.06562499999999993
+          ],
+          "raw_bbox_xywh_reference_px": [
+            108,
+            738,
+            918,
+            126
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.10555555869444433,
+            0.44374999968750006,
+            0.7944444444444445,
+            0.0625
+          ],
+          "raw_bbox_xywh_reference_px": [
+            114,
+            852,
+            858,
+            120
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.10555555952777777,
+            0.499999999875,
+            0.7944444444444445,
+            0.0625
+          ],
+          "raw_bbox_xywh_reference_px": [
+            114,
+            960,
+            858,
+            120
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.1996006826019859,
+            0.5519942910395066,
+            0.6063541836208767,
+            0.07101141810417178
+          ],
+          "raw_bbox_xywh_reference_px": [
+            216,
+            1060,
+            655,
+            136
+          ],
+          "ocr_confidence": 0.5
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "WPjhmOMImg8_150",
+      "video_id": "WPjhmOMImg8",
+      "time_s": 0.15,
+      "reference_video": "https://www.youtube.com/watch?v=WPjhmOMImg8&t=0",
+      "evidence_frame": "evidence/videos/WPjhmOMImg8/frame_0000150.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_INTERVIEW_TITLE",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "ポーカー界 孤高の賞金王",
+      "ocr_rows": [
+        0,
+        1
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.16666667338888877,
+            0.04999999984375003,
+            0.6722222222222224,
+            0.04062500000000002
+          ],
+          "raw_bbox_xywh_reference_px": [
+            180,
+            96,
+            726,
+            78
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.21111111472222216,
+            0.08437499980468754,
+            0.577777777777778,
+            0.043749999999999956
+          ],
+          "raw_bbox_xywh_reference_px": [
+            228,
+            162,
+            624,
+            84
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "WPjhmOMImg8_2000",
+      "video_id": "WPjhmOMImg8",
+      "time_s": 2,
+      "reference_video": "https://www.youtube.com/watch?v=WPjhmOMImg8&t=2",
+      "evidence_frame": "evidence/videos/WPjhmOMImg8/frame_0002000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BILINGUAL",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "I'd like to ",
+      "ocr_rows": [
+        2,
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.1888888879166667,
+            0.6218750003125,
+            0.6222222222222222,
+            0.025000000000000022
+          ],
+          "raw_bbox_xywh_reference_px": [
+            204,
+            1194,
+            672,
+            48
+          ],
+          "ocr_confidence": 0.5
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.17777777888888882,
+            0.7499999996875,
+            0.6444444444444445,
+            0.03125
+          ],
+          "raw_bbox_xywh_reference_px": [
+            192,
+            1440,
+            696,
+            60
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "WPjhmOMImg8_12000",
+      "video_id": "WPjhmOMImg8",
+      "time_s": 12,
+      "reference_video": "https://www.youtube.com/watch?v=WPjhmOMImg8&t=12",
+      "evidence_frame": "evidence/videos/WPjhmOMImg8/frame_0012000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BILINGUAL",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "They tend to",
+      "ocr_rows": [
+        2,
+        3
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2000000074999998,
+            0.621874999921875,
+            0.6,
+            0.025000000000000022
+          ],
+          "raw_bbox_xywh_reference_px": [
+            216,
+            1194,
+            648,
+            48
+          ],
+          "ocr_confidence": 0.30000001192092896
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.26111110611111127,
+            0.7500000004296875,
+            0.4777777777777778,
+            0.03437499999999993
+          ],
+          "raw_bbox_xywh_reference_px": [
+            282,
+            1440,
+            516,
+            66
+          ],
+          "ocr_confidence": 0.30000001192092896
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    },
+    {
+      "sample_id": "WPjhmOMImg8_38000",
+      "video_id": "WPjhmOMImg8",
+      "time_s": 38,
+      "reference_video": "https://www.youtube.com/watch?v=WPjhmOMImg8&t=38",
+      "evidence_frame": "evidence/videos/WPjhmOMImg8/frame_0038000.jpg",
+      "observation_type": "VISUALLY_REVIEWED_STATIC_SUBTITLE_SAMPLE",
+      "style_id": "SHORT_BILINGUAL",
+      "source_resolution": [
+        360,
+        640
+      ],
+      "reference_canvas": [
+        1080,
+        1920
+      ],
+      "text_excerpt_ocr_unverified": "In poker, al",
+      "ocr_rows": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "ocr_line_boxes": [
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.22777777233333343,
+            0.590625000125,
+            0.5444444444444445,
+            0.02499999999999991
+          ],
+          "raw_bbox_xywh_reference_px": [
+            246,
+            1134,
+            588,
+            48
+          ],
+          "ocr_confidence": 0.5
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.32222222583333326,
+            0.6218749998125,
+            0.36111111111111116,
+            0.025000000000000022
+          ],
+          "raw_bbox_xywh_reference_px": [
+            348,
+            1194,
+            390,
+            48
+          ],
+          "ocr_confidence": 0.5
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.2166666720555554,
+            0.7125,
+            0.538888888888889,
+            0.03125
+          ],
+          "raw_bbox_xywh_reference_px": [
+            234,
+            1368,
+            582,
+            60
+          ],
+          "ocr_confidence": 1
+        },
+        {
+          "raw_bbox_xywh_normalized_top_left": [
+            0.19444445022222215,
+            0.75000000040625,
+            0.5888888888888888,
+            0.04062500000000002
+          ],
+          "raw_bbox_xywh_reference_px": [
+            210,
+            1440,
+            636,
+            78
+          ],
+          "ocr_confidence": 1
+        }
+      ],
+      "nominal_font_size_px": null,
+      "glyph_height_px": null,
+      "stroke_width_px": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "enter_duration_frames": null,
+      "hold_duration_frames": null,
+      "exit_duration_frames": null,
+      "se_offset_frames": null,
+      "confidence": "MEDIUM",
+      "geometry_status": "RAW_OCR_BOX_NOT_VERIFIED_GLYPH_OR_FONT_METRICS",
+      "warning": "OCR boxes can include background/shadow and overestimate height. Static samples do not measure subtitle density, duration, animation, or cuts."
+    }
+  ]
+}

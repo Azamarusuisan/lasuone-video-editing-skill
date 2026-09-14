@@ -1,0 +1,426 @@
+{
+  "video_id": "gpnPgXXrPwk",
+  "evidence_type": "PERIODIC_WHOLE_DURATION_SAMPLES",
+  "source_file": "source.mkv",
+  "full_watch": false,
+  "sample_step_s": 15,
+  "timestamp_method": "Output grid nominal timestamps; selected source frame may differ by up to half sampling step",
+  "duration_s": 1243.65,
+  "frames": [
+    {
+      "file": "frame_00001.jpg",
+      "time_s": 0,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00002.jpg",
+      "time_s": 15,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00003.jpg",
+      "time_s": 30,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00004.jpg",
+      "time_s": 45,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00005.jpg",
+      "time_s": 60,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00006.jpg",
+      "time_s": 75,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00007.jpg",
+      "time_s": 90,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00008.jpg",
+      "time_s": 105,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00009.jpg",
+      "time_s": 120,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00010.jpg",
+      "time_s": 135,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00011.jpg",
+      "time_s": 150,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00012.jpg",
+      "time_s": 165,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00013.jpg",
+      "time_s": 180,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00014.jpg",
+      "time_s": 195,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00015.jpg",
+      "time_s": 210,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00016.jpg",
+      "time_s": 225,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00017.jpg",
+      "time_s": 240,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00018.jpg",
+      "time_s": 255,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00019.jpg",
+      "time_s": 270,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00020.jpg",
+      "time_s": 285,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00021.jpg",
+      "time_s": 300,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00022.jpg",
+      "time_s": 315,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00023.jpg",
+      "time_s": 330,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00024.jpg",
+      "time_s": 345,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00025.jpg",
+      "time_s": 360,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00026.jpg",
+      "time_s": 375,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00027.jpg",
+      "time_s": 390,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00028.jpg",
+      "time_s": 405,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00029.jpg",
+      "time_s": 420,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00030.jpg",
+      "time_s": 435,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00031.jpg",
+      "time_s": 450,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00032.jpg",
+      "time_s": 465,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00033.jpg",
+      "time_s": 480,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00034.jpg",
+      "time_s": 495,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00035.jpg",
+      "time_s": 510,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00036.jpg",
+      "time_s": 525,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00037.jpg",
+      "time_s": 540,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00038.jpg",
+      "time_s": 555,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00039.jpg",
+      "time_s": 570,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00040.jpg",
+      "time_s": 585,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00041.jpg",
+      "time_s": 600,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00042.jpg",
+      "time_s": 615,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00043.jpg",
+      "time_s": 630,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00044.jpg",
+      "time_s": 645,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00045.jpg",
+      "time_s": 660,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00046.jpg",
+      "time_s": 675,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00047.jpg",
+      "time_s": 690,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00048.jpg",
+      "time_s": 705,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00049.jpg",
+      "time_s": 720,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00050.jpg",
+      "time_s": 735,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00051.jpg",
+      "time_s": 750,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00052.jpg",
+      "time_s": 765,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00053.jpg",
+      "time_s": 780,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00054.jpg",
+      "time_s": 795,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00055.jpg",
+      "time_s": 810,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00056.jpg",
+      "time_s": 825,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00057.jpg",
+      "time_s": 840,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00058.jpg",
+      "time_s": 855,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00059.jpg",
+      "time_s": 870,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00060.jpg",
+      "time_s": 885,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00061.jpg",
+      "time_s": 900,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00062.jpg",
+      "time_s": 915,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00063.jpg",
+      "time_s": 930,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00064.jpg",
+      "time_s": 945,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00065.jpg",
+      "time_s": 960,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00066.jpg",
+      "time_s": 975,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00067.jpg",
+      "time_s": 990,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00068.jpg",
+      "time_s": 1005,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00069.jpg",
+      "time_s": 1020,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00070.jpg",
+      "time_s": 1035,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00071.jpg",
+      "time_s": 1050,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00072.jpg",
+      "time_s": 1065,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00073.jpg",
+      "time_s": 1080,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00074.jpg",
+      "time_s": 1095,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00075.jpg",
+      "time_s": 1110,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00076.jpg",
+      "time_s": 1125,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00077.jpg",
+      "time_s": 1140,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00078.jpg",
+      "time_s": 1155,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00079.jpg",
+      "time_s": 1170,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00080.jpg",
+      "time_s": 1185,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00081.jpg",
+      "time_s": 1200,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00082.jpg",
+      "time_s": 1215,
+      "timestamp_uncertainty_s": 7.5
+    },
+    {
+      "file": "frame_00083.jpg",
+      "time_s": 1230,
+      "timestamp_uncertainty_s": 7.5
+    }
+  ]
+}

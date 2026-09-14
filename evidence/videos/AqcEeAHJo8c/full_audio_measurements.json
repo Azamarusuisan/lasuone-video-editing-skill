@@ -1,0 +1,109 @@
+{
+  "video_id": "AqcEeAHJo8c",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 2425.33,
+  "processed_interval_s": [
+    0,
+    2425.33
+  ],
+  "integrated_lufs": -11.9,
+  "loudness_range_lu": 7.2,
+  "true_peak_dbfs": 0.8,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    102.825,
+    605.43,
+    610.353,
+    612.269,
+    617.456,
+    620.023,
+    1854.04,
+    1858.03,
+    1859.12,
+    1937.92,
+    1938.91,
+    2149.67,
+    2345.24,
+    2347.3,
+    2385.41,
+    2387.36,
+    2424.89
+  ],
+  "silence_ends": [
+    {
+      "end_s": 103.424,
+      "duration_s": 0.598979
+    },
+    {
+      "end_s": 608.262,
+      "duration_s": 2.83237
+    },
+    {
+      "end_s": 611.794,
+      "duration_s": 1.44065
+    },
+    {
+      "end_s": 615.723,
+      "duration_s": 3.4549
+    },
+    {
+      "end_s": 619.463,
+      "duration_s": 2.00679
+    },
+    {
+      "end_s": 622.132,
+      "duration_s": 2.109
+    },
+    {
+      "end_s": 1854.36,
+      "duration_s": 0.32325
+    },
+    {
+      "end_s": 1858.72,
+      "duration_s": 0.684208
+    },
+    {
+      "end_s": 1859.59,
+      "duration_s": 0.464208
+    },
+    {
+      "end_s": 1938.35,
+      "duration_s": 0.4215
+    },
+    {
+      "end_s": 1940.33,
+      "duration_s": 1.4264
+    },
+    {
+      "end_s": 2149.97,
+      "duration_s": 0.303875
+    },
+    {
+      "end_s": 2346.49,
+      "duration_s": 1.25038
+    },
+    {
+      "end_s": 2348.53,
+      "duration_s": 1.23835
+    },
+    {
+      "end_s": 2386.29,
+      "duration_s": 0.8835
+    },
+    {
+      "end_s": 2387.82,
+      "duration_s": 0.465271
+    },
+    {
+      "end_s": 2425.31,
+      "duration_s": 0.416125
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

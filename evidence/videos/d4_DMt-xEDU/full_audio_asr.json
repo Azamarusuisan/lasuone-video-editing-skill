@@ -1,0 +1,285 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,060"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2060
+			},
+			"text": " Listen up, you fools!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,300",
+				"to": "00:00:04,180"
+			},
+			"offsets": {
+				"from": 2300,
+				"to": 4180
+			},
+			"text": " Ah! I am the gambling king."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,980",
+				"to": "00:00:07,460"
+			},
+			"offsets": {
+				"from": 4980,
+				"to": 7460
+			},
+			"text": " I've thrown away millions, destroyed relationships,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,740",
+				"to": "00:00:09,800"
+			},
+			"offsets": {
+				"from": 7740,
+				"to": 9800
+			},
+			"text": " and wasted years of my life chasing empty dreams"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,800",
+				"to": "00:00:11,380"
+			},
+			"offsets": {
+				"from": 9800,
+				"to": 11380
+			},
+			"text": " at pachinko parlors and casinos."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,240",
+				"to": "00:00:13,920"
+			},
+			"offsets": {
+				"from": 12240,
+				"to": 13920
+			},
+			"text": " You think gambling is your problem?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,060",
+				"to": "00:00:15,580"
+			},
+			"offsets": {
+				"from": 15060,
+				"to": 15580
+			},
+			"text": " Wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,480",
+				"to": "00:00:19,380"
+			},
+			"offsets": {
+				"from": 16480,
+				"to": 19380
+			},
+			"text": " Your real addiction is to easy money, quick fixes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,700",
+				"to": "00:00:20,700"
+			},
+			"offsets": {
+				"from": 19700,
+				"to": 20700
+			},
+			"text": " and avoiding real work."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,600",
+				"to": "00:00:23,480"
+			},
+			"offsets": {
+				"from": 21600,
+				"to": 23480
+			},
+			"text": " You sit there hoping for luck to save you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,480",
+				"to": "00:00:25,360"
+			},
+			"offsets": {
+				"from": 23480,
+				"to": 25360
+			},
+			"text": " instead of building something with your own hands."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,260",
+				"to": "00:00:27,720"
+			},
+			"offsets": {
+				"from": 26260,
+				"to": 27720
+			},
+			"text": " I was exactly like you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,040",
+				"to": "00:00:29,340"
+			},
+			"offsets": {
+				"from": 28040,
+				"to": 29340
+			},
+			"text": " always looking for the shortcut,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,860",
+				"to": "00:00:31,620"
+			},
+			"offsets": {
+				"from": 29860,
+				"to": 31620
+			},
+			"text": " the big win, the magic solution."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,700",
+				"to": "00:00:33,800"
+			},
+			"offsets": {
+				"from": 32700,
+				"to": 33800
+			},
+			"text": " But here's what I discovered."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,600",
+				"to": "00:00:36,840"
+			},
+			"offsets": {
+				"from": 34600,
+				"to": 36840
+			},
+			"text": " The house always wins"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,840",
+				"to": "00:00:39,660"
+			},
+			"offsets": {
+				"from": 36840,
+				"to": 39660
+			},
+			"text": " because they work while you dream."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,580",
+				"to": "00:00:42,920"
+			},
+			"offsets": {
+				"from": 40580,
+				"to": 42920
+			},
+			"text": " They build systems while you chase fantasy."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,920",
+				"to": "00:00:45,200"
+			},
+			"offsets": {
+				"from": 43920,
+				"to": 45200
+			},
+			"text": " Stop being a slave to challenge."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,260",
+				"to": "00:00:46,800"
+			},
+			"offsets": {
+				"from": 46260,
+				"to": 46800
+			},
+			"text": " Wake up."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,580",
+				"to": "00:00:48,280"
+			},
+			"offsets": {
+				"from": 47580,
+				"to": 48280
+			},
+			"text": " Work seriously."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,380",
+				"to": "00:00:50,220"
+			},
+			"offsets": {
+				"from": 49380,
+				"to": 50220
+			},
+			"text": " Build something real."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,080",
+				"to": "00:00:52,640"
+			},
+			"offsets": {
+				"from": 51080,
+				"to": 52640
+			},
+			"text": " That's the only way to become a true king."
+		}
+	]
+}

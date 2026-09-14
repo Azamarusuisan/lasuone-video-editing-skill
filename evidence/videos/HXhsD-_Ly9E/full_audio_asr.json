@@ -1,0 +1,175 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": "ん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,940",
+				"to": "00:00:08,940"
+			},
+			"offsets": {
+				"from": 3940,
+				"to": 8940
+			},
+			"text": "今日も以外のメンバーを紹介チークこいつの名前は このケースあたらは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,940",
+				"to": "00:00:17,660"
+			},
+			"offsets": {
+				"from": 8940,
+				"to": 17660
+			},
+			"text": "サイガーです今日誕生日ということで弊社誕生日には皆さんギャンブルの軍資金として こちらを想定させていただきます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,660",
+				"to": "00:00:22,960"
+			},
+			"offsets": {
+				"from": 17660,
+				"to": 22960
+			},
+			"text": "ただしこの金はギャンブルでかけなければいいません 万が一"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,960",
+				"to": "00:00:28,240"
+			},
+			"offsets": {
+				"from": 22960,
+				"to": 28240
+			},
+			"text": "100万だったら ちょっとその金でバカな掛けさせていただきます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,240",
+				"to": "00:00:37,080"
+			},
+			"offsets": {
+				"from": 28240,
+				"to": 37080
+			},
+			"text": "じゃあ上とありがとうございますこれはこれだけではいたましにギャンブルションを超えました 結果よろしくお願いします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,080",
+				"to": "00:00:43,100"
+			},
+			"offsets": {
+				"from": 37080,
+				"to": 43100
+			},
+			"text": "ラブラップチャレンジ この戦員ジャンケンで買ったら一番ありますが調整しますか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,100",
+				"to": "00:00:51,560"
+			},
+			"offsets": {
+				"from": 43100,
+				"to": 51560
+			},
+			"text": "調整します行きましょうはい じゃあいこが10回連続続いたらビッグタイガー賞としてやっちゃうかにぐらい子が5回"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,560",
+				"to": "00:00:57,060"
+			},
+			"offsets": {
+				"from": 51560,
+				"to": 57060
+			},
+			"text": "5回続いたら50倍になります25万円 負けたら募集"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,060",
+				"to": "00:01:00,400"
+			},
+			"offsets": {
+				"from": 57060,
+				"to": 60400
+			},
+			"text": "あったら ライあいこが5連続で"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,400",
+				"to": "00:01:06,400"
+			},
+			"offsets": {
+				"from": 60400,
+				"to": 66400
+			},
+			"text": "はい 最初はルーじゃんけんぽいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,400",
+				"to": "00:01:09,240"
+			},
+			"offsets": {
+				"from": 66400,
+				"to": 69240
+			},
+			"text": "何してんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,240",
+				"to": "00:01:11,600"
+			},
+			"offsets": {
+				"from": 69240,
+				"to": 71600
+			},
+			"text": "まあ 世界はそんなに甘くないよ"
+		}
+	]
+}

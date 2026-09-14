@@ -1,0 +1,197 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,420"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2420
+			},
+			"text": "嫁と3億円出るスロットを踏ん回してきた"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,420",
+				"to": "00:00:04,960"
+			},
+			"offsets": {
+				"from": 2420,
+				"to": 4960
+			},
+			"text": "ギャンブル注読者にも嫁は存在する"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,960",
+				"to": "00:00:07,040"
+			},
+			"offsets": {
+				"from": 4960,
+				"to": 7040
+			},
+			"text": "今日はその嫁の力にあやかって"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,040",
+				"to": "00:00:08,800"
+			},
+			"offsets": {
+				"from": 7040,
+				"to": 8800
+			},
+			"text": "3億円を狙いに行くようだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,800",
+				"to": "00:00:14,300"
+			},
+			"offsets": {
+				"from": 8800,
+				"to": 14300
+			},
+			"text": "ギャンチューの嫁は"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,300",
+				"to": "00:00:16,740"
+			},
+			"offsets": {
+				"from": 14300,
+				"to": 16740
+			},
+			"text": "辛うじて正気の里を保っているようだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,740",
+				"to": "00:00:18,720"
+			},
+			"offsets": {
+				"from": 16740,
+				"to": 18720
+			},
+			"text": "スロットを回し始めて約3分"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,720",
+				"to": "00:00:20,780"
+			},
+			"offsets": {
+				"from": 18720,
+				"to": 20780
+			},
+			"text": "早いタイミングでこのギャンチュー夫婦に"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,780",
+				"to": "00:00:21,920"
+			},
+			"offsets": {
+				"from": 20780,
+				"to": 21920
+			},
+			"text": "チャンスを訪れた"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,920",
+				"to": "00:00:28,900"
+			},
+			"offsets": {
+				"from": 21920,
+				"to": 28900
+			},
+			"text": "ここでルーレットボーナスに当選"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,900",
+				"to": "00:00:32,180"
+			},
+			"offsets": {
+				"from": 28900,
+				"to": 32180
+			},
+			"text": "さらに今回のルーレットは通常よりも何倍も厚い"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,180",
+				"to": "00:00:34,180"
+			},
+			"offsets": {
+				"from": 32180,
+				"to": 34180
+			},
+			"text": "ルーレットにある4種類の矢印に"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,180",
+				"to": "00:00:36,760"
+			},
+			"offsets": {
+				"from": 34180,
+				"to": 36760
+			},
+			"text": "止まった配当の3倍額を受け取ることができる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,760",
+				"to": "00:00:39,500"
+			},
+			"offsets": {
+				"from": 36760,
+				"to": 39500
+			},
+			"text": "ここで一撃3億円を引くことができるのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,500",
+				"to": "00:00:41,180"
+			},
+			"offsets": {
+				"from": 39500,
+				"to": 41180
+			},
+			"text": "ネタルな勝ち取れ"
+		}
+	]
+}

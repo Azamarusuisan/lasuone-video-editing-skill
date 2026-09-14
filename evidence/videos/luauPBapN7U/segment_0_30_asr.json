@@ -1,0 +1,76 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,800"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4800
+			},
+			"text": "ん おはようございまーす"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,800",
+				"to": "00:00:12,620"
+			},
+			"offsets": {
+				"from": 4800,
+				"to": 12620
+			},
+			"text": "おはようございます今日は 8月24日から242526日で林さんと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,620",
+				"to": "00:00:20,340"
+			},
+			"offsets": {
+				"from": 12620,
+				"to": 20340
+			},
+			"text": "バカラツアーを企画しておりまして今から あれ風舗が出るという話ですが結構いろんな社長が来るんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,340",
+				"to": "00:00:30,000"
+			},
+			"offsets": {
+				"from": 20340,
+				"to": 30000
+			},
+			"text": "ペースさんも3000万くらい持ってくるらしいんで今日のテーマ 前回フィリピンで負けて結構気づいたこと結構やっぱさ態度悪かったし感謝も足りなが"
+		}
+	]
+}

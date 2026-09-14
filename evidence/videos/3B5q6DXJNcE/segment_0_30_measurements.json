@@ -1,0 +1,109 @@
+{
+  "video_id": "3B5q6DXJNcE",
+  "source": "segment_0_30.webm",
+  "scope": "SAMPLED_BROWSER_DECODED_MIX_ONLY",
+  "original_video_integrated_lufs": null,
+  "original_stem_levels": null,
+  "sample_integrated_lufs": -16.5,
+  "sample_loudness_range_lu": 3.3,
+  "sample_true_peak_dbfs": -1.5,
+  "rendered_frames": 897,
+  "median_frame_interval_s": 0.03336699999999837,
+  "max_frame_gap_s": 0.06673300000000282,
+  "scene_change_candidates": [
+    {
+      "time_s": 2.635966,
+      "mean_rgb_difference": 75.73668981481481
+    },
+    {
+      "time_s": 4.5045,
+      "mean_rgb_difference": 67.00679976851852
+    },
+    {
+      "time_s": 5.872533,
+      "mean_rgb_difference": 35.661313657407405
+    },
+    {
+      "time_s": 6.8068,
+      "mean_rgb_difference": 96.98148148148148
+    },
+    {
+      "time_s": 7.440766,
+      "mean_rgb_difference": 80.05410879629629
+    },
+    {
+      "time_s": 8.641966,
+      "mean_rgb_difference": 50.095052083333336
+    },
+    {
+      "time_s": 9.1091,
+      "mean_rgb_difference": 80.16579861111111
+    },
+    {
+      "time_s": 9.743066,
+      "mean_rgb_difference": 75.86414930555556
+    },
+    {
+      "time_s": 10.176833,
+      "mean_rgb_difference": 25.885127314814813
+    },
+    {
+      "time_s": 13.046366,
+      "mean_rgb_difference": 26.82494212962963
+    },
+    {
+      "time_s": 13.079733,
+      "mean_rgb_difference": 28.200086805555557
+    },
+    {
+      "time_s": 13.1131,
+      "mean_rgb_difference": 27.72366898148148
+    },
+    {
+      "time_s": 13.546866,
+      "mean_rgb_difference": 26.11226851851852
+    },
+    {
+      "time_s": 13.580233,
+      "mean_rgb_difference": 25.79470486111111
+    },
+    {
+      "time_s": 13.6136,
+      "mean_rgb_difference": 26.55642361111111
+    },
+    {
+      "time_s": 13.646966,
+      "mean_rgb_difference": 25.30815972222222
+    },
+    {
+      "time_s": 13.680333,
+      "mean_rgb_difference": 28.54007523148148
+    },
+    {
+      "time_s": 17.4174,
+      "mean_rgb_difference": 72.23929398148148
+    },
+    {
+      "time_s": 18.785433,
+      "mean_rgb_difference": 27.02690972222222
+    },
+    {
+      "time_s": 21.7217,
+      "mean_rgb_difference": 67.38093171296296
+    },
+    {
+      "time_s": 24.257566,
+      "mean_rgb_difference": 68.42274305555556
+    },
+    {
+      "time_s": 25.8258,
+      "mean_rgb_difference": 77.91174768518519
+    },
+    {
+      "time_s": 29.763066,
+      "mean_rgb_difference": 78.1222511574074
+    }
+  ],
+  "confirmed_cut_count": null,
+  "summary": "Summary:\n\n  Integrated loudness:\n    I:         -16.5 LUFS\n    Threshold: -27.2 LUFS\n\n  Loudness range:\n    LRA:         3.3 LU\n    Threshold: -37.2 LUFS\n    LRA low:   -19.0 LUFS\n    LRA high:  -15.7 LUFS\n\n  True peak:\n    Peak:       -1.5 dBFS\n"
+}

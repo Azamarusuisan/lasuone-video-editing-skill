@@ -1,0 +1,307 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,660"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 660
+			},
+			"text": "おはよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,660",
+				"to": "00:00:04,520"
+			},
+			"offsets": {
+				"from": 660,
+				"to": 4520
+			},
+			"text": "甲子園"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,520",
+				"to": "00:00:07,080"
+			},
+			"offsets": {
+				"from": 4520,
+				"to": 7080
+			},
+			"text": "始まるね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,080",
+				"to": "00:00:12,300"
+			},
+			"offsets": {
+				"from": 7080,
+				"to": 12300
+			},
+			"text": "かけちゃった"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,300",
+				"to": "00:00:13,600"
+			},
+			"offsets": {
+				"from": 12300,
+				"to": 13600
+			},
+			"text": "甲子園"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,600",
+				"to": "00:00:19,980"
+			},
+			"offsets": {
+				"from": 13600,
+				"to": 19980
+			},
+			"text": "AIで見たの"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,980",
+				"to": "00:00:21,340"
+			},
+			"offsets": {
+				"from": 19980,
+				"to": 21340
+			},
+			"text": "予想したの"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,340",
+				"to": "00:00:22,860"
+			},
+			"offsets": {
+				"from": 21340,
+				"to": 22860
+			},
+			"text": "天理"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,860",
+				"to": "00:00:25,760"
+			},
+			"offsets": {
+				"from": 22860,
+				"to": 25760
+			},
+			"text": "中京"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,760",
+				"to": "00:00:27,500"
+			},
+			"offsets": {
+				"from": 25760,
+				"to": 27500
+			},
+			"text": "青山山田"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,500",
+				"to": "00:00:28,980"
+			},
+			"offsets": {
+				"from": 27500,
+				"to": 28980
+			},
+			"text": "岡山学芸館"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,980",
+				"to": "00:00:30,180"
+			},
+			"offsets": {
+				"from": 28980,
+				"to": 30180
+			},
+			"text": "320倍"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,180",
+				"to": "00:00:32,900"
+			},
+			"offsets": {
+				"from": 30180,
+				"to": 32900
+			},
+			"text": "高岡省640倍"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,900",
+				"to": "00:00:40,000"
+			},
+			"offsets": {
+				"from": 32900,
+				"to": 40000
+			},
+			"text": "夏始まるね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,000",
+				"to": "00:00:43,400"
+			},
+			"offsets": {
+				"from": 40000,
+				"to": 43400
+			},
+			"text": "ご飯"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,400",
+				"to": "00:00:44,780"
+			},
+			"offsets": {
+				"from": 43400,
+				"to": 44780
+			},
+			"text": "行こっか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,780",
+				"to": "00:00:46,740"
+			},
+			"offsets": {
+				"from": 44780,
+				"to": 46740
+			},
+			"text": "行こっか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,740",
+				"to": "00:00:48,040"
+			},
+			"offsets": {
+				"from": 46740,
+				"to": 48040
+			},
+			"text": "ご飯"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,040",
+				"to": "00:01:02,680"
+			},
+			"offsets": {
+				"from": 48040,
+				"to": 62680
+			},
+			"text": "アメを転がし入れろ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,680",
+				"to": "00:01:05,300"
+			},
+			"offsets": {
+				"from": 62680,
+				"to": 65300
+			},
+			"text": "アメをよこせ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,300",
+				"to": "00:01:06,740"
+			},
+			"offsets": {
+				"from": 65300,
+				"to": 66740
+			},
+			"text": "タマをよこせ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,740",
+				"to": "00:01:07,840"
+			},
+			"offsets": {
+				"from": 66740,
+				"to": 67840
+			},
+			"text": "タネをよこせ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,840",
+				"to": "00:01:09,420"
+			},
+			"offsets": {
+				"from": 67840,
+				"to": 69420
+			},
+			"text": "顔の身体に"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,420",
+				"to": "00:01:11,100"
+			},
+			"offsets": {
+				"from": 69420,
+				"to": 71100
+			},
+			"text": "ちょうど思うか"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,100",
+				"to": "00:01:14,120"
+			},
+			"offsets": {
+				"from": 71100,
+				"to": 74120
+			},
+			"text": "タネ"
+		}
+	]
+}

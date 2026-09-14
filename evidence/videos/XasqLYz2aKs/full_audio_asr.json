@@ -1,0 +1,252 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,960"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 960
+			},
+			"text": "社長おはようございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,960",
+				"to": "00:00:01,440"
+			},
+			"offsets": {
+				"from": 960,
+				"to": 1440
+			},
+			"text": "おはよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,440",
+				"to": "00:00:04,740"
+			},
+			"offsets": {
+				"from": 1440,
+				"to": 4740
+			},
+			"text": "ドラえもんが絶対に言わないシリーズやります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,740",
+				"to": "00:00:06,580"
+			},
+			"offsets": {
+				"from": 4740,
+				"to": 6580
+			},
+			"text": "ドラえもんちょっと注文"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,580",
+				"to": "00:00:08,260"
+			},
+			"offsets": {
+				"from": 6580,
+				"to": 8260
+			},
+			"text": "居酒屋行った時の注文してくるね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,260",
+				"to": "00:00:09,180"
+			},
+			"offsets": {
+				"from": 8260,
+				"to": 9180
+			},
+			"text": "えーと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,180",
+				"to": "00:00:10,300"
+			},
+			"offsets": {
+				"from": 9180,
+				"to": 10300
+			},
+			"text": "かましご"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,300",
+				"to": "00:00:12,060"
+			},
+			"offsets": {
+				"from": 10300,
+				"to": 12060
+			},
+			"text": "え、何万3つ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,060",
+				"to": "00:00:14,460"
+			},
+			"offsets": {
+				"from": 12060,
+				"to": 14460
+			},
+			"text": "あと20分のテースタート"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,460",
+				"to": "00:00:15,660"
+			},
+			"offsets": {
+				"from": 14460,
+				"to": 15660
+			},
+			"text": "あ、それじゃ持ってきて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,660",
+				"to": "00:00:20,860"
+			},
+			"offsets": {
+				"from": 15660,
+				"to": 20860
+			},
+			"text": "面白いですかこれ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,860",
+				"to": "00:00:24,080"
+			},
+			"offsets": {
+				"from": 20860,
+				"to": 24080
+			},
+			"text": "これ何回してくれにかがさないといけない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,080",
+				"to": "00:00:26,800"
+			},
+			"offsets": {
+				"from": 24080,
+				"to": 26800
+			},
+			"text": "最後にチーズの丸みたい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,800",
+				"to": "00:00:27,980"
+			},
+			"offsets": {
+				"from": 26800,
+				"to": 27980
+			},
+			"text": "チーズの丸みたい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,980",
+				"to": "00:00:29,240"
+			},
+			"offsets": {
+				"from": 27980,
+				"to": 29240
+			},
+			"text": "じゃあやる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,240",
+				"to": "00:00:30,900"
+			},
+			"offsets": {
+				"from": 29240,
+				"to": 30900
+			},
+			"text": "あんあん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,900",
+				"to": "00:00:32,920"
+			},
+			"offsets": {
+				"from": 30900,
+				"to": 32920
+			},
+			"text": "ちょっともかい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,920",
+				"to": "00:00:34,180"
+			},
+			"offsets": {
+				"from": 32920,
+				"to": 34180
+			},
+			"text": "あんあん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,180",
+				"to": "00:00:35,540"
+			},
+			"offsets": {
+				"from": 34180,
+				"to": 35540
+			},
+			"text": "もうちょっともちょっと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,540",
+				"to": "00:00:36,940"
+			},
+			"offsets": {
+				"from": 35540,
+				"to": 36940
+			},
+			"text": "あんあん"
+		}
+	]
+}

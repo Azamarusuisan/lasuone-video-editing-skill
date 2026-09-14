@@ -1,0 +1,11 @@
+{
+  "source": "https://www.youtube.com/channel/UCKZYs8oGxqj_63DOCp1kCNQ/podcasts",
+  "observed_date": "2026-09-13",
+  "evidence_type": "PUBLIC_LISTING_ONLY",
+  "podcast_collections_visible": 2,
+  "episodes": [
+    {"video_id": "ehJssPk1s7Q", "title": "【第２話】給料のあげ方｜ラスワンポッドキャスト", "duration_listing": "16:18"},
+    {"video_id": "IlXtl0Hq_As", "title": "【第１話】20億溶かした社長に、何が残ったのか？｜ラスワンポッドキャスト", "duration_listing": "19:29"}
+  ],
+  "limitation": "公開一覧で2回を確認。3動画以上での規則昇格条件には現状届かない。"
+}

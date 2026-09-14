@@ -1,0 +1,17 @@
+{
+  "candidate": "full_audio_asr.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 44,
+  "flagged_segment_count": 30,
+  "max_exact_repeat_count": 30,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "パワーを取り出します",
+      "count": 30,
+      "from_ms": 57600,
+      "to_ms": 109600
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

@@ -1,0 +1,186 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,760"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1760
+			},
+			"text": "実況も大興奮したワンハンド"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,760",
+				"to": "00:00:04,080"
+			},
+			"offsets": {
+				"from": 1760,
+				"to": 4080
+			},
+			"text": "ラスワンが最強ハンドでオープンしました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,080",
+				"to": "00:00:08,300"
+			},
+			"offsets": {
+				"from": 4080,
+				"to": 8300
+			},
+			"text": "BBまでフォールドで回りこのまま終わりかと思いきや"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,300",
+				"to": "00:00:12,660"
+			},
+			"offsets": {
+				"from": 8300,
+				"to": 12660
+			},
+			"text": "弱いハンドを持った兄ちゃんが何やら悪い顔をしています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,660",
+				"to": "00:00:19,280"
+			},
+			"offsets": {
+				"from": 12660,
+				"to": 19280
+			},
+			"text": "これまでに激しい動きを見せていたラスワンに嫌気がさしたのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,280",
+				"to": "00:00:20,600"
+			},
+			"offsets": {
+				"from": 19280,
+				"to": 20600
+			},
+			"text": "ここで3ベッドを選択"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,600",
+				"to": "00:00:26,680"
+			},
+			"offsets": {
+				"from": 20600,
+				"to": 26680
+			},
+			"text": "ラスワンはコールでついていくことにフロップへと参ります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:32,260"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 32260
+			},
+			"text": "おそらくせんやりしかった"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,260",
+				"to": "00:00:34,520"
+			},
+			"offsets": {
+				"from": 32260,
+				"to": 34520
+			},
+			"text": "兄ちゃん気合いのオールイン"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,520",
+				"to": "00:00:40,440"
+			},
+			"offsets": {
+				"from": 34520,
+				"to": 40440
+			},
+			"text": "強いハンドを持つラスワンだがすぐにはコールできないボードが開き"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,440",
+				"to": "00:00:43,040"
+			},
+			"offsets": {
+				"from": 40440,
+				"to": 43040
+			},
+			"text": "ここは時間をかけてしっかり考えていきます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,040",
+				"to": "00:00:46,380"
+			},
+			"offsets": {
+				"from": 43040,
+				"to": 46380
+			},
+			"text": "果たしてラスワンの決断はコールを選択"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,380",
+				"to": "00:00:51,380"
+			},
+			"offsets": {
+				"from": 46380,
+				"to": 51380
+			},
+			"text": "相手のハンドを見たラスワンは安心した顔でハンドを開く"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,380",
+				"to": "00:00:54,040"
+			},
+			"offsets": {
+				"from": 51380,
+				"to": 54040
+			},
+			"text": "おー!"
+		}
+	]
+}

@@ -1,0 +1,175 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4880
+			},
+			"text": "これがリアルだから! ふざける!他のクソのユーチューバーとか絞りとかどんどん関係ない!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,880",
+				"to": "00:00:07,780"
+			},
+			"offsets": {
+				"from": 4880,
+				"to": 7780
+			},
+			"text": "これがリアルなんだ! 一旦こればっかりオーニングする!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,780",
+				"to": "00:00:10,800"
+			},
+			"offsets": {
+				"from": 7780,
+				"to": 10800
+			},
+			"text": "え!? オーニングいくら?いくらいったんすかこれ?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,800",
+				"to": "00:00:13,680"
+			},
+			"offsets": {
+				"from": 10800,
+				"to": 13680
+			},
+			"text": "一回こういう形に…"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,680",
+				"to": "00:00:18,460"
+			},
+			"offsets": {
+				"from": 13680,
+				"to": 18460
+			},
+			"text": "結局、バカラの大事なところは、こういうところで器の差を引き付けるんだよ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,460",
+				"to": "00:00:21,600"
+			},
+			"offsets": {
+				"from": 18460,
+				"to": 21600
+			},
+			"text": "なるほど!オーニングしました!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,600",
+				"to": "00:00:25,600"
+			},
+			"offsets": {
+				"from": 21600,
+				"to": 25600
+			},
+			"text": "ドライしっかり! ドライしっかりね!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,600",
+				"to": "00:00:29,120"
+			},
+			"offsets": {
+				"from": 25600,
+				"to": 29120
+			},
+			"text": "責任がねえな! ドライしっかりやぞ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,120",
+				"to": "00:00:38,380"
+			},
+			"offsets": {
+				"from": 29120,
+				"to": 38380
+			},
+			"text": "ブーブー 言うのせるしっかりじゃあ2人がいでもね全然まだのってくるときよくいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,380",
+				"to": "00:00:41,500"
+			},
+			"offsets": {
+				"from": 38380,
+				"to": 41500
+			},
+			"text": "てます ちょっとこう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,500",
+				"to": "00:00:45,880"
+			},
+			"offsets": {
+				"from": 41500,
+				"to": 45880
+			},
+			"text": "ん 買ってますね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,880",
+				"to": "00:00:52,240"
+			},
+			"offsets": {
+				"from": 45880,
+				"to": 52240
+			},
+			"text": "俺はやれるかやりましょうん 器が違う"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,200",
+				"to": "00:01:01,160"
+			},
+			"offsets": {
+				"from": 53200,
+				"to": 61160
+			},
+			"text": "やってるかかってるからねなってからですよねっ 永久雇用"
+		}
+	]
+}

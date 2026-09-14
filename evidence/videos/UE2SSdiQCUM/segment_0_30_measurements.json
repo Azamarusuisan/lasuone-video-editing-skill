@@ -1,0 +1,45 @@
+{
+  "video_id": "UE2SSdiQCUM",
+  "source": "segment_0_30.webm",
+  "scope": "SAMPLED_BROWSER_DECODED_MIX_ONLY",
+  "original_video_integrated_lufs": null,
+  "original_stem_levels": null,
+  "sample_integrated_lufs": -19.9,
+  "sample_loudness_range_lu": 2.2,
+  "sample_true_peak_dbfs": 0.1,
+  "rendered_frames": 832,
+  "median_frame_interval_s": 0.03336699999999837,
+  "max_frame_gap_s": 0.4337670000000031,
+  "scene_change_candidates": [
+    {
+      "time_s": 4.170833,
+      "mean_rgb_difference": 29.157552083333332
+    },
+    {
+      "time_s": 6.1061,
+      "mean_rgb_difference": 31.75043402777778
+    },
+    {
+      "time_s": 8.041366,
+      "mean_rgb_difference": 27.208333333333332
+    },
+    {
+      "time_s": 9.642966,
+      "mean_rgb_difference": 27.48799189814815
+    },
+    {
+      "time_s": 19.019,
+      "mean_rgb_difference": 31.614583333333332
+    },
+    {
+      "time_s": 20.787433,
+      "mean_rgb_difference": 28.674189814814813
+    },
+    {
+      "time_s": 28.862166,
+      "mean_rgb_difference": 28.26244212962963
+    }
+  ],
+  "confirmed_cut_count": null,
+  "summary": "Summary:\n\n  Integrated loudness:\n    I:         -19.9 LUFS\n    Threshold: -30.0 LUFS\n\n  Loudness range:\n    LRA:         2.2 LU\n    Threshold: -40.0 LUFS\n    LRA low:   -21.1 LUFS\n    LRA high:  -18.9 LUFS\n\n  True peak:\n    Peak:        0.1 dBFS\n"
+}

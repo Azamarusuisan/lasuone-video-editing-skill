@@ -1,0 +1,319 @@
+{
+  "video_id": "IZS2DvoygWw",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 1023.31,
+  "processed_interval_s": [
+    0,
+    1023.31
+  ],
+  "integrated_lufs": -17.5,
+  "loudness_range_lu": 13.3,
+  "true_peak_dbfs": 0.3,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    20.7478,
+    30.1348,
+    33.8366,
+    102.928,
+    138.913,
+    197.125,
+    233.537,
+    241.575,
+    249.902,
+    255.091,
+    276.74,
+    277.851,
+    279.658,
+    285.54,
+    287.094,
+    297.829,
+    352.789,
+    369.569,
+    381.01,
+    386.332,
+    389.717,
+    390.285,
+    391.901,
+    393.785,
+    398.469,
+    400.2,
+    401.489,
+    404.911,
+    417.287,
+    422.562,
+    425.365,
+    426.033,
+    433.776,
+    437.623,
+    439.629,
+    456.942,
+    479.219,
+    481.486,
+    488.321,
+    489.877,
+    520.929,
+    531.57,
+    570.824,
+    592.947,
+    708.558,
+    753.194,
+    756.531,
+    756.84,
+    757.397,
+    761.921,
+    811.759,
+    851.471,
+    852.032,
+    854.201,
+    855.193,
+    856.845,
+    860.619,
+    872.074,
+    1019.73
+  ],
+  "silence_ends": [
+    {
+      "end_s": 21.0547,
+      "duration_s": 0.306896
+    },
+    {
+      "end_s": 30.4786,
+      "duration_s": 0.343896
+    },
+    {
+      "end_s": 34.1666,
+      "duration_s": 0.330083
+    },
+    {
+      "end_s": 103.258,
+      "duration_s": 0.329875
+    },
+    {
+      "end_s": 141.44,
+      "duration_s": 2.52706
+    },
+    {
+      "end_s": 199.534,
+      "duration_s": 2.40885
+    },
+    {
+      "end_s": 235.995,
+      "duration_s": 2.45835
+    },
+    {
+      "end_s": 241.991,
+      "duration_s": 0.416437
+    },
+    {
+      "end_s": 250.358,
+      "duration_s": 0.456
+    },
+    {
+      "end_s": 255.442,
+      "duration_s": 0.350854
+    },
+    {
+      "end_s": 277.346,
+      "duration_s": 0.605437
+    },
+    {
+      "end_s": 278.182,
+      "duration_s": 0.331417
+    },
+    {
+      "end_s": 280.04,
+      "duration_s": 0.382437
+    },
+    {
+      "end_s": 286.196,
+      "duration_s": 0.656271
+    },
+    {
+      "end_s": 287.451,
+      "duration_s": 0.356979
+    },
+    {
+      "end_s": 298.175,
+      "duration_s": 0.345667
+    },
+    {
+      "end_s": 353.319,
+      "duration_s": 0.529542
+    },
+    {
+      "end_s": 370.305,
+      "duration_s": 0.735896
+    },
+    {
+      "end_s": 381.557,
+      "duration_s": 0.546708
+    },
+    {
+      "end_s": 386.855,
+      "duration_s": 0.523312
+    },
+    {
+      "end_s": 390.15,
+      "duration_s": 0.433271
+    },
+    {
+      "end_s": 390.732,
+      "duration_s": 0.447396
+    },
+    {
+      "end_s": 392.236,
+      "duration_s": 0.334937
+    },
+    {
+      "end_s": 394.095,
+      "duration_s": 0.309875
+    },
+    {
+      "end_s": 399.251,
+      "duration_s": 0.782583
+    },
+    {
+      "end_s": 400.792,
+      "duration_s": 0.591812
+    },
+    {
+      "end_s": 401.948,
+      "duration_s": 0.459312
+    },
+    {
+      "end_s": 405.258,
+      "duration_s": 0.346708
+    },
+    {
+      "end_s": 418.574,
+      "duration_s": 1.28692
+    },
+    {
+      "end_s": 423.457,
+      "duration_s": 0.895188
+    },
+    {
+      "end_s": 425.697,
+      "duration_s": 0.332187
+    },
+    {
+      "end_s": 426.962,
+      "duration_s": 0.928521
+    },
+    {
+      "end_s": 434.191,
+      "duration_s": 0.415625
+    },
+    {
+      "end_s": 438.267,
+      "duration_s": 0.64375
+    },
+    {
+      "end_s": 440.762,
+      "duration_s": 1.13265
+    },
+    {
+      "end_s": 457.59,
+      "duration_s": 0.647667
+    },
+    {
+      "end_s": 480.005,
+      "duration_s": 0.786146
+    },
+    {
+      "end_s": 481.947,
+      "duration_s": 0.461417
+    },
+    {
+      "end_s": 488.913,
+      "duration_s": 0.591771
+    },
+    {
+      "end_s": 490.364,
+      "duration_s": 0.487396
+    },
+    {
+      "end_s": 521.446,
+      "duration_s": 0.517146
+    },
+    {
+      "end_s": 531.948,
+      "duration_s": 0.378188
+    },
+    {
+      "end_s": 571.763,
+      "duration_s": 0.938771
+    },
+    {
+      "end_s": 593.298,
+      "duration_s": 0.3515
+    },
+    {
+      "end_s": 709.037,
+      "duration_s": 0.478604
+    },
+    {
+      "end_s": 753.835,
+      "duration_s": 0.640687
+    },
+    {
+      "end_s": 756.84,
+      "duration_s": 0.308188
+    },
+    {
+      "end_s": 757.27,
+      "duration_s": 0.4305
+    },
+    {
+      "end_s": 757.707,
+      "duration_s": 0.310417
+    },
+    {
+      "end_s": 762.25,
+      "duration_s": 0.328167
+    },
+    {
+      "end_s": 812.254,
+      "duration_s": 0.494375
+    },
+    {
+      "end_s": 852.024,
+      "duration_s": 0.552812
+    },
+    {
+      "end_s": 852.459,
+      "duration_s": 0.426896
+    },
+    {
+      "end_s": 854.811,
+      "duration_s": 0.610125
+    },
+    {
+      "end_s": 855.525,
+      "duration_s": 0.33175
+    },
+    {
+      "end_s": 857.265,
+      "duration_s": 0.4195
+    },
+    {
+      "end_s": 860.975,
+      "duration_s": 0.355333
+    },
+    {
+      "end_s": 872.822,
+      "duration_s": 0.747937
+    },
+    {
+      "end_s": 1023.29,
+      "duration_s": 3.55856
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

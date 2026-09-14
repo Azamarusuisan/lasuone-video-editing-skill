@@ -1,0 +1,197 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,060"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6060
+			},
+			"text": "おつまるちん何につけてるか まあこっちえっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,060",
+				"to": "00:00:08,800"
+			},
+			"offsets": {
+				"from": 6060,
+				"to": 8800
+			},
+			"text": "こっちなんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,280",
+				"to": "00:00:15,740"
+			},
+			"offsets": {
+				"from": 12280,
+				"to": 15740
+			},
+			"text": "病気になりました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,180",
+				"to": "00:00:20,860"
+			},
+			"offsets": {
+				"from": 17180,
+				"to": 20860
+			},
+			"text": "これこれウイルスにかかってて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,880",
+				"to": "00:00:25,760"
+			},
+			"offsets": {
+				"from": 22880,
+				"to": 25760
+			},
+			"text": "まあうんちもすぐするし"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,760",
+				"to": "00:00:28,120"
+			},
+			"offsets": {
+				"from": 25760,
+				"to": 28120
+			},
+			"text": "9 c"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,440",
+				"to": "00:00:38,180"
+			},
+			"offsets": {
+				"from": 29440,
+				"to": 38180
+			},
+			"text": "まあ今これをどういうことをしようかと考えてるんだけど デバイスオンラインでこれを押すデバイスをちょっと今発注してこれクリクリ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,180",
+				"to": "00:00:45,120"
+			},
+			"offsets": {
+				"from": 38180,
+				"to": 45120
+			},
+			"text": "操作はクリクリと ここを押すのとこのボタンの3つなんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,580",
+				"to": "00:00:50,840"
+			},
+			"offsets": {
+				"from": 45580,
+				"to": 50840
+			},
+			"text": "これを オープンクローで自動化しようかなそれより変えました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,840",
+				"to": "00:00:53,920"
+			},
+			"offsets": {
+				"from": 50840,
+				"to": 53920
+			},
+			"text": "あ、見てみてうんこする"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,360",
+				"to": "00:00:59,660"
+			},
+			"offsets": {
+				"from": 56360,
+				"to": 59660
+			},
+			"text": "うんこするうんこするうんこする 足でしないうんこしない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,660",
+				"to": "00:01:02,820"
+			},
+			"offsets": {
+				"from": 59660,
+				"to": 62820
+			},
+			"text": "決まってない?うんこしよううんこしよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,820",
+				"to": "00:01:05,360"
+			},
+			"offsets": {
+				"from": 62820,
+				"to": 65360
+			},
+			"text": "うんこしたら"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,360",
+				"to": "00:01:08,160"
+			},
+			"offsets": {
+				"from": 65360,
+				"to": 68160
+			},
+			"text": "こういう顔になる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,160",
+				"to": "00:01:11,460"
+			},
+			"offsets": {
+				"from": 68160,
+				"to": 71460
+			},
+			"text": "ねっ 何をどうか?"
+		}
+	]
+}

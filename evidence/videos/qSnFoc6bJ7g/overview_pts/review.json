@@ -1,0 +1,432 @@
+{
+  "video_id": "qSnFoc6bJ7g",
+  "reference_video": "https://www.youtube.com/watch?v=qSnFoc6bJ7g",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 57,
+  "reviewed_sheet_count": 10,
+  "sample_step_s": 15,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000015000.jpg",
+      "requested_s": 15,
+      "time_s": 15.015
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.013
+    },
+    {
+      "file": "frame_000045000.jpg",
+      "requested_s": 45,
+      "time_s": 45.012
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.01
+    },
+    {
+      "file": "frame_000075000.jpg",
+      "requested_s": 75,
+      "time_s": 75.008
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.007
+    },
+    {
+      "file": "frame_000105000.jpg",
+      "requested_s": 105,
+      "time_s": 105.005
+    },
+    {
+      "file": "frame_000120000.jpg",
+      "requested_s": 120,
+      "time_s": 120.003
+    },
+    {
+      "file": "frame_000135000.jpg",
+      "requested_s": 135,
+      "time_s": 135.002
+    },
+    {
+      "file": "frame_000150000.jpg",
+      "requested_s": 150,
+      "time_s": 150
+    },
+    {
+      "file": "frame_000165000.jpg",
+      "requested_s": 165,
+      "time_s": 165.015
+    },
+    {
+      "file": "frame_000180000.jpg",
+      "requested_s": 180,
+      "time_s": 180.013
+    },
+    {
+      "file": "frame_000195000.jpg",
+      "requested_s": 195,
+      "time_s": 195.011
+    },
+    {
+      "file": "frame_000210000.jpg",
+      "requested_s": 210,
+      "time_s": 210.01
+    },
+    {
+      "file": "frame_000225000.jpg",
+      "requested_s": 225,
+      "time_s": 225.008
+    },
+    {
+      "file": "frame_000240000.jpg",
+      "requested_s": 240,
+      "time_s": 240.006
+    },
+    {
+      "file": "frame_000255000.jpg",
+      "requested_s": 255,
+      "time_s": 255.005
+    },
+    {
+      "file": "frame_000270000.jpg",
+      "requested_s": 270,
+      "time_s": 270.003
+    },
+    {
+      "file": "frame_000285000.jpg",
+      "requested_s": 285,
+      "time_s": 285.001
+    },
+    {
+      "file": "frame_000300000.jpg",
+      "requested_s": 300,
+      "time_s": 300
+    },
+    {
+      "file": "frame_000315000.jpg",
+      "requested_s": 315,
+      "time_s": 315.015
+    },
+    {
+      "file": "frame_000330000.jpg",
+      "requested_s": 330,
+      "time_s": 330.013
+    },
+    {
+      "file": "frame_000345000.jpg",
+      "requested_s": 345,
+      "time_s": 345.011
+    },
+    {
+      "file": "frame_000360000.jpg",
+      "requested_s": 360,
+      "time_s": 360.01
+    },
+    {
+      "file": "frame_000375000.jpg",
+      "requested_s": 375,
+      "time_s": 375.008
+    },
+    {
+      "file": "frame_000390000.jpg",
+      "requested_s": 390,
+      "time_s": 390.006
+    },
+    {
+      "file": "frame_000405000.jpg",
+      "requested_s": 405,
+      "time_s": 405.005
+    },
+    {
+      "file": "frame_000420000.jpg",
+      "requested_s": 420,
+      "time_s": 420.003
+    },
+    {
+      "file": "frame_000435000.jpg",
+      "requested_s": 435,
+      "time_s": 435.001
+    },
+    {
+      "file": "frame_000450000.jpg",
+      "requested_s": 450,
+      "time_s": 450
+    },
+    {
+      "file": "frame_000465000.jpg",
+      "requested_s": 465,
+      "time_s": 465.015
+    },
+    {
+      "file": "frame_000480000.jpg",
+      "requested_s": 480,
+      "time_s": 480.013
+    },
+    {
+      "file": "frame_000495000.jpg",
+      "requested_s": 495,
+      "time_s": 495.011
+    },
+    {
+      "file": "frame_000510000.jpg",
+      "requested_s": 510,
+      "time_s": 510.01
+    },
+    {
+      "file": "frame_000525000.jpg",
+      "requested_s": 525,
+      "time_s": 525.008
+    },
+    {
+      "file": "frame_000540000.jpg",
+      "requested_s": 540,
+      "time_s": 540.006
+    },
+    {
+      "file": "frame_000555000.jpg",
+      "requested_s": 555,
+      "time_s": 555.004
+    },
+    {
+      "file": "frame_000570000.jpg",
+      "requested_s": 570,
+      "time_s": 570.003
+    },
+    {
+      "file": "frame_000585000.jpg",
+      "requested_s": 585,
+      "time_s": 585.001
+    },
+    {
+      "file": "frame_000600000.jpg",
+      "requested_s": 600,
+      "time_s": 600.016
+    },
+    {
+      "file": "frame_000615000.jpg",
+      "requested_s": 615,
+      "time_s": 615.014
+    },
+    {
+      "file": "frame_000630000.jpg",
+      "requested_s": 630,
+      "time_s": 630.013
+    },
+    {
+      "file": "frame_000645000.jpg",
+      "requested_s": 645,
+      "time_s": 645.011
+    },
+    {
+      "file": "frame_000660000.jpg",
+      "requested_s": 660,
+      "time_s": 660.009
+    },
+    {
+      "file": "frame_000675000.jpg",
+      "requested_s": 675,
+      "time_s": 675.008
+    },
+    {
+      "file": "frame_000690000.jpg",
+      "requested_s": 690,
+      "time_s": 690.006
+    },
+    {
+      "file": "frame_000705000.jpg",
+      "requested_s": 705,
+      "time_s": 705.004
+    },
+    {
+      "file": "frame_000720000.jpg",
+      "requested_s": 720,
+      "time_s": 720.003
+    },
+    {
+      "file": "frame_000735000.jpg",
+      "requested_s": 735,
+      "time_s": 735.001
+    },
+    {
+      "file": "frame_000750000.jpg",
+      "requested_s": 750,
+      "time_s": 750.016
+    },
+    {
+      "file": "frame_000765000.jpg",
+      "requested_s": 765,
+      "time_s": 765.014
+    },
+    {
+      "file": "frame_000780000.jpg",
+      "requested_s": 780,
+      "time_s": 780.013
+    },
+    {
+      "file": "frame_000795000.jpg",
+      "requested_s": 795,
+      "time_s": 795.011
+    },
+    {
+      "file": "frame_000810000.jpg",
+      "requested_s": 810,
+      "time_s": 810.009
+    },
+    {
+      "file": "frame_000825000.jpg",
+      "requested_s": 825,
+      "time_s": 825.008
+    },
+    {
+      "file": "frame_000840000.jpg",
+      "requested_s": 840,
+      "time_s": 840.006
+    }
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "format_tags": [
+    "DOCUMENTARY",
+    "BUSINESS",
+    "TALK",
+    "BACCARAT_SOCIAL_EVENT"
+  ],
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        15,
+        30,
+        45,
+        60
+      ],
+      "observed": "0は胸のNO GAMBLE, NO FUTUREロゴの寄り、15は白地のルーレット・カード・チップのグラフィック、30は交流会の卓での導入、45はETCの映像と緑縁の字幕、60は同グラフィック上のSPA!ロゴと掲載告知。フック・OP・本編の正確な境界は15秒サンプルだけでは未確定。",
+      "rights_status": "UNKNOWN"
+    },
+    {
+      "sample_requested_s": [
+        75,
+        90,
+        105,
+        120,
+        150,
+        180,
+        195
+      ],
+      "observed": "本編はバカラ卓に一人座り、背景に投影画面。左上のギャン魂ロゴ、右上の黒い章ラベル、下部に太ゴシック系の白／一部薄水色＋濃青縁字幕。105の『1億円負けた時に』と120の『500万円を借りました』も通常の一行サイズ。資金額だけを理由に巨大字幕にしない。",
+      "limits": "表示金額は発話校正・累計照合前の画面表記。本人の実際の借入額を独立に証明するものではない。"
+    },
+    {
+      "sample_requested_s": [
+        135,
+        465
+      ],
+      "observed": "重い告白では大きい寄り画＋低彩度の実写、紫色の太明朝系＋白縁／暗い影へ切替。135『本当に使っちゃいけないお金を使った』、465『体が悪い友達も多い』。通常の隅ロゴ／章ラベルは見える範囲にない。",
+      "limits": "デジタルズームか別カメラか、正確な彩度やLUT、縁の層幅は未測定。"
+    },
+    {
+      "sample_requested_s": [
+        165
+      ],
+      "observed": "ぼかしたSNS風画面を全面挿入し、下部の通常会話字幕を継続。投稿本文やアカウントは判読・個人特定せず、資料としての機能のみ観察。",
+      "rights_status": "UNKNOWN"
+    },
+    {
+      "sample_requested_s": [
+        210,
+        225,
+        240,
+        255,
+        270,
+        285,
+        300
+      ],
+      "observed": "右上章を『ギャンブルを辞めるために』へ。210の聞き手側と推定される発話は白＋赤縁。240は下部を横断する黒／グレーの板・細い白い縁＋白ゴシックの質問カード。270は要点を大きい水色系で強調するが、通常の青縁の系統を維持。",
+      "limits": "画面外話者の本人同定・発話全文・字幕要約率は未確認。章の正確な切替時刻は不明。"
+    },
+    {
+      "sample_requested_s": [
+        315,
+        330,
+        345
+      ],
+      "observed": "315に過去バカラ映像を灰色背景内に挿入し、過去映像の小ロゴ・章・BET/カードHUDと今回の通常字幕を同居させる。330では寄り画＋金色風の大型明朝2行『ギャンブル中毒者に寄り添う／サービス展開をしていきたい』。345はワイドと通常字幕へ。",
+      "limits": "過去のBETやカードは今回の実戦結果ではない。挿入尺、元回の特定、素材許諾は未完了。",
+      "rights_status": "UNKNOWN"
+    },
+    {
+      "sample_requested_s": [
+        360,
+        375,
+        390,
+        405,
+        420,
+        435,
+        450
+      ],
+      "observed": "散歩・旅行への発話の間に、405は水辺のB-rollを挿入し会話字幕を維持。435から『ギャンブルと健康』の章、赤縁の聞き手側字幕と本人の青縁字幕を分ける。",
+      "limits": "画面の健康・水に関する主張は未検証の発言として扱う。医学的有効性の根拠や生成用の確定事実へ転用しない。水辺の正確な場所は画像だけで確定しない。",
+      "rights_status": "UNKNOWN"
+    },
+    {
+      "sample_requested_s": [
+        480,
+        495,
+        510,
+        525,
+        540,
+        555,
+        570,
+        585,
+        600,
+        615,
+        630,
+        645,
+        660,
+        675,
+        690,
+        705
+      ],
+      "observed": "495以降『今後の事業展開』。555は寄り画の右側から下へ4つの半透明黒帯に白ゴシック・黄色の重要語を積む情報リスト。630は大きい寄り＋暖色明朝2行の意思表明。その他のサンプルは主にワイドと青縁の通常字幕。IRなど固有語の言及ごとに必ず資料を入れているわけではない。",
+      "limits": "リストは構想の画面説明であり既存サービス・治療効果・行政の支持を確認したものではない。"
+    },
+    {
+      "sample_requested_s": [
+        720,
+        735,
+        750,
+        765,
+        780,
+        795,
+        810,
+        825,
+        840
+      ],
+      "observed": "720は黒地白明朝『ここからは／バカラ交流会』。735は実写中央に白明朝の編集注釈、750/765/795/840は追加発話字幕なし、780は服の紹介と青縁の挨拶、810は料理の寄りと通常字幕、825はソファで締めの会話。終端直前840.006は実写のまま。",
+      "limits": "交流会の『ギャンブルではない』という注釈は画面表現として記録し、法的適法性の判定にしない。字幕なし静止点は無音やカットなしの証明ではない。最後0.084秒とサンプル間は未視聴。スマホ内容は解析しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "channel_wide_generalization": "LOW",
+    "font_exact_match": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "57点の静止画目視であり14分の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。章や字幕イベントの開始・終了とは異なる。",
+    "字幕の書体系・色系統は目視分類、正確なフォント名・RGB・px・縁幅・音は未測定。",
+    "公開映像内の外部素材の再利用権は確認していない。"
+  ]
+}

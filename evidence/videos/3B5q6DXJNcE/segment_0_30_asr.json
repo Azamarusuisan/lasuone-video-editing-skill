@@ -1,0 +1,252 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,760"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1760
+			},
+			"text": "ドラえもん、なんか流行りはないのか?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,760",
+				"to": "00:00:02,660"
+			},
+			"offsets": {
+				"from": 1760,
+				"to": 2660
+			},
+			"text": "流行り?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,660",
+				"to": "00:00:04,480"
+			},
+			"offsets": {
+				"from": 2660,
+				"to": 4480
+			},
+			"text": "僕の今の流行りは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,480",
+				"to": "00:00:05,840"
+			},
+			"offsets": {
+				"from": 4480,
+				"to": 5840
+			},
+			"text": "ちんかわ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,840",
+				"to": "00:00:06,600"
+			},
+			"offsets": {
+				"from": 5840,
+				"to": 6600
+			},
+			"text": "ちんかわ?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,480",
+				"to": "00:00:08,680"
+			},
+			"offsets": {
+				"from": 7480,
+				"to": 8680
+			},
+			"text": "ちんかわパーク"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,680",
+				"to": "00:00:09,740"
+			},
+			"offsets": {
+				"from": 8680,
+				"to": 9740
+			},
+			"text": "ちんかわ?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,740",
+				"to": "00:00:10,780"
+			},
+			"offsets": {
+				"from": 9740,
+				"to": 10780
+			},
+			"text": "話変わるけどさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,780",
+				"to": "00:00:12,440"
+			},
+			"offsets": {
+				"from": 10780,
+				"to": 12440
+			},
+			"text": "ちょっと答えてもらうしちゃんと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,440",
+				"to": "00:00:15,120"
+			},
+			"offsets": {
+				"from": 12440,
+				"to": 15120
+			},
+			"text": "ちんかわはかぶってる方が好き?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,120",
+				"to": "00:00:16,320"
+			},
+			"offsets": {
+				"from": 15120,
+				"to": 16320
+			},
+			"text": "は?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,320",
+				"to": "00:00:17,440"
+			},
+			"offsets": {
+				"from": 16320,
+				"to": 17440
+			},
+			"text": "かぶってない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,440",
+				"to": "00:00:20,580"
+			},
+			"offsets": {
+				"from": 17440,
+				"to": 20580
+			},
+			"text": "ラサアン君はちんかわを知ってる?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,580",
+				"to": "00:00:21,720"
+			},
+			"offsets": {
+				"from": 20580,
+				"to": 21720
+			},
+			"text": "知らない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,720",
+				"to": "00:00:24,300"
+			},
+			"offsets": {
+				"from": 21720,
+				"to": 24300
+			},
+			"text": "さっきAIでちんかわっていうのを作って"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,300",
+				"to": "00:00:25,820"
+			},
+			"offsets": {
+				"from": 24300,
+				"to": 25820
+			},
+			"text": "ちんかわ見る?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,820",
+				"to": "00:00:26,860"
+			},
+			"offsets": {
+				"from": 25820,
+				"to": 26860
+			},
+			"text": "ちんかわ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,860",
+				"to": "00:00:28,100"
+			},
+			"offsets": {
+				"from": 26860,
+				"to": 28100
+			},
+			"text": "やばい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,100",
+				"to": "00:00:29,760"
+			},
+			"offsets": {
+				"from": 28100,
+				"to": 29760
+			},
+			"text": "ちょっとかわいいのが昔作る"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,760",
+				"to": "00:00:30,000"
+			},
+			"offsets": {
+				"from": 29760,
+				"to": 30000
+			},
+			"text": "なので"
+		}
+	]
+}

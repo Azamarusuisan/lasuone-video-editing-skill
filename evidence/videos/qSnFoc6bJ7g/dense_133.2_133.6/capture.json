@@ -1,0 +1,108 @@
+{
+  "video_id": "qSnFoc6bJ7g",
+  "evidence_type": "ALL_DECODED_FRAMES_IN_LOCAL_SEGMENT",
+  "full_watch": false,
+  "requested_interval_s": [
+    133.2,
+    133.6
+  ],
+  "timestamp_method": "Source PTS preserved and read from FFmpeg showinfo",
+  "frames": [
+    {
+      "file": "frame_00001.jpg",
+      "time_s": 133.2
+    },
+    {
+      "file": "frame_00002.jpg",
+      "time_s": 133.216
+    },
+    {
+      "file": "frame_00003.jpg",
+      "time_s": 133.233
+    },
+    {
+      "file": "frame_00004.jpg",
+      "time_s": 133.25
+    },
+    {
+      "file": "frame_00005.jpg",
+      "time_s": 133.266
+    },
+    {
+      "file": "frame_00006.jpg",
+      "time_s": 133.283
+    },
+    {
+      "file": "frame_00007.jpg",
+      "time_s": 133.3
+    },
+    {
+      "file": "frame_00008.jpg",
+      "time_s": 133.317
+    },
+    {
+      "file": "frame_00009.jpg",
+      "time_s": 133.333
+    },
+    {
+      "file": "frame_00010.jpg",
+      "time_s": 133.35
+    },
+    {
+      "file": "frame_00011.jpg",
+      "time_s": 133.367
+    },
+    {
+      "file": "frame_00012.jpg",
+      "time_s": 133.383
+    },
+    {
+      "file": "frame_00013.jpg",
+      "time_s": 133.4
+    },
+    {
+      "file": "frame_00014.jpg",
+      "time_s": 133.417
+    },
+    {
+      "file": "frame_00015.jpg",
+      "time_s": 133.433
+    },
+    {
+      "file": "frame_00016.jpg",
+      "time_s": 133.45
+    },
+    {
+      "file": "frame_00017.jpg",
+      "time_s": 133.467
+    },
+    {
+      "file": "frame_00018.jpg",
+      "time_s": 133.483
+    },
+    {
+      "file": "frame_00019.jpg",
+      "time_s": 133.5
+    },
+    {
+      "file": "frame_00020.jpg",
+      "time_s": 133.517
+    },
+    {
+      "file": "frame_00021.jpg",
+      "time_s": 133.533
+    },
+    {
+      "file": "frame_00022.jpg",
+      "time_s": 133.55
+    },
+    {
+      "file": "frame_00023.jpg",
+      "time_s": 133.567
+    },
+    {
+      "file": "frame_00024.jpg",
+      "time_s": 133.583
+    }
+  ]
+}

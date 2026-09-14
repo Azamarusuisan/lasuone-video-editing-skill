@@ -1,0 +1,108 @@
+{
+  "video_id": "R9yghVLgI4s",
+  "evidence_type": "ALL_DECODED_FRAMES_IN_LOCAL_SEGMENT",
+  "full_watch": false,
+  "requested_interval_s": [
+    4724.7,
+    4725.1
+  ],
+  "timestamp_method": "Source PTS preserved and read from FFmpeg showinfo",
+  "frames": [
+    {
+      "file": "frame_00001.jpg",
+      "time_s": 4724.7
+    },
+    {
+      "file": "frame_00002.jpg",
+      "time_s": 4724.717
+    },
+    {
+      "file": "frame_00003.jpg",
+      "time_s": 4724.733
+    },
+    {
+      "file": "frame_00004.jpg",
+      "time_s": 4724.75
+    },
+    {
+      "file": "frame_00005.jpg",
+      "time_s": 4724.767
+    },
+    {
+      "file": "frame_00006.jpg",
+      "time_s": 4724.783
+    },
+    {
+      "file": "frame_00007.jpg",
+      "time_s": 4724.8
+    },
+    {
+      "file": "frame_00008.jpg",
+      "time_s": 4724.817
+    },
+    {
+      "file": "frame_00009.jpg",
+      "time_s": 4724.833
+    },
+    {
+      "file": "frame_00010.jpg",
+      "time_s": 4724.85
+    },
+    {
+      "file": "frame_00011.jpg",
+      "time_s": 4724.867
+    },
+    {
+      "file": "frame_00012.jpg",
+      "time_s": 4724.883
+    },
+    {
+      "file": "frame_00013.jpg",
+      "time_s": 4724.9
+    },
+    {
+      "file": "frame_00014.jpg",
+      "time_s": 4724.917
+    },
+    {
+      "file": "frame_00015.jpg",
+      "time_s": 4724.933
+    },
+    {
+      "file": "frame_00016.jpg",
+      "time_s": 4724.95
+    },
+    {
+      "file": "frame_00017.jpg",
+      "time_s": 4724.967
+    },
+    {
+      "file": "frame_00018.jpg",
+      "time_s": 4724.983
+    },
+    {
+      "file": "frame_00019.jpg",
+      "time_s": 4725
+    },
+    {
+      "file": "frame_00020.jpg",
+      "time_s": 4725.017
+    },
+    {
+      "file": "frame_00021.jpg",
+      "time_s": 4725.033
+    },
+    {
+      "file": "frame_00022.jpg",
+      "time_s": 4725.05
+    },
+    {
+      "file": "frame_00023.jpg",
+      "time_s": 4725.067
+    },
+    {
+      "file": "frame_00024.jpg",
+      "time_s": 4725.083
+    }
+  ]
+}

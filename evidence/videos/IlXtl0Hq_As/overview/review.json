@@ -1,0 +1,77 @@
+{
+  "video_id": "IlXtl0Hq_As",
+  "reference_video": "https://www.youtube.com/watch?v=IlXtl0Hq_As",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 78,
+  "reviewed_sheet_count": 13,
+  "sample_step_s": 15,
+  "timestamp_uncertainty_s": 7.5,
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "timestamp_warning": "Nominal overview-grid times only, up to 7.5 seconds from selected source PTS. Sample bands below are not verified chapter boundaries. Gaps have not been continuously reviewed.",
+  "confidence_scope": "HIGH for visible sampled frames; provisional logic only, not a channel-wide rule.",
+  "observations": [
+    {
+      "nominal_times_s": [
+        0,
+        15,
+        30,
+        45,
+        60
+      ],
+      "type": "SEPARATE_INTRO",
+      "observation": "モニター前で立って説明する別撮り導入。0／15／45のサンプルは白い太ゴシック＋黒縁の下字幕、30／60には字幕なし。"
+    },
+    {
+      "nominal_sample_band_s": [
+        75,
+        1155
+      ],
+      "sample_step_s": 15,
+      "sample_count": 73,
+      "type": "MAIN_TALK_NEGATIVE_EVIDENCE",
+      "observation": "確認した本編73点すべてで2人のワイド画、字幕・質問カード・B-roll・チャンネル角ロゴなし。壁の印字は撮影背景であって編集テロップではない。73点の間に短いカットや字幕がないことまで保証しない。"
+    },
+    {
+      "nominal_times_s": [
+        180,
+        540,
+        570,
+        840,
+        1140
+      ],
+      "type": "REACTIONS_RETAINED_IN_WIDE",
+      "observation": "身振りや笑顔・笑い合う場面もサンプルではワイド画と無字幕を維持。笑ったら必ずパンチイン／巨大字幕という規則への局所反例。"
+    },
+    {
+      "nominal_times_s": [
+        1155
+      ],
+      "type": "LAST_SAMPLED_FRAME",
+      "observation": "最後の抽出点は対談の実写。実ファイル末尾までのフレーム確認前にEDなしと断定しない。"
+    }
+  ],
+  "sample_metrics": {
+    "intro_samples": 5,
+    "intro_caption_visible_samples": 3,
+    "main_sample_count": 73,
+    "main_caption_visible_samples": 0,
+    "main_alternate_camera_samples": 0,
+    "main_insert_samples": 0,
+    "main_observed_caption_sample_fraction": 0,
+    "continuous_caption_coverage": null,
+    "spoken_utterance_caption_rate": null,
+    "confirmed_cut_count": null,
+    "warning": "0/73はサンプル時点の字幕存在率。全編の字幕化率やカット数0ではない。"
+  },
+  "provisional_editing_inferences": [
+    {
+      "rule": "第1話の旧プロファイルは、対談本編をワイド中心・字幕なしとして保持し、別撮り導入のゴシック字幕を本編へ流用しない。",
+      "confidence": "MEDIUM",
+      "independent_videos": 1,
+      "channel_wide_rule": false
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "video_id": "fenmCOzaygE",
+  "url": "https://www.youtube.com/watch?v=fenmCOzaygE",
+  "captured_at": "2026-09-13T09:27:23.805Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "ラスワンが大井競馬場で100万円オールインしたら払い戻しはいくらになるのか？ - YouTube",
+  "duration_s": 1450.481,
+  "width": 640,
+  "height": 360,
+  "description": "■大反響■\nラスワンのお気持ち顧問は\n1年間100万円で受け付けております …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 218,
+      "time_s": 218,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0218000.jpg"
+    },
+    {
+      "requested_s": 363,
+      "time_s": 363,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0363000.jpg"
+    },
+    {
+      "requested_s": 508,
+      "time_s": 508,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0508000.jpg"
+    },
+    {
+      "requested_s": 653,
+      "time_s": 653,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0653000.jpg"
+    },
+    {
+      "requested_s": 798,
+      "time_s": 798,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0798000.jpg"
+    },
+    {
+      "requested_s": 943,
+      "time_s": 943,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0943000.jpg"
+    },
+    {
+      "requested_s": 1088,
+      "time_s": 1088,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1088000.jpg"
+    },
+    {
+      "requested_s": 1233,
+      "time_s": 1233,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1233000.jpg"
+    },
+    {
+      "requested_s": 1334,
+      "time_s": 1334,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1334000.jpg"
+    },
+    {
+      "requested_s": 1420.481,
+      "time_s": 1420.481,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1420481.jpg"
+    },
+    {
+      "requested_s": 1435.481,
+      "time_s": 1435.481,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1435481.jpg"
+    },
+    {
+      "requested_s": 1447.481,
+      "time_s": 1447.481,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1447481.jpg"
+    }
+  ]
+}

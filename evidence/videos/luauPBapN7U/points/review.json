@@ -1,0 +1,17 @@
+{
+  "video_id": "luauPBapN7U",
+  "review_type": "MANUAL_SELECTED_STATIC_POINTS",
+  "reviewed_requested_s": [23.8,24.3,24.8,25.3,25.8,26.3,26.7,560,567,570,577,577.5,578,578.5,579,579.5,580,580.5,581,581.5,582,582.5,583,583.5,584,584.5,585,585.5,586,586.5,587,587.5,588,588.5,589,589.5,590,590.5,591,591.5,592,592.5,593,593.5,594,594.5,595,595.5,596,596.5,597,597.5,598,598.5,599,599.5,600,600.5,601,601.5,602,602.5,603,607,613],
+  "timestamp_basis": "Actual source PTS in capture.json; integer/fractional requested times may differ by up to one decoded frame",
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {"requested_times_s":[577,577.5,585,589,594.5,595,596,596.5,602,602.5,603],"observation":"577〜603秒を0.5秒おき53点で確認。裏柄・暫定0→Banker7公開→Player9公開→Banker9公開→2人の反応→大きいタイ字幕→会話と注釈、の順序を記録。手元の絞り中は選定点で通常の発話字幕やB-rollを増やしていない。カードを開く待ちと両者の反応を省かずに残す局所例。全デコードフレームを確認した区間は別ファイルで管理し、この53点を連続視聴と呼ばない。","dense_boundary_evidence":"evidence/CONTINUOUS_INTERVAL_OBSERVATIONS.json"},
+    {"requested_times_s": [23.8, 24.3, 24.8, 25.3, 25.8, 26.3, 26.7], "observation": "過去のフィリピンの卓の挿入映像。主対象の顔を残すぼかしと同じ下字幕を各点で確認。内部全フレームは未確認で、連続目視とは数えない。"},
+    {"requested_times_s": [560, 567, 570, 577], "observation": "卓の会話・BET準備にカードHUDなし。570.003秒に大きい赤い明朝系の勝負開始を煽る文言があり、HUDと感情字幕は別レイヤー。", "supersedes": "overviewの公称570秒（±7.5秒）の像を、正確な570秒時点のHUD開始としては使わない。"},
+    {"requested_times_s": [585], "source_time_s": 585.018, "observation": "手元とカードに下左右のHUD、左上部に小型BET額。BANKERは1枚見えて7点、PLAYERは裏向きのスロットと0点表示。画面上の0を既知の確定得点0と混同しない。"},
+    {"requested_times_s": [595, 600], "observation": "両者9点のHUD。600.033秒の人物リアクションには大きく斜めの白い明朝系でタイの説明があり、結果HUDを残す。3枠目の裏柄は実際に3枚配られた証拠ではない。", "result_visible": "TIE", "supersedes": "overview公称600秒のHUDなし像とは別時点。正確な600秒付近にはHUDがある。"},
+    {"requested_times_s": [607, 613], "observation": "次のBETへ向かう会話・撮影の様子に中央の編集者注釈があり、カードHUDはない。人物の2ショットと上からの卓の画角を切り替える。"}
+  ],
+  "state_model_warning": "表示用のカード枠・裏柄・暫定点数と、判明したカード・実際の配布枚数・確定点数を別フィールドで扱う。未知カードや未知点数は推測して埋めない。"
+}

@@ -1,0 +1,87 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,860"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1860
+			},
+			"text": "ギャンブルしたい 今夜は眠れない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,860",
+				"to": "00:00:04,320"
+			},
+			"offsets": {
+				"from": 1860,
+				"to": 4320
+			},
+			"text": "サイコロの音に心が震える"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,320",
+				"to": "00:00:05,940"
+			},
+			"offsets": {
+				"from": 4320,
+				"to": 5940
+			},
+			"text": "運命をかけてみたいんだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,940",
+				"to": "00:00:08,600"
+			},
+			"offsets": {
+				"from": 5940,
+				"to": 8600
+			},
+			"text": "カードに夢を乗せてギャンブルしたい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,600",
+				"to": "00:00:09,740"
+			},
+			"offsets": {
+				"from": 8600,
+				"to": 9740
+			},
+			"text": "抑えきれないかって"
+		}
+	]
+}

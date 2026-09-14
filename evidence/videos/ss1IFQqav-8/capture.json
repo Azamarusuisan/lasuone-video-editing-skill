@@ -1,0 +1,183 @@
+{
+  "video_id": "ss1IFQqav-8",
+  "url": "https://www.youtube.com/watch?v=ss1IFQqav-8",
+  "captured_at": "2026-09-13T09:27:09.169Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "競艇の撮影中に賭けたWIN5でものすごい結果になりました。 - YouTube",
+  "duration_s": 1682.581,
+  "width": 640,
+  "height": 360,
+  "description": "－－－－－－－－－－－－－－－ \n\nポッドキャスト始めました🎙 …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 252,
+      "time_s": 252,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0252000.jpg"
+    },
+    {
+      "requested_s": 421,
+      "time_s": 421,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0421000.jpg"
+    },
+    {
+      "requested_s": 589,
+      "time_s": 589,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0589000.jpg"
+    },
+    {
+      "requested_s": 757,
+      "time_s": 757,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0757000.jpg"
+    },
+    {
+      "requested_s": 925,
+      "time_s": 925,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0925000.jpg"
+    },
+    {
+      "requested_s": 1094,
+      "time_s": 1094,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1094000.jpg"
+    },
+    {
+      "requested_s": 1262,
+      "time_s": 1262,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1262000.jpg"
+    },
+    {
+      "requested_s": 1430,
+      "time_s": 1430,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1430000.jpg"
+    },
+    {
+      "requested_s": 1548,
+      "time_s": 1548,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1548000.jpg"
+    },
+    {
+      "requested_s": 1652.581,
+      "time_s": 1652.581,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1652581.jpg"
+    },
+    {
+      "requested_s": 1667.581,
+      "time_s": 1667.581,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1667581.jpg"
+    },
+    {
+      "requested_s": 1679.581,
+      "time_s": 1679.581,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1679581.jpg"
+    }
+  ]
+}

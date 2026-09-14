@@ -1,0 +1,153 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,380"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3380
+			},
+			"text": "カメラマンの給料30万円をバカラに全突破してみた。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,700",
+				"to": "00:00:09,100"
+			},
+			"offsets": {
+				"from": 3700,
+				"to": 9100
+			},
+			"text": "ということでこの人僕の給料30万円を増やしてあげるとか言ってバンカーにベッドしてます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,460",
+				"to": "00:00:11,540"
+			},
+			"offsets": {
+				"from": 9460,
+				"to": 11540
+			},
+			"text": "負けたら普通に僕この仕事やめます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,020",
+				"to": "00:00:15,080"
+			},
+			"offsets": {
+				"from": 12020,
+				"to": 15080
+			},
+			"text": "しかしプレイヤーの数字はまさかのゼロ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,820",
+				"to": "00:00:19,360"
+			},
+			"offsets": {
+				"from": 15820,
+				"to": 19360
+			},
+			"text": "まさかのカメラマンの給料が2倍になる大チャンスが到来。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,520",
+				"to": "00:00:24,120"
+			},
+			"offsets": {
+				"from": 19520,
+				"to": 24120
+			},
+			"text": "慎重にカードを追ってゆっくり絞ると1枚目のカードの数字は5。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,660",
+				"to": "00:00:26,800"
+			},
+			"offsets": {
+				"from": 24660,
+				"to": 26800
+			},
+			"text": "そしてなんと2枚目のカードは縦。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,940",
+				"to": "00:00:31,640"
+			},
+			"offsets": {
+				"from": 26940,
+				"to": 31640
+			},
+			"text": "もしこの数字が3だったらナチュラルエイトでその時点で勝ちが確定する。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,840",
+				"to": "00:00:44,660"
+			},
+			"offsets": {
+				"from": 42840,
+				"to": 44660
+			},
+			"text": "ゆうどん、給料2倍したぞ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,740",
+				"to": "00:00:45,260"
+			},
+			"offsets": {
+				"from": 44740,
+				"to": 45260
+			},
+			"text": "ありがとうございます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,740",
+				"to": "00:00:47,400"
+			},
+			"offsets": {
+				"from": 45740,
+				"to": 47400
+			},
+			"text": "一生ついてきます。"
+		}
+	]
+}

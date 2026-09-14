@@ -1,0 +1,76 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:09,180"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 9180
+			},
+			"text": "ラザンさんさっき僕がインスパイアカジノにある遊びに行けるリゾート施設 行ってきたんですけどめっちゃ良くて何か全体にプロジェクションマッピングでなが"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,180",
+				"to": "00:00:14,720"
+			},
+			"offsets": {
+				"from": 9180,
+				"to": 14720
+			},
+			"text": "あってもうめっちゃ魅了される空間だったんですけど 最高でした"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,720",
+				"to": "00:00:23,400"
+			},
+			"offsets": {
+				"from": 14720,
+				"to": 23400
+			},
+			"text": "もうじゃなんかデートにも絶対使えるなと思ったし なんかまた行きたいなと思いましたねいうとその時ちょっと言ってましためっちゃことです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,400",
+				"to": "00:00:30,420"
+			},
+			"offsets": {
+				"from": 23400,
+				"to": 30420
+			},
+			"text": "ただ俺君がそこに行ってる間持ってきた100万円 全部なくなったけど"
+		}
+	]
+}

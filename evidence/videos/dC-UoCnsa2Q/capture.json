@@ -1,0 +1,183 @@
+{
+  "video_id": "dC-UoCnsa2Q",
+  "url": "https://www.youtube.com/watch?v=dC-UoCnsa2Q",
+  "captured_at": "2026-09-13T09:30:26.253Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "嫁にバレずに韓国へ行ったら爆勝ちしました。 - YouTube",
+  "duration_s": 1485.121,
+  "width": 640,
+  "height": 360,
+  "description": "－－－－－－－－－－－－－－－ \n\nポッドキャスト始めました🎙 …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 223,
+      "time_s": 223,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0223000.jpg"
+    },
+    {
+      "requested_s": 371,
+      "time_s": 371,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0371000.jpg"
+    },
+    {
+      "requested_s": 520,
+      "time_s": 520,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0520000.jpg"
+    },
+    {
+      "requested_s": 668,
+      "time_s": 668,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0668000.jpg"
+    },
+    {
+      "requested_s": 817,
+      "time_s": 817,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0817000.jpg"
+    },
+    {
+      "requested_s": 965,
+      "time_s": 965,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0965000.jpg"
+    },
+    {
+      "requested_s": 1114,
+      "time_s": 1114,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1114000.jpg"
+    },
+    {
+      "requested_s": 1262,
+      "time_s": 1262,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1262000.jpg"
+    },
+    {
+      "requested_s": 1366,
+      "time_s": 1366,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1366000.jpg"
+    },
+    {
+      "requested_s": 1455.121,
+      "time_s": 1455.121,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1455121.jpg"
+    },
+    {
+      "requested_s": 1470.121,
+      "time_s": 1470.121,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1470121.jpg"
+    },
+    {
+      "requested_s": 1482.121,
+      "time_s": 1482.121,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1482121.jpg"
+    }
+  ]
+}

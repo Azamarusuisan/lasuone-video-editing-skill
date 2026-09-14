@@ -1,0 +1,89 @@
+{
+  "video_id": "032a8MXi-BY",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 996.83,
+  "processed_interval_s": [
+    0,
+    996.83
+  ],
+  "integrated_lufs": -17.9,
+  "loudness_range_lu": 9.7,
+  "true_peak_dbfs": 0.8,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    100.934,
+    224.984,
+    245.051,
+    429.018,
+    473.399,
+    514.802,
+    552.585,
+    642.73,
+    680.735,
+    723.218,
+    742.148,
+    799.652,
+    996.059
+  ],
+  "silence_ends": [
+    {
+      "end_s": 101.574,
+      "duration_s": 0.639792
+    },
+    {
+      "end_s": 225.624,
+      "duration_s": 0.639792
+    },
+    {
+      "end_s": 245.691,
+      "duration_s": 0.639833
+    },
+    {
+      "end_s": 429.657,
+      "duration_s": 0.639563
+    },
+    {
+      "end_s": 474.509,
+      "duration_s": 1.11002
+    },
+    {
+      "end_s": 515.443,
+      "duration_s": 0.641062
+    },
+    {
+      "end_s": 553.224,
+      "duration_s": 0.639417
+    },
+    {
+      "end_s": 643.076,
+      "duration_s": 0.345979
+    },
+    {
+      "end_s": 681.376,
+      "duration_s": 0.641375
+    },
+    {
+      "end_s": 723.859,
+      "duration_s": 0.640792
+    },
+    {
+      "end_s": 742.926,
+      "duration_s": 0.778104
+    },
+    {
+      "end_s": 800.291,
+      "duration_s": 0.63925
+    },
+    {
+      "end_s": 996.808,
+      "duration_s": 0.748062
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

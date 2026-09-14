@@ -1,0 +1,197 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,060"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2060
+			},
+			"text": "この男と戦うときは覚悟してください"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,060",
+				"to": "00:00:04,220"
+			},
+			"offsets": {
+				"from": 2060,
+				"to": 4220
+			},
+			"text": "ラスワンがハイジャックからオープンしました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,220",
+				"to": "00:00:07,480"
+			},
+			"offsets": {
+				"from": 4220,
+				"to": 7480
+			},
+			"text": "しかし後ろには最強ハンドを持つ相手が控えています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,480",
+				"to": "00:00:10,680"
+			},
+			"offsets": {
+				"from": 7480,
+				"to": 10680
+			},
+			"text": "ここで2倍サイズの3ベッドが飛んできます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,680",
+				"to": "00:00:13,100"
+			},
+			"offsets": {
+				"from": 10680,
+				"to": 13100
+			},
+			"text": "少し安めのレーズに対しラスワンがコール"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,100",
+				"to": "00:00:15,480"
+			},
+			"offsets": {
+				"from": 13100,
+				"to": 15480
+			},
+			"text": "ヘッドアップでフロップへと進みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,480",
+				"to": "00:00:20,480"
+			},
+			"offsets": {
+				"from": 15480,
+				"to": 20480
+			},
+			"text": "なんとフロップでラスワンに3カードが完成"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,480",
+				"to": "00:00:23,780"
+			},
+			"offsets": {
+				"from": 20480,
+				"to": 23780
+			},
+			"text": "相手は最強ハンドを持っているがどうなるのでしょうか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,780",
+				"to": "00:00:28,060"
+			},
+			"offsets": {
+				"from": 23780,
+				"to": 28060
+			},
+			"text": "ここでポットのおよそ30%ほどのベッドを飛ばします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,060",
+				"to": "00:00:35,920"
+			},
+			"offsets": {
+				"from": 28060,
+				"to": 35920
+			},
+			"text": "ラスワンの決断は果たして"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,920",
+				"to": "00:00:38,020"
+			},
+			"offsets": {
+				"from": 35920,
+				"to": 38020
+			},
+			"text": "オールインしました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,020",
+				"to": "00:00:41,180"
+			},
+			"offsets": {
+				"from": 38020,
+				"to": 41180
+			},
+			"text": "ラスワンのオールインに相手はさすがに降りれずコール"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,180",
+				"to": "00:00:43,400"
+			},
+			"offsets": {
+				"from": 41180,
+				"to": 43400
+			},
+			"text": "ハンドが開かれると相手はこの表情"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,400",
+				"to": "00:00:52,520"
+			},
+			"offsets": {
+				"from": 43400,
+				"to": 52520
+			},
+			"text": "強いハンドの相手を飛ばし見事勝利を収めたラスワンは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,520",
+				"to": "00:00:55,260"
+			},
+			"offsets": {
+				"from": 52520,
+				"to": 55260
+			},
+			"text": "鼻きそをほじくり倒して髪の毛になじませました"
+		}
+	]
+}

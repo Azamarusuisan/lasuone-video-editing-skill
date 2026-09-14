@@ -1,0 +1,183 @@
+{
+  "video_id": "IlXtl0Hq_As",
+  "url": "https://www.youtube.com/watch?v=IlXtl0Hq_As",
+  "captured_at": "2026-09-13T09:28:22.380Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【第１話】20億溶かした社長に、何が残ったのか？｜ラスワンポッドキャスト - YouTube",
+  "duration_s": 1168.321,
+  "width": 640,
+  "height": 360,
+  "description": "－－－－－－－－－－－－－－－ \n\nポッドキャスト始めました🎙 …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 175,
+      "time_s": 175,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0175000.jpg"
+    },
+    {
+      "requested_s": 292,
+      "time_s": 292,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0292000.jpg"
+    },
+    {
+      "requested_s": 409,
+      "time_s": 409,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0409000.jpg"
+    },
+    {
+      "requested_s": 526,
+      "time_s": 526,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0526000.jpg"
+    },
+    {
+      "requested_s": 643,
+      "time_s": 643,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0643000.jpg"
+    },
+    {
+      "requested_s": 759,
+      "time_s": 759,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0759000.jpg"
+    },
+    {
+      "requested_s": 876,
+      "time_s": 876,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0876000.jpg"
+    },
+    {
+      "requested_s": 993,
+      "time_s": 993,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0993000.jpg"
+    },
+    {
+      "requested_s": 1075,
+      "time_s": 1075,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1075000.jpg"
+    },
+    {
+      "requested_s": 1138.321,
+      "time_s": 1138.321,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1138321.jpg"
+    },
+    {
+      "requested_s": 1153.321,
+      "time_s": 1153.321,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1153321.jpg"
+    },
+    {
+      "requested_s": 1165.321,
+      "time_s": 1165.321,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1165321.jpg"
+    }
+  ]
+}

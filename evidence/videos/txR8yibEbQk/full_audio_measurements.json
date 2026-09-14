@@ -1,0 +1,64 @@
+{
+  "video_id": "txR8yibEbQk",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 912.73,
+  "processed_interval_s": [
+    0,
+    912.73
+  ],
+  "integrated_lufs": -21.4,
+  "loudness_range_lu": 9.6,
+  "true_peak_dbfs": 0.4,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    4.23121,
+    4.68685,
+    5.17771,
+    123.13,
+    125.483,
+    225.086,
+    461.113,
+    911.834
+  ],
+  "silence_ends": [
+    {
+      "end_s": 4.58473,
+      "duration_s": 0.353521
+    },
+    {
+      "end_s": 5.17456,
+      "duration_s": 0.487708
+    },
+    {
+      "end_s": 5.50673,
+      "duration_s": 0.329021
+    },
+    {
+      "end_s": 123.926,
+      "duration_s": 0.795937
+    },
+    {
+      "end_s": 126.108,
+      "duration_s": 0.624625
+    },
+    {
+      "end_s": 226.247,
+      "duration_s": 1.16023
+    },
+    {
+      "end_s": 462.492,
+      "duration_s": 1.37929
+    },
+    {
+      "end_s": 912.703,
+      "duration_s": 0.868833
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

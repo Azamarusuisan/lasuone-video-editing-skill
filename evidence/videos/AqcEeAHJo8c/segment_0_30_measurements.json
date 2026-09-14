@@ -1,0 +1,229 @@
+{
+  "video_id": "AqcEeAHJo8c",
+  "source": "segment_0_30.webm",
+  "scope": "SAMPLED_BROWSER_DECODED_MIX_ONLY",
+  "original_video_integrated_lufs": null,
+  "original_stem_levels": null,
+  "sample_integrated_lufs": -15.8,
+  "sample_loudness_range_lu": 4.7,
+  "sample_true_peak_dbfs": -4.2,
+  "rendered_frames": 953,
+  "median_frame_interval_s": 0.03336699999999837,
+  "max_frame_gap_s": 0.2669340000000009,
+  "scene_change_candidates": [
+    {
+      "time_s": 0.4004,
+      "mean_rgb_difference": 25.21267361111111
+    },
+    {
+      "time_s": 0.433767,
+      "mean_rgb_difference": 62.487991898148145
+    },
+    {
+      "time_s": 0.467133,
+      "mean_rgb_difference": 51.26461226851852
+    },
+    {
+      "time_s": 0.5005,
+      "mean_rgb_difference": 50.124276620370374
+    },
+    {
+      "time_s": 0.533867,
+      "mean_rgb_difference": 43.062210648148145
+    },
+    {
+      "time_s": 0.567233,
+      "mean_rgb_difference": 28.329427083333332
+    },
+    {
+      "time_s": 3.870537,
+      "mean_rgb_difference": 34.112991898148145
+    },
+    {
+      "time_s": 3.903903,
+      "mean_rgb_difference": 43.14945023148148
+    },
+    {
+      "time_s": 3.93727,
+      "mean_rgb_difference": 43.16999421296296
+    },
+    {
+      "time_s": 3.970637,
+      "mean_rgb_difference": 28.40581597222222
+    },
+    {
+      "time_s": 4.004004,
+      "mean_rgb_difference": 35.84215856481482
+    },
+    {
+      "time_s": 4.23757,
+      "mean_rgb_difference": 40.43359375
+    },
+    {
+      "time_s": 4.270937,
+      "mean_rgb_difference": 56.566116898148145
+    },
+    {
+      "time_s": 4.304304,
+      "mean_rgb_difference": 132.21209490740742
+    },
+    {
+      "time_s": 4.671338,
+      "mean_rgb_difference": 27.64482060185185
+    },
+    {
+      "time_s": 4.704704,
+      "mean_rgb_difference": 68.93041087962963
+    },
+    {
+      "time_s": 5.038371,
+      "mean_rgb_difference": 27.21585648148148
+    },
+    {
+      "time_s": 5.105105,
+      "mean_rgb_difference": 31.889756944444443
+    },
+    {
+      "time_s": 5.171838,
+      "mean_rgb_difference": 27.854166666666668
+    },
+    {
+      "time_s": 5.472138,
+      "mean_rgb_difference": 68.52907986111111
+    },
+    {
+      "time_s": 7.340674,
+      "mean_rgb_difference": 97.13845486111111
+    },
+    {
+      "time_s": 7.37404,
+      "mean_rgb_difference": 32.347800925925924
+    },
+    {
+      "time_s": 7.407407,
+      "mean_rgb_difference": 36.82711226851852
+    },
+    {
+      "time_s": 7.440774,
+      "mean_rgb_difference": 36.13483796296296
+    },
+    {
+      "time_s": 7.47414,
+      "mean_rgb_difference": 33.61024305555556
+    },
+    {
+      "time_s": 7.507507,
+      "mean_rgb_difference": 30.175202546296298
+    },
+    {
+      "time_s": 7.941274,
+      "mean_rgb_difference": 70.52141203703704
+    },
+    {
+      "time_s": 8.942275,
+      "mean_rgb_difference": 75.31655092592592
+    },
+    {
+      "time_s": 9.776443,
+      "mean_rgb_difference": 41.890914351851855
+    },
+    {
+      "time_s": 10.51051,
+      "mean_rgb_difference": 30.24565972222222
+    },
+    {
+      "time_s": 11.411411,
+      "mean_rgb_difference": 80.55772569444444
+    },
+    {
+      "time_s": 12.979646,
+      "mean_rgb_difference": 92.57609953703704
+    },
+    {
+      "time_s": 13.613613,
+      "mean_rgb_difference": 38.675925925925924
+    },
+    {
+      "time_s": 14.114114,
+      "mean_rgb_difference": 92.77936921296296
+    },
+    {
+      "time_s": 14.481147,
+      "mean_rgb_difference": 25.52777777777778
+    },
+    {
+      "time_s": 17.317317,
+      "mean_rgb_difference": 64.17664930555556
+    },
+    {
+      "time_s": 18.651985,
+      "mean_rgb_difference": 40.17346643518518
+    },
+    {
+      "time_s": 20.687354,
+      "mean_rgb_difference": 54.226707175925924
+    },
+    {
+      "time_s": 22.288933,
+      "mean_rgb_difference": 34.065104166666664
+    },
+    {
+      "time_s": 23.857166,
+      "mean_rgb_difference": 68.68402777777777
+    },
+    {
+      "time_s": 24.657966,
+      "mean_rgb_difference": 51.7857349537037
+    },
+    {
+      "time_s": 24.841483,
+      "mean_rgb_difference": 25.948640046296298
+    },
+    {
+      "time_s": 25.742383,
+      "mean_rgb_difference": 58.095052083333336
+    },
+    {
+      "time_s": 25.87585,
+      "mean_rgb_difference": 30.152488425925927
+    },
+    {
+      "time_s": 25.9259,
+      "mean_rgb_difference": 33.498697916666664
+    },
+    {
+      "time_s": 27.243883,
+      "mean_rgb_difference": 35.42274305555556
+    },
+    {
+      "time_s": 27.260566,
+      "mean_rgb_difference": 31.407552083333332
+    },
+    {
+      "time_s": 27.293933,
+      "mean_rgb_difference": 50.323061342592595
+    },
+    {
+      "time_s": 27.3273,
+      "mean_rgb_difference": 32.141348379629626
+    },
+    {
+      "time_s": 27.37735,
+      "mean_rgb_difference": 45.45109953703704
+    },
+    {
+      "time_s": 28.194833,
+      "mean_rgb_difference": 64.8113425925926
+    },
+    {
+      "time_s": 28.27825,
+      "mean_rgb_difference": 90.06929976851852
+    },
+    {
+      "time_s": 29.195833,
+      "mean_rgb_difference": 33.90625
+    }
+  ],
+  "confirmed_cut_count": null,
+  "summary": "Summary:\n\n  Integrated loudness:\n    I:         -15.8 LUFS\n    Threshold: -25.9 LUFS\n\n  Loudness range:\n    LRA:         4.7 LU\n    Threshold: -35.9 LUFS\n    LRA low:   -18.7 LUFS\n    LRA high:  -14.0 LUFS\n\n  True peak:\n    Peak:       -4.2 dBFS\n"
+}

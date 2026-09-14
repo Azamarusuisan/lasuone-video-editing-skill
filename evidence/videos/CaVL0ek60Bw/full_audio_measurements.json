@@ -1,0 +1,104 @@
+{
+  "video_id": "CaVL0ek60Bw",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 1988.27,
+  "processed_interval_s": [
+    0,
+    1988.27
+  ],
+  "integrated_lufs": -18.1,
+  "loudness_range_lu": 10.6,
+  "true_peak_dbfs": 1.2,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    11.5984,
+    77.4099,
+    231.435,
+    331.002,
+    390.585,
+    794.002,
+    1055.8,
+    1187.97,
+    1190.09,
+    1373.31,
+    1417.14,
+    1640.23,
+    1814.1,
+    1833.59,
+    1892.37,
+    1987.38
+  ],
+  "silence_ends": [
+    {
+      "end_s": 12.4297,
+      "duration_s": 0.831292
+    },
+    {
+      "end_s": 78.094,
+      "duration_s": 0.684083
+    },
+    {
+      "end_s": 232.074,
+      "duration_s": 0.63925
+    },
+    {
+      "end_s": 331.641,
+      "duration_s": 0.639542
+    },
+    {
+      "end_s": 391.224,
+      "duration_s": 0.638875
+    },
+    {
+      "end_s": 794.662,
+      "duration_s": 0.660208
+    },
+    {
+      "end_s": 1056.44,
+      "duration_s": 0.639333
+    },
+    {
+      "end_s": 1188.61,
+      "duration_s": 0.641104
+    },
+    {
+      "end_s": 1190.91,
+      "duration_s": 0.819896
+    },
+    {
+      "end_s": 1374.87,
+      "duration_s": 1.56192
+    },
+    {
+      "end_s": 1418.36,
+      "duration_s": 1.22325
+    },
+    {
+      "end_s": 1640.72,
+      "duration_s": 0.494896
+    },
+    {
+      "end_s": 1814.55,
+      "duration_s": 0.442875
+    },
+    {
+      "end_s": 1834.22,
+      "duration_s": 0.639167
+    },
+    {
+      "end_s": 1893.01,
+      "duration_s": 0.639833
+    },
+    {
+      "end_s": 1988.25,
+      "duration_s": 0.875771
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

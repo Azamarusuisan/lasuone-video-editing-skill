@@ -1,0 +1,263 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,900"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1900
+			},
+			"text": "これがポーカーに愛される男です"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,900",
+				"to": "00:00:04,520"
+			},
+			"offsets": {
+				"from": 1900,
+				"to": 4520
+			},
+			"text": "ボタンに座るラスワンまでフォールドで回ってきました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,520",
+				"to": "00:00:05,780"
+			},
+			"offsets": {
+				"from": 4520,
+				"to": 5780
+			},
+			"text": "するとここで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,780",
+				"to": "00:00:09,480"
+			},
+			"offsets": {
+				"from": 5780,
+				"to": 9480
+			},
+			"text": "特大サイズのオールインを飛ばします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,480",
+				"to": "00:00:11,820"
+			},
+			"offsets": {
+				"from": 9480,
+				"to": 11820
+			},
+			"text": "後ろに控える女性も思わずこの表情"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,820",
+				"to": "00:00:14,680"
+			},
+			"offsets": {
+				"from": 11820,
+				"to": 14680
+			},
+			"text": "しかし彼女には戦えそうなハンドが入っています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,680",
+				"to": "00:00:20,920"
+			},
+			"offsets": {
+				"from": 14680,
+				"to": 20920
+			},
+			"text": "日本人同士は気合愛とプレイしています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,920",
+				"to": "00:00:22,000"
+			},
+			"offsets": {
+				"from": 20920,
+				"to": 22000
+			},
+			"text": "ラソネ選手ですか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,000",
+				"to": "00:00:24,440"
+			},
+			"offsets": {
+				"from": 22000,
+				"to": 24440
+			},
+			"text": "ラスワンさん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,440",
+				"to": "00:00:27,180"
+			},
+			"offsets": {
+				"from": 24440,
+				"to": 27180
+			},
+			"text": "ラソネのプレイに悩む女性は兆候の末"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,180",
+				"to": "00:00:29,060"
+			},
+			"offsets": {
+				"from": 27180,
+				"to": 29060
+			},
+			"text": "コールを選択しました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,060",
+				"to": "00:00:31,440"
+			},
+			"offsets": {
+				"from": 29060,
+				"to": 31440
+			},
+			"text": "ヘッドアップで特大ポットを戦います"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,440",
+				"to": "00:00:36,760"
+			},
+			"offsets": {
+				"from": 31440,
+				"to": 36760
+			},
+			"text": "思わず叫び声が出ました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,760",
+				"to": "00:00:37,980"
+			},
+			"offsets": {
+				"from": 36760,
+				"to": 37980
+			},
+			"text": "さあオールインに対してのコール"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,980",
+				"to": "00:00:41,520"
+			},
+			"offsets": {
+				"from": 37980,
+				"to": 41520
+			},
+			"text": "ラスワンの勝率は30%ほどだが果たして"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,520",
+				"to": "00:00:48,600"
+			},
+			"offsets": {
+				"from": 41520,
+				"to": 48600
+			},
+			"text": "楽しそうなところですがお互いヒットはなかったか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,180",
+				"to": "00:00:53,220"
+			},
+			"offsets": {
+				"from": 52180,
+				"to": 53220
+			},
+			"text": "黒はナイトです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,220",
+				"to": "00:00:57,400"
+			},
+			"offsets": {
+				"from": 53220,
+				"to": 57400
+			},
+			"text": "エースがここで重なる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,400",
+				"to": "00:01:01,720"
+			},
+			"offsets": {
+				"from": 57400,
+				"to": 61720
+			},
+			"text": "ラスワン選手ここは見事勝負を制しました"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,720",
+				"to": "00:01:03,240"
+			},
+			"offsets": {
+				"from": 61720,
+				"to": 63240
+			},
+			"text": "ご見解いたいよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,240",
+				"to": "00:01:04,920"
+			},
+			"offsets": {
+				"from": 63240,
+				"to": 64920
+			},
+			"text": "渋谷選手は苦しい"
+		}
+	]
+}

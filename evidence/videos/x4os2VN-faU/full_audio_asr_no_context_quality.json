@@ -1,0 +1,35 @@
+{
+  "candidate": "full_audio_asr_no_context.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 337,
+  "flagged_segment_count": 33,
+  "max_exact_repeat_count": 10,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "私たちはランボーヒーニーフェイスマスク",
+      "count": 8,
+      "from_ms": 284580,
+      "to_ms": 299580
+    },
+    {
+      "text": "シュミズを押していることができればいいです",
+      "count": 6,
+      "from_ms": 316280,
+      "to_ms": 328980
+    },
+    {
+      "text": "私たちのコーディーを取り組んでいるのです。",
+      "count": 9,
+      "from_ms": 362980,
+      "to_ms": 382980
+    },
+    {
+      "text": "アウトプレイド?",
+      "count": 10,
+      "from_ms": 530780,
+      "to_ms": 550780
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

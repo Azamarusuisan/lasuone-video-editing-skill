@@ -1,0 +1,34 @@
+{
+  "video_id": "Skxx-PWCUFQ",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 177.79,
+  "processed_interval_s": [
+    0,
+    177.79
+  ],
+  "integrated_lufs": -20,
+  "loudness_range_lu": 9.7,
+  "true_peak_dbfs": -0.2,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    0.0075,
+    176.79
+  ],
+  "silence_ends": [
+    {
+      "end_s": 0.323292,
+      "duration_s": 0.315792
+    },
+    {
+      "end_s": 177.779,
+      "duration_s": 0.989208
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

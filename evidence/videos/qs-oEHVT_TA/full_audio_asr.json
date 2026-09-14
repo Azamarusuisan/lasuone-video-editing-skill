@@ -1,0 +1,175 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,440",
+				"to": "00:00:03,420"
+			},
+			"offsets": {
+				"from": 440,
+				"to": 3420
+			},
+			"text": "皆さん、借金総額な楽の底への恐怖のストーリーが今始まります。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,960",
+				"to": "00:00:06,040"
+			},
+			"offsets": {
+				"from": 3960,
+				"to": 6040
+			},
+			"text": "アルマンドお願いと置かれていたかの運命が安定します。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,640",
+				"to": "00:00:09,780"
+			},
+			"offsets": {
+				"from": 6640,
+				"to": 9780
+			},
+			"text": "しかしその足元はすでに崩れ始め、借金総額は0円でした。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,420",
+				"to": "00:00:13,240"
+			},
+			"offsets": {
+				"from": 10420,
+				"to": 13240
+			},
+			"text": "第1回想で、白人池という巨大な再建者が立ちはだかります。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,800",
+				"to": "00:00:18,100"
+			},
+			"offsets": {
+				"from": 13800,
+				"to": 18100
+			},
+			"text": "修正ミスが招いたのが慣れない10月で、借金総額4651000円です。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,720",
+				"to": "00:00:21,780"
+			},
+			"offsets": {
+				"from": 18720,
+				"to": 21780
+			},
+			"text": "第2回想では、しがらみの世界という新たな試練が待っています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,300",
+				"to": "00:00:25,860"
+			},
+			"offsets": {
+				"from": 22300,
+				"to": 25860
+			},
+			"text": "ビジョンスであるが特待に変わる借金総額6651000円に増加です。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,280",
+				"to": "00:00:30,740"
+			},
+			"offsets": {
+				"from": 26280,
+				"to": 30740
+			},
+			"text": "遊びの代償と個人の信用で、借金総額77741000円まで膨らみます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,240",
+				"to": "00:00:34,400"
+			},
+			"offsets": {
+				"from": 31240,
+				"to": 34400
+			},
+			"text": "応援はいつしか請求書に代わり、借金総額7841000円です。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,940",
+				"to": "00:00:38,080"
+			},
+			"offsets": {
+				"from": 34940,
+				"to": 38080
+			},
+			"text": "最終回想心の不採という、最も不快想へと到達してしまいました。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,680",
+				"to": "00:00:42,820"
+			},
+			"offsets": {
+				"from": 38680,
+				"to": 42820
+			},
+			"text": "最も近く、そして最も思い約束で、借金総額9841000円という結末です。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,320",
+				"to": "00:00:45,940"
+			},
+			"offsets": {
+				"from": 43320,
+				"to": 45940
+			},
+			"text": "崩落の底で見上げる空、もはや逃れられない絶望の淵です。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,440",
+				"to": "00:00:51,040"
+			},
+			"offsets": {
+				"from": 46440,
+				"to": 51040
+			},
+			"text": "借金総額9841000円アルマンドの物語がここに完結します。"
+		}
+	]
+}

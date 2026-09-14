@@ -1,0 +1,183 @@
+{
+  "video_id": "YINy5jM1p7M",
+  "url": "https://www.youtube.com/watch?v=YINy5jM1p7M",
+  "captured_at": "2026-09-13T09:27:58.503Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "ラスワンと林先生から重大なお知らせがあります。 - YouTube",
+  "duration_s": 463.7549583333333,
+  "width": 640,
+  "height": 360,
+  "description": "■大反響■\nラスワンのお気持ち顧問は\n1年間100万円で受け付けております …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 70,
+      "time_s": 70,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0070000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 116,
+      "time_s": 116,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0116000.jpg"
+    },
+    {
+      "requested_s": 162,
+      "time_s": 162,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0162000.jpg"
+    },
+    {
+      "requested_s": 209,
+      "time_s": 209,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0209000.jpg"
+    },
+    {
+      "requested_s": 255,
+      "time_s": 255,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0255000.jpg"
+    },
+    {
+      "requested_s": 301,
+      "time_s": 301,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0301000.jpg"
+    },
+    {
+      "requested_s": 348,
+      "time_s": 348,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0348000.jpg"
+    },
+    {
+      "requested_s": 394,
+      "time_s": 394,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0394000.jpg"
+    },
+    {
+      "requested_s": 427,
+      "time_s": 427,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0427000.jpg"
+    },
+    {
+      "requested_s": 433.7549583333333,
+      "time_s": 433.754958,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0433755.jpg"
+    },
+    {
+      "requested_s": 448.7549583333333,
+      "time_s": 448.754958,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0448755.jpg"
+    },
+    {
+      "requested_s": 460.7549583333333,
+      "time_s": 460.754958,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0460755.jpg"
+    }
+  ]
+}

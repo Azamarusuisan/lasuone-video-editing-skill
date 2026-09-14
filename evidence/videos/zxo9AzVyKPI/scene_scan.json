@@ -1,0 +1,381 @@
+{
+  "video_id": "zxo9AzVyKPI",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    888.51
+  ],
+  "source_duration_s": 888.51,
+  "candidate_count": 91,
+  "candidates": [
+    {
+      "time_s": 5.606,
+      "score": 0.289293
+    },
+    {
+      "time_s": 19.152,
+      "score": 0.564752
+    },
+    {
+      "time_s": 27.427,
+      "score": 0.44162
+    },
+    {
+      "time_s": 41.775,
+      "score": 0.439438
+    },
+    {
+      "time_s": 43.443,
+      "score": 0.446202
+    },
+    {
+      "time_s": 71.738,
+      "score": 0.239917
+    },
+    {
+      "time_s": 73.206,
+      "score": 0.200915
+    },
+    {
+      "time_s": 96.697,
+      "score": 0.20694
+    },
+    {
+      "time_s": 97.397,
+      "score": 0.203957
+    },
+    {
+      "time_s": 115.349,
+      "score": 0.431424
+    },
+    {
+      "time_s": 117.017,
+      "score": 0.466065
+    },
+    {
+      "time_s": 119.586,
+      "score": 0.250622
+    },
+    {
+      "time_s": 121.088,
+      "score": 0.373733
+    },
+    {
+      "time_s": 122.222,
+      "score": 0.395803
+    },
+    {
+      "time_s": 136.47,
+      "score": 0.248579
+    },
+    {
+      "time_s": 152.986,
+      "score": 0.347823
+    },
+    {
+      "time_s": 160.661,
+      "score": 0.388765
+    },
+    {
+      "time_s": 162.095,
+      "score": 0.359392
+    },
+    {
+      "time_s": 171.538,
+      "score": 0.203063
+    },
+    {
+      "time_s": 172.539,
+      "score": 0.316736
+    },
+    {
+      "time_s": 182.315,
+      "score": 0.47309
+    },
+    {
+      "time_s": 201.968,
+      "score": 0.266143
+    },
+    {
+      "time_s": 243.577,
+      "score": 0.243734
+    },
+    {
+      "time_s": 246.98,
+      "score": 0.346944
+    },
+    {
+      "time_s": 252.919,
+      "score": 0.304439
+    },
+    {
+      "time_s": 271.004,
+      "score": 0.796486
+    },
+    {
+      "time_s": 271.037,
+      "score": 0.339461
+    },
+    {
+      "time_s": 301.802,
+      "score": 0.233647
+    },
+    {
+      "time_s": 303.57,
+      "score": 0.51025
+    },
+    {
+      "time_s": 316.316,
+      "score": 0.292691
+    },
+    {
+      "time_s": 317.584,
+      "score": 0.269711
+    },
+    {
+      "time_s": 323.49,
+      "score": 0.521811
+    },
+    {
+      "time_s": 333.7,
+      "score": 0.217998
+    },
+    {
+      "time_s": 344.611,
+      "score": 0.26754
+    },
+    {
+      "time_s": 352.219,
+      "score": 0.228839
+    },
+    {
+      "time_s": 375.075,
+      "score": 0.261344
+    },
+    {
+      "time_s": 381.414,
+      "score": 0.195674
+    },
+    {
+      "time_s": 389.556,
+      "score": 0.207245
+    },
+    {
+      "time_s": 405.205,
+      "score": 0.478824
+    },
+    {
+      "time_s": 407.974,
+      "score": 0.362974
+    },
+    {
+      "time_s": 411.011,
+      "score": 0.38297
+    },
+    {
+      "time_s": 413.58,
+      "score": 0.214827
+    },
+    {
+      "time_s": 422.255,
+      "score": 0.258306
+    },
+    {
+      "time_s": 436.736,
+      "score": 0.337607
+    },
+    {
+      "time_s": 439.539,
+      "score": 0.25937
+    },
+    {
+      "time_s": 447.38,
+      "score": 0.185352
+    },
+    {
+      "time_s": 453.82,
+      "score": 0.341301
+    },
+    {
+      "time_s": 464.464,
+      "score": 0.325005
+    },
+    {
+      "time_s": 474.14,
+      "score": 0.189601
+    },
+    {
+      "time_s": 484.484,
+      "score": 0.35098
+    },
+    {
+      "time_s": 501.668,
+      "score": 0.422403
+    },
+    {
+      "time_s": 505.605,
+      "score": 0.305881
+    },
+    {
+      "time_s": 511.444,
+      "score": 0.245739
+    },
+    {
+      "time_s": 520.553,
+      "score": 0.208607
+    },
+    {
+      "time_s": 521.955,
+      "score": 0.410581
+    },
+    {
+      "time_s": 524.057,
+      "score": 0.317079
+    },
+    {
+      "time_s": 528.028,
+      "score": 0.299824
+    },
+    {
+      "time_s": 575.275,
+      "score": 0.390573
+    },
+    {
+      "time_s": 608.675,
+      "score": 0.194027
+    },
+    {
+      "time_s": 611.411,
+      "score": 0.362431
+    },
+    {
+      "time_s": 631.264,
+      "score": 0.241673
+    },
+    {
+      "time_s": 657.524,
+      "score": 0.458213
+    },
+    {
+      "time_s": 663.429,
+      "score": 0.616985
+    },
+    {
+      "time_s": 668.935,
+      "score": 0.262292
+    },
+    {
+      "time_s": 673.706,
+      "score": 0.51364
+    },
+    {
+      "time_s": 677.777,
+      "score": 0.218903
+    },
+    {
+      "time_s": 686.186,
+      "score": 0.841105
+    },
+    {
+      "time_s": 693.86,
+      "score": 0.374545
+    },
+    {
+      "time_s": 705.939,
+      "score": 0.182832
+    },
+    {
+      "time_s": 732.832,
+      "score": 0.276825
+    },
+    {
+      "time_s": 741.407,
+      "score": 0.200412
+    },
+    {
+      "time_s": 748.548,
+      "score": 0.614875
+    },
+    {
+      "time_s": 766.199,
+      "score": 0.341723
+    },
+    {
+      "time_s": 767.133,
+      "score": 0.19759
+    },
+    {
+      "time_s": 768.301,
+      "score": 0.203401
+    },
+    {
+      "time_s": 773.006,
+      "score": 0.217586
+    },
+    {
+      "time_s": 778.478,
+      "score": 0.675003
+    },
+    {
+      "time_s": 783.516,
+      "score": 0.426117
+    },
+    {
+      "time_s": 797.664,
+      "score": 0.245312
+    },
+    {
+      "time_s": 800.366,
+      "score": 0.269339
+    },
+    {
+      "time_s": 806.673,
+      "score": 0.209545
+    },
+    {
+      "time_s": 822.422,
+      "score": 0.227069
+    },
+    {
+      "time_s": 829.228,
+      "score": 0.21406
+    },
+    {
+      "time_s": 832.031,
+      "score": 0.181578
+    },
+    {
+      "time_s": 839.138,
+      "score": 0.844557
+    },
+    {
+      "time_s": 841.341,
+      "score": 0.345702
+    },
+    {
+      "time_s": 846.713,
+      "score": 0.861753
+    },
+    {
+      "time_s": 850.249,
+      "score": 0.204338
+    },
+    {
+      "time_s": 873.573,
+      "score": 0.381602
+    },
+    {
+      "time_s": 875.007,
+      "score": 0.40687
+    },
+    {
+      "time_s": 884.45,
+      "score": 0.281325
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

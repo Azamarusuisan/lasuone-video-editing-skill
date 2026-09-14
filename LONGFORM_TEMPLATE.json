@@ -1,0 +1,197 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "type": "EDIT_DECISION_TEMPLATE_NOT_RENDERABLE_NLE_PROJECT",
+  "production_enabled": false,
+  "unmeasured_values_must_not_be_filled_with_generic_defaults": true,
+  "decision_fields": [
+    "SPEAKER",
+    "SOURCE_TIMECODE_IN",
+    "SOURCE_TIMECODE_OUT",
+    "TEXT",
+    "EMOTION",
+    "IMPORTANCE",
+    "SUBTITLE_TYPE",
+    "ASSET_NEEDED",
+    "BGM",
+    "SE",
+    "CUT",
+    "ZOOM",
+    "REFERENCE",
+    "CONFIDENCE",
+    "REASON"
+  ],
+  "cut_interval_s": null,
+  "punch_in_scale": null,
+  "se_gain_db": null,
+  "export_preset": null,
+  "profile_selection": [
+    "LATEST_SAME_FORMAT",
+    "LATEST",
+    "SAME_SPEAKER",
+    "SAME_SERIES",
+    "POPULAR",
+    "OLDER"
+  ],
+  "variants": [
+    {
+      "id": "RECENT_KOREA_BACCARAT",
+      "references": [
+        {
+          "video_id": "luauPBapN7U",
+          "time_s": 8,
+          "url": "https://www.youtube.com/watch?v=luauPBapN7U&t=8"
+        },
+        {
+          "video_id": "gpnPgXXrPwk",
+          "time_s": 12,
+          "url": "https://www.youtube.com/watch?v=gpnPgXXrPwk&t=12"
+        }
+      ],
+      "observed_structure": "場所・日付またはスタッフの会話→目的説明→勝負／会話→収支・近況。境界尺は計測待ち。",
+      "subtitle_profiles": [
+        "W_GOTHIC",
+        "W_MINCHO",
+        "W_BOLD_MINCHO"
+      ]
+    },
+    {
+      "id": "WSOP_2025",
+      "references": [
+        {
+          "video_id": "8LyhF_w2vo8",
+          "time_s": 16,
+          "url": "https://www.youtube.com/watch?v=8LyhF_w2vo8&t=16"
+        },
+        {
+          "video_id": "j6dt3zbPjfE",
+          "time_s": 129,
+          "url": "https://www.youtube.com/watch?v=j6dt3zbPjfE&t=129"
+        }
+      ],
+      "observed_structure": "冒頭説明カード→日別進行→大会／ハンド→日常→結果。既存説明文を権利・事実確認なしに複製しない。",
+      "subtitle_profiles": [
+        "B_MINCHO_WHITE_GLOW",
+        "POKER_RED",
+        "POKER_BLUE"
+      ]
+    },
+    {
+      "id": "RACE",
+      "references": [
+        {
+          "video_id": "UE2SSdiQCUM",
+          "time_s": 440,
+          "url": "https://www.youtube.com/watch?v=UE2SSdiQCUM&t=440"
+        },
+        {
+          "video_id": "upFzFNjC1kk",
+          "time_s": 155,
+          "url": "https://www.youtube.com/watch?v=upFzFNjC1kk&t=155"
+        }
+      ],
+      "observed_structure": "買い目・出走表・人物リアクションPIPとレース画面を分離。"
+    },
+    {
+      "id": "SERIOUS",
+      "references": [
+        {
+          "video_id": "u1Gz_kTbc9g",
+          "time_s": 185,
+          "url": "https://www.youtube.com/watch?v=u1Gz_kTbc9g&t=185"
+        },
+        {
+          "video_id": "ftcX4PmRTLs",
+          "time_s": 631,
+          "url": "https://www.youtube.com/watch?v=ftcX4PmRTLs&t=631"
+        }
+      ],
+      "observed_structure": "テーマ・質問と回答を整理し、同フォーマットの字幕を参照。無音や遅いテンポを未計測のまま決めない。"
+    },
+    {
+      "id": "INTERVIEW_SERIOUS_Q",
+      "references": [
+        {
+          "video_id": "qSnFoc6bJ7g",
+          "time_s": 75.008,
+          "url": "https://www.youtube.com/watch?v=qSnFoc6bJ7g&t=75",
+          "timestamp_basis": "SOURCE_PTS"
+        },
+        {
+          "video_id": "qSnFoc6bJ7g",
+          "time_s": 135.002,
+          "url": "https://www.youtube.com/watch?v=qSnFoc6bJ7g&t=135",
+          "timestamp_basis": "SOURCE_PTS"
+        },
+        {
+          "video_id": "qSnFoc6bJ7g",
+          "time_s": 240.006,
+          "url": "https://www.youtube.com/watch?v=qSnFoc6bJ7g&t=240",
+          "timestamp_basis": "SOURCE_PTS"
+        }
+      ],
+      "evidence": "evidence/videos/qSnFoc6bJ7g/overview_pts/review.json",
+      "observed_structure": "取材の通常会話、重い告白、質問カード、要点強調を別レイヤーとして扱う暫定例。",
+      "timing_values_s": null,
+      "generalization": "LOW",
+      "production_approved": false
+    },
+    {
+      "id": "R9_MIXED_NON_HOLDEM_GAMES",
+      "references": [
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 5700,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=5700",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        },
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 6135,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=6135",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        }
+      ],
+      "evidence": "evidence/videos/R9yghVLgI4s/overview/review_progress.json",
+      "observed_structure": "麻雀とカジノ側対戦のUltimate系を対人NLHE／FLHEとは別形式として保持する。",
+      "timing_values_s": null,
+      "generalization": "LOW",
+      "production_approved": false
+    },
+    {
+      "id": "LOCATION_INTERVIEW_6M",
+      "references": [
+        {
+          "video_id": "6MmoXPWO9Mg",
+          "time_s": 360.026,
+          "url": "https://www.youtube.com/watch?v=6MmoXPWO9Mg&t=360",
+          "timestamp_basis": "SOURCE_PTS"
+        },
+        {
+          "video_id": "6MmoXPWO9Mg",
+          "time_s": 945.027,
+          "url": "https://www.youtube.com/watch?v=6MmoXPWO9Mg&t=945",
+          "timestamp_basis": "SOURCE_PTS"
+        }
+      ],
+      "evidence": "evidence/videos/6MmoXPWO9Mg/overview_pts/review.json",
+      "observed_structure": "ロケと林さん対談を実戦から分け、実物カードの説明に実戦HUDを付けず、後半の英語白／日本語黄の二層対談を通常Podcast／Shortsから分ける。",
+      "timing_values_s": null,
+      "translation_verified": false,
+      "generalization": "LOW",
+      "production_approved": false
+    }
+  ],
+  "las_vegas_compilation_ids": [
+    "R9yghVLgI4s",
+    "rUZ__0uKiMA",
+    "Z53j2cRj1C8",
+    "N2ecdYXYaXw"
+  ],
+  "compilation_analysis": "PENDING_FULL_LENGTH_REVIEW"
+}

@@ -1,0 +1,37 @@
+{
+  "video_id": "gpnPgXXrPwk",
+  "source": "segment_0_30.webm",
+  "scope": "SAMPLED_BROWSER_DECODED_MIX_ONLY",
+  "original_video_integrated_lufs": null,
+  "original_stem_levels": null,
+  "sample_integrated_lufs": -23.9,
+  "sample_loudness_range_lu": 3.9,
+  "sample_true_peak_dbfs": -3.8,
+  "rendered_frames": 899,
+  "median_frame_interval_s": 0.03336699999999837,
+  "max_frame_gap_s": 0.10009999999999764,
+  "scene_change_candidates": [
+    {
+      "time_s": 1.001,
+      "mean_rgb_difference": 27.660011574074073
+    },
+    {
+      "time_s": 4.1041,
+      "mean_rgb_difference": 25.54586226851852
+    },
+    {
+      "time_s": 11.277933,
+      "mean_rgb_difference": 30.89597800925926
+    },
+    {
+      "time_s": 25.091733,
+      "mean_rgb_difference": 55.75245949074074
+    },
+    {
+      "time_s": 28.2282,
+      "mean_rgb_difference": 58.705295138888886
+    }
+  ],
+  "confirmed_cut_count": null,
+  "summary": "Summary:\n\n  Integrated loudness:\n    I:         -23.9 LUFS\n    Threshold: -34.6 LUFS\n\n  Loudness range:\n    LRA:         3.9 LU\n    Threshold: -44.5 LUFS\n    LRA low:   -26.7 LUFS\n    LRA high:  -22.7 LUFS\n\n  True peak:\n    Peak:       -3.8 dBFS\n"
+}

@@ -1,0 +1,186 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,800"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1800
+			},
+			"text": "持ってる男の嬉しすぎる展開"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,800",
+				"to": "00:00:04,260"
+			},
+			"offsets": {
+				"from": 1800,
+				"to": 4260
+			},
+			"text": "ラスワンがエースキングでオープンしました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,260",
+				"to": "00:00:07,700"
+			},
+			"offsets": {
+				"from": 4260,
+				"to": 7700
+			},
+			"text": "1人がコールしヘッドアップで戦いが始まりました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,700",
+				"to": "00:00:14,660"
+			},
+			"offsets": {
+				"from": 7700,
+				"to": 14660
+			},
+			"text": "あと1枚でストレートが完成するラスワンがベッド"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,660",
+				"to": "00:00:17,180"
+			},
+			"offsets": {
+				"from": 14660,
+				"to": 17180
+			},
+			"text": "相手もここはコールでついていきます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,180",
+				"to": "00:00:25,940"
+			},
+			"offsets": {
+				"from": 17180,
+				"to": 25940
+			},
+			"text": "クイーンが落ちラスワンに最強ストレートが完成"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,940",
+				"to": "00:00:29,860"
+			},
+			"offsets": {
+				"from": 25940,
+				"to": 29860
+			},
+			"text": "相手はトップペアを完成させさらにストレートドローもあります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,860",
+				"to": "00:00:33,020"
+			},
+			"offsets": {
+				"from": 29860,
+				"to": 33020
+			},
+			"text": "ラスワンにとって最も嬉しいカードが落ちました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,020",
+				"to": "00:00:34,560"
+			},
+			"offsets": {
+				"from": 33020,
+				"to": 34560
+			},
+			"text": "ここもコールデリバーへ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,560",
+				"to": "00:00:39,960"
+			},
+			"offsets": {
+				"from": 34560,
+				"to": 39960
+			},
+			"text": "変わらず最強ハンドのラスワンがここでオールイン"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,960",
+				"to": "00:00:42,260"
+			},
+			"offsets": {
+				"from": 39960,
+				"to": 42260
+			},
+			"text": "相手はかなり嫌なシチュエーションですね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,260",
+				"to": "00:00:45,820"
+			},
+			"offsets": {
+				"from": 42260,
+				"to": 45820
+			},
+			"text": "相手がラスワンさんなのが本当にコールしたくなりそうか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,820",
+				"to": "00:00:48,620"
+			},
+			"offsets": {
+				"from": 45820,
+				"to": 48620
+			},
+			"text": "超高の末相手はコール"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,620",
+				"to": "00:00:52,020"
+			},
+			"offsets": {
+				"from": 48620,
+				"to": 52020
+			},
+			"text": "配信託で相手を飛ばし見事な勝利を収めました"
+		}
+	]
+}

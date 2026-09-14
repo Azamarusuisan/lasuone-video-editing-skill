@@ -1,0 +1,439 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,040"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2040
+			},
+			"text": "4号キスロット神代ランク"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,040",
+				"to": "00:00:03,280"
+			},
+			"offsets": {
+				"from": 2040,
+				"to": 3280
+			},
+			"text": "10オー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,280",
+				"to": "00:00:03,880"
+			},
+			"offsets": {
+				"from": 3280,
+				"to": 3880
+			},
+			"text": "結構高い?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,880",
+				"to": "00:00:04,540"
+			},
+			"offsets": {
+				"from": 3880,
+				"to": 4540
+			},
+			"text": "3?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,540",
+				"to": "00:00:05,240"
+			},
+			"offsets": {
+				"from": 4540,
+				"to": 5240
+			},
+			"text": "3"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,240",
+				"to": "00:00:06,300"
+			},
+			"offsets": {
+				"from": 5240,
+				"to": 6300
+			},
+			"text": "吉宗"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,300",
+				"to": "00:00:07,500"
+			},
+			"offsets": {
+				"from": 6300,
+				"to": 7500
+			},
+			"text": "4"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,500",
+				"to": "00:00:08,580"
+			},
+			"offsets": {
+				"from": 7500,
+				"to": 8580
+			},
+			"text": "タンダーV"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,580",
+				"to": "00:00:11,240"
+			},
+			"offsets": {
+				"from": 8580,
+				"to": 11240
+			},
+			"text": "あー好きなんだね 俺はもうめっちゃ好き"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,240",
+				"to": "00:00:12,580"
+			},
+			"offsets": {
+				"from": 11240,
+				"to": 12580
+			},
+			"text": "思って1にしたいけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,580",
+				"to": "00:00:13,240"
+			},
+			"offsets": {
+				"from": 12580,
+				"to": 13240
+			},
+			"text": "お!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,240",
+				"to": "00:00:15,180"
+			},
+			"offsets": {
+				"from": 13240,
+				"to": 15180
+			},
+			"text": "カラジンA"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,180",
+				"to": "00:00:17,140"
+			},
+			"offsets": {
+				"from": 15180,
+				"to": 17140
+			},
+			"text": "カラジンスは8"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,140",
+				"to": "00:00:18,280"
+			},
+			"offsets": {
+				"from": 17140,
+				"to": 18280
+			},
+			"text": "4枚前出しました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,280",
+				"to": "00:00:19,180"
+			},
+			"offsets": {
+				"from": 18280,
+				"to": 19180
+			},
+			"text": "おー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,180",
+				"to": "00:00:20,520"
+			},
+			"offsets": {
+				"from": 19180,
+				"to": 20520
+			},
+			"text": "ニューパルサー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,520",
+				"to": "00:00:21,560"
+			},
+			"offsets": {
+				"from": 20520,
+				"to": 21560
+			},
+			"text": "さぁ10でしょ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,560",
+				"to": "00:00:23,580"
+			},
+			"offsets": {
+				"from": 21560,
+				"to": 23580
+			},
+			"text": "でも初めて撃った 室中2で"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,580",
+				"to": "00:00:24,360"
+			},
+			"offsets": {
+				"from": 23580,
+				"to": 24360
+			},
+			"text": "おー早っ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,360",
+				"to": "00:00:25,620"
+			},
+			"offsets": {
+				"from": 24360,
+				"to": 25620
+			},
+			"text": "あかんでしょ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,620",
+				"to": "00:00:26,680"
+			},
+			"offsets": {
+				"from": 25620,
+				"to": 26680
+			},
+			"text": "押す番長"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,680",
+				"to": "00:00:27,600"
+			},
+			"offsets": {
+				"from": 26680,
+				"to": 27600
+			},
+			"text": "9"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,600",
+				"to": "00:00:28,760"
+			},
+			"offsets": {
+				"from": 27600,
+				"to": 28760
+			},
+			"text": "北斗の剣"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,760",
+				"to": "00:00:29,820"
+			},
+			"offsets": {
+				"from": 28760,
+				"to": 29820
+			},
+			"text": "いいと思うんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,820",
+				"to": "00:00:30,660"
+			},
+			"offsets": {
+				"from": 29820,
+				"to": 30660
+			},
+			"text": "おー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,660",
+				"to": "00:00:31,940"
+			},
+			"offsets": {
+				"from": 30660,
+				"to": 31940
+			},
+			"text": "規約は銭形"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,940",
+				"to": "00:00:32,760"
+			},
+			"offsets": {
+				"from": 31940,
+				"to": 32760
+			},
+			"text": "あーー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,760",
+				"to": "00:00:33,560"
+			},
+			"offsets": {
+				"from": 32760,
+				"to": 33560
+			},
+			"text": "僕の"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,560",
+				"to": "00:00:34,700"
+			},
+			"offsets": {
+				"from": 33560,
+				"to": 34700
+			},
+			"text": "キングパルサー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,700",
+				"to": "00:00:35,360"
+			},
+			"offsets": {
+				"from": 34700,
+				"to": 35360
+			},
+			"text": "マナビ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,360",
+				"to": "00:00:36,240"
+			},
+			"offsets": {
+				"from": 35360,
+				"to": 36240
+			},
+			"text": "マナビ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,240",
+				"to": "00:00:36,600"
+			},
+			"offsets": {
+				"from": 36240,
+				"to": 36600
+			},
+			"text": "マナビ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,600",
+				"to": "00:00:37,340"
+			},
+			"offsets": {
+				"from": 36600,
+				"to": 37340
+			},
+			"text": "タナビ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,340",
+				"to": "00:00:38,200"
+			},
+			"offsets": {
+				"from": 37340,
+				"to": 38200
+			},
+			"text": "1"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,200",
+				"to": "00:00:39,200"
+			},
+			"offsets": {
+				"from": 38200,
+				"to": 39200
+			},
+			"text": "ハナビが1"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,200",
+				"to": "00:00:40,400"
+			},
+			"offsets": {
+				"from": 39200,
+				"to": 40400
+			},
+			"text": "ハナビ1じゃんやけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,400",
+				"to": "00:00:41,440"
+			},
+			"offsets": {
+				"from": 40400,
+				"to": 41440
+			},
+			"text": "www"
+		}
+	]
+}

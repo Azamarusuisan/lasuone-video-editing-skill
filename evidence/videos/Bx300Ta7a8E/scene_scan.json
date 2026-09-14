@@ -1,0 +1,193 @@
+{
+  "video_id": "Bx300Ta7a8E",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    119.37
+  ],
+  "source_duration_s": 119.37,
+  "candidate_count": 44,
+  "candidates": [
+    {
+      "time_s": 0.834,
+      "score": 0.726057
+    },
+    {
+      "time_s": 1.919,
+      "score": 0.781125
+    },
+    {
+      "time_s": 2.794,
+      "score": 0.839864
+    },
+    {
+      "time_s": 3.962,
+      "score": 0.649346
+    },
+    {
+      "time_s": 4.963,
+      "score": 0.659526
+    },
+    {
+      "time_s": 6.089,
+      "score": 1
+    },
+    {
+      "time_s": 7.007,
+      "score": 0.719322
+    },
+    {
+      "time_s": 13.18,
+      "score": 0.293021
+    },
+    {
+      "time_s": 21.438,
+      "score": 0.712932
+    },
+    {
+      "time_s": 23.44,
+      "score": 0.675616
+    },
+    {
+      "time_s": 30.739,
+      "score": 0.827304
+    },
+    {
+      "time_s": 33.2,
+      "score": 0.683136
+    },
+    {
+      "time_s": 35.619,
+      "score": 0.691493
+    },
+    {
+      "time_s": 36.578,
+      "score": 0.678936
+    },
+    {
+      "time_s": 42.042,
+      "score": 0.274428
+    },
+    {
+      "time_s": 43.46,
+      "score": 0.264392
+    },
+    {
+      "time_s": 45.879,
+      "score": 0.775838
+    },
+    {
+      "time_s": 48.382,
+      "score": 0.699151
+    },
+    {
+      "time_s": 49.675,
+      "score": 0.226077
+    },
+    {
+      "time_s": 51.301,
+      "score": 0.182624
+    },
+    {
+      "time_s": 53.22,
+      "score": 0.189746
+    },
+    {
+      "time_s": 54.721,
+      "score": 0.192869
+    },
+    {
+      "time_s": 55.722,
+      "score": 0.219259
+    },
+    {
+      "time_s": 58.725,
+      "score": 0.255349
+    },
+    {
+      "time_s": 62.854,
+      "score": 0.186498
+    },
+    {
+      "time_s": 64.773,
+      "score": 0.736839
+    },
+    {
+      "time_s": 67.109,
+      "score": 0.72127
+    },
+    {
+      "time_s": 69.945,
+      "score": 0.355982
+    },
+    {
+      "time_s": 73.532,
+      "score": 0.255425
+    },
+    {
+      "time_s": 79.371,
+      "score": 0.398304
+    },
+    {
+      "time_s": 84.334,
+      "score": 0.560764
+    },
+    {
+      "time_s": 86.253,
+      "score": 0.272401
+    },
+    {
+      "time_s": 87.838,
+      "score": 0.25858
+    },
+    {
+      "time_s": 89.673,
+      "score": 0.343229
+    },
+    {
+      "time_s": 91.675,
+      "score": 0.693962
+    },
+    {
+      "time_s": 94.094,
+      "score": 0.616826
+    },
+    {
+      "time_s": 101.685,
+      "score": 0.311521
+    },
+    {
+      "time_s": 104.438,
+      "score": 0.183779
+    },
+    {
+      "time_s": 106.648,
+      "score": 0.433785
+    },
+    {
+      "time_s": 108.066,
+      "score": 0.202723
+    },
+    {
+      "time_s": 109.026,
+      "score": 0.180798
+    },
+    {
+      "time_s": 112.321,
+      "score": 0.448735
+    },
+    {
+      "time_s": 115.741,
+      "score": 0.623924
+    },
+    {
+      "time_s": 117.159,
+      "score": 0.458073
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

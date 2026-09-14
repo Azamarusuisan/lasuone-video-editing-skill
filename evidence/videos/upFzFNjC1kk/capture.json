@@ -1,0 +1,183 @@
+{
+  "video_id": "upFzFNjC1kk",
+  "url": "https://www.youtube.com/watch?v=upFzFNjC1kk",
+  "captured_at": "2026-09-13T09:26:56.428Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【はじめてのけいば】小学6年生の息子に競馬を賭けさせた結果天才すぎた!? - YouTube",
+  "duration_s": 1030.361,
+  "width": 640,
+  "height": 360,
+  "description": "‪@eishinyoshi2936‬ \n\n－－－－－－－－－－－－－－－  …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 155,
+      "time_s": 155,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0155000.jpg"
+    },
+    {
+      "requested_s": 258,
+      "time_s": 258,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0258000.jpg"
+    },
+    {
+      "requested_s": 361,
+      "time_s": 361,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0361000.jpg"
+    },
+    {
+      "requested_s": 464,
+      "time_s": 464,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0464000.jpg"
+    },
+    {
+      "requested_s": 567,
+      "time_s": 567,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0567000.jpg"
+    },
+    {
+      "requested_s": 670,
+      "time_s": 670,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0670000.jpg"
+    },
+    {
+      "requested_s": 773,
+      "time_s": 773,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0773000.jpg"
+    },
+    {
+      "requested_s": 876,
+      "time_s": 876,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0876000.jpg"
+    },
+    {
+      "requested_s": 948,
+      "time_s": 948,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0948000.jpg"
+    },
+    {
+      "requested_s": 1000.3610000000001,
+      "time_s": 1000.361,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1000361.jpg"
+    },
+    {
+      "requested_s": 1015.3610000000001,
+      "time_s": 1015.361,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1015361.jpg"
+    },
+    {
+      "requested_s": 1027.361,
+      "time_s": 1027.361,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1027361.jpg"
+    }
+  ]
+}

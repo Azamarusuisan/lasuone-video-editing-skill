@@ -1,0 +1,140 @@
+{
+  "video_id": "luauPBapN7U",
+  "evidence_type": "ALL_DECODED_FRAMES_IN_LOCAL_SEGMENT",
+  "full_watch": false,
+  "requested_interval_s": [
+    595.55,
+    596.6
+  ],
+  "timestamp_method": "Source PTS preserved and read from FFmpeg showinfo",
+  "frames": [
+    {
+      "file": "frame_00001.jpg",
+      "time_s": 595.562
+    },
+    {
+      "file": "frame_00002.jpg",
+      "time_s": 595.595
+    },
+    {
+      "file": "frame_00003.jpg",
+      "time_s": 595.628
+    },
+    {
+      "file": "frame_00004.jpg",
+      "time_s": 595.662
+    },
+    {
+      "file": "frame_00005.jpg",
+      "time_s": 595.695
+    },
+    {
+      "file": "frame_00006.jpg",
+      "time_s": 595.728
+    },
+    {
+      "file": "frame_00007.jpg",
+      "time_s": 595.762
+    },
+    {
+      "file": "frame_00008.jpg",
+      "time_s": 595.795
+    },
+    {
+      "file": "frame_00009.jpg",
+      "time_s": 595.829
+    },
+    {
+      "file": "frame_00010.jpg",
+      "time_s": 595.862
+    },
+    {
+      "file": "frame_00011.jpg",
+      "time_s": 595.895
+    },
+    {
+      "file": "frame_00012.jpg",
+      "time_s": 595.929
+    },
+    {
+      "file": "frame_00013.jpg",
+      "time_s": 595.962
+    },
+    {
+      "file": "frame_00014.jpg",
+      "time_s": 595.995
+    },
+    {
+      "file": "frame_00015.jpg",
+      "time_s": 596.029
+    },
+    {
+      "file": "frame_00016.jpg",
+      "time_s": 596.062
+    },
+    {
+      "file": "frame_00017.jpg",
+      "time_s": 596.096
+    },
+    {
+      "file": "frame_00018.jpg",
+      "time_s": 596.129
+    },
+    {
+      "file": "frame_00019.jpg",
+      "time_s": 596.162
+    },
+    {
+      "file": "frame_00020.jpg",
+      "time_s": 596.196
+    },
+    {
+      "file": "frame_00021.jpg",
+      "time_s": 596.229
+    },
+    {
+      "file": "frame_00022.jpg",
+      "time_s": 596.262
+    },
+    {
+      "file": "frame_00023.jpg",
+      "time_s": 596.296
+    },
+    {
+      "file": "frame_00024.jpg",
+      "time_s": 596.329
+    },
+    {
+      "file": "frame_00025.jpg",
+      "time_s": 596.362
+    },
+    {
+      "file": "frame_00026.jpg",
+      "time_s": 596.396
+    },
+    {
+      "file": "frame_00027.jpg",
+      "time_s": 596.429
+    },
+    {
+      "file": "frame_00028.jpg",
+      "time_s": 596.463
+    },
+    {
+      "file": "frame_00029.jpg",
+      "time_s": 596.496
+    },
+    {
+      "file": "frame_00030.jpg",
+      "time_s": 596.529
+    },
+    {
+      "file": "frame_00031.jpg",
+      "time_s": 596.563
+    },
+    {
+      "file": "frame_00032.jpg",
+      "time_s": 596.596
+    }
+  ]
+}

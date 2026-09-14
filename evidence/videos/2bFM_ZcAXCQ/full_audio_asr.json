@@ -1,0 +1,131 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7000
+			},
+			"text": "とても挑戦しています。ポーカーのことが好きです。 自分の良いことは、自分の良いことを考えています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,000",
+				"to": "00:00:12,000"
+			},
+			"offsets": {
+				"from": 7000,
+				"to": 12000
+			},
+			"text": "勉強しています。ポーカーの場所は、ポーカーの場所にあります。 でも、ポーカーの場所は、ポーカーの場所にあります。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,000",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 12000,
+				"to": 17000
+			},
+			"text": "一番重要なことは、難しい状況を受け取り組みます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:21,000"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 21000
+			},
+			"text": "悪いことができる場所は、パニック、悔しい、 泣いてしまう、"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,000",
+				"to": "00:00:27,000"
+			},
+			"offsets": {
+				"from": 21000,
+				"to": 27000
+			},
+			"text": "あなたは、あなたの場所に受け取り組みを受け取り、 最初に受け取り組みを受け取り組みます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,000",
+				"to": "00:00:32,000"
+			},
+			"offsets": {
+				"from": 27000,
+				"to": 32000
+			},
+			"text": "ケニーは、最初のポーカーの場所で、 最初のポーカーの場所で、最初のポーカーの場所にあります。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 32000,
+				"to": 44000
+			},
+			"text": "日本の場所は、日本の場所で、 最初のポーカーの場所は、最初のポーカーの場所で、 最初のポーカーの場所で、最初のポーカーの場所で、 最初のポーカーの場所で、最初のポーカーの場所です。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:50,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 50000
+			},
+			"text": "日本の場所は、最初のポーカーの場所で、 最初のポーカーは、最初のポーカーの場所で、 最初のポーカーの場所で、最初のポーカーの場所です。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,000",
+				"to": "00:00:52,000"
+			},
+			"offsets": {
+				"from": 50000,
+				"to": 52000
+			},
+			"text": "みんなポーカーやっておしい。"
+		}
+	]
+}

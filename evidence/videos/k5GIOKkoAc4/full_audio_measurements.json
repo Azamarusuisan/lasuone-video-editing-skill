@@ -1,0 +1,104 @@
+{
+  "video_id": "k5GIOKkoAc4",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 1220.35,
+  "processed_interval_s": [
+    0,
+    1220.35
+  ],
+  "integrated_lufs": -22.3,
+  "loudness_range_lu": 9.7,
+  "true_peak_dbfs": 1.1,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    80.7677,
+    82.154,
+    85.315,
+    144.868,
+    251.147,
+    272.491,
+    289.334,
+    388.568,
+    542.224,
+    626.289,
+    626.667,
+    803.452,
+    848.068,
+    1145.98,
+    1174.25,
+    1219.59
+  ],
+  "silence_ends": [
+    {
+      "end_s": 81.4135,
+      "duration_s": 0.645792
+    },
+    {
+      "end_s": 83.9594,
+      "duration_s": 1.80535
+    },
+    {
+      "end_s": 86.2605,
+      "duration_s": 0.945562
+    },
+    {
+      "end_s": 145.507,
+      "duration_s": 0.639271
+    },
+    {
+      "end_s": 251.991,
+      "duration_s": 0.84375
+    },
+    {
+      "end_s": 273.941,
+      "duration_s": 1.45029
+    },
+    {
+      "end_s": 289.974,
+      "duration_s": 0.639792
+    },
+    {
+      "end_s": 389.207,
+      "duration_s": 0.639312
+    },
+    {
+      "end_s": 542.616,
+      "duration_s": 0.391562
+    },
+    {
+      "end_s": 626.601,
+      "duration_s": 0.312667
+    },
+    {
+      "end_s": 627.041,
+      "duration_s": 0.373396
+    },
+    {
+      "end_s": 804.091,
+      "duration_s": 0.63925
+    },
+    {
+      "end_s": 848.766,
+      "duration_s": 0.697521
+    },
+    {
+      "end_s": 1146.71,
+      "duration_s": 0.725146
+    },
+    {
+      "end_s": 1174.94,
+      "duration_s": 0.686167
+    },
+    {
+      "end_s": 1220.33,
+      "duration_s": 0.739458
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,680"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 680
+			},
+			"text": "ラズバさん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,680",
+				"to": "00:00:01,000"
+			},
+			"offsets": {
+				"from": 680,
+				"to": 1000
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 1000,
+				"to": 2000
+			},
+			"text": "今日どこ行くんですか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,000",
+				"to": "00:00:03,480"
+			},
+			"offsets": {
+				"from": 2000,
+				"to": 3480
+			},
+			"text": "とりあえず宿題タダにしてくるわ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,480",
+				"to": "00:00:04,260"
+			},
+			"offsets": {
+				"from": 3480,
+				"to": 4260
+			},
+			"text": "宿題高いかと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,260",
+				"to": "00:00:06,200"
+			},
+			"offsets": {
+				"from": 4260,
+				"to": 6200
+			},
+			"text": "アメリカの宿題をタダにするべく"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,200",
+				"to": "00:00:07,060"
+			},
+			"offsets": {
+				"from": 6200,
+				"to": 7060
+			},
+			"text": "ここでラストアマ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,060",
+				"to": "00:00:09,140"
+			},
+			"offsets": {
+				"from": 7060,
+				"to": 9140
+			},
+			"text": "ルーレットの上に1万ドルを張った"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,140",
+				"to": "00:00:11,780"
+			},
+			"offsets": {
+				"from": 9140,
+				"to": 11780
+			},
+			"text": "ギャンブル中毒者の志向はどんなやつも同じ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,780",
+				"to": "00:00:14,720"
+			},
+			"offsets": {
+				"from": 11780,
+				"to": 14720
+			},
+			"text": "全ての費用をギャンブルで年出しようとするのだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,720",
+				"to": "00:00:17,500"
+			},
+			"offsets": {
+				"from": 14720,
+				"to": 17500
+			},
+			"text": "日本円にして160万円がかかった頃だったかい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,500",
+				"to": "00:00:19,380"
+			},
+			"offsets": {
+				"from": 17500,
+				"to": 19380
+			},
+			"text": "ルーレットの玉が無事赤に入り"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,380",
+				"to": "00:00:21,680"
+			},
+			"offsets": {
+				"from": 19380,
+				"to": 21680
+			},
+			"text": "一流のホテルをゲットすることができるのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,680",
+				"to": "00:00:26,760"
+			},
+			"offsets": {
+				"from": 21680,
+				"to": 26760
+			},
+			"text": "黒だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,760",
+				"to": "00:00:28,240"
+			},
+			"offsets": {
+				"from": 26760,
+				"to": 28240
+			},
+			"text": "いやー負けたわ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,240",
+				"to": "00:00:30,180"
+			},
+			"offsets": {
+				"from": 28240,
+				"to": 30180
+			},
+			"text": "まあポイントが溜まって負けサビで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,180",
+				"to": "00:00:31,000"
+			},
+			"offsets": {
+				"from": 30180,
+				"to": 31000
+			},
+			"text": "今度で無料になるんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,000",
+				"to": "00:00:31,580"
+			},
+			"offsets": {
+				"from": 31000,
+				"to": 31580
+			},
+			"text": "まあいいか"
+		}
+	]
+}

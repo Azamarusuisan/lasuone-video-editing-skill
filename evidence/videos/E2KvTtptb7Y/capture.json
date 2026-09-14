@@ -1,0 +1,183 @@
+{
+  "video_id": "E2KvTtptb7Y",
+  "url": "https://www.youtube.com/watch?v=E2KvTtptb7Y",
+  "captured_at": "2026-09-13T09:27:35.776Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【猛進】\"止まらないッ!!\"連続入賞するギャン中が優勝1億円を狙う!!! - YouTube",
+  "duration_s": 1177.921,
+  "width": 640,
+  "height": 360,
+  "description": "🔥 魂のギャンブラーチャンネル『ぎゃんたま！』へようこそ！\nリアルな人間観察バラエティをお届けする当チャンネルでは、\nポーカーやカジノの最新情報、ビジネス、そしてエンタ …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 177,
+      "time_s": 177,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0177000.jpg"
+    },
+    {
+      "requested_s": 294,
+      "time_s": 294,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0294000.jpg"
+    },
+    {
+      "requested_s": 412,
+      "time_s": 412,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0412000.jpg"
+    },
+    {
+      "requested_s": 530,
+      "time_s": 530,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0530000.jpg"
+    },
+    {
+      "requested_s": 648,
+      "time_s": 648,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0648000.jpg"
+    },
+    {
+      "requested_s": 766,
+      "time_s": 766,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0766000.jpg"
+    },
+    {
+      "requested_s": 883,
+      "time_s": 883,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0883000.jpg"
+    },
+    {
+      "requested_s": 1001,
+      "time_s": 1001,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1001000.jpg"
+    },
+    {
+      "requested_s": 1084,
+      "time_s": 1084,
+      "width": 256,
+      "height": 144,
+      "file": "frame_1084000.jpg"
+    },
+    {
+      "requested_s": 1147.921,
+      "time_s": 1147.921,
+      "width": 256,
+      "height": 144,
+      "file": "frame_1147921.jpg"
+    },
+    {
+      "requested_s": 1162.921,
+      "time_s": 1162.921,
+      "width": 256,
+      "height": 144,
+      "file": "frame_1162921.jpg"
+    },
+    {
+      "requested_s": 1174.921,
+      "time_s": 1174.921,
+      "width": 256,
+      "height": 144,
+      "file": "frame_1174921.jpg"
+    }
+  ]
+}

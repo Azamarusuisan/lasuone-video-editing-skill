@@ -1,0 +1,93 @@
+{
+  "video_id": "CiSVtr20PMg",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    96.95
+  ],
+  "source_duration_s": 96.95,
+  "candidate_count": 19,
+  "candidates": [
+    {
+      "time_s": 2.167,
+      "score": 1
+    },
+    {
+      "time_s": 6.133,
+      "score": 0.399354
+    },
+    {
+      "time_s": 13.033,
+      "score": 0.235842
+    },
+    {
+      "time_s": 14.6,
+      "score": 0.855602
+    },
+    {
+      "time_s": 36.633,
+      "score": 0.89529
+    },
+    {
+      "time_s": 36.667,
+      "score": 0.207671
+    },
+    {
+      "time_s": 40.367,
+      "score": 0.22368
+    },
+    {
+      "time_s": 45.033,
+      "score": 0.292931
+    },
+    {
+      "time_s": 48.667,
+      "score": 0.247736
+    },
+    {
+      "time_s": 52.533,
+      "score": 0.322743
+    },
+    {
+      "time_s": 61.133,
+      "score": 0.288499
+    },
+    {
+      "time_s": 64.133,
+      "score": 0.30247
+    },
+    {
+      "time_s": 74.567,
+      "score": 0.189088
+    },
+    {
+      "time_s": 79.2,
+      "score": 1
+    },
+    {
+      "time_s": 80.933,
+      "score": 1
+    },
+    {
+      "time_s": 83.7,
+      "score": 0.370695
+    },
+    {
+      "time_s": 86.467,
+      "score": 0.322802
+    },
+    {
+      "time_s": 89.233,
+      "score": 0.42156
+    },
+    {
+      "time_s": 92.033,
+      "score": 1
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

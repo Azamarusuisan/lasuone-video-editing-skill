@@ -1,0 +1,64 @@
+{
+  "video_id": "ps4AE8tPDC0",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 56.89,
+  "processed_interval_s": [
+    0,
+    56.89
+  ],
+  "integrated_lufs": -27,
+  "loudness_range_lu": 8,
+  "true_peak_dbfs": -6.2,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    2.59425,
+    2.95029,
+    9.47933,
+    11.5896,
+    16.3833,
+    43.8107,
+    54.6394,
+    55.2629
+  ],
+  "silence_ends": [
+    {
+      "end_s": 2.94135,
+      "duration_s": 0.347104
+    },
+    {
+      "end_s": 3.38273,
+      "duration_s": 0.432437
+    },
+    {
+      "end_s": 9.8539,
+      "duration_s": 0.374562
+    },
+    {
+      "end_s": 11.9458,
+      "duration_s": 0.356167
+    },
+    {
+      "end_s": 17.1162,
+      "duration_s": 0.732938
+    },
+    {
+      "end_s": 44.5279,
+      "duration_s": 0.717208
+    },
+    {
+      "end_s": 54.991,
+      "duration_s": 0.351521
+    },
+    {
+      "end_s": 56.8732,
+      "duration_s": 1.61029
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

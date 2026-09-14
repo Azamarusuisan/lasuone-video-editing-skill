@@ -1,0 +1,42 @@
+{
+  "video_id": "luauPBapN7U",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 107,
+  "reviewed_sheet_count": 18,
+  "sample_step_s": 15,
+  "timestamp_uncertainty_s": 7.5,
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "asr_status": "UNCALIBRATED_WITH_SUBSTANTIAL_ERRORS_NOT_MONEY_GROUND_TRUTH",
+  "timestamp_warning": "All references below are nominal overview-grid times, not exact source-frame PTS or edit boundaries. The selected source frame can differ by up to 7.5 seconds.",
+  "observations": [
+    {"nominal_times_s": [75], "type": "BROLL", "observation": "航空機の映像に縦書きの移動説明。旅行・移動の補助映像がある。", "duration_s": null},
+    {"nominal_times_s": [105, 120, 135, 165, 180], "type": "COMEDY_SUBTITLE", "observation": "通常下字幕、大型の白い太明朝、中央の編集者注釈を会話中に使い分ける。音声との同期は未確認。"},
+    {"nominal_times_s": [195, 225], "type": "EXPLANATION_ASSET", "observation": "出演者が持つ『バカラの教科書』と、その図を大きく平面表示する挿入がある。図解の主張を科学的事実・勝率向上の証拠として扱わない。", "rights_status": "UNKNOWN", "production_approved": false},
+    {"nominal_times_s": [300], "type": "UNRECORDED_EVENT_DISCLOSURE", "observation": "1日目はバカラ撮影ができず映像に残せない旨の説明が見える。撮影できなかった勝負を欠落ファイルと誤認したり、生成実写で補ったりしない。"},
+    {"nominal_times_s": [330], "type": "PERSON_ASSET", "observation": "『ドバシー社長』という明示名の人物切り抜き画像と白い吹き出しを車内実写に重ねる。本人の同定根拠は表示名であり顔認識ではない。", "rights_status": "UNKNOWN", "production_approved": false},
+    {"nominal_times_s": [345, 360, 375, 390, 405], "type": "RECAP", "observation": "ソファでの単独報告。白い細めの通常下字幕。画角の差だけではデジタルズームと確定しない。"},
+    {"nominal_times_s": [420, 435], "type": "NEW_DAY_AND_SEGMENT_CARD", "observation": "服装の変わった立ち話の後、借りられる人物を探す検証企画のカラフルなカードがある。既存テレビ風デザインの権利は未確認。", "rights_status": "UNKNOWN"},
+    {"nominal_times_s": [525, 540, 555, 570], "type": "TABLE_ENTRY", "observation": "卓への到着・説明・準備と、カード情報HUDの付いた勝負画面を分ける。卓上にいる全時間でHUDを出し続けるわけではない。", "exact_hud_start_s": null},
+    {"nominal_times_s": [570, 585, 615, 630, 690, 705, 720, 750], "type": "BACCARAT_HUD", "observation": "勝負中の手元・人物のサンプルに、下左右のBANKER/PLAYER・カード・点数・小型BET表示がある。"},
+    {"nominal_times_s": [600, 660, 675, 735, 990, 1005, 1065], "type": "HUD_OFF_COMMENTARY", "observation": "勝負の間の会話・本の説明・編集者注釈では、カードHUDのないサンプルが複数ある。全境界は未計測で、会話なら常に外すという一般則ではない。"},
+    {"nominal_times_s": [645, 795, 1050, 1440], "type": "RESULT_REACTION_WITH_HUD", "observation": "大きな反応字幕や人物のリアクションと、直前のカード結果HUDが共存する例もある。結果が出た瞬間に必ずHUDを消す規則にはしない。"},
+    {"nominal_times_s": [840, 855], "type": "ALL_IN_LABEL", "observation": "小型BET情報の赤い『ラスワンオールイン』表示。高額・全額BETを常に画面全面の金額字幕にする規則への反例。"},
+    {"nominal_times_s": [870, 885, 1125], "type": "LOSS_REACTION", "observation": "残高がなくなった旨の大きい細身明朝、同行者への依頼の太明朝、累積損失についての大きい白字幕。金額の会計上の意味は校正待ち。"},
+    {"nominal_times_s": [1065], "type": "ELAPSED_TIME", "observation": "勝負開始から1時間経過した旨を中央注釈で表示。実際の現場経過時間と完成動画尺を区別する。"},
+    {"nominal_times_s": [1200, 1215], "type": "GAME_CONDITION_EXPLANATION", "observation": "赤い中央字幕で次のカードに関する条件を補足し、下部のカードHUDを残す。ルールの数値は音声・映像の再検証前に汎用化しない。"},
+    {"nominal_times_s": [1230], "type": "PRIVACY", "observation": "対面方向の卓画角でディーラーの顔にぼかしが見える。全編の追跡精度・漏れは未監査。"},
+    {"nominal_times_s": [1260, 1275, 1320], "type": "MONEY_AND_RESULT_TYPOGRAPHY", "observation": "大型の白明朝＋赤い光彩の加算額、紫の『負け』、大きい白い減算額という異なる表現を確認。これらだけを足し引きして最終純利益を確定しない。"},
+    {"nominal_times_s": [1350], "type": "IMAGE_EFFECT", "observation": "低彩度でフィルム傷のような縦線のあるサンプル。効果の開始・終了・動きは未計測。"},
+    {"nominal_times_s": [1455, 1470, 1485], "type": "POST_GAME_TALK", "observation": "立った人物の会話と通常の白い下字幕。スタッフの質問ラベルもある。勝負結果の直後に動画が終了する構成ではない。"},
+    {"nominal_times_s": [1500, 1515], "type": "TOURISM_AND_LATER_RECAP", "observation": "観光施設のB-rollと中央の経過注釈、その後の車内報告に撮影後さらに1日残った旨の字幕。映像にない後日の出来事を明示して区別する。"},
+    {"nominal_times_s": [1545, 1560], "type": "FINAL_REPORTED_RESULTS", "observation": "同行者についての大きい白明朝＋赤光彩の加算額と、本人についての通常サイズの白字幕の収支報告を分ける。同一人物・同一セッションの数字として統合しない。", "verified_final_amounts": null},
+    {"nominal_times_s": [1575, 1590], "type": "ENDING", "observation": "近況・今後の説明を下字幕で示し、実写上に謝辞を表示。長い独立EDを追加する根拠にはならない。"}
+  ],
+  "provisional_editing_inferences": [
+    {"rule": "カード情報を必要とする勝負と、勝負の間の会話では情報量を切り替える。結果リアクションではカード結果を残す選択もある。", "confidence": "MEDIUM", "independent_videos": 1, "channel_wide_rule": false},
+    {"rule": "小型の機能的BET表示と大型の感情・収支表示を分離する。金額の大きさだけで字幕サイズを決めない。", "confidence": "MEDIUM", "independent_videos": 1, "channel_wide_rule": false},
+    {"rule": "撮影外の勝負や後日の報告を明示し、観客が当日の映像の結果と取り違えない構成を保つ。", "confidence": "MEDIUM", "independent_videos": 1, "channel_wide_rule": false}
+  ]
+}

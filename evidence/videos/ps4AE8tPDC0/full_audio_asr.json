@@ -1,0 +1,263 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,980"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3980
+			},
+			"text": "おはようございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,980",
+				"to": "00:00:05,740"
+			},
+			"offsets": {
+				"from": 3980,
+				"to": 5740
+			},
+			"text": "高尾山に来ました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,740",
+				"to": "00:00:11,680"
+			},
+			"offsets": {
+				"from": 5740,
+				"to": 11680
+			},
+			"text": "やっぱり高尾山登ると体力も気力も回復するんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,680",
+				"to": "00:00:16,260"
+			},
+			"offsets": {
+				"from": 11680,
+				"to": 16260
+			},
+			"text": "伸び悩んでる経営者は高尾山に来るという話ですよね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,260",
+				"to": "00:00:18,760"
+			},
+			"offsets": {
+				"from": 16260,
+				"to": 18760
+			},
+			"text": "はっきちい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,760",
+				"to": "00:00:20,680"
+			},
+			"offsets": {
+				"from": 18760,
+				"to": 20680
+			},
+			"text": "お疲れ様です"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,680",
+				"to": "00:00:21,720"
+			},
+			"offsets": {
+				"from": 20680,
+				"to": 21720
+			},
+			"text": "山頂着きました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,720",
+				"to": "00:00:26,200"
+			},
+			"offsets": {
+				"from": 21720,
+				"to": 26200
+			},
+			"text": "株式会社絶対ではクロードコードの研修と"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,200",
+				"to": "00:00:28,200"
+			},
+			"offsets": {
+				"from": 26200,
+				"to": 28200
+			},
+			"text": "AIが僕やってる研修と"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,200",
+				"to": "00:00:31,200"
+			},
+			"offsets": {
+				"from": 28200,
+				"to": 31200
+			},
+			"text": "僕の顧問年100万円で"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,200",
+				"to": "00:00:35,280"
+			},
+			"offsets": {
+				"from": 31200,
+				"to": 35280
+			},
+			"text": "営業かけるAI世界で一番理解してるの"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,280",
+				"to": "00:00:36,140"
+			},
+			"offsets": {
+				"from": 35280,
+				"to": 36140
+			},
+			"text": "俺だろ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,140",
+				"to": "00:00:36,880"
+			},
+			"offsets": {
+				"from": 36140,
+				"to": 36880
+			},
+			"text": "いや違うから"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,880",
+				"to": "00:00:38,580"
+			},
+			"offsets": {
+				"from": 36880,
+				"to": 38580
+			},
+			"text": "でもかなり自信あるんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,580",
+				"to": "00:00:41,500"
+			},
+			"offsets": {
+				"from": 38580,
+				"to": 41500
+			},
+			"text": "とにかく効果が出るまでやりますんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,500",
+				"to": "00:00:43,680"
+			},
+			"offsets": {
+				"from": 41500,
+				"to": 43680
+			},
+			"text": "100万円振り込んでください"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,680",
+				"to": "00:00:45,900"
+			},
+			"offsets": {
+				"from": 43680,
+				"to": 45900
+			},
+			"text": "あと5社募集してます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,900",
+				"to": "00:00:47,560"
+			},
+			"offsets": {
+				"from": 45900,
+				"to": 47560
+			},
+			"text": "あとクロード勉強したいよって方も"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,560",
+				"to": "00:00:49,140"
+			},
+			"offsets": {
+				"from": 47560,
+				"to": 49140
+			},
+			"text": "ぜひご連絡いただければと思いますんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,140",
+				"to": "00:00:51,720"
+			},
+			"offsets": {
+				"from": 49140,
+				"to": 51720
+			},
+			"text": "あと一緒に高尾山登りましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,720",
+				"to": "00:00:54,040"
+			},
+			"offsets": {
+				"from": 51720,
+				"to": 54040
+			},
+			"text": "さあ団子"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+# Track source, documents, and analysis records. Keep research media local.
+*
+!*/
+!*.md
+!*.mjs
+!*.swift
+!*.py
+!*.json
+!*.jsonl
+!.gitignore
+
+.venv/
+node_modules/
+__pycache__/
+.env*

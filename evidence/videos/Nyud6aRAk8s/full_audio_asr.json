@@ -1,0 +1,197 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,760"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1760
+			},
+			"text": "この男が伝説を作る"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,760",
+				"to": "00:00:04,340"
+			},
+			"offsets": {
+				"from": 1760,
+				"to": 4340
+			},
+			"text": "優勝約3000万のトーナメント"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,340",
+				"to": "00:00:06,480"
+			},
+			"offsets": {
+				"from": 4340,
+				"to": 6480
+			},
+			"text": "いよいよ残り2人まで来ました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,480",
+				"to": "00:00:09,400"
+			},
+			"offsets": {
+				"from": 6480,
+				"to": 9400
+			},
+			"text": "香港人プレイヤーの本がオープンします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,400",
+				"to": "00:00:12,460"
+			},
+			"offsets": {
+				"from": 9400,
+				"to": 12460
+			},
+			"text": "それにラスワンが大きくレイズを返します"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,460",
+				"to": "00:00:14,660"
+			},
+			"offsets": {
+				"from": 12460,
+				"to": 14660
+			},
+			"text": "本がコールしフロップへ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,660",
+				"to": "00:00:19,900"
+			},
+			"offsets": {
+				"from": 14660,
+				"to": 19900
+			},
+			"text": "ジャックがヒットしたらスワンがベッドをしていきます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,900",
+				"to": "00:00:22,640"
+			},
+			"offsets": {
+				"from": 19900,
+				"to": 22640
+			},
+			"text": "フラッシュドローがついた本はどう出るのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,640",
+				"to": "00:00:25,360"
+			},
+			"offsets": {
+				"from": 22640,
+				"to": 25360
+			},
+			"text": "ここでオールインを選択"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,360",
+				"to": "00:00:27,860"
+			},
+			"offsets": {
+				"from": 25360,
+				"to": 27860
+			},
+			"text": "勝てば3000万獲得のラスは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,920",
+				"to": "00:00:29,640"
+			},
+			"offsets": {
+				"from": 27920,
+				"to": 29640
+			},
+			"text": "なんとスナップでコールしました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,640",
+				"to": "00:00:32,500"
+			},
+			"offsets": {
+				"from": 29640,
+				"to": 32500
+			},
+			"text": "ラスワンの勝率は約60%"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,500",
+				"to": "00:00:38,680"
+			},
+			"offsets": {
+				"from": 32500,
+				"to": 38680
+			},
+			"text": "あとはダイヤが落ちないことを願うだけです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,680",
+				"to": "00:00:45,000"
+			},
+			"offsets": {
+				"from": 38680,
+				"to": 45000
+			},
+			"text": "見事勝利を収め賞金約3000万を獲得しました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,000",
+				"to": "00:00:45,780"
+			},
+			"offsets": {
+				"from": 45000,
+				"to": 45780
+			},
+			"text": "ありがとうございます"
+		}
+	]
+}

@@ -1,0 +1,263 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,260"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2260
+			},
+			"text": "ラスベガスカジノで奇跡の役を引いた結果"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,260",
+				"to": "00:00:06,740"
+			},
+			"offsets": {
+				"from": 2260,
+				"to": 6740
+			},
+			"text": "ラスワンが本日実践する騎士は"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,740",
+				"to": "00:00:07,480"
+			},
+			"offsets": {
+				"from": 6740,
+				"to": 7480
+			},
+			"text": "ビデオポーカー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,480",
+				"to": "00:00:09,460"
+			},
+			"offsets": {
+				"from": 7480,
+				"to": 9460
+			},
+			"text": "トランプの2がジョーカーの役割をする"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,460",
+				"to": "00:00:11,160"
+			},
+			"offsets": {
+				"from": 9460,
+				"to": 11160
+			},
+			"text": "特殊なルールが採用されている"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,160",
+				"to": "00:00:13,240"
+			},
+			"offsets": {
+				"from": 11160,
+				"to": 13240
+			},
+			"text": "そのため本来のポーカーではありえない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,240",
+				"to": "00:00:14,980"
+			},
+			"offsets": {
+				"from": 13240,
+				"to": 14980
+			},
+			"text": "ファイブサードという伝説の役も"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,980",
+				"to": "00:00:16,460"
+			},
+			"offsets": {
+				"from": 14980,
+				"to": 16460
+			},
+			"text": "作れるような仕様となっている"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,460",
+				"to": "00:00:19,460"
+			},
+			"offsets": {
+				"from": 16460,
+				"to": 19460
+			},
+			"text": "ワンプレイにかかる費用は日本Aにして約1500円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,460",
+				"to": "00:00:21,540"
+			},
+			"offsets": {
+				"from": 19460,
+				"to": 21540
+			},
+			"text": "ラスワンは奇跡の役を完成させ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,540",
+				"to": "00:00:23,160"
+			},
+			"offsets": {
+				"from": 21540,
+				"to": 23160
+			},
+			"text": "ライファイトを得ることができるのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,160",
+				"to": "00:00:24,980"
+			},
+			"offsets": {
+				"from": 23160,
+				"to": 24980
+			},
+			"text": "ここでラスワンにキングのペアと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,980",
+				"to": "00:00:26,580"
+			},
+			"offsets": {
+				"from": 24980,
+				"to": 26580
+			},
+			"text": "デュースのワイルドの盤面が来た"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,580",
+				"to": "00:00:28,600"
+			},
+			"offsets": {
+				"from": 26580,
+				"to": 28600
+			},
+			"text": "固定するのはもちろんこの3点"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,600",
+				"to": "00:00:29,820"
+			},
+			"offsets": {
+				"from": 28600,
+				"to": 29820
+			},
+			"text": "そうどうなる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,820",
+				"to": "00:00:35,620"
+			},
+			"offsets": {
+				"from": 29820,
+				"to": 35620
+			},
+			"text": "素敵のファイブカード"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,620",
+				"to": "00:00:37,600"
+			},
+			"offsets": {
+				"from": 35620,
+				"to": 37600
+			},
+			"text": "サワハイトはいくら出る"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,600",
+				"to": "00:00:39,060"
+			},
+			"offsets": {
+				"from": 37600,
+				"to": 39060
+			},
+			"text": "一時200ドルゲット"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,060",
+				"to": "00:00:40,360"
+			},
+			"offsets": {
+				"from": 39060,
+				"to": 40360
+			},
+			"text": "意外としょぼい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,360",
+				"to": "00:00:40,980"
+			},
+			"offsets": {
+				"from": 40360,
+				"to": 40980
+			},
+			"text": "ファイブカード"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,980",
+				"to": "00:00:42,540"
+			},
+			"offsets": {
+				"from": 40980,
+				"to": 42540
+			},
+			"text": "これでうまいもの食わしてやろう"
+		}
+	]
+}

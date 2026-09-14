@@ -1,0 +1,73 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "type": "EDIT_DECISION_TEMPLATE_NOT_RENDERABLE_NLE_PROJECT",
+  "production_enabled": false,
+  "unmeasured_values_must_not_be_filled_with_generic_defaults": true,
+  "decision_fields": [
+    "SPEAKER",
+    "SOURCE_TIMECODE_IN",
+    "SOURCE_TIMECODE_OUT",
+    "TEXT",
+    "EMOTION",
+    "IMPORTANCE",
+    "SUBTITLE_TYPE",
+    "ASSET_NEEDED",
+    "BGM",
+    "SE",
+    "CUT",
+    "ZOOM",
+    "REFERENCE",
+    "CONFIDENCE",
+    "REASON"
+  ],
+  "cut_interval_s": null,
+  "punch_in_scale": null,
+  "se_gain_db": null,
+  "export_preset": null,
+  "variants": [
+    {
+      "episode": 1,
+      "video_id": "IlXtl0Hq_As",
+      "intro": "立ち姿＋ボード、白太ゴシック字幕",
+      "main": "2ショット、選定本編サンプルは字幕なし",
+      "references": [
+        {
+          "video_id": "IlXtl0Hq_As",
+          "time_s": 8,
+          "url": "https://www.youtube.com/watch?v=IlXtl0Hq_As&t=8"
+        },
+        {
+          "video_id": "IlXtl0Hq_As",
+          "time_s": 175,
+          "url": "https://www.youtube.com/watch?v=IlXtl0Hq_As&t=175"
+        }
+      ]
+    },
+    {
+      "episode": 2,
+      "video_id": "ehJssPk1s7Q",
+      "main": "2ショット、白太明朝に黒い縁、黄の強調例",
+      "references": [
+        {
+          "video_id": "ehJssPk1s7Q",
+          "time_s": 147,
+          "url": "https://www.youtube.com/watch?v=ehJssPk1s7Q&t=147"
+        },
+        {
+          "video_id": "ehJssPk1s7Q",
+          "time_s": 635,
+          "url": "https://www.youtube.com/watch?v=ehJssPk1s7Q&t=635"
+        }
+      ]
+    }
+  ],
+  "preferred_provisional_reference": "ehJssPk1s7Q",
+  "style_update_confirmed": false,
+  "reason": "公開2話だけであり3動画の更新条件未達。字幕密度を平均化しない。",
+  "camera_switches_per_min": null,
+  "subtitle_coverage_percent": null
+}

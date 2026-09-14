@@ -1,0 +1,129 @@
+{
+  "video_id": "zNI76q0LMBI",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    135.29
+  ],
+  "source_duration_s": 135.29,
+  "candidate_count": 28,
+  "candidates": [
+    {
+      "time_s": 3.13,
+      "score": 1
+    },
+    {
+      "time_s": 4.174,
+      "score": 1
+    },
+    {
+      "time_s": 8.213,
+      "score": 0.19389
+    },
+    {
+      "time_s": 10.838,
+      "score": 0.234037
+    },
+    {
+      "time_s": 23.729,
+      "score": 0.289124
+    },
+    {
+      "time_s": 25.783,
+      "score": 0.312042
+    },
+    {
+      "time_s": 31.101,
+      "score": 0.19431
+    },
+    {
+      "time_s": 36.419,
+      "score": 0.207787
+    },
+    {
+      "time_s": 38.573,
+      "score": 0.291986
+    },
+    {
+      "time_s": 49.344,
+      "score": 0.328104
+    },
+    {
+      "time_s": 52.575,
+      "score": 0.274516
+    },
+    {
+      "time_s": 56.042,
+      "score": 0.180048
+    },
+    {
+      "time_s": 68.529,
+      "score": 0.189498
+    },
+    {
+      "time_s": 68.563,
+      "score": 0.2058
+    },
+    {
+      "time_s": 68.63,
+      "score": 0.183631
+    },
+    {
+      "time_s": 68.765,
+      "score": 0.197735
+    },
+    {
+      "time_s": 69.976,
+      "score": 0.182195
+    },
+    {
+      "time_s": 71.356,
+      "score": 0.376294
+    },
+    {
+      "time_s": 91.787,
+      "score": 0.325381
+    },
+    {
+      "time_s": 94.345,
+      "score": 0.189987
+    },
+    {
+      "time_s": 101.077,
+      "score": 0.198105
+    },
+    {
+      "time_s": 101.481,
+      "score": 0.266575
+    },
+    {
+      "time_s": 101.515,
+      "score": 0.27296
+    },
+    {
+      "time_s": 102.895,
+      "score": 0.292342
+    },
+    {
+      "time_s": 114.877,
+      "score": 0.230695
+    },
+    {
+      "time_s": 117.132,
+      "score": 0.200243
+    },
+    {
+      "time_s": 129.754,
+      "score": 0.59498
+    },
+    {
+      "time_s": 132.245,
+      "score": 0.268211
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

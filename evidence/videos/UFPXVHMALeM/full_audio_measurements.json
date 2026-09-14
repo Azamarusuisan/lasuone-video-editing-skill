@@ -1,0 +1,69 @@
+{
+  "video_id": "UFPXVHMALeM",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 621.93,
+  "processed_interval_s": [
+    0,
+    621.93
+  ],
+  "integrated_lufs": -21.5,
+  "loudness_range_lu": 12.1,
+  "true_peak_dbfs": 0.1,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    0.0075,
+    16.3859,
+    129.068,
+    181.165,
+    250.534,
+    324.398,
+    326.797,
+    362.083,
+    617.537
+  ],
+  "silence_ends": [
+    {
+      "end_s": 1.32294,
+      "duration_s": 1.31544
+    },
+    {
+      "end_s": 18.1577,
+      "duration_s": 1.77179
+    },
+    {
+      "end_s": 131.858,
+      "duration_s": 2.78963
+    },
+    {
+      "end_s": 182.858,
+      "duration_s": 1.69231
+    },
+    {
+      "end_s": 252.678,
+      "duration_s": 2.14435
+    },
+    {
+      "end_s": 324.936,
+      "duration_s": 0.538854
+    },
+    {
+      "end_s": 328.825,
+      "duration_s": 2.02781
+    },
+    {
+      "end_s": 364.93,
+      "duration_s": 2.8469
+    },
+    {
+      "end_s": 621.908,
+      "duration_s": 4.37052
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

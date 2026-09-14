@@ -1,0 +1,274 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1880
+			},
+			"text": "バカラーに一撃100万円かけてみた!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,060",
+				"to": "00:00:03,580"
+			},
+			"offsets": {
+				"from": 2060,
+				"to": 3580
+			},
+			"text": "ギャンブル中毒者のバカラー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,580",
+				"to": "00:00:05,560"
+			},
+			"offsets": {
+				"from": 3580,
+				"to": 5560
+			},
+			"text": "サイドベッドも盛り盛りだ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,760",
+				"to": "00:00:08,600"
+			},
+			"offsets": {
+				"from": 5760,
+				"to": 8600
+			},
+			"text": "この勝負は日本円にして約100万円!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,760",
+				"to": "00:00:11,120"
+			},
+			"offsets": {
+				"from": 8760,
+				"to": 11120
+			},
+			"text": "この男はその大金をバンカーに貼った!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,300",
+				"to": "00:00:14,020"
+			},
+			"offsets": {
+				"from": 11300,
+				"to": 14020
+			},
+			"text": "そしてまずは自分のトランプから見ていくようだ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,220",
+				"to": "00:00:15,780"
+			},
+			"offsets": {
+				"from": 14220,
+				"to": 15780
+			},
+			"text": "1枚目のトランプはノーサイド!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,940",
+				"to": "00:00:17,720"
+			},
+			"offsets": {
+				"from": 15940,
+				"to": 17720
+			},
+			"text": "1から3の数字が確定した!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,920",
+				"to": "00:00:19,920"
+			},
+			"offsets": {
+				"from": 17920,
+				"to": 19920
+			},
+			"text": "そして2枚目のトランプは9で!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,080",
+				"to": "00:00:22,140"
+			},
+			"offsets": {
+				"from": 20080,
+				"to": 22140
+			},
+			"text": "この男の合計数は1が確定!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,520",
+				"to": "00:00:25,960"
+			},
+			"offsets": {
+				"from": 22520,
+				"to": 25960
+			},
+			"text": "そして相手のトランプは7と9で合計数は6!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,200",
+				"to": "00:00:27,880"
+			},
+			"offsets": {
+				"from": 26200,
+				"to": 27880
+			},
+			"text": "現状不利な状況ではあるが"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,880",
+				"to": "00:00:29,960"
+			},
+			"offsets": {
+				"from": 27880,
+				"to": 29960
+			},
+			"text": "勝負は3枚目のトランプに託された!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:31,500"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 31500
+			},
+			"text": "約100万円の勝負!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,640",
+				"to": "00:00:34,220"
+			},
+			"offsets": {
+				"from": 31640,
+				"to": 34220
+			},
+			"text": "この3枚目の絞りに命を燃やし"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,220",
+				"to": "00:00:36,460"
+			},
+			"offsets": {
+				"from": 34220,
+				"to": 36460
+			},
+			"text": "大逆転勝利を掴むことができるのか!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,640",
+				"to": "00:00:38,540"
+			},
+			"offsets": {
+				"from": 36640,
+				"to": 38540
+			},
+			"text": "ここで3サイドなら勝ち!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,800",
+				"to": "00:00:39,320"
+			},
+			"offsets": {
+				"from": 38800,
+				"to": 39320
+			},
+			"text": "確定!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,160",
+				"to": "00:00:45,940"
+			},
+			"offsets": {
+				"from": 44160,
+				"to": 45940
+			},
+			"text": "絶望の4サイド!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,200",
+				"to": "00:00:48,220"
+			},
+			"offsets": {
+				"from": 46200,
+				"to": 48220
+			},
+			"text": "このトランプを見てラスト1は言った!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,440",
+				"to": "00:00:49,020"
+			},
+			"offsets": {
+				"from": 48440,
+				"to": 49020
+			},
+			"text": "ゼロじゃん!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,420",
+				"to": "00:00:49,980"
+			},
+			"offsets": {
+				"from": 49420,
+				"to": 49980
+			},
+			"text": "ゼロロクじゃん!"
+		}
+	]
+}

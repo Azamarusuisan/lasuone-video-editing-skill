@@ -1,0 +1,98 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,960"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1960
+			},
+			"text": "おはよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,960",
+				"to": "00:00:08,000"
+			},
+			"offsets": {
+				"from": 1960,
+				"to": 8000
+			},
+			"text": "どの 今日今日はどこに行くでしょうか競馬場"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,000",
+				"to": "00:00:13,400"
+			},
+			"offsets": {
+				"from": 8000,
+				"to": 13400
+			},
+			"text": "競馬場にしては埼玉ホーム 埼玉県競馬場はない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,400",
+				"to": "00:00:16,840"
+			},
+			"offsets": {
+				"from": 13400,
+				"to": 16840
+			},
+			"text": "えっ 何埼玉といえば"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,840",
+				"to": "00:00:22,660"
+			},
+			"offsets": {
+				"from": 16840,
+				"to": 22660
+			},
+			"text": "戸田戸田といえばあっボトリース ママ何なんてやってる最近"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,660",
+				"to": "00:00:30,000"
+			},
+			"offsets": {
+				"from": 22660,
+				"to": 30000
+			},
+			"text": "ママはなんか最近怖くてなんか株がね 株がなんか下がりまくって"
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+  "video_id": "GvPydKl2Qp0",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    87.63
+  ],
+  "source_duration_s": 87.63,
+  "candidate_count": 15,
+  "candidates": [
+    {
+      "time_s": 1.942,
+      "score": 1
+    },
+    {
+      "time_s": 7.165,
+      "score": 0.250357
+    },
+    {
+      "time_s": 9.141,
+      "score": 0.22678
+    },
+    {
+      "time_s": 17.947,
+      "score": 0.22569
+    },
+    {
+      "time_s": 24.208,
+      "score": 0.366294
+    },
+    {
+      "time_s": 30.235,
+      "score": 0.237286
+    },
+    {
+      "time_s": 33.316,
+      "score": 0.41198
+    },
+    {
+      "time_s": 40.347,
+      "score": 0.226136
+    },
+    {
+      "time_s": 48.149,
+      "score": 0.373754
+    },
+    {
+      "time_s": 54.343,
+      "score": 0.259168
+    },
+    {
+      "time_s": 64.02,
+      "score": 0.298934
+    },
+    {
+      "time_s": 70.683,
+      "score": 1
+    },
+    {
+      "time_s": 72.223,
+      "score": 1
+    },
+    {
+      "time_s": 73.596,
+      "score": 0.263679
+    },
+    {
+      "time_s": 86.185,
+      "score": 1
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

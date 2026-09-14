@@ -1,0 +1,47 @@
+{
+  "candidate": "full_audio_asr_no_context.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 280,
+  "flagged_segment_count": 46,
+  "max_exact_repeat_count": 10,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "ペーパーを使うことができます。",
+      "count": 9,
+      "from_ms": 363920,
+      "to_ms": 381920
+    },
+    {
+      "text": "スーパーカードを取り出します",
+      "count": 10,
+      "from_ms": 389920,
+      "to_ms": 409920
+    },
+    {
+      "text": "スタッフの中に戻ってみてください。",
+      "count": 9,
+      "from_ms": 499920,
+      "to_ms": 527720
+    },
+    {
+      "text": "カンパーイ",
+      "count": 5,
+      "from_ms": 844680,
+      "to_ms": 848460
+    },
+    {
+      "text": "次回予告",
+      "count": 6,
+      "from_ms": 939400,
+      "to_ms": 1119380
+    },
+    {
+      "text": "2. エイクスターの兵器を入れます。",
+      "count": 7,
+      "from_ms": 1569780,
+      "to_ms": 1595780
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

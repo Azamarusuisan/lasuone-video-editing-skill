@@ -1,0 +1,27 @@
+{
+  "video_id": "R9yghVLgI4s",
+  "source": "source.mkv",
+  "processed_input_interval_s": [2679, 2731],
+  "requested_review_interval_s": [2680, 2730],
+  "method": "FFmpeg each-frame scene score at width 320, threshold 0.18; source PTS preserved",
+  "timestamp_method": "Integer metadata PTS / 1000; display pts_time rounding not used",
+  "candidate_count": 13,
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "candidates": [
+    {"time_s": 2680.9, "score": 0.385004},
+    {"time_s": 2682.533, "score": 0.393813},
+    {"time_s": 2687.067, "score": 0.453992},
+    {"time_s": 2689.333, "score": 0.414783},
+    {"time_s": 2691.6, "score": 0.428654},
+    {"time_s": 2694.333, "score": 0.310578},
+    {"time_s": 2697.7, "score": 0.315309},
+    {"time_s": 2709.233, "score": 0.387974},
+    {"time_s": 2717.4, "score": 0.358616},
+    {"time_s": 2717.433, "score": 0.25325},
+    {"time_s": 2717.467, "score": 0.21705},
+    {"time_s": 2723.667, "score": 0.353734},
+    {"time_s": 2727.167, "score": 0.4338}
+  ],
+  "warning": "Candidates are not cuts. Adjacent candidates can belong to one transition, motion, or overlay change. This is a local window, not a completed whole-video scan."
+}

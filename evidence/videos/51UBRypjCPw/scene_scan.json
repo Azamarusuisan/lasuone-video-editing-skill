@@ -1,0 +1,237 @@
+{
+  "video_id": "51UBRypjCPw",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    560.17
+  ],
+  "source_duration_s": 560.17,
+  "candidate_count": 55,
+  "candidates": [
+    {
+      "time_s": 42.91,
+      "score": 0.762903
+    },
+    {
+      "time_s": 47.885,
+      "score": 1
+    },
+    {
+      "time_s": 49.922,
+      "score": 0.948839
+    },
+    {
+      "time_s": 53.095,
+      "score": 0.43932
+    },
+    {
+      "time_s": 57.736,
+      "score": 1
+    },
+    {
+      "time_s": 62.578,
+      "score": 0.324112
+    },
+    {
+      "time_s": 69.724,
+      "score": 0.298442
+    },
+    {
+      "time_s": 74.667,
+      "score": 0.298485
+    },
+    {
+      "time_s": 74.7,
+      "score": 0.957305
+    },
+    {
+      "time_s": 77.572,
+      "score": 0.450307
+    },
+    {
+      "time_s": 79.575,
+      "score": 0.432628
+    },
+    {
+      "time_s": 84.952,
+      "score": 0.374802
+    },
+    {
+      "time_s": 98.376,
+      "score": 0.199142
+    },
+    {
+      "time_s": 101.147,
+      "score": 0.189096
+    },
+    {
+      "time_s": 107.258,
+      "score": 0.188407
+    },
+    {
+      "time_s": 109.362,
+      "score": 0.190186
+    },
+    {
+      "time_s": 121.283,
+      "score": 0.186115
+    },
+    {
+      "time_s": 143.156,
+      "score": 0.214106
+    },
+    {
+      "time_s": 154.075,
+      "score": 0.586716
+    },
+    {
+      "time_s": 155.077,
+      "score": 0.636038
+    },
+    {
+      "time_s": 172.274,
+      "score": 0.228776
+    },
+    {
+      "time_s": 175.012,
+      "score": 0.481313
+    },
+    {
+      "time_s": 177.884,
+      "score": 0.457458
+    },
+    {
+      "time_s": 193.379,
+      "score": 0.340762
+    },
+    {
+      "time_s": 210.175,
+      "score": 0.307197
+    },
+    {
+      "time_s": 226.17,
+      "score": 0.321227
+    },
+    {
+      "time_s": 228.341,
+      "score": 0.547678
+    },
+    {
+      "time_s": 232.382,
+      "score": 0.460559
+    },
+    {
+      "time_s": 236.856,
+      "score": 0.720541
+    },
+    {
+      "time_s": 237.858,
+      "score": 0.621734
+    },
+    {
+      "time_s": 251.282,
+      "score": 0.416037
+    },
+    {
+      "time_s": 262.068,
+      "score": 0.400657
+    },
+    {
+      "time_s": 276.46,
+      "score": 0.42692
+    },
+    {
+      "time_s": 286.311,
+      "score": 0.180573
+    },
+    {
+      "time_s": 295.962,
+      "score": 0.360352
+    },
+    {
+      "time_s": 296.396,
+      "score": 0.35767
+    },
+    {
+      "time_s": 306.647,
+      "score": 0.342663
+    },
+    {
+      "time_s": 314.428,
+      "score": 0.427822
+    },
+    {
+      "time_s": 325.114,
+      "score": 0.186857
+    },
+    {
+      "time_s": 349.223,
+      "score": 0.302606
+    },
+    {
+      "time_s": 358.54,
+      "score": 0.487575
+    },
+    {
+      "time_s": 364.417,
+      "score": 0.216715
+    },
+    {
+      "time_s": 391.432,
+      "score": 0.303581
+    },
+    {
+      "time_s": 400.348,
+      "score": 0.230762
+    },
+    {
+      "time_s": 421.82,
+      "score": 0.480473
+    },
+    {
+      "time_s": 422.822,
+      "score": 0.537064
+    },
+    {
+      "time_s": 428.632,
+      "score": 0.430124
+    },
+    {
+      "time_s": 434.509,
+      "score": 0.208489
+    },
+    {
+      "time_s": 435.778,
+      "score": 0.231247
+    },
+    {
+      "time_s": 439.819,
+      "score": 0.34437
+    },
+    {
+      "time_s": 516.455,
+      "score": 0.378917
+    },
+    {
+      "time_s": 533.519,
+      "score": 0.231311
+    },
+    {
+      "time_s": 539.463,
+      "score": 0.22622
+    },
+    {
+      "time_s": 555.759,
+      "score": 0.960712
+    },
+    {
+      "time_s": 557.128,
+      "score": 1
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

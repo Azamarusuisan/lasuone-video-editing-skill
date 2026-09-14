@@ -1,0 +1,104 @@
+{
+  "video_id": "t0QQnSsbMjY",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 1085.53,
+  "processed_interval_s": [
+    0,
+    1085.53
+  ],
+  "integrated_lufs": -22.3,
+  "loudness_range_lu": 10.4,
+  "true_peak_dbfs": 0.9,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    52.6852,
+    54.0142,
+    54.5306,
+    55.4479,
+    56.2831,
+    57.0407,
+    60.2362,
+    60.8662,
+    294.139,
+    297.926,
+    300.963,
+    447.328,
+    473.482,
+    821.294,
+    968.688,
+    1084.7
+  ],
+  "silence_ends": [
+    {
+      "end_s": 53.1187,
+      "duration_s": 0.433479
+    },
+    {
+      "end_s": 54.5305,
+      "duration_s": 0.516375
+    },
+    {
+      "end_s": 55.0525,
+      "duration_s": 0.521896
+    },
+    {
+      "end_s": 55.7704,
+      "duration_s": 0.3225
+    },
+    {
+      "end_s": 57.0407,
+      "duration_s": 0.757604
+    },
+    {
+      "end_s": 57.7954,
+      "duration_s": 0.75475
+    },
+    {
+      "end_s": 60.624,
+      "duration_s": 0.387854
+    },
+    {
+      "end_s": 61.4217,
+      "duration_s": 0.555542
+    },
+    {
+      "end_s": 295.23,
+      "duration_s": 1.09088
+    },
+    {
+      "end_s": 298.538,
+      "duration_s": 0.611542
+    },
+    {
+      "end_s": 301.568,
+      "duration_s": 0.604979
+    },
+    {
+      "end_s": 447.631,
+      "duration_s": 0.302625
+    },
+    {
+      "end_s": 473.876,
+      "duration_s": 0.394313
+    },
+    {
+      "end_s": 822.492,
+      "duration_s": 1.19783
+    },
+    {
+      "end_s": 969.074,
+      "duration_s": 0.386646
+    },
+    {
+      "end_s": 1085.51,
+      "duration_s": 0.815042
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

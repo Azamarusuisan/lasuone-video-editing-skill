@@ -1,0 +1,47 @@
+{
+  "candidate": "full_audio_asr_no_context.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 463,
+  "flagged_segment_count": 68,
+  "max_exact_repeat_count": 20,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "I don't know what that's going to do",
+      "count": 17,
+      "from_ms": 268740,
+      "to_ms": 291420
+    },
+    {
+      "text": "カメラはレッテンズを取り入れます",
+      "count": 9,
+      "from_ms": 523560,
+      "to_ms": 552560
+    },
+    {
+      "text": "フォールドを打ち込みます",
+      "count": 8,
+      "from_ms": 1059700,
+      "to_ms": 1078140
+    },
+    {
+      "text": "カフェだけいってんの?",
+      "count": 20,
+      "from_ms": 1195940,
+      "to_ms": 1215940
+    },
+    {
+      "text": "次回予告",
+      "count": 7,
+      "from_ms": 1571200,
+      "to_ms": 1781180
+    },
+    {
+      "text": "あなたが私たちを一緒に食べることができます。",
+      "count": 7,
+      "from_ms": 1954800,
+      "to_ms": 1975800
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

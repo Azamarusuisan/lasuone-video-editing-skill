@@ -1,0 +1,153 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,560"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3560
+			},
+			"text": "カチョン 何してるんだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,560",
+				"to": "00:00:07,000"
+			},
+			"offsets": {
+				"from": 3560,
+				"to": 7000
+			},
+			"text": "ちょっとシールを知らん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,500",
+				"to": "00:00:10,320"
+			},
+			"offsets": {
+				"from": 7500,
+				"to": 10320
+			},
+			"text": "うん はいねーかわいい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,320",
+				"to": "00:00:12,320"
+			},
+			"offsets": {
+				"from": 10320,
+				"to": 12320
+			},
+			"text": "ん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,420",
+				"to": "00:00:18,000"
+			},
+			"offsets": {
+				"from": 14420,
+				"to": 18000
+			},
+			"text": "何のキャラか知ってます エイプロウザリ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,000",
+				"to": "00:00:24,160"
+			},
+			"offsets": {
+				"from": 18000,
+				"to": 24160
+			},
+			"text": "まあそんなのはシールだと思う 今日ご紹介する商品はこちらあってました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,160",
+				"to": "00:00:30,400"
+			},
+			"offsets": {
+				"from": 24160,
+				"to": 30400
+			},
+			"text": "ビトコンドリアが活発になる マイトルビン"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,400",
+				"to": "00:00:34,780"
+			},
+			"offsets": {
+				"from": 30400,
+				"to": 34780
+			},
+			"text": "マイトルビンですね これねー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,980",
+				"to": "00:00:46,280"
+			},
+			"offsets": {
+				"from": 35980,
+				"to": 46280
+			},
+			"text": "この前ニュースでビトコンドリアは体に良いから体のクソだからこれを増やす 形から入るタイプでティラピスの体験に行って"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,280",
+				"to": "00:00:50,980"
+			},
+			"offsets": {
+				"from": 46280,
+				"to": 50980
+			},
+			"text": "4040枚チケットを買う で今から仕事です"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,980",
+				"to": "00:00:55,500"
+			},
+			"offsets": {
+				"from": 50980,
+				"to": 55500
+			},
+			"text": "健康は形から金で買えます 稼ぎましょう"
+		}
+	]
+}

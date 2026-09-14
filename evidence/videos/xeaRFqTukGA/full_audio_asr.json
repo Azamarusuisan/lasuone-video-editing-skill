@@ -1,0 +1,153 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,200"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5200
+			},
+			"text": "voodoo"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,200",
+				"to": "00:00:09,700"
+			},
+			"offsets": {
+				"from": 5200,
+				"to": 9700
+			},
+			"text": "よし行こうぜ 手ゆうさスタートいい走りだな"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,700",
+				"to": "00:00:13,400"
+			},
+			"offsets": {
+				"from": 9700,
+				"to": 13400
+			},
+			"text": "パダイはいかんローカー入れまあ行くわ わー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,400",
+				"to": "00:00:18,040"
+			},
+			"offsets": {
+				"from": 13400,
+				"to": 18040
+			},
+			"text": "ロークくるぞ 止まれいけー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,040",
+				"to": "00:00:21,900"
+			},
+			"offsets": {
+				"from": 18040,
+				"to": 21900
+			},
+			"text": "7勝ちがマジか ゴールデン5セット"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,900",
+				"to": "00:00:29,160"
+			},
+			"offsets": {
+				"from": 21900,
+				"to": 29160
+			},
+			"text": "黒プードル中核きたから入ってきちゅー ごちそうさまっと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,160",
+				"to": "00:00:33,720"
+			},
+			"offsets": {
+				"from": 29160,
+				"to": 33720
+			},
+			"text": "とも山頂で行こうかレート上げよう ぜ1本50でどうだったら100以降俺も100なら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,720",
+				"to": "00:00:38,400"
+			},
+			"offsets": {
+				"from": 33720,
+				"to": 38400
+			},
+			"text": "200まで行こうぜ俺も俺は全てに100で 決まったりだなそれで握り成立握り整理"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,400",
+				"to": "00:00:40,960"
+			},
+			"offsets": {
+				"from": 38400,
+				"to": 40960
+			},
+			"text": "成立ぞ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,020",
+				"to": "00:00:44,020"
+			},
+			"offsets": {
+				"from": 42020,
+				"to": 44020
+			},
+			"text": "ん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,520",
+				"to": "00:00:49,920"
+			},
+			"offsets": {
+				"from": 47520,
+				"to": 49920
+			},
+			"text": "はぁ"
+		}
+	]
+}

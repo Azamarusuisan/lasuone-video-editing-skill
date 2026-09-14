@@ -1,0 +1,175 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3000
+			},
+			"text": "くっ 社長"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,000",
+				"to": "00:00:06,120"
+			},
+			"offsets": {
+				"from": 3000,
+				"to": 6120
+			},
+			"text": "はいおはようございます おはよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,120",
+				"to": "00:00:10,080"
+			},
+			"offsets": {
+				"from": 6120,
+				"to": 10080
+			},
+			"text": "今日は天気いいですね ピクニックです ピクニック"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,080",
+				"to": "00:00:12,720"
+			},
+			"offsets": {
+				"from": 10080,
+				"to": 12720
+			},
+			"text": "番長とピクニック"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,720",
+				"to": "00:00:14,720"
+			},
+			"offsets": {
+				"from": 12720,
+				"to": 14720
+			},
+			"text": "いやー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,880",
+				"to": "00:00:18,920"
+			},
+			"offsets": {
+				"from": 15880,
+				"to": 18920
+			},
+			"text": "おいしい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,200",
+				"to": "00:00:27,400"
+			},
+			"offsets": {
+				"from": 19200,
+				"to": 27400
+			},
+			"text": "従業員も新しくまた5人くらい増えまして 番長は海外に行きたいみたいです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,400",
+				"to": "00:00:33,780"
+			},
+			"offsets": {
+				"from": 27400,
+				"to": 33780
+			},
+			"text": "でも これからいっぱい可愛い女の子が入ってきますのでご紹介したいと思いますよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,780",
+				"to": "00:00:42,100"
+			},
+			"offsets": {
+				"from": 33780,
+				"to": 42100
+			},
+			"text": "なんて思うやっぱね本を見てくれるんですよね 番長かわいいだろうかコメントで付けてい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,100",
+				"to": "00:00:44,360"
+			},
+			"offsets": {
+				"from": 42100,
+				"to": 44360
+			},
+			"text": "おかしいおかしい おかしい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,360",
+				"to": "00:00:47,160"
+			},
+			"offsets": {
+				"from": 44360,
+				"to": 47160
+			},
+			"text": "コメントで欲しいです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,160",
+				"to": "00:00:49,160"
+			},
+			"offsets": {
+				"from": 47160,
+				"to": 49160
+			},
+			"text": "ん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,160",
+				"to": "00:00:53,480"
+			},
+			"offsets": {
+				"from": 49160,
+				"to": 53480
+			},
+			"text": "おっしっ"
+		}
+	]
+}

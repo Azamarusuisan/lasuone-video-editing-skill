@@ -1,0 +1,252 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,040"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2040
+			},
+			"text": "バカラで一攫千金を狙う男"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,040",
+				"to": "00:00:05,540"
+			},
+			"offsets": {
+				"from": 2040,
+				"to": 5540
+			},
+			"text": "ラスワンがいつもの通り高額トナメに参加しています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,540",
+				"to": "00:00:08,640"
+			},
+			"offsets": {
+				"from": 5540,
+				"to": 8640
+			},
+			"text": "それにしても怪物揃いの激辛テーブルですね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,640",
+				"to": "00:00:11,620"
+			},
+			"offsets": {
+				"from": 8640,
+				"to": 11620
+			},
+			"text": "そんな中でもラスワンのプレーは変わりません"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,620",
+				"to": "00:00:12,980"
+			},
+			"offsets": {
+				"from": 11620,
+				"to": 12980
+			},
+			"text": "5-4で3ベット"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,980",
+				"to": "00:00:15,000"
+			},
+			"offsets": {
+				"from": 12980,
+				"to": 15000
+			},
+			"text": "これにテンポケのヒルマンがコール"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,000",
+				"to": "00:00:18,360"
+			},
+			"offsets": {
+				"from": 15000,
+				"to": 18360
+			},
+			"text": "ショートスタックのニックはオールインしてフロップへ向かいます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,360",
+				"to": "00:00:23,360"
+			},
+			"offsets": {
+				"from": 18360,
+				"to": 23360
+			},
+			"text": "ここを両者がチェックして4枚目が開きます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,360",
+				"to": "00:00:26,560"
+			},
+			"offsets": {
+				"from": 23360,
+				"to": 26560
+			},
+			"text": "面白いカードが落ちました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,180",
+				"to": "00:00:29,960"
+			},
+			"offsets": {
+				"from": 27180,
+				"to": 29960
+			},
+			"text": "セットを完成させたヒルマンがバリューを取りに行きます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,960",
+				"to": "00:00:32,200"
+			},
+			"offsets": {
+				"from": 29960,
+				"to": 32200
+			},
+			"text": "フラドロがついたラスワンがコール"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,200",
+				"to": "00:00:35,800"
+			},
+			"offsets": {
+				"from": 32200,
+				"to": 35800
+			},
+			"text": "クラブを引きました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,800",
+				"to": "00:00:38,780"
+			},
+			"offsets": {
+				"from": 35800,
+				"to": 38780
+			},
+			"text": "しかしラスワンはここをチェックで潜んでいきます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,780",
+				"to": "00:00:41,540"
+			},
+			"offsets": {
+				"from": 38780,
+				"to": 41540
+			},
+			"text": "これを受けたヒルマンがベッド"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,540",
+				"to": "00:00:43,180"
+			},
+			"offsets": {
+				"from": 41540,
+				"to": 43180
+			},
+			"text": "するとラスワンが牙を剥きます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,180",
+				"to": "00:00:44,640"
+			},
+			"offsets": {
+				"from": 43180,
+				"to": 44640
+			},
+			"text": "チェックレイズです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,640",
+				"to": "00:00:46,600"
+			},
+			"offsets": {
+				"from": 44640,
+				"to": 46600
+			},
+			"text": "これにヒルマンは悶絶します"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,600",
+				"to": "00:00:50,740"
+			},
+			"offsets": {
+				"from": 46600,
+				"to": 50740
+			},
+			"text": "サングラスを外して勘弁してくれよと言わんばかりの表情です"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,740",
+				"to": "00:00:53,300"
+			},
+			"offsets": {
+				"from": 50740,
+				"to": 53300
+			},
+			"text": "しばらく考えて決断を下しました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,300",
+				"to": "00:00:55,700"
+			},
+			"offsets": {
+				"from": 53300,
+				"to": 55700
+			},
+			"text": "ナチュラルライン"
+		}
+	]
+}

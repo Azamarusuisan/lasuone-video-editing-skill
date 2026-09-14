@@ -1,0 +1,183 @@
+{
+  "video_id": "u1Gz_kTbc9g",
+  "url": "https://www.youtube.com/watch?v=u1Gz_kTbc9g",
+  "captured_at": "2026-09-13T09:28:30.377Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【今だから話せる】20億円溶かした男の人生を話します。 - YouTube",
+  "duration_s": 1231.601,
+  "width": 640,
+  "height": 360,
+  "description": "－－－－－－－－－－－－－－－ \n\nポッドキャスト始めました🎙 …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 185,
+      "time_s": 185,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0185000.jpg"
+    },
+    {
+      "requested_s": 308,
+      "time_s": 308,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0308000.jpg"
+    },
+    {
+      "requested_s": 431,
+      "time_s": 431,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0431000.jpg"
+    },
+    {
+      "requested_s": 554,
+      "time_s": 554,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0554000.jpg"
+    },
+    {
+      "requested_s": 677,
+      "time_s": 677,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0677000.jpg"
+    },
+    {
+      "requested_s": 801,
+      "time_s": 801,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0801000.jpg"
+    },
+    {
+      "requested_s": 924,
+      "time_s": 924,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0924000.jpg"
+    },
+    {
+      "requested_s": 1047,
+      "time_s": 1047,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1047000.jpg"
+    },
+    {
+      "requested_s": 1133,
+      "time_s": 1133,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1133000.jpg"
+    },
+    {
+      "requested_s": 1201.601,
+      "time_s": 1201.601,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1201601.jpg"
+    },
+    {
+      "requested_s": 1216.601,
+      "time_s": 1216.601,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1216601.jpg"
+    },
+    {
+      "requested_s": 1228.601,
+      "time_s": 1228.601,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1228601.jpg"
+    }
+  ]
+}

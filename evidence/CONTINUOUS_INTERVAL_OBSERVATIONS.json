@@ -1,0 +1,742 @@
+{
+  "status": "LOCAL_INTERVALS_ONLY_NOT_FULL_VIDEO_WATCH",
+  "intervals": [
+    {
+      "video_id": "qSnFoc6bJ7g",
+      "reference_video": "https://www.youtube.com/watch?v=qSnFoc6bJ7g&t=133",
+      "evidence_directory": "evidence/videos/qSnFoc6bJ7g/dense_133.2_133.6/",
+      "source_pts_first_s": 133.2,
+      "source_pts_last_s": 133.583,
+      "decoded_frames_visually_reviewed": 24,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 133.383,
+          "event": "LAST_WIDE_NORMAL_COLOR_WITH_BLUE_OUTLINE_SUBTITLE_AND_CORNER_LABELS",
+          "frame_file": "frame_00012.jpg"
+        },
+        {
+          "time_s": 133.4,
+          "event": "INSTANT_CLOSEUP_LOW_SATURATION_AND_NORMAL_OVERLAY_REMOVAL",
+          "frame_file": "frame_00013.jpg",
+          "description": "寄り画と低彩度へ瞬時に変化し、通常の青縁字幕・ロゴ・章ラベルが見える範囲から消える。このフレームには紫の強調字幕はまだ視認できない。"
+        },
+        {
+          "time_s": 133.417,
+          "event": "FIRST_VISIBLE_PURPLE_HORIZONTAL_TEXT_BLUR",
+          "frame_file": "frame_00014.jpg",
+          "description": "字幕の最初の可視痕跡。以降横方向に広がって字形へ解像する。微弱なアルファ値の厳密測定ではない。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": null,
+      "instant_visual_reframe_count": 1,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "拡大・カラー・オーバーレイを一緒に切り替える局所例。元素材不在で元カメラ切替とデジタル拡大の判別は未完了。ロゴ類を非表示にしたのか、焼き込み映像の拡大で画外へ出たのかも未分離。SE同期は不明。"
+    },
+    {
+      "video_id": "qSnFoc6bJ7g",
+      "reference_video": "https://www.youtube.com/watch?v=qSnFoc6bJ7g&t=133",
+      "evidence_directory": "evidence/videos/qSnFoc6bJ7g/dense_133.6_134.2/",
+      "source_pts_first_s": 133.6,
+      "source_pts_last_s": 134.184,
+      "decoded_frames_visually_reviewed": 36,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 133.6,
+          "event": "PURPLE_SUBTITLE_HORIZONTAL_BLUR_CONTINUES",
+          "frame_file": "frame_00001.jpg"
+        },
+        {
+          "time_window_s": [
+            133.717,
+            133.75
+          ],
+          "event": "SUBTITLE_BECOMES_VISUALLY_RESOLVED",
+          "description": "『本当に使っちゃいけないお金を使った』が明瞭になる窓。133.734にはほぼ安定した字形。画像圧縮と目視による微小なブラーの限界を含む。"
+        },
+        {
+          "time_s": 133.734,
+          "event": "READABLE_PURPLE_MINCHO_EMPHASIS",
+          "frame_file": "frame_00009.jpg"
+        },
+        {
+          "time_s": 134.184,
+          "event": "EMPHASIS_RETAINED",
+          "frame_file": "frame_00036.jpg"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 0,
+      "paired_visual_switch_s": 133.4,
+      "approx_enter_duration_s": 0.33,
+      "exact_enter_duration_s": null,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "同じ寄り画のまま字幕が横ブラーから読める形へ変わる。0.33秒は切替からの目視概算で、正確なプリセットENTER_DURATIONや発話同期ではない。"
+    },
+    {
+      "video_id": "qSnFoc6bJ7g",
+      "reference_video": "https://www.youtube.com/watch?v=qSnFoc6bJ7g&t=135",
+      "evidence_directory": "evidence/videos/qSnFoc6bJ7g/dense_135.9_136.2/",
+      "source_pts_first_s": 135.902,
+      "source_pts_last_s": 136.186,
+      "decoded_frames_visually_reviewed": 18,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 136.019,
+          "event": "LAST_CLOSEUP_WITH_PURPLE_EMPHASIS",
+          "frame_file": "frame_00008.jpg"
+        },
+        {
+          "time_s": 136.036,
+          "event": "HARD_CUT_TO_WIDE_NORMAL_COLOR_AND_NORMAL_BLUE_OUTLINE_SUBTITLE",
+          "frame_file": "frame_00009.jpg",
+          "description": "姿勢・手の位置が変わるワイドへ瞬時に切替。紫字幕を消し、青縁の『ただこれも』と隅ロゴ・章ラベルを表示。字幕の消去フェードはこの境界にない。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "paired_visual_switch_s": 133.4,
+      "emphasis_block_boundary_span_s": 2.636,
+      "interior_between_separate_intervals_continuously_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "2.636秒は別観測区間の入口と出口の差で、内側全フレームを見た保持尺ではない。色・字幕・構図を通常へ戻す境界は確定、声・BGM・SEは未聴取。"
+    },
+    {
+      "video_id": "RXuQ5dOJUOo",
+      "reference_video": "https://www.youtube.com/watch?v=RXuQ5dOJUOo&t=41",
+      "evidence_directory": "evidence/videos/RXuQ5dOJUOo/dense_41.8_42.4/",
+      "source_pts_first_s": 41.8,
+      "source_pts_last_s": 42.367,
+      "decoded_frames_visually_reviewed": 18,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 41.8,
+          "event": "GEOMETRIC_FOLD_ROTATION_TRANSITION_ALREADY_ACTIVE",
+          "frame_file": "frame_00001.jpg"
+        },
+        {
+          "time_s": 42.133,
+          "event": "MACHINE_SCENE_CANDIDATE_INSIDE_ONGOING_COMPOSITE_TRANSITION",
+          "frame_file": "frame_00011.jpg",
+          "description": "卓の縦実写から、黒背景・切り抜き本人・キャラクター矩形へ、分割面が回転しながら置き換わる途中。通常のハードカット1回と機械判定しない。"
+        },
+        {
+          "time_s": 42.367,
+          "event": "TRANSITION_STILL_ACTIVE_WITH_NEW_BLUE_PLAYER_TEXT_VISIBLE",
+          "frame_file": "frame_00018.jpg"
+        }
+      ],
+      "transition_full_start_s": null,
+      "transition_full_end_s": null,
+      "confirmed_source_shot_cut_count": null,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "特定のShortsの複合トランジション。プリセット名・全長・音は未特定。長尺へ標準追加せず、キャラクター素材は権利UNKNOWNの研究参照に限定する。"
+    },
+    {
+      "video_id": "E2KvTtptb7Y",
+      "reference_video": "https://www.youtube.com/watch?v=E2KvTtptb7Y&t=296",
+      "evidence_directory": "evidence/videos/E2KvTtptb7Y/dense_296.8_298.1/",
+      "source_pts_first_s": 296.8,
+      "source_pts_last_s": 298.083,
+      "decoded_frames_visually_reviewed": 78,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 296.8,
+          "event": "TABLE_CAMERA_CONTINUES_WITHOUT_NEW_HUD",
+          "frame_file": "frame_00001.jpg"
+        },
+        {
+          "time_window_s": [
+            296.883,
+            296.933
+          ],
+          "event": "NEW_HUD_FIRST_FAINT_VISIBLE_ENTRY_WINDOW",
+          "description": "小さい半透明のHUDが現れ、左右下へ広がりながら拡大・濃くなる。最初の微弱なアルファ値は目視だけでは確定しない。"
+        },
+        {
+          "time_s": 297.8,
+          "event": "HUD_LAYOUT_VISIBLE_WITH_PLACEHOLDERS_BEFORE_GAME_DATA",
+          "frame_file": "frame_00061.jpg"
+        },
+        {
+          "time_s": 297.817,
+          "event": "HOLE_CARDS_POSITIONS_POT_AND_BLINDS_POPULATE_TOGETHER",
+          "frame_file": "frame_00062.jpg",
+          "display": {
+            "self_hole_cards": [
+              "8H",
+              "2H"
+            ],
+            "opponent_position": "UTG",
+            "self_position": "MP",
+            "pot_display": "3K",
+            "blinds_display": "600–1.2K–1.2K"
+          }
+        },
+        {
+          "time_s": 298.083,
+          "event": "POPULATED_HUD_RETAINED_AT_INTERVAL_END",
+          "frame_file": "frame_00078.jpg"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 0,
+      "hud_visual_entry_approx_s": 0.9,
+      "hud_visual_entry_exact_s": null,
+      "paired_old_hud_exit_s": 295.567,
+      "old_hud_exit_to_new_data_boundary_span_s": 2.25,
+      "interior_between_separate_intervals_continuously_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "レイアウト入場とゲーム情報の投入を分ける局所例。0.9秒は目視概算で正確なENTER_DURATIONや効果全長ではない。2.25秒は別区間の境界間で、未観測の隙間を含む。背景カット、SE同期、実際の配札時刻を推定しない。"
+    },
+    {
+      "video_id": "E2KvTtptb7Y",
+      "reference_video": "https://www.youtube.com/watch?v=E2KvTtptb7Y&t=295",
+      "evidence_directory": "evidence/videos/E2KvTtptb7Y/dense_295.4_296/",
+      "source_pts_first_s": 295.4,
+      "source_pts_last_s": 295.983,
+      "decoded_frames_visually_reviewed": 36,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 295.4,
+          "event": "RGB_HORIZONTAL_BLUR_ALREADY_ACTIVE_WITH_OLD_RESULT_HUD_SHARP",
+          "frame_file": "frame_00001.jpg"
+        },
+        {
+          "time_s": 295.55,
+          "event": "LAST_FRAME_WITH_OLD_RESULT_TEXT_AND_ALL_HUD",
+          "frame_file": "frame_00010.jpg"
+        },
+        {
+          "time_s": 295.567,
+          "event": "OLD_RESULT_TEXT_AND_ALL_HUD_DISAPPEAR_TOGETHER",
+          "frame_file": "frame_00011.jpg"
+        },
+        {
+          "time_s": 295.983,
+          "event": "NEW_TABLE_VIEW_VISIBLE_WITH_RESIDUAL_RGB_EFFECT_AND_NO_HUD",
+          "frame_file": "frame_00036.jpg"
+        }
+      ],
+      "transition_full_start_s": null,
+      "transition_full_end_s": null,
+      "confirmed_source_shot_cut_count": null,
+      "confidence": "HIGH",
+      "generalization_confidence": "MEDIUM",
+      "comparison_reference": "R9yghVLgI4s 2717.400",
+      "warning": "2動画で類似の背景効果とHUD分離を観察したが、全編共通や3動画以上の正式STYLE UPDATEとはしない。SE・プリセット名・効果全長は未特定。"
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=594",
+      "evidence_directory": "evidence/videos/luauPBapN7U/dense_594.5_595.05/",
+      "source_pts_first_s": 594.527,
+      "source_pts_last_s": 595.028,
+      "decoded_frames_visually_reviewed": 16,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 594.794,
+          "event": "LAST_BANKER_7_WITH_SECOND_SLOT_HIDDEN",
+          "frame_file": "frame_00009.jpg"
+        },
+        {
+          "time_s": 594.828,
+          "event": "BANKER_SECOND_CARD_2_HEARTS_AND_TOTAL_9_APPEAR_TOGETHER",
+          "frame_file": "frame_00010.jpg",
+          "player_total_already_displayed": 9,
+          "table_view_retained": true
+        }
+      ],
+      "confirmed_source_shot_cut_count": 0,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "HUDの更新境界。実カードはこの観測区間の開始時点ですでに一部見えているため、物理的な公開開始からの遅延は確定しない。未使用の第3枠の裏柄を配布カードと数えない。"
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=595",
+      "evidence_directory": "evidence/videos/luauPBapN7U/dense_595.55_596.6/",
+      "source_pts_first_s": 595.562,
+      "source_pts_last_s": 596.596,
+      "decoded_frames_visually_reviewed": 32,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 595.895,
+          "event": "LAST_TABLE_VIEW_WITH_9_9_RESULT_HUD",
+          "frame_file": "frame_00011.jpg"
+        },
+        {
+          "time_s": 595.929,
+          "event": "HARD_CUT_TO_TWO_PERSON_REACTION_RETAINING_RESULT_HUD",
+          "frame_file": "frame_00012.jpg"
+        },
+        {
+          "time_s": 596.162,
+          "event": "LAST_REACTION_FRAME_BEFORE_LARGE_TIE_COMMENT",
+          "frame_file": "frame_00019.jpg"
+        },
+        {
+          "time_s": 596.196,
+          "event": "LARGE_SLANTED_WHITE_MINCHO_TIE_COMMENT_APPEARS",
+          "frame_file": "frame_00020.jpg",
+          "frames_after_reaction_cut": 8,
+          "seconds_after_reaction_cut": 0.267
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "paired_result_hud_update_s": 594.828,
+      "result_hud_to_reaction_cut_boundary_span_s": 1.101,
+      "paired_next_talk_cut_s": 602.202,
+      "reaction_cut_to_next_talk_boundary_span_s": 6.273,
+      "comment_entry_to_next_talk_boundary_span_s": 6.006,
+      "interior_between_separate_intervals_continuously_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "音声とSEの同期、字幕出現の意味が発話に対して遅いかは未聴取。切替境界間の尺であり、全リアクションの標準尺や平均カット間隔にしない。"
+    },
+    {
+      "video_id": "R9yghVLgI4s",
+      "reference_video": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=2709",
+      "evidence_directory": "evidence/videos/R9yghVLgI4s/dense_2709.1_2709.35/",
+      "source_pts_first_s": 2709.1,
+      "source_pts_last_s": 2709.333,
+      "decoded_frames_visually_reviewed": 15,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 2709.217,
+          "event": "LAST_TIGHTER_FRAME_WITH_BLUE_SHOWDOWN_COMMENT",
+          "frame_file": "frame_00008.jpg"
+        },
+        {
+          "time_s": 2709.233,
+          "event": "STEP_TO_WIDER_TABLE_FRAMING_AND_UPPER_COMMENT_DISAPPEARS",
+          "frame_file": "frame_00009.jpg",
+          "card_and_pot_hud_retained": true
+        }
+      ],
+      "source_shot_cut_count": null,
+      "scale_exact": null,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "広い画への瞬時変化は確認したが、素材カットとデジタルパンチアウトを厳密に分離していない。上部字幕だけを外しHUDを保つ局所判断を記録する。"
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=577",
+      "evidence_directory": "evidence/videos/luauPBapN7U/dense_577.25_577.65/",
+      "source_pts_first_s": 577.277,
+      "source_pts_last_s": 577.644,
+      "decoded_frames_visually_reviewed": 12,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 577.41,
+          "event": "LAST_TWO_SHOT_WITHOUT_CARD_HUD",
+          "frame_file": "frame_00005.jpg"
+        },
+        {
+          "time_s": 577.444,
+          "event": "HARD_CUT_TO_HANDS_AND_TABLE_WITH_CARD_HUD_APPEARANCE",
+          "frame_file": "frame_00006.jpg",
+          "initial_display": "左右3枠の裏柄、BANKER/PLAYER各0点、小型BET額。表示上の裏柄・0点を確定した手札・得点と混同しない。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW"
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=602",
+      "evidence_directory": "evidence/videos/luauPBapN7U/dense_602.04_602.34/",
+      "source_pts_first_s": 602.068,
+      "source_pts_last_s": 602.335,
+      "decoded_frames_visually_reviewed": 9,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 602.168,
+          "event": "LAST_REACTION_FRAME_WITH_TIE_COMMENT_AND_9_9_HUD",
+          "frame_file": "frame_00004.jpg"
+        },
+        {
+          "time_s": 602.202,
+          "event": "HARD_JUMP_CUT_TO_TALK_WITH_RESULT_TEXT_AND_HUD_REMOVED",
+          "frame_file": "frame_00005.jpg"
+        },
+        {
+          "time_s": 602.235,
+          "event": "EDITOR_COMMENT_FIRST_FAINTLY_VISIBLE",
+          "frame_file": "frame_00006.jpg",
+          "frames_after_cut": 1
+        },
+        {
+          "time_s": 602.335,
+          "event": "EDITOR_COMMENT_FADE_IN_IN_PROGRESS",
+          "frame_file": "frame_00009.jpg",
+          "enter_duration_exact_s": null
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "paired_hud_entry_s": 577.444,
+      "entry_to_exit_boundary_span_s": 24.758,
+      "interior_continuously_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "境界間の長さであり、全勝負共通のHUD尺・平均待ち時間ではない。編集者注釈の不透明度・フェード完了時点は未計測。"
+    },
+    {
+      "video_id": "R9yghVLgI4s",
+      "reference_video": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=2717",
+      "evidence_directory": "evidence/videos/R9yghVLgI4s/dense_2717.2_2717.7/",
+      "source_pts_first_s": 2717.2,
+      "source_pts_last_s": 2717.683,
+      "decoded_frames_visually_reviewed": 30,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 2717.2,
+          "event": "BACKGROUND_EFFECT_ALREADY_ACTIVE_WITH_RESULT_OVERLAYS",
+          "frame_file": "frame_00001.jpg",
+          "description": "虹色のずれ・横方向の流れのある背景映像。青い敗北説明とカード・WIN/LOSE・Potは鮮明に残る。"
+        },
+        {
+          "time_s": 2717.383,
+          "event": "LAST_FRAME_WITH_OLD_RESULT_TEXT_AND_HUD",
+          "frame_file": "frame_00012.jpg"
+        },
+        {
+          "time_s": 2717.4,
+          "event": "OLD_RESULT_TEXT_AND_ALL_HUD_DISAPPEAR_TOGETHER",
+          "frame_file": "frame_00013.jpg",
+          "background_effect_continues": true
+        },
+        {
+          "time_s": 2717.683,
+          "event": "BACKGROUND_EFFECT_STILL_ACTIVE",
+          "frame_file": "frame_00030.jpg"
+        }
+      ],
+      "transition_full_start_s": null,
+      "transition_full_end_s": null,
+      "confirmed_source_shot_cut_count": null,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "2717.400/2717.433/2717.467の機械候補を3回のカットと数えない。素材の切れ目や効果全長、SE同期はこの局所区間だけでは確定しない。"
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=23",
+      "evidence_directory": "evidence/videos/luauPBapN7U/dense_23.45_23.8/",
+      "source_pts_first_s": 23.457,
+      "source_pts_last_s": 23.79,
+      "decoded_frames_visually_reviewed": 11,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 23.59,
+          "event": "LAST_AIRPORT_TALK_FRAME",
+          "frame_file": "frame_00005.jpg"
+        },
+        {
+          "time_s": 23.624,
+          "event": "HARD_CUT_TO_PAST_TABLE_CLIP_WITH_NEW_SUBTITLE",
+          "frame_file": "frame_00006.jpg",
+          "subtitle_context": "前回のフィリピンでの負けについて言及する文字",
+          "asset_category": "PAST_CHANNEL_CLIPS",
+          "rights_status": "UNKNOWN",
+          "privacy_observation": "卓の主対象を残し、周囲の人物・領域を広くぼかす。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "境界の連続11フレームだけ。直前・直後の音声内容や全チャンネルのB-roll尺を確定しない。"
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "reference_video": "https://www.youtube.com/watch?v=luauPBapN7U&t=26",
+      "evidence_directory": "evidence/videos/luauPBapN7U/dense_26.75_27.05/",
+      "source_pts_first_s": 26.76,
+      "source_pts_last_s": 27.027,
+      "decoded_frames_visually_reviewed": 9,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 26.894,
+          "event": "LAST_PAST_TABLE_CLIP_FRAME",
+          "frame_file": "frame_00005.jpg"
+        },
+        {
+          "time_s": 26.927,
+          "event": "HARD_CUT_BACK_TO_AIRPORT_TALK_WITH_NEW_SUBTITLE",
+          "frame_file": "frame_00006.jpg"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "paired_insert_start_s": 23.624,
+      "boundary_to_boundary_span_s": 3.303,
+      "insert_interior_continuously_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "挿入開始と復帰の間は3.303秒。内部全フレームは未確認なので、無編集の単一ショットやカテゴリ平均尺とは認定しない。"
+    },
+    {
+      "video_id": "CEf_sKZk6d8",
+      "reference_video": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=57",
+      "evidence_directory": "evidence/videos/CEf_sKZk6d8/dense_57.7_59.2/",
+      "source_pts_first_s": 57.723,
+      "source_pts_last_s": 59.193,
+      "decoded_frames_visually_reviewed": 45,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 57.89,
+          "event": "LAST_WIDE_FRAME_BEFORE_PUNCH_IN",
+          "frame_file": "frame_00006.jpg"
+        },
+        {
+          "time_s": 57.923,
+          "event": "STEP_PUNCH_IN_ON_HANDS_SQUEEZING_CARD",
+          "frame_file": "frame_00007.jpg",
+          "scale_estimate_range": [
+            1.45,
+            1.6
+          ],
+          "scale_estimate_confidence": "LOW",
+          "scale_exact": null,
+          "subtitle_state": "Two prior green/yellow lines still visible for this frame"
+        },
+        {
+          "time_s": 57.956,
+          "event": "PRIOR_SUBTITLE_DISAPPEARS",
+          "frame_file": "frame_00008.jpg",
+          "relative_to_punch_in_frames": 1
+        },
+        {
+          "time_s": 58.892,
+          "event": "LAST_PUNCHED_IN_FRAME",
+          "frame_file": "frame_00036.jpg"
+        },
+        {
+          "time_s": 58.926,
+          "event": "STEP_PUNCH_OUT_AND_REACTION_TEXT_APPEAR",
+          "frame_file": "frame_00037.jpg",
+          "subtitle": "Short red text with yellow outline inside the footage; not below it",
+          "se_sync": null
+        }
+      ],
+      "punch_in_hold_s": 1.003,
+      "punch_in_hold_decoded_frames": 30,
+      "source_shot_cut_count": null,
+      "confirmed_scale_step_count": 2,
+      "reason_hypothesis": "カードの端を確認する手元へ注意を寄せた後、引き画と反応字幕へ戻す。結果はこの区間だけでは確定しない。",
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "One local example. It does not establish a universal 1-second hold, channel-wide zoom frequency, or a camera-source cut. PTS rounding is about 1 ms."
+    },
+    {
+      "video_id": "R9yghVLgI4s",
+      "reference_video": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=12",
+      "evidence_directory": "evidence/videos/R9yghVLgI4s/dense_12_12.2/",
+      "source_pts_first_s": 12,
+      "source_pts_last_s": 12.183,
+      "decoded_frames_visually_reviewed": 12,
+      "audio_directly_reviewed": false,
+      "events": [],
+      "confirmed_scale_step_count": 0,
+      "observation": "総集編の導入用の着席トーク。右上に白太ゴシック系の総集編ラベル、下中央に黄太ゴシック系＋黒い縁の謝辞字幕。12フレームでは同じ字幕が維持される。",
+      "reason_hypothesis": "総集編用に追加された導入と、収録済みの過去本編の字幕設計を分けて調べる必要がある。",
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "Only a 0.2-second local sample. No claim about the rest of the 4-hour-35-minute video, cut frequency, subtitle hold duration, or font identity."
+    },
+    {
+      "video_id": "R9yghVLgI4s",
+      "reference_video": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=4714",
+      "audio_directly_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "evidence_directory": "evidence/videos/R9yghVLgI4s/dense_4714.3_4714.8/",
+      "source_pts_first_s": 4714.3,
+      "source_pts_last_s": 4714.783,
+      "decoded_frames_visually_reviewed": 30,
+      "events": [
+        {
+          "time_s": 4714.483,
+          "event": "LAST_WIDE_BEFORE_DEALER_HAND_CLOSEUP",
+          "frame_file": "frame_00012.jpg"
+        },
+        {
+          "time_s": 4714.5,
+          "event": "INSTANT_REFRAME_TO_DEALER_HANDS_KEEPING_HUD",
+          "frame_file": "frame_00013.jpg",
+          "description": "本人を含む卓ワイドからディーラーの手元へ瞬時に寄る。隅ロゴ・日数・Banker A♠2♣=3/Player空欄の右下HUDは同じ位置・大きさで残る。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": null,
+      "instant_visual_reframe_count": 1,
+      "warning": "瞬時の画角変更を確認したが、別カメラ切替かデジタルパンチインかの厳密照合は未完了。隅とHUDは背景の拡大から独立。"
+    },
+    {
+      "video_id": "R9yghVLgI4s",
+      "reference_video": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=4714",
+      "audio_directly_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "evidence_directory": "evidence/videos/R9yghVLgI4s/dense_4716.4_4716.9/",
+      "source_pts_first_s": 4716.4,
+      "source_pts_last_s": 4716.883,
+      "decoded_frames_visually_reviewed": 30,
+      "events": [
+        {
+          "time_s": 4716.583,
+          "event": "LAST_DEALER_CLOSEUP_WITH_PLAYER_HUD_EMPTY",
+          "frame_file": "frame_00012.jpg"
+        },
+        {
+          "time_s": 4716.6,
+          "event": "INSTANT_WIDE_REACTION_WITH_PLAYER_CARD_AND_POINT_UPDATE",
+          "frame_file": "frame_00013.jpg",
+          "description": "本人を含む引きに戻り、同じフレームでPlayer Q♠8♦と8点をHUDへ入れる。"
+        },
+        {
+          "time_s": 4716.617,
+          "event": "NO_RED_LOSS_TEXT_YET_VISUALLY",
+          "frame_file": "frame_00014.jpg"
+        },
+        {
+          "time_s": 4716.633,
+          "event": "FIRST_VISIBLE_RED_LOSS_TEXT_FADE",
+          "frame_file": "frame_00015.jpg",
+          "description": "『一瞬で-260,000円』が薄く見え始め、後続で濃くなる。反応への切替/カード更新より2フレーム＝約0.033秒遅れる。字幕の最終不透明化はこの区間だけでは未確定。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": null,
+      "instant_visual_reframe_count": 1,
+      "paired_visual_switch_s": 4714.5,
+      "boundary_separation_s": 2.1,
+      "warning": "2.1秒は寄り/引きの境界差であり、間の全フレームを確認した保持尺ではない。素材カットかリフレームか、音同期、最終ENTER_DURATIONはUNKNOWN。損失26万円の実決済はBET約24万円との不一致が未解決。"
+    },
+    {
+      "video_id": "R9yghVLgI4s",
+      "reference_video": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=4714",
+      "audio_directly_reviewed": false,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "evidence_directory": "evidence/videos/R9yghVLgI4s/dense_4724.7_4725.1/",
+      "source_pts_first_s": 4724.7,
+      "source_pts_last_s": 4725.083,
+      "decoded_frames_visually_reviewed": 24,
+      "events": [
+        {
+          "time_s": 4724.883,
+          "event": "LAST_STANDING_REACTION_WITHOUT_ADDITIONAL_SUBTITLE_OR_HUD",
+          "frame_file": "frame_00012.jpg"
+        },
+        {
+          "time_s": 4724.9,
+          "event": "HARD_CUT_TO_STANDING_STAFF_EXCHANGE",
+          "frame_file": "frame_00013.jpg",
+          "description": "立っている本人の横寄りから、姿勢・背景が変わる広い立ち話へハードカット。同時に『スタッフ）バカラで$1,500負けただけでしょ』の通常白字幕が出る。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "warning": "区間先頭ですでにHUD/赤い損失字幕はない。4724.9をHUD消去時刻としない。4716.6から8.3秒の間に未確認部分があるので無カットの反応保持尺として数えない。"
+    },
+    {
+      "video_id": "rUZ__0uKiMA",
+      "reference_video": "https://www.youtube.com/watch?v=rUZ__0uKiMA&t=4813",
+      "evidence_directory": "evidence/videos/rUZ__0uKiMA/dense_4813_4813.6/",
+      "source_pts_first_s": 4813,
+      "source_pts_last_s": 4813.583,
+      "decoded_frames_visually_reviewed": 36,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 4813.2,
+          "event": "LAST_FULL_FRAME_SPECTATOR_SHOT_WITH_CORNER_LOGO",
+          "frame_file": "frame_00013.jpg"
+        },
+        {
+          "time_s": 4813.217,
+          "event": "HARD_LAYOUT_SWITCH_TO_RACE_ROSTER_PICKS_AND_REACTION_PIP",
+          "frame_file": "frame_00014.jpg",
+          "description": "全画面の人物画から4領域合成へ瞬時切替。レース左上・選手表右上・3名の予想左下・反応小窓右下が同時に見え、隅ロゴは消える。人物の手の位置も前フレームと異なり、同一時間の単純縮小継続とは確認できない。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": null,
+      "confirmed_composite_layout_switch_count": 1,
+      "approx_layout_split_normalized": {
+        "x": 0.76,
+        "y": 0.76,
+        "uncertainty": 0.02,
+        "method": "目視概算。文字帯/境界を含み厳密なテンプレート座標ではない"
+      },
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "合成切替は確定したが素材ソースの切替数とは別。レース音声と撮影側音声の同期、入場前後の編集尺、元映像の使用許諾は未確認。"
+    },
+    {
+      "video_id": "rUZ__0uKiMA",
+      "reference_video": "https://www.youtube.com/watch?v=rUZ__0uKiMA&t=4887",
+      "evidence_directory": "evidence/videos/rUZ__0uKiMA/dense_4887.1_4887.6/",
+      "source_pts_first_s": 4887.1,
+      "source_pts_last_s": 4887.583,
+      "decoded_frames_visually_reviewed": 30,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 4887.1,
+          "event": "FINISH_ORDER_STRIP_ALREADY_VISIBLE_OVER_RACE_COMPOSITE",
+          "frame_file": "frame_00001.jpg"
+        },
+        {
+          "time_s": 4887.283,
+          "event": "LAST_RACE_COMPOSITE_WITH_FINISH_ORDER_STRIP",
+          "frame_file": "frame_00012.jpg"
+        },
+        {
+          "time_s": 4887.3,
+          "event": "HARD_LAYOUT_SWITCH_TO_FULL_FRAME_REACTION_KEEP_FINISH_ORDER",
+          "frame_file": "frame_00013.jpg",
+          "description": "レース・選手表・予想欄・小窓の合成を外して同じ2人の反応を主画面へ。『着順1 3 2』帯は位置/サイズを目視上保ち、右上ロゴが復帰。"
+        }
+      ],
+      "confirmed_source_shot_cut_count": null,
+      "confirmed_composite_layout_switch_count": 1,
+      "finish_order_strip_first_enter_s": null,
+      "finish_order_strip_exit_s": null,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "結果帯は区間入口ですでに存在し、出現時刻は未確認。2区間の差を連続したレース尺・反応尺にしない。レースと反応の実時間・音声同期は未確認。"
+    }
+  ],
+  "audio_track_checks": [
+    {
+      "video_id": "R9yghVLgI4s",
+      "downloaded_audio_format_id": "251",
+      "public_format_listing_language": "ja",
+      "format_note": "medium, webm_dash; separate DRC versions exist and were not selected",
+      "container_language_tag": "eng",
+      "note": "Public YouTube format language is Japanese despite generic English language tag in merged MKV. Container tag alone is not proof of a dubbed track."
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "downloaded_audio_format_id": "251-1",
+      "public_format_listing_language": "ja",
+      "format_note": "Japanese original (default)",
+      "alternative_auto_dub": "en-US is format 251-0, not the selected format"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,220"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3220
+			},
+			"text": "ん 本日"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,220",
+				"to": "00:00:06,940"
+			},
+			"offsets": {
+				"from": 3220,
+				"to": 6940
+			},
+			"text": "暇すぎるので海物語が言いそうなシリーズ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,940",
+				"to": "00:00:14,240"
+			},
+			"offsets": {
+				"from": 6940,
+				"to": 14240
+			},
+			"text": "これタコから行きます 江戸前って言われるけども実は工場から来てるな"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,640",
+				"to": "00:00:20,500"
+			},
+			"offsets": {
+				"from": 15640,
+				"to": 20500
+			},
+			"text": "多い たまんタコ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,500",
+				"to": "00:00:29,740"
+			},
+			"offsets": {
+				"from": 20500,
+				"to": 29740
+			},
+			"text": "甲羅にこもってるんじゃない今社内調整してる 4番人間関係はだいたい博多で"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:38,900"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 38900
+			},
+			"text": "調節 最近最近 led がいいより led に変えたんだこれ熱くなんないんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,900",
+				"to": "00:00:44,560"
+			},
+			"offsets": {
+				"from": 38900,
+				"to": 44560
+			},
+			"text": "7番 大丈夫全部俺のせいにしていいよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,560",
+				"to": "00:00:48,320"
+			},
+			"offsets": {
+				"from": 44560,
+				"to": 48320
+			},
+			"text": "ほらママが来た 掛けて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,320",
+				"to": "00:00:54,520"
+			},
+			"offsets": {
+				"from": 48320,
+				"to": 54520
+			},
+			"text": "踊り子って書いてある 踊り子だな"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,520",
+				"to": "00:01:03,420"
+			},
+			"offsets": {
+				"from": 54520,
+				"to": 63420
+			},
+			"text": "海物語だったら単発だけど 普通にスロット音がサバンナ系だったら俺結構強いから"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,420",
+				"to": "00:01:07,420"
+			},
+			"offsets": {
+				"from": 63420,
+				"to": 67420
+			},
+			"text": "お祭りって聞いたけど 今日議事録ある?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,420",
+				"to": "00:01:12,420"
+			},
+			"offsets": {
+				"from": 67420,
+				"to": 72420
+			},
+			"text": "15"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,420",
+				"to": "00:01:14,460"
+			},
+			"offsets": {
+				"from": 72420,
+				"to": 74460
+			},
+			"text": "見てみな"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,460",
+				"to": "00:01:16,940"
+			},
+			"offsets": {
+				"from": 74460,
+				"to": 76940
+			},
+			"text": "あれが横から飛んで"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,940",
+				"to": "00:01:18,600"
+			},
+			"offsets": {
+				"from": 76940,
+				"to": 78600
+			},
+			"text": "台を叩いてしまってる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,600",
+				"to": "00:01:20,260"
+			},
+			"offsets": {
+				"from": 78600,
+				"to": 80260
+			},
+			"text": "人間の姿だよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,260",
+				"to": "00:01:22,280"
+			},
+			"offsets": {
+				"from": 80260,
+				"to": 82280
+			},
+			"text": "ママ怖いよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,280",
+				"to": "00:01:23,540"
+			},
+			"offsets": {
+				"from": 82280,
+				"to": 83540
+			},
+			"text": "ドラゴンチャ"
+		}
+	]
+}

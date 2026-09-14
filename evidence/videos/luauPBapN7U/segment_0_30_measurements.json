@@ -1,0 +1,177 @@
+{
+  "video_id": "luauPBapN7U",
+  "source": "segment_0_30.webm",
+  "scope": "SAMPLED_BROWSER_DECODED_MIX_ONLY",
+  "original_video_integrated_lufs": null,
+  "original_stem_levels": null,
+  "sample_integrated_lufs": -17.4,
+  "sample_loudness_range_lu": 3.3,
+  "sample_true_peak_dbfs": -1.7,
+  "rendered_frames": 897,
+  "median_frame_interval_s": 0.03336699999999837,
+  "max_frame_gap_s": 0.06673399999999999,
+  "scene_change_candidates": [
+    {
+      "time_s": 1.568233,
+      "mean_rgb_difference": 25.680989583333332
+    },
+    {
+      "time_s": 1.6016,
+      "mean_rgb_difference": 27.57103587962963
+    },
+    {
+      "time_s": 1.634966,
+      "mean_rgb_difference": 28.37037037037037
+    },
+    {
+      "time_s": 1.668333,
+      "mean_rgb_difference": 29.68185763888889
+    },
+    {
+      "time_s": 1.7017,
+      "mean_rgb_difference": 29.47800925925926
+    },
+    {
+      "time_s": 1.735066,
+      "mean_rgb_difference": 30.390625
+    },
+    {
+      "time_s": 1.768433,
+      "mean_rgb_difference": 35.58940972222222
+    },
+    {
+      "time_s": 1.8018,
+      "mean_rgb_difference": 33.465567129629626
+    },
+    {
+      "time_s": 1.835166,
+      "mean_rgb_difference": 33.335792824074076
+    },
+    {
+      "time_s": 1.868533,
+      "mean_rgb_difference": 34.94053819444444
+    },
+    {
+      "time_s": 1.9019,
+      "mean_rgb_difference": 36.081886574074076
+    },
+    {
+      "time_s": 1.935266,
+      "mean_rgb_difference": 37.398148148148145
+    },
+    {
+      "time_s": 1.968633,
+      "mean_rgb_difference": 38.08015046296296
+    },
+    {
+      "time_s": 2.002,
+      "mean_rgb_difference": 37.31741898148148
+    },
+    {
+      "time_s": 2.035366,
+      "mean_rgb_difference": 37.89597800925926
+    },
+    {
+      "time_s": 2.068733,
+      "mean_rgb_difference": 37.62254050925926
+    },
+    {
+      "time_s": 2.1021,
+      "mean_rgb_difference": 36.54976851851852
+    },
+    {
+      "time_s": 2.135466,
+      "mean_rgb_difference": 35.41898148148148
+    },
+    {
+      "time_s": 2.168833,
+      "mean_rgb_difference": 35.313802083333336
+    },
+    {
+      "time_s": 2.2022,
+      "mean_rgb_difference": 34.9095775462963
+    },
+    {
+      "time_s": 2.235566,
+      "mean_rgb_difference": 34.411892361111114
+    },
+    {
+      "time_s": 2.268933,
+      "mean_rgb_difference": 34.831886574074076
+    },
+    {
+      "time_s": 2.3023,
+      "mean_rgb_difference": 34.0162037037037
+    },
+    {
+      "time_s": 2.335666,
+      "mean_rgb_difference": 32.77502893518518
+    },
+    {
+      "time_s": 2.369033,
+      "mean_rgb_difference": 31.717881944444443
+    },
+    {
+      "time_s": 2.4024,
+      "mean_rgb_difference": 29.911747685185187
+    },
+    {
+      "time_s": 2.435766,
+      "mean_rgb_difference": 30.25390625
+    },
+    {
+      "time_s": 2.469133,
+      "mean_rgb_difference": 28.87282986111111
+    },
+    {
+      "time_s": 2.5025,
+      "mean_rgb_difference": 29.026765046296298
+    },
+    {
+      "time_s": 2.535866,
+      "mean_rgb_difference": 26.63888888888889
+    },
+    {
+      "time_s": 2.569233,
+      "mean_rgb_difference": 27.73292824074074
+    },
+    {
+      "time_s": 2.6026,
+      "mean_rgb_difference": 26.13816550925926
+    },
+    {
+      "time_s": 2.635966,
+      "mean_rgb_difference": 26.72236689814815
+    },
+    {
+      "time_s": 5.8058,
+      "mean_rgb_difference": 48.03356481481482
+    },
+    {
+      "time_s": 11.478133,
+      "mean_rgb_difference": 36.24710648148148
+    },
+    {
+      "time_s": 17.450766,
+      "mean_rgb_difference": 51.27936921296296
+    },
+    {
+      "time_s": 20.3203,
+      "mean_rgb_difference": 49.68504050925926
+    },
+    {
+      "time_s": 22.4224,
+      "mean_rgb_difference": 28.21122685185185
+    },
+    {
+      "time_s": 23.6236,
+      "mean_rgb_difference": 97.10300925925925
+    },
+    {
+      "time_s": 26.9269,
+      "mean_rgb_difference": 100.07349537037037
+    }
+  ],
+  "confirmed_cut_count": null,
+  "summary": "Summary:\n\n  Integrated loudness:\n    I:         -17.4 LUFS\n    Threshold: -28.0 LUFS\n\n  Loudness range:\n    LRA:         3.3 LU\n    Threshold: -38.1 LUFS\n    LRA low:   -20.0 LUFS\n    LRA high:  -16.7 LUFS\n\n  True peak:\n    Peak:       -1.7 dBFS\n"
+}

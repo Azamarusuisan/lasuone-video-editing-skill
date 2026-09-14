@@ -1,0 +1,29 @@
+{
+  "candidate": "full_audio_asr.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 462,
+  "flagged_segment_count": 161,
+  "max_exact_repeat_count": 117,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "ん",
+      "count": 13,
+      "from_ms": 681200,
+      "to_ms": 702740
+    },
+    {
+      "text": "ん",
+      "count": 31,
+      "from_ms": 711740,
+      "to_ms": 739740
+    },
+    {
+      "text": "おしっこしたいの?",
+      "count": 117,
+      "from_ms": 891780,
+      "to_ms": 1048220
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

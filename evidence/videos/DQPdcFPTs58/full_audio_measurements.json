@@ -1,0 +1,59 @@
+{
+  "video_id": "DQPdcFPTs58",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 64.63,
+  "processed_interval_s": [
+    0,
+    64.63
+  ],
+  "integrated_lufs": -25.7,
+  "loudness_range_lu": 7.5,
+  "true_peak_dbfs": -5.9,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    0.659354,
+    1.50394,
+    2.5589,
+    20.0406,
+    34.7812,
+    35.6188,
+    60.0855
+  ],
+  "silence_ends": [
+    {
+      "end_s": 1.50387,
+      "duration_s": 0.844521
+    },
+    {
+      "end_s": 1.93477,
+      "duration_s": 0.430833
+    },
+    {
+      "end_s": 2.87365,
+      "duration_s": 0.31475
+    },
+    {
+      "end_s": 20.3799,
+      "duration_s": 0.339354
+    },
+    {
+      "end_s": 35.1498,
+      "duration_s": 0.368542
+    },
+    {
+      "end_s": 36.8015,
+      "duration_s": 1.18269
+    },
+    {
+      "end_s": 60.4325,
+      "duration_s": 0.347
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

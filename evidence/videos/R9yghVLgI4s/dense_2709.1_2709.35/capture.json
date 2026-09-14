@@ -1,0 +1,72 @@
+{
+  "video_id": "R9yghVLgI4s",
+  "evidence_type": "ALL_DECODED_FRAMES_IN_LOCAL_SEGMENT",
+  "full_watch": false,
+  "requested_interval_s": [
+    2709.1,
+    2709.35
+  ],
+  "timestamp_method": "Source PTS preserved and read from FFmpeg showinfo",
+  "frames": [
+    {
+      "file": "frame_00001.jpg",
+      "time_s": 2709.1
+    },
+    {
+      "file": "frame_00002.jpg",
+      "time_s": 2709.117
+    },
+    {
+      "file": "frame_00003.jpg",
+      "time_s": 2709.133
+    },
+    {
+      "file": "frame_00004.jpg",
+      "time_s": 2709.15
+    },
+    {
+      "file": "frame_00005.jpg",
+      "time_s": 2709.167
+    },
+    {
+      "file": "frame_00006.jpg",
+      "time_s": 2709.183
+    },
+    {
+      "file": "frame_00007.jpg",
+      "time_s": 2709.2
+    },
+    {
+      "file": "frame_00008.jpg",
+      "time_s": 2709.217
+    },
+    {
+      "file": "frame_00009.jpg",
+      "time_s": 2709.233
+    },
+    {
+      "file": "frame_00010.jpg",
+      "time_s": 2709.25
+    },
+    {
+      "file": "frame_00011.jpg",
+      "time_s": 2709.267
+    },
+    {
+      "file": "frame_00012.jpg",
+      "time_s": 2709.283
+    },
+    {
+      "file": "frame_00013.jpg",
+      "time_s": 2709.3
+    },
+    {
+      "file": "frame_00014.jpg",
+      "time_s": 2709.317
+    },
+    {
+      "file": "frame_00015.jpg",
+      "time_s": 2709.333
+    }
+  ]
+}

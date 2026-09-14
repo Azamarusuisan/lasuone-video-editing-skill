@@ -1,0 +1,197 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,800"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2800
+			},
+			"text": "ルーレットの赤に社長時代の役員報酬をかけたら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,800",
+				"to": "00:00:03,940"
+			},
+			"offsets": {
+				"from": 2800,
+				"to": 3940
+			},
+			"text": "とんでもないことになりました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,940",
+				"to": "00:00:06,500"
+			},
+			"offsets": {
+				"from": 3940,
+				"to": 6500
+			},
+			"text": "この男が本日実践するカジノゲームは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,500",
+				"to": "00:00:08,540"
+			},
+			"offsets": {
+				"from": 6500,
+				"to": 8540
+			},
+			"text": "ルーレットの最も有名なギャンブルだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,540",
+				"to": "00:00:10,480"
+			},
+			"offsets": {
+				"from": 8540,
+				"to": 10480
+			},
+			"text": "この男はルーレットの赤色に"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,480",
+				"to": "00:00:13,040"
+			},
+			"offsets": {
+				"from": 10480,
+				"to": 13040
+			},
+			"text": "社長時代の役員報酬を全部ぶち込んだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,040",
+				"to": "00:00:16,080"
+			},
+			"offsets": {
+				"from": 13040,
+				"to": 16080
+			},
+			"text": "このチップの形が何を意味しているかは分からないが"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,080",
+				"to": "00:00:18,020"
+			},
+			"offsets": {
+				"from": 16080,
+				"to": 18020
+			},
+			"text": "とにかくこの男はニコニコだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,020",
+				"to": "00:00:19,620"
+			},
+			"offsets": {
+				"from": 18020,
+				"to": 19620
+			},
+			"text": "ギャンブル中毒者ラスワンが"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,620",
+				"to": "00:00:22,200"
+			},
+			"offsets": {
+				"from": 19620,
+				"to": 22200
+			},
+			"text": "この1回のギャンブルにかけた金額はなんと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,200",
+				"to": "00:00:24,080"
+			},
+			"offsets": {
+				"from": 22200,
+				"to": 24080
+			},
+			"text": "とりあえず1万ドルいきました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,080",
+				"to": "00:00:26,300"
+			},
+			"offsets": {
+				"from": 24080,
+				"to": 26300
+			},
+			"text": "ラスワンは見事赤を的中させ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,300",
+				"to": "00:00:28,720"
+			},
+			"offsets": {
+				"from": 26300,
+				"to": 28720
+			},
+			"text": "160万円を掴むことができるのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,720",
+				"to": "00:00:38,800"
+			},
+			"offsets": {
+				"from": 28720,
+				"to": 38800
+			},
+			"text": "黒だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,800",
+				"to": "00:00:40,580"
+			},
+			"offsets": {
+				"from": 38800,
+				"to": 40580
+			},
+			"text": "もうチップ"
+		}
+	]
+}

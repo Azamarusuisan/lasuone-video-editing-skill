@@ -1,0 +1,318 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,240"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1240
+			},
+			"text": "バンカーだもん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,240",
+				"to": "00:00:03,600"
+			},
+			"offsets": {
+				"from": 1240,
+				"to": 3600
+			},
+			"text": "バンカーだもん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,600",
+				"to": "00:00:06,680"
+			},
+			"offsets": {
+				"from": 3600,
+				"to": 6680
+			},
+			"text": "絶対バンカーだもん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,680",
+				"to": "00:00:08,920"
+			},
+			"offsets": {
+				"from": 6680,
+				"to": 8920
+			},
+			"text": "最近バカラーの教科書っていうのを"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,920",
+				"to": "00:00:09,820"
+			},
+			"offsets": {
+				"from": 8920,
+				"to": 9820
+			},
+			"text": "10万円で買ったんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,820",
+				"to": "00:00:11,680"
+			},
+			"offsets": {
+				"from": 9820,
+				"to": 11680
+			},
+			"text": "プレイヤー伸びてる時に"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,680",
+				"to": "00:00:13,340"
+			},
+			"offsets": {
+				"from": 11680,
+				"to": 13340
+			},
+			"text": "プレイヤーかければ絶対に負けないから"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,340",
+				"to": "00:00:15,900"
+			},
+			"offsets": {
+				"from": 13340,
+				"to": 15900
+			},
+			"text": "お前ら実家も行けよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,900",
+				"to": "00:00:17,640"
+			},
+			"offsets": {
+				"from": 15900,
+				"to": 17640
+			},
+			"text": "いいか見てろよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,640",
+				"to": "00:00:18,480"
+			},
+			"offsets": {
+				"from": 17640,
+				"to": 18480
+			},
+			"text": "これはかけれんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,480",
+				"to": "00:00:21,040"
+			},
+			"offsets": {
+				"from": 18480,
+				"to": 21040
+			},
+			"text": "見てろよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,040",
+				"to": "00:00:22,560"
+			},
+			"offsets": {
+				"from": 21040,
+				"to": 22560
+			},
+			"text": "教科書買ったんだから"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,560",
+				"to": "00:00:24,020"
+			},
+			"offsets": {
+				"from": 22560,
+				"to": 24020
+			},
+			"text": "ほら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,020",
+				"to": "00:00:26,380"
+			},
+			"offsets": {
+				"from": 24020,
+				"to": 26380
+			},
+			"text": "ほら見ろ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,380",
+				"to": "00:00:29,980"
+			},
+			"offsets": {
+				"from": 26380,
+				"to": 29980
+			},
+			"text": "ほら急だよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,980",
+				"to": "00:00:31,860"
+			},
+			"offsets": {
+				"from": 29980,
+				"to": 31860
+			},
+			"text": "なかったかやまえ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,860",
+				"to": "00:00:32,660"
+			},
+			"offsets": {
+				"from": 31860,
+				"to": 32660
+			},
+			"text": "ほらチップだチップ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,660",
+				"to": "00:00:33,340"
+			},
+			"offsets": {
+				"from": 32660,
+				"to": 33340
+			},
+			"text": "ほらチップだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,340",
+				"to": "00:00:34,260"
+			},
+			"offsets": {
+				"from": 33340,
+				"to": 34260
+			},
+			"text": "ほら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,260",
+				"to": "00:00:36,600"
+			},
+			"offsets": {
+				"from": 34260,
+				"to": 36600
+			},
+			"text": "でっけえだろ俺の一物"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,600",
+				"to": "00:00:40,060"
+			},
+			"offsets": {
+				"from": 36600,
+				"to": 40060
+			},
+			"text": "伸びてる時はこういう形でやるんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,060",
+				"to": "00:00:40,480"
+			},
+			"offsets": {
+				"from": 40060,
+				"to": 40480
+			},
+			"text": "一物"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,480",
+				"to": "00:00:43,980"
+			},
+			"offsets": {
+				"from": 40480,
+				"to": 43980
+			},
+			"text": "プレイヤーだもん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,980",
+				"to": "00:00:46,660"
+			},
+			"offsets": {
+				"from": 43980,
+				"to": 46660
+			},
+			"text": "絶対プレイヤーだもん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,660",
+				"to": "00:00:50,300"
+			},
+			"offsets": {
+				"from": 46660,
+				"to": 50300
+			},
+			"text": "絶対絶対プレイヤーだもん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,300",
+				"to": "00:00:54,700"
+			},
+			"offsets": {
+				"from": 50300,
+				"to": 54700
+			},
+			"text": "絶対プレイヤーだもん"
+		}
+	]
+}

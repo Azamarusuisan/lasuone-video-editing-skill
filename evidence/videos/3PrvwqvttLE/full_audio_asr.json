@@ -1,0 +1,208 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,700"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1700
+			},
+			"text": "まさに日本の化け物だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,700",
+				"to": "00:00:04,240"
+			},
+			"offsets": {
+				"from": 1700,
+				"to": 4240
+			},
+			"text": "優勝約3000万のトーナメント"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,240",
+				"to": "00:00:06,180"
+			},
+			"offsets": {
+				"from": 4240,
+				"to": 6180
+			},
+			"text": "残り5人で戦っています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,180",
+				"to": "00:00:09,220"
+			},
+			"offsets": {
+				"from": 6180,
+				"to": 9220
+			},
+			"text": "ラスワンがボタンからオールイン"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,220",
+				"to": "00:00:12,520"
+			},
+			"offsets": {
+				"from": 9220,
+				"to": 12520
+			},
+			"text": "SBのスマイル兄ちゃんに7ポケが入っています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,520",
+				"to": "00:00:14,880"
+			},
+			"offsets": {
+				"from": 12520,
+				"to": 14880
+			},
+			"text": "ラスワンは相手にカバーされているので"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,880",
+				"to": "00:00:17,080"
+			},
+			"offsets": {
+				"from": 14880,
+				"to": 17080
+			},
+			"text": "これが最後の勝負になるかもしれません"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,080",
+				"to": "00:00:18,540"
+			},
+			"offsets": {
+				"from": 17080,
+				"to": 18540
+			},
+			"text": "そして相手はコール"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,540",
+				"to": "00:00:21,780"
+			},
+			"offsets": {
+				"from": 18540,
+				"to": 21780
+			},
+			"text": "ラスワンの勝率は33%だが果たして"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,780",
+				"to": "00:00:24,600"
+			},
+			"offsets": {
+				"from": 21780,
+				"to": 24600
+			},
+			"text": "波動を使ったフロップは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,600",
+				"to": "00:00:27,680"
+			},
+			"offsets": {
+				"from": 24600,
+				"to": 27680
+			},
+			"text": "静かに見守ります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:32,780"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 32780
+			},
+			"text": "クイーンを引き当てるまさに化け物"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,780",
+				"to": "00:00:34,520"
+			},
+			"offsets": {
+				"from": 32780,
+				"to": 34520
+			},
+			"text": "果たしてリバーカードは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,520",
+				"to": "00:00:37,540"
+			},
+			"offsets": {
+				"from": 34520,
+				"to": 37540
+			},
+			"text": "ラスワン見事にダブルアップ成功"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,540",
+				"to": "00:00:39,280"
+			},
+			"offsets": {
+				"from": 37540,
+				"to": 39280
+			},
+			"text": "オイオッサンめちゃくちゃやで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,280",
+				"to": "00:00:41,540"
+			},
+			"offsets": {
+				"from": 39280,
+				"to": 41540
+			},
+			"text": "以上日本の珍獣でした"
+		}
+	]
+}

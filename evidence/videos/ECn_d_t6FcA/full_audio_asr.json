@@ -1,0 +1,329 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": "おやすみなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:32,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 32000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,000",
+				"to": "00:00:34,000"
+			},
+			"offsets": {
+				"from": 32000,
+				"to": 34000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,000",
+				"to": "00:00:36,000"
+			},
+			"offsets": {
+				"from": 34000,
+				"to": 36000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,000",
+				"to": "00:00:38,000"
+			},
+			"offsets": {
+				"from": 36000,
+				"to": 38000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,000",
+				"to": "00:00:40,000"
+			},
+			"offsets": {
+				"from": 38000,
+				"to": 40000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,000",
+				"to": "00:00:42,000"
+			},
+			"offsets": {
+				"from": 40000,
+				"to": 42000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 42000,
+				"to": 44000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:46,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 46000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,000",
+				"to": "00:00:48,000"
+			},
+			"offsets": {
+				"from": 46000,
+				"to": 48000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,000",
+				"to": "00:00:50,000"
+			},
+			"offsets": {
+				"from": 48000,
+				"to": 50000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,000",
+				"to": "00:00:52,000"
+			},
+			"offsets": {
+				"from": 50000,
+				"to": 52000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,000",
+				"to": "00:00:54,000"
+			},
+			"offsets": {
+				"from": 52000,
+				"to": 54000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,000",
+				"to": "00:00:56,000"
+			},
+			"offsets": {
+				"from": 54000,
+				"to": 56000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,000",
+				"to": "00:00:58,000"
+			},
+			"offsets": {
+				"from": 56000,
+				"to": 58000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,000",
+				"to": "00:00:59,000"
+			},
+			"offsets": {
+				"from": 58000,
+				"to": 59000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,000",
+				"to": "00:01:01,000"
+			},
+			"offsets": {
+				"from": 59000,
+				"to": 61000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,000",
+				"to": "00:01:03,000"
+			},
+			"offsets": {
+				"from": 61000,
+				"to": 63000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,000",
+				"to": "00:01:05,000"
+			},
+			"offsets": {
+				"from": 63000,
+				"to": 65000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,000",
+				"to": "00:01:07,000"
+			},
+			"offsets": {
+				"from": 65000,
+				"to": 67000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,000",
+				"to": "00:01:09,000"
+			},
+			"offsets": {
+				"from": 67000,
+				"to": 69000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,000",
+				"to": "00:01:11,000"
+			},
+			"offsets": {
+				"from": 69000,
+				"to": 71000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,000",
+				"to": "00:01:13,000"
+			},
+			"offsets": {
+				"from": 71000,
+				"to": 73000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,000",
+				"to": "00:01:15,000"
+			},
+			"offsets": {
+				"from": 73000,
+				"to": 75000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,000",
+				"to": "00:01:17,000"
+			},
+			"offsets": {
+				"from": 75000,
+				"to": 77000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,000",
+				"to": "00:01:19,000"
+			},
+			"offsets": {
+				"from": 77000,
+				"to": 79000
+			},
+			"text": "仕上がりなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,000",
+				"to": "00:01:21,000"
+			},
+			"offsets": {
+				"from": 79000,
+				"to": 81000
+			},
+			"text": "仕上がりなさい。"
+		}
+	]
+}

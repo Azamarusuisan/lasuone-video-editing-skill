@@ -1,0 +1,98 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,500"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7500
+			},
+			"text": "バカラで大金を貼るギャンチューの日常 ラザー何も貼ったんすかこれは88"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,980",
+				"to": "00:00:14,840"
+			},
+			"offsets": {
+				"from": 7980,
+				"to": 14840
+			},
+			"text": "マジでばいいマジでばいいよ サンボちゃん勝ちちゃうよそっちで2本とかだよ最高 日本だよね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,840",
+				"to": "00:00:22,720"
+			},
+			"offsets": {
+				"from": 14840,
+				"to": 22720
+			},
+			"text": "あサンボさんおーサンボさん ああサンボさんの足これね 足の足"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,720",
+				"to": "00:00:30,220"
+			},
+			"offsets": {
+				"from": 22720,
+				"to": 30220
+			},
+			"text": "そうそう土台しっかりの足ね 国民の義務の高サイド俺が抜かなかったら俺これ万が一抜かなかったら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,220",
+				"to": "00:00:36,680"
+			},
+			"offsets": {
+				"from": 30220,
+				"to": 36680
+			},
+			"text": "チェーンぺーぜぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷぷ ええええええ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,680",
+				"to": "00:00:40,880"
+			},
+			"offsets": {
+				"from": 36680,
+				"to": 40880
+			},
+			"text": "こういうのほう 顔すごいな"
+		}
+	]
+}

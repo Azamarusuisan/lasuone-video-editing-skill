@@ -1,0 +1,197 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,060"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3060
+			},
+			"text": "お疲れ様です タバコをやめて5日目"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,060",
+				"to": "00:00:05,260"
+			},
+			"offsets": {
+				"from": 3060,
+				"to": 5260
+			},
+			"text": "毎日新社に来るようになりましたと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,260",
+				"to": "00:00:10,640"
+			},
+			"offsets": {
+				"from": 5260,
+				"to": 10640
+			},
+			"text": "タバコは1日2箱で毎日1000円でもったいないと思ってタバコをやめました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,640",
+				"to": "00:00:12,660"
+			},
+			"offsets": {
+				"from": 10640,
+				"to": 12660
+			},
+			"text": "新社は毎日5000円かかります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,660",
+				"to": "00:00:16,000"
+			},
+			"offsets": {
+				"from": 12660,
+				"to": 16000
+			},
+			"text": "どちらがお得でしょうか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,000",
+				"to": "00:00:18,920"
+			},
+			"offsets": {
+				"from": 16000,
+				"to": 18920
+			},
+			"text": "というかまぁちょっとYouTube本店の方を結構頑張ります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,920",
+				"to": "00:00:23,480"
+			},
+			"offsets": {
+				"from": 18920,
+				"to": 23480
+			},
+			"text": "ちょっと2人我々のかわいい美女スタッフもいるんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,480",
+				"to": "00:00:26,480"
+			},
+			"offsets": {
+				"from": 23480,
+				"to": 26480
+			},
+			"text": "この子たちにジャンブルを教えていきたいなと思っています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,620",
+				"to": "00:00:35,540"
+			},
+			"offsets": {
+				"from": 27620,
+				"to": 35540
+			},
+			"text": "やっぱり動画を見返したんだけど ギャンブルやってる時とやってない時の目を輝くのが違うんです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,540",
+				"to": "00:00:40,740"
+			},
+			"offsets": {
+				"from": 35540,
+				"to": 40740
+			},
+			"text": "仕事もちゃんとやりながら仕事も今まで負けていいやってギャンブル"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,740",
+				"to": "00:00:43,820"
+			},
+			"offsets": {
+				"from": 40740,
+				"to": 43820
+			},
+			"text": "魂が無かった 魂割ったけど魂が無い"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,820",
+				"to": "00:00:47,280"
+			},
+			"offsets": {
+				"from": 43820,
+				"to": 47280
+			},
+			"text": "負けてもいいやと 人生の魂をかけたけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,280",
+				"to": "00:00:52,900"
+			},
+			"offsets": {
+				"from": 47280,
+				"to": 52900
+			},
+			"text": "今年は勝ちにって一緒だからツインターみたいなの付けてもらう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,900",
+				"to": "00:00:54,620"
+			},
+			"offsets": {
+				"from": 52900,
+				"to": 54620
+			},
+			"text": "100万円ギャンブル生活"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,620",
+				"to": "00:00:56,620"
+			},
+			"offsets": {
+				"from": 54620,
+				"to": 56620
+			},
+			"text": "全然Kバイアイドから勝ったのだけ!"
+		}
+	]
+}

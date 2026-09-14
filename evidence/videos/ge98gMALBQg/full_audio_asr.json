@@ -1,0 +1,164 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,440"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4440
+			},
+			"text": "オートレーザー選手強さランキング 松井茂最近はイナーね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,440",
+				"to": "00:00:07,380"
+			},
+			"offsets": {
+				"from": 4440,
+				"to": 7380
+			},
+			"text": "アチッ 池田康二"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,380",
+				"to": "00:00:09,480"
+			},
+			"offsets": {
+				"from": 7380,
+				"to": 9480
+			},
+			"text": "7 山口通し"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,480",
+				"to": "00:00:11,960"
+			},
+			"offsets": {
+				"from": 9480,
+				"to": 11960
+			},
+			"text": "9 桐生順平"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,960",
+				"to": "00:00:14,560"
+			},
+			"offsets": {
+				"from": 11960,
+				"to": 14560
+			},
+			"text": "いける順平好きだね 好きだからさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,560",
+				"to": "00:00:18,220"
+			},
+			"offsets": {
+				"from": 14560,
+				"to": 18220
+			},
+			"text": "貝原結城 知らないから知らない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,220",
+				"to": "00:00:20,400"
+			},
+			"offsets": {
+				"from": 18220,
+				"to": 20400
+			},
+			"text": "湯川康二 あー湯川さん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,400",
+				"to": "00:00:22,800"
+			},
+			"offsets": {
+				"from": 20400,
+				"to": 22800
+			},
+			"text": "4 森屋美樹"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,800",
+				"to": "00:00:26,160"
+			},
+			"offsets": {
+				"from": 22800,
+				"to": 26160
+			},
+			"text": "わかんないけど女の子だから5 白井英二"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,160",
+				"to": "00:00:29,160"
+			},
+			"offsets": {
+				"from": 26160,
+				"to": 29160
+			},
+			"text": "6 藤島誠"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,160",
+				"to": "00:00:34,380"
+			},
+			"offsets": {
+				"from": 29160,
+				"to": 34380
+			},
+			"text": "そう1度日がうっにっ マイナーみねん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,380",
+				"to": "00:00:37,420"
+			},
+			"offsets": {
+				"from": 34380,
+				"to": 37420
+			},
+			"text": "いやうまいなぁ これ完璧かも"
+		}
+	]
+}

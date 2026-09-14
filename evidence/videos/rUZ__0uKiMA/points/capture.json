@@ -1,0 +1,138 @@
+{
+  "video_id": "rUZ__0uKiMA",
+  "evidence_type": "SELECTED_STATIC_POINTS_WITH_SOURCE_PTS",
+  "full_watch": false,
+  "timestamp_method": "First decoded source frame at or after requested time; source PTS preserved",
+  "frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000077000.jpg",
+      "requested_s": 77,
+      "time_s": 77
+    },
+    {
+      "file": "frame_000083000.jpg",
+      "requested_s": 83,
+      "time_s": 83
+    },
+    {
+      "file": "frame_000177000.jpg",
+      "requested_s": 177,
+      "time_s": 177
+    },
+    {
+      "file": "frame_000311000.jpg",
+      "requested_s": 311,
+      "time_s": 311
+    },
+    {
+      "file": "frame_000505000.jpg",
+      "requested_s": 505,
+      "time_s": 505
+    },
+    {
+      "file": "frame_000713000.jpg",
+      "requested_s": 713,
+      "time_s": 713
+    },
+    {
+      "file": "frame_001060000.jpg",
+      "requested_s": 1060,
+      "time_s": 1060
+    },
+    {
+      "file": "frame_001175000.jpg",
+      "requested_s": 1175,
+      "time_s": 1175
+    },
+    {
+      "file": "frame_001800000.jpg",
+      "requested_s": 1800,
+      "time_s": 1800
+    },
+    {
+      "file": "frame_002700000.jpg",
+      "requested_s": 2700,
+      "time_s": 2700
+    },
+    {
+      "file": "frame_003600000.jpg",
+      "requested_s": 3600,
+      "time_s": 3600
+    },
+    {
+      "file": "frame_004500000.jpg",
+      "requested_s": 4500,
+      "time_s": 4500
+    },
+    {
+      "file": "frame_005400000.jpg",
+      "requested_s": 5400,
+      "time_s": 5400
+    },
+    {
+      "file": "frame_006044000.jpg",
+      "requested_s": 6044,
+      "time_s": 6044
+    },
+    {
+      "file": "frame_006436000.jpg",
+      "requested_s": 6436,
+      "time_s": 6436
+    },
+    {
+      "file": "frame_006576000.jpg",
+      "requested_s": 6576,
+      "time_s": 6576
+    },
+    {
+      "file": "frame_007200000.jpg",
+      "requested_s": 7200,
+      "time_s": 7200
+    },
+    {
+      "file": "frame_008100000.jpg",
+      "requested_s": 8100,
+      "time_s": 8100
+    },
+    {
+      "file": "frame_009000000.jpg",
+      "requested_s": 9000,
+      "time_s": 9000
+    },
+    {
+      "file": "frame_009900000.jpg",
+      "requested_s": 9900,
+      "time_s": 9900
+    },
+    {
+      "file": "frame_010800000.jpg",
+      "requested_s": 10800,
+      "time_s": 10800
+    },
+    {
+      "file": "frame_011700000.jpg",
+      "requested_s": 11700,
+      "time_s": 11700
+    },
+    {
+      "file": "frame_011970000.jpg",
+      "requested_s": 11970,
+      "time_s": 11970
+    }
+  ]
+}

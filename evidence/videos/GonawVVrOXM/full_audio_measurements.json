@@ -1,0 +1,29 @@
+{
+  "video_id": "GonawVVrOXM",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 70.63,
+  "processed_interval_s": [
+    0,
+    70.63
+  ],
+  "integrated_lufs": -28.5,
+  "loudness_range_lu": 9.7,
+  "true_peak_dbfs": -7.8,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    69.8154
+  ],
+  "silence_ends": [
+    {
+      "end_s": 70.6078,
+      "duration_s": 0.792375
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

@@ -1,0 +1,5419 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "full_watch_completed_count": 0,
+  "definitions": "Download / machine scan / ASR / static samples / continuous audiovisual review are different states. No video is certified fully watched yet.",
+  "videos": [
+    {
+      "video_id": "51UBRypjCPw",
+      "format": "LONGFORM",
+      "listing_duration_s": 561,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/51UBRypjCPw/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "ehJssPk1s7Q",
+      "format": "LONGFORM",
+      "listing_duration_s": 978,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/ehJssPk1s7Q/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/ehJssPk1s7Q/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/ehJssPk1s7Q/overview/review.json",
+        "frame_count": 65,
+        "timestamp_basis": "NOMINAL_GRID_WITH_UNCERTAINTY",
+        "timestamp_uncertainty_s": 7.5,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "upFzFNjC1kk",
+      "format": "LONGFORM",
+      "listing_duration_s": 1031,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/upFzFNjC1kk/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/upFzFNjC1kk/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "luauPBapN7U",
+      "format": "LONGFORM",
+      "listing_duration_s": 1600,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 6,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/luauPBapN7U/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/luauPBapN7U/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/luauPBapN7U/overview/review.json",
+        "frame_count": 107,
+        "timestamp_basis": "NOMINAL_GRID_WITH_UNCERTAINTY",
+        "timestamp_uncertainty_s": 7.5,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": {
+        "evidence": "evidence/videos/luauPBapN7U/points/review.json",
+        "frame_count": 65
+      },
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "IlXtl0Hq_As",
+      "format": "LONGFORM",
+      "listing_duration_s": 1169,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 3,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/IlXtl0Hq_As/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/IlXtl0Hq_As/overview/review.json",
+        "frame_count": 78,
+        "timestamp_basis": "NOMINAL_GRID_WITH_UNCERTAINTY",
+        "timestamp_uncertainty_s": 7.5,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "UE2SSdiQCUM",
+      "format": "LONGFORM",
+      "listing_duration_s": 1257,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 2,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/UE2SSdiQCUM/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "3B5q6DXJNcE",
+      "format": "LONGFORM",
+      "listing_duration_s": 1311,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 5,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/3B5q6DXJNcE/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": {
+        "evidence": "evidence/videos/3B5q6DXJNcE/points/review.json",
+        "frame_count": 27
+      },
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "SELECTED_STATIC_POINTS_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "6MmoXPWO9Mg",
+      "format": "LONGFORM",
+      "listing_duration_s": 1141,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/6MmoXPWO9Mg/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/6MmoXPWO9Mg/overview_pts/review.json",
+        "frame_count": 76,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "Ha7lYacabpg",
+      "format": "LONGFORM",
+      "listing_duration_s": 1338,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Ha7lYacabpg/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "C_ujFPtS0pA",
+      "format": "LONGFORM",
+      "listing_duration_s": 1300,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/C_ujFPtS0pA/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "gpnPgXXrPwk",
+      "format": "LONGFORM",
+      "listing_duration_s": 1244,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 5,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/gpnPgXXrPwk/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/gpnPgXXrPwk/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "ftcX4PmRTLs",
+      "format": "LONGFORM",
+      "listing_duration_s": 1403,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/ftcX4PmRTLs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/ftcX4PmRTLs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "IZS2DvoygWw",
+      "format": "LONGFORM",
+      "listing_duration_s": 1024,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/IZS2DvoygWw/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "u1Gz_kTbc9g",
+      "format": "LONGFORM",
+      "listing_duration_s": 1232,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/u1Gz_kTbc9g/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/u1Gz_kTbc9g/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "dC-UoCnsa2Q",
+      "format": "LONGFORM",
+      "listing_duration_s": 1486,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 3,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/dC-UoCnsa2Q/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "04PHLFx8nYc",
+      "format": "LONGFORM",
+      "listing_duration_s": 1676,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/04PHLFx8nYc/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "pOUrvKX-9Rs",
+      "format": "LONGFORM",
+      "listing_duration_s": 1049,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/pOUrvKX-9Rs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/pOUrvKX-9Rs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "ss1IFQqav-8",
+      "format": "LONGFORM",
+      "listing_duration_s": 1683,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 5,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/ss1IFQqav-8/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/ss1IFQqav-8/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "-L-J8DqwMZk",
+      "format": "LONGFORM",
+      "listing_duration_s": 2152,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/-L-J8DqwMZk/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "MyVnNIgfBS8",
+      "format": "LONGFORM",
+      "listing_duration_s": 579,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/MyVnNIgfBS8/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "qPGOwvSbgBw",
+      "format": "LONGFORM",
+      "listing_duration_s": 634,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/qPGOwvSbgBw/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "fenmCOzaygE",
+      "format": "LONGFORM",
+      "listing_duration_s": 1451,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/fenmCOzaygE/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "YINy5jM1p7M",
+      "format": "LONGFORM",
+      "listing_duration_s": 464,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 3,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/YINy5jM1p7M/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "fCMn8YOFfBw",
+      "format": "LONGFORM",
+      "listing_duration_s": 1660,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/fCMn8YOFfBw/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "rGcaQwiQIJo",
+      "format": "LONGFORM",
+      "listing_duration_s": 921,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/rGcaQwiQIJo/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "lfYpEJ56Otg",
+      "format": "LONGFORM",
+      "listing_duration_s": 1226,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/lfYpEJ56Otg/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Gn0Sm-N9wIc",
+      "format": "LONGFORM",
+      "listing_duration_s": 1747,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/Gn0Sm-N9wIc/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "rFNZJKSlZmE",
+      "format": "LONGFORM",
+      "listing_duration_s": 1303,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/rFNZJKSlZmE/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "hvu3eqy0t8s",
+      "format": "LONGFORM",
+      "listing_duration_s": 478,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/hvu3eqy0t8s/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "zxo9AzVyKPI",
+      "format": "LONGFORM",
+      "listing_duration_s": 889,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/zxo9AzVyKPI/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "AqcEeAHJo8c",
+      "format": "LONGFORM",
+      "listing_duration_s": 2426,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 5,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/AqcEeAHJo8c/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "oJy-n3DqK98",
+      "format": "LONGFORM",
+      "listing_duration_s": 1856,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/oJy-n3DqK98/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "qSnFoc6bJ7g",
+      "format": "LONGFORM",
+      "listing_duration_s": 841,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/qSnFoc6bJ7g/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/qSnFoc6bJ7g/overview_pts/review.json",
+        "frame_count": 57,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "Hmz2eBaZvBg",
+      "format": "LONGFORM",
+      "listing_duration_s": 1647,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Hmz2eBaZvBg/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "qqoMZgLkcdI",
+      "format": "LONGFORM",
+      "listing_duration_s": 2510,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/qqoMZgLkcdI/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Q1ydGCm90R8",
+      "format": "LONGFORM",
+      "listing_duration_s": 2981,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 3,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/Q1ydGCm90R8/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "EgH5b_ea6U8",
+      "format": "LONGFORM",
+      "listing_duration_s": 2077,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/EgH5b_ea6U8/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "PDRNAq7RNvc",
+      "format": "LONGFORM",
+      "listing_duration_s": 1653,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/PDRNAq7RNvc/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "j6dt3zbPjfE",
+      "format": "LONGFORM",
+      "listing_duration_s": 862,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/j6dt3zbPjfE/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "E2KvTtptb7Y",
+      "format": "LONGFORM",
+      "listing_duration_s": 1178,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/E2KvTtptb7Y/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/E2KvTtptb7Y/overview/review.json",
+        "frame_count": 79,
+        "timestamp_basis": "NOMINAL_GRID_WITH_UNCERTAINTY",
+        "timestamp_uncertainty_s": 7.5,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": {
+        "evidence": "evidence/videos/E2KvTtptb7Y/points/review.json",
+        "frame_count": 23
+      },
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "t0QQnSsbMjY",
+      "format": "LONGFORM",
+      "listing_duration_s": 1086,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 2,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/t0QQnSsbMjY/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/t0QQnSsbMjY/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "Arwdx5UzeUQ",
+      "format": "LONGFORM",
+      "listing_duration_s": 1082,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/Arwdx5UzeUQ/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "8LyhF_w2vo8",
+      "format": "LONGFORM",
+      "listing_duration_s": 1759,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/8LyhF_w2vo8/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "k5GIOKkoAc4",
+      "format": "LONGFORM",
+      "listing_duration_s": 1221,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 2,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/k5GIOKkoAc4/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "JogL0RWGkXc",
+      "format": "LONGFORM",
+      "listing_duration_s": 1230,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 2,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/JogL0RWGkXc/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "vzNNkpHSda8",
+      "format": "LONGFORM",
+      "listing_duration_s": 1164,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/vzNNkpHSda8/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "032a8MXi-BY",
+      "format": "LONGFORM",
+      "listing_duration_s": 997,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/032a8MXi-BY/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "txR8yibEbQk",
+      "format": "LONGFORM",
+      "listing_duration_s": 913,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/txR8yibEbQk/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "UFPXVHMALeM",
+      "format": "LONGFORM",
+      "listing_duration_s": 622,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/UFPXVHMALeM/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "N2ecdYXYaXw",
+      "format": "LONGFORM",
+      "listing_duration_s": 10700,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/N2ecdYXYaXw/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": {
+        "evidence": "evidence/videos/N2ecdYXYaXw/points/review.json",
+        "frame_count": 24
+      },
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "SELECTED_STATIC_POINTS_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "Z53j2cRj1C8",
+      "format": "LONGFORM",
+      "listing_duration_s": 15883,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/Z53j2cRj1C8/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": {
+        "evidence": "evidence/videos/Z53j2cRj1C8/points/review.json",
+        "frame_count": 32
+      },
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "SELECTED_STATIC_POINTS_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "rUZ__0uKiMA",
+      "format": "LONGFORM",
+      "listing_duration_s": 11979,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/rUZ__0uKiMA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/rUZ__0uKiMA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": {
+        "evidence": "evidence/videos/rUZ__0uKiMA/points/review.json",
+        "frame_count": 26
+      },
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "SELECTED_STATIC_POINTS_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "R9yghVLgI4s",
+      "format": "LONGFORM",
+      "listing_duration_s": 16523,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/R9yghVLgI4s/full_audio_asr_quality.json",
+          "verified_transcript": false
+        },
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/R9yghVLgI4s/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/R9yghVLgI4s/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": {
+        "evidence": "evidence/videos/R9yghVLgI4s/points/review.json",
+        "frame_count": 71
+      },
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "SELECTED_STATIC_POINTS_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "HBiRgIIzSR4",
+      "format": "LONGFORM",
+      "listing_duration_s": 1935,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/HBiRgIIzSR4/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "jT9eHbmidz4",
+      "format": "LONGFORM",
+      "listing_duration_s": 487,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/jT9eHbmidz4/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "CaVL0ek60Bw",
+      "format": "LONGFORM",
+      "listing_duration_s": 1989,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/CaVL0ek60Bw/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "B_0qYLhVuxk",
+      "format": "LONGFORM",
+      "listing_duration_s": 2277,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/B_0qYLhVuxk/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "K5IOnOUJSH8",
+      "format": "LONGFORM",
+      "listing_duration_s": 1434,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/K5IOnOUJSH8/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "x4os2VN-faU",
+      "format": "LONGFORM",
+      "listing_duration_s": 1773,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr_no_context.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/x4os2VN-faU/full_audio_asr_no_context_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Uieu_JqrI-8",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 5,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Uieu_JqrI-8/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Uieu_JqrI-8/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "8eiOy6oJ4m4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/8eiOy6oJ4m4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/8eiOy6oJ4m4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/8eiOy6oJ4m4/overview_pts/review.json",
+        "frame_count": 43,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "HTmeybHIr94",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/HTmeybHIr94/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/HTmeybHIr94/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "CEf_sKZk6d8",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/CEf_sKZk6d8/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/CEf_sKZk6d8/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "OUcgKdPypss",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/OUcgKdPypss/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/OUcgKdPypss/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "EEkrZyb6wtI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/EEkrZyb6wtI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/EEkrZyb6wtI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "vmCVh6ft97I",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 3,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/vmCVh6ft97I/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/vmCVh6ft97I/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "N1YKZdA9-CI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/N1YKZdA9-CI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/N1YKZdA9-CI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/N1YKZdA9-CI/overview_pts/review.json",
+        "frame_count": 42,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "Skxx-PWCUFQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Skxx-PWCUFQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Skxx-PWCUFQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "RXuQ5dOJUOo",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": true,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/RXuQ5dOJUOo/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/RXuQ5dOJUOo/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": {
+        "evidence": "evidence/videos/RXuQ5dOJUOo/overview_pts/review.json",
+        "frame_count": 29,
+        "timestamp_basis": "ACTUAL_SOURCE_PTS",
+        "timestamp_uncertainty_s": null,
+        "sample_gaps_unreviewed": true
+      },
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "WHOLE_DURATION_SPARSE_SAMPLES_NOT_CONTINUOUS"
+    },
+    {
+      "video_id": "0PhRdKGY4Zo",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/0PhRdKGY4Zo/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/0PhRdKGY4Zo/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "uHKzvULXzXQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/uHKzvULXzXQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/uHKzvULXzXQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "J142E6190-w",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/J142E6190-w/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/J142E6190-w/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "hGoYCsv5nSE",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/hGoYCsv5nSE/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/hGoYCsv5nSE/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "jA82f5dSyDs",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/jA82f5dSyDs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/jA82f5dSyDs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "2HZLgD2Rk5s",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/2HZLgD2Rk5s/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/2HZLgD2Rk5s/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "USx3vbCx5Ts",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/USx3vbCx5Ts/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/USx3vbCx5Ts/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "2bFM_ZcAXCQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/2bFM_ZcAXCQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/2bFM_ZcAXCQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "WPjhmOMImg8",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/WPjhmOMImg8/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/WPjhmOMImg8/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "GqM6D4oPO8I",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/GqM6D4oPO8I/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/GqM6D4oPO8I/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "nGyaYz_pA7c",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/nGyaYz_pA7c/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/nGyaYz_pA7c/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "B4A8Ylg9anw",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/B4A8Ylg9anw/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/B4A8Ylg9anw/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "tNZXZonoJGU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/tNZXZonoJGU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/tNZXZonoJGU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "fhaGsz7fjho",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/fhaGsz7fjho/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/fhaGsz7fjho/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "kcWj0X-ujRQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/kcWj0X-ujRQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/kcWj0X-ujRQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "mZOsCFBQ_N4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/mZOsCFBQ_N4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/mZOsCFBQ_N4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "aRg6xC-QyEo",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/aRg6xC-QyEo/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/aRg6xC-QyEo/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "eQsAOnrhE4A",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/eQsAOnrhE4A/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/eQsAOnrhE4A/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Pjo_ng8TXEc",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Pjo_ng8TXEc/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Pjo_ng8TXEc/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "GvPydKl2Qp0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/GvPydKl2Qp0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/GvPydKl2Qp0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "gDkJ105rFjo",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": true,
+      "subtitle_sample_count": 4,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/gDkJ105rFjo/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/gDkJ105rFjo/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "PARTIAL_STATIC_SAMPLES"
+    },
+    {
+      "video_id": "72ln-t90Y98",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/72ln-t90Y98/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/72ln-t90Y98/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "XasqLYz2aKs",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/XasqLYz2aKs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/XasqLYz2aKs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "CiSVtr20PMg",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/CiSVtr20PMg/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/CiSVtr20PMg/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "GonawVVrOXM",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/GonawVVrOXM/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/GonawVVrOXM/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "kLgv4W24Mpc",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/kLgv4W24Mpc/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/kLgv4W24Mpc/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "1VlfF145xo0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/1VlfF145xo0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/1VlfF145xo0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "yqbw4jqQgfE",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/yqbw4jqQgfE/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/yqbw4jqQgfE/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "sZMJhl3jAk0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/sZMJhl3jAk0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/sZMJhl3jAk0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "8-8wMKjVAl8",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/8-8wMKjVAl8/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/8-8wMKjVAl8/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "ecYuFiMU9V0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/ecYuFiMU9V0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/ecYuFiMU9V0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "x-5khxKK7IY",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/x-5khxKK7IY/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/x-5khxKK7IY/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "zNI76q0LMBI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/zNI76q0LMBI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/zNI76q0LMBI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "ECn_d_t6FcA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/ECn_d_t6FcA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/ECn_d_t6FcA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "JC01Zo9RzuE",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/JC01Zo9RzuE/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/JC01Zo9RzuE/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "bKFFro3UTsw",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/bKFFro3UTsw/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/bKFFro3UTsw/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "ejj5vM8OgUA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/ejj5vM8OgUA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/ejj5vM8OgUA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "iLrJgOVEX0w",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/iLrJgOVEX0w/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/iLrJgOVEX0w/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "kWSJdrS49jk",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/kWSJdrS49jk/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/kWSJdrS49jk/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "xoFfAZmfukQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/xoFfAZmfukQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/xoFfAZmfukQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "NnSlIuSldTQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/NnSlIuSldTQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/NnSlIuSldTQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Akzv7BblMzk",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Akzv7BblMzk/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Akzv7BblMzk/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "bYM_KtJdXro",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/bYM_KtJdXro/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/bYM_KtJdXro/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "tQacIY4Q4Fo",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/tQacIY4Q4Fo/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/tQacIY4Q4Fo/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "ps4AE8tPDC0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/ps4AE8tPDC0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/ps4AE8tPDC0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "hzqfbUqiAuA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/hzqfbUqiAuA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/hzqfbUqiAuA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "6XqVj6pfVZs",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/6XqVj6pfVZs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/6XqVj6pfVZs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "kmhsBm2cZW0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/kmhsBm2cZW0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/kmhsBm2cZW0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "xiCHqLvtgcU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/xiCHqLvtgcU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/xiCHqLvtgcU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "VoPzy39lL3M",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/VoPzy39lL3M/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/VoPzy39lL3M/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "fFwbvwp6xZE",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/fFwbvwp6xZE/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/fFwbvwp6xZE/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "DQPdcFPTs58",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/DQPdcFPTs58/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/DQPdcFPTs58/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "w7MQgXCLafU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/w7MQgXCLafU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/w7MQgXCLafU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "d4_DMt-xEDU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/d4_DMt-xEDU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/d4_DMt-xEDU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "U90YS3pFa1g",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/U90YS3pFa1g/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/U90YS3pFa1g/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Yq7hgMXoR94",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Yq7hgMXoR94/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Yq7hgMXoR94/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "WXGif4L0otU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/WXGif4L0otU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/WXGif4L0otU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "jSqQ27dDR3A",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/jSqQ27dDR3A/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/jSqQ27dDR3A/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Bx300Ta7a8E",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Bx300Ta7a8E/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Bx300Ta7a8E/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "70M5IwtitBw",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/70M5IwtitBw/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/70M5IwtitBw/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "ftWj07dBehQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/ftWj07dBehQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/ftWj07dBehQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "b6dwOnIDOP8",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/b6dwOnIDOP8/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/b6dwOnIDOP8/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "4w6jgUJMaJk",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/4w6jgUJMaJk/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/4w6jgUJMaJk/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Pg2j76vgKZI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Pg2j76vgKZI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Pg2j76vgKZI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "ZckJHxhkec0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+          "evidence": "evidence/videos/ZckJHxhkec0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+        "evidence": "evidence/videos/ZckJHxhkec0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "wZ21mzS0SBU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/wZ21mzS0SBU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/wZ21mzS0SBU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "vQTLAtWtr_o",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/vQTLAtWtr_o/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/vQTLAtWtr_o/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "6HpVHGpwSf4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/6HpVHGpwSf4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/6HpVHGpwSf4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "mNE4RzanWhY",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/mNE4RzanWhY/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/mNE4RzanWhY/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "k59TXI_dM-0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/k59TXI_dM-0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/k59TXI_dM-0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "49BHNhAZgpI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/49BHNhAZgpI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/49BHNhAZgpI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "6mD9b7SUJVs",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/6mD9b7SUJVs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/6mD9b7SUJVs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "lNKbg1iE94M",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/lNKbg1iE94M/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/lNKbg1iE94M/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "HXhsD-_Ly9E",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/HXhsD-_Ly9E/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/HXhsD-_Ly9E/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "OhKxq0qOU6M",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": false,
+      "access_status": "AGE_CONFIRMATION_REQUIRED_NOT_ACCESSED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": false,
+      "full_asr": false,
+      "asr_candidates": [],
+      "asr_quality": null,
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "pJobJ_MgHU4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/pJobJ_MgHU4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/pJobJ_MgHU4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "fbtbMUezoJU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/fbtbMUezoJU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/fbtbMUezoJU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "T1EBJvuOnE4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/T1EBJvuOnE4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/T1EBJvuOnE4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Nt5TW3RXSQ4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Nt5TW3RXSQ4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Nt5TW3RXSQ4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "8jTReloNM8w",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/8jTReloNM8w/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/8jTReloNM8w/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "r6ZN_sSMlVw",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/r6ZN_sSMlVw/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/r6ZN_sSMlVw/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "qs-oEHVT_TA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/qs-oEHVT_TA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/qs-oEHVT_TA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "xeaRFqTukGA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/xeaRFqTukGA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/xeaRFqTukGA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "wkX1WW0RJ1Y",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/wkX1WW0RJ1Y/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/wkX1WW0RJ1Y/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "srHJPHWtxNo",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/srHJPHWtxNo/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/srHJPHWtxNo/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "0ZcwYMVcifU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/0ZcwYMVcifU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/0ZcwYMVcifU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "1F6NQeQnMIQ",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/1F6NQeQnMIQ/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/1F6NQeQnMIQ/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "1UgjxM_LwCA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/1UgjxM_LwCA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/1UgjxM_LwCA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "3PrvwqvttLE",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/3PrvwqvttLE/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/3PrvwqvttLE/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "epvlviW9NNA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/epvlviW9NNA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/epvlviW9NNA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "lk2BcuxFP94",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/lk2BcuxFP94/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/lk2BcuxFP94/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "oZuJYEpgoF4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/oZuJYEpgoF4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/oZuJYEpgoF4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "5fxdOYJbNlA",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/5fxdOYJbNlA/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/5fxdOYJbNlA/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "C7xvfBEHBEU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/C7xvfBEHBEU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/C7xvfBEHBEU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "REyLoweJ018",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/REyLoweJ018/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/REyLoweJ018/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "ge98gMALBQg",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/ge98gMALBQg/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/ge98gMALBQg/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "Nyud6aRAk8s",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/Nyud6aRAk8s/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/Nyud6aRAk8s/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "gfR20Xbvrkw",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/gfR20Xbvrkw/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/gfR20Xbvrkw/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "6uOOxo_wTMo",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/6uOOxo_wTMo/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/6uOOxo_wTMo/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "d7Az1N1rx68",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/d7Az1N1rx68/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/d7Az1N1rx68/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "b2v9ihNSqyc",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/b2v9ihNSqyc/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/b2v9ihNSqyc/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "CNeAQAOeqXE",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/CNeAQAOeqXE/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/CNeAQAOeqXE/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "3P16Kw9-nFc",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/3P16Kw9-nFc/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/3P16Kw9-nFc/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "if9xAVfnCOI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/if9xAVfnCOI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/if9xAVfnCOI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "pXa21z7Y4Y0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/pXa21z7Y4Y0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/pXa21z7Y4Y0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "tAgBp5tVtRY",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/tAgBp5tVtRY/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/tAgBp5tVtRY/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "rIkuJHWdckw",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/rIkuJHWdckw/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/rIkuJHWdckw/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "OWJQiKWYKg8",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/OWJQiKWYKg8/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/OWJQiKWYKg8/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "8lmznnSBDeI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/8lmznnSBDeI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/8lmznnSBDeI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "e9c0LrnhMzU",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/e9c0LrnhMzU/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/e9c0LrnhMzU/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "NMKFoPPzEjY",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/NMKFoPPzEjY/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/NMKFoPPzEjY/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "aEMmha85id0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/aEMmha85id0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/aEMmha85id0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "a-1RO38MEgI",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/a-1RO38MEgI/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/a-1RO38MEgI/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "-uW0A0oMN_0",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/-uW0A0oMN_0/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/-uW0A0oMN_0/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "G5EOVcN_bLM",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/G5EOVcN_bLM/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/G5EOVcN_bLM/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "v_Gn5pAp17E",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/v_Gn5pAp17E/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/v_Gn5pAp17E/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "0cnzjFXmhIs",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/0cnzjFXmhIs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/0cnzjFXmhIs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "7DuofPsONG4",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/7DuofPsONG4/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/7DuofPsONG4/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "zCfXR47tjvs",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/zCfXR47tjvs/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/zCfXR47tjvs/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    },
+    {
+      "video_id": "UJ7BuwREAyY",
+      "format": "SHORTS",
+      "listing_duration_s": null,
+      "source_downloaded": true,
+      "access_status": "NO_ACCESS_RESTRICTION_RECORDED",
+      "static_capture": false,
+      "subtitle_sample_count": 0,
+      "full_stream_scene_scan": false,
+      "full_stream_audio_measurement": true,
+      "full_asr": true,
+      "asr_candidates": [
+        {
+          "candidate": "full_audio_asr.json",
+          "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+          "evidence": "evidence/videos/UJ7BuwREAyY/full_audio_asr_quality.json",
+          "verified_transcript": false
+        }
+      ],
+      "asr_quality": {
+        "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+        "evidence": "evidence/videos/UJ7BuwREAyY/full_audio_asr_quality.json"
+      },
+      "whole_duration_sparse_review": null,
+      "selected_points_review": null,
+      "full_manual_visual_review": false,
+      "full_manual_listening": false,
+      "style_review_status": "NOT_REVIEWED"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "video_id": "Pjo_ng8TXEc",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    162.03
+  ],
+  "source_duration_s": 162.03,
+  "candidate_count": 71,
+  "candidates": [
+    {
+      "time_s": 3.467,
+      "score": 0.667031
+    },
+    {
+      "time_s": 4.467,
+      "score": 0.2317
+    },
+    {
+      "time_s": 8.367,
+      "score": 0.188809
+    },
+    {
+      "time_s": 8.467,
+      "score": 0.202096
+    },
+    {
+      "time_s": 10.967,
+      "score": 0.270565
+    },
+    {
+      "time_s": 13.367,
+      "score": 0.23274
+    },
+    {
+      "time_s": 16.467,
+      "score": 0.193568
+    },
+    {
+      "time_s": 19.467,
+      "score": 0.187694
+    },
+    {
+      "time_s": 19.967,
+      "score": 0.276033
+    },
+    {
+      "time_s": 20.667,
+      "score": 0.367159
+    },
+    {
+      "time_s": 21.267,
+      "score": 0.226844
+    },
+    {
+      "time_s": 25.8,
+      "score": 0.253504
+    },
+    {
+      "time_s": 31.567,
+      "score": 0.196625
+    },
+    {
+      "time_s": 36.933,
+      "score": 0.287646
+    },
+    {
+      "time_s": 37.267,
+      "score": 0.18281
+    },
+    {
+      "time_s": 40.367,
+      "score": 0.226462
+    },
+    {
+      "time_s": 42.667,
+      "score": 0.223769
+    },
+    {
+      "time_s": 45.767,
+      "score": 0.557871
+    },
+    {
+      "time_s": 48.367,
+      "score": 0.245508
+    },
+    {
+      "time_s": 49.367,
+      "score": 0.215095
+    },
+    {
+      "time_s": 50.367,
+      "score": 0.180487
+    },
+    {
+      "time_s": 57.667,
+      "score": 0.540032
+    },
+    {
+      "time_s": 57.7,
+      "score": 0.194315
+    },
+    {
+      "time_s": 57.767,
+      "score": 0.436775
+    },
+    {
+      "time_s": 57.867,
+      "score": 0.402924
+    },
+    {
+      "time_s": 57.967,
+      "score": 0.227906
+    },
+    {
+      "time_s": 58.067,
+      "score": 0.258228
+    },
+    {
+      "time_s": 58.1,
+      "score": 0.189478
+    },
+    {
+      "time_s": 60.567,
+      "score": 0.270937
+    },
+    {
+      "time_s": 61.967,
+      "score": 0.189547
+    },
+    {
+      "time_s": 62.067,
+      "score": 0.233128
+    },
+    {
+      "time_s": 62.167,
+      "score": 0.267923
+    },
+    {
+      "time_s": 62.267,
+      "score": 0.253313
+    },
+    {
+      "time_s": 62.367,
+      "score": 0.184668
+    },
+    {
+      "time_s": 62.467,
+      "score": 0.203552
+    },
+    {
+      "time_s": 62.567,
+      "score": 0.412933
+    },
+    {
+      "time_s": 62.667,
+      "score": 0.215973
+    },
+    {
+      "time_s": 62.767,
+      "score": 0.186218
+    },
+    {
+      "time_s": 63.333,
+      "score": 0.42542
+    },
+    {
+      "time_s": 63.367,
+      "score": 0.251211
+    },
+    {
+      "time_s": 68.567,
+      "score": 0.643913
+    },
+    {
+      "time_s": 69.933,
+      "score": 0.589484
+    },
+    {
+      "time_s": 79.467,
+      "score": 0.242591
+    },
+    {
+      "time_s": 80.967,
+      "score": 0.434011
+    },
+    {
+      "time_s": 89.867,
+      "score": 0.212771
+    },
+    {
+      "time_s": 106.167,
+      "score": 0.204657
+    },
+    {
+      "time_s": 107.733,
+      "score": 0.193136
+    },
+    {
+      "time_s": 110.9,
+      "score": 0.335679
+    },
+    {
+      "time_s": 125.033,
+      "score": 0.554118
+    },
+    {
+      "time_s": 125.1,
+      "score": 0.216913
+    },
+    {
+      "time_s": 125.167,
+      "score": 0.254898
+    },
+    {
+      "time_s": 125.467,
+      "score": 0.389805
+    },
+    {
+      "time_s": 125.567,
+      "score": 0.456071
+    },
+    {
+      "time_s": 150.967,
+      "score": 0.180199
+    },
+    {
+      "time_s": 152.667,
+      "score": 0.193604
+    },
+    {
+      "time_s": 153.567,
+      "score": 0.235877
+    },
+    {
+      "time_s": 153.667,
+      "score": 0.219951
+    },
+    {
+      "time_s": 154.267,
+      "score": 0.18883
+    },
+    {
+      "time_s": 154.667,
+      "score": 0.209376
+    },
+    {
+      "time_s": 154.967,
+      "score": 0.244171
+    },
+    {
+      "time_s": 155.667,
+      "score": 0.26395
+    },
+    {
+      "time_s": 155.867,
+      "score": 0.281547
+    },
+    {
+      "time_s": 156.367,
+      "score": 0.214014
+    },
+    {
+      "time_s": 156.567,
+      "score": 0.350789
+    },
+    {
+      "time_s": 156.667,
+      "score": 0.262853
+    },
+    {
+      "time_s": 156.967,
+      "score": 0.204019
+    },
+    {
+      "time_s": 157.867,
+      "score": 0.236864
+    },
+    {
+      "time_s": 157.967,
+      "score": 0.185378
+    },
+    {
+      "time_s": 158.567,
+      "score": 0.211487
+    },
+    {
+      "time_s": 158.667,
+      "score": 0.220434
+    },
+    {
+      "time_s": 159.633,
+      "score": 0.800792
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

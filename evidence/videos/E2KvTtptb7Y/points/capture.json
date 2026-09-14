@@ -1,0 +1,123 @@
+{
+  "video_id": "E2KvTtptb7Y",
+  "evidence_type": "SELECTED_STATIC_POINTS_WITH_SOURCE_PTS",
+  "full_watch": false,
+  "timestamp_method": "First decoded source frame at or after requested time; source PTS preserved",
+  "frames": [
+    {
+      "file": "frame_000270000.jpg",
+      "requested_s": 270,
+      "time_s": 270
+    },
+    {
+      "file": "frame_000274000.jpg",
+      "requested_s": 274,
+      "time_s": 274
+    },
+    {
+      "file": "frame_000278000.jpg",
+      "requested_s": 278,
+      "time_s": 278
+    },
+    {
+      "file": "frame_000282000.jpg",
+      "requested_s": 282,
+      "time_s": 282
+    },
+    {
+      "file": "frame_000286000.jpg",
+      "requested_s": 286,
+      "time_s": 286
+    },
+    {
+      "file": "frame_000290000.jpg",
+      "requested_s": 290,
+      "time_s": 290
+    },
+    {
+      "file": "frame_000294000.jpg",
+      "requested_s": 294,
+      "time_s": 294
+    },
+    {
+      "file": "frame_000294500.jpg",
+      "requested_s": 294.5,
+      "time_s": 294.5
+    },
+    {
+      "file": "frame_000295000.jpg",
+      "requested_s": 295,
+      "time_s": 295
+    },
+    {
+      "file": "frame_000295500.jpg",
+      "requested_s": 295.5,
+      "time_s": 295.5
+    },
+    {
+      "file": "frame_000296000.jpg",
+      "requested_s": 296,
+      "time_s": 296
+    },
+    {
+      "file": "frame_000296500.jpg",
+      "requested_s": 296.5,
+      "time_s": 296.5
+    },
+    {
+      "file": "frame_000297000.jpg",
+      "requested_s": 297,
+      "time_s": 297
+    },
+    {
+      "file": "frame_000297500.jpg",
+      "requested_s": 297.5,
+      "time_s": 297.5
+    },
+    {
+      "file": "frame_000298000.jpg",
+      "requested_s": 298,
+      "time_s": 298
+    },
+    {
+      "file": "frame_000302000.jpg",
+      "requested_s": 302,
+      "time_s": 302
+    },
+    {
+      "file": "frame_000306000.jpg",
+      "requested_s": 306,
+      "time_s": 306
+    },
+    {
+      "file": "frame_000310000.jpg",
+      "requested_s": 310,
+      "time_s": 310
+    },
+    {
+      "file": "frame_000314000.jpg",
+      "requested_s": 314,
+      "time_s": 314
+    },
+    {
+      "file": "frame_000318000.jpg",
+      "requested_s": 318,
+      "time_s": 318
+    },
+    {
+      "file": "frame_000322000.jpg",
+      "requested_s": 322,
+      "time_s": 322
+    },
+    {
+      "file": "frame_000326000.jpg",
+      "requested_s": 326,
+      "time_s": 326
+    },
+    {
+      "file": "frame_000330000.jpg",
+      "requested_s": 330,
+      "time_s": 330
+    }
+  ]
+}

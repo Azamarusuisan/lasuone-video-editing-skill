@@ -1,0 +1,43 @@
+{
+  "video_id": "R9yghVLgI4s",
+  "initial_candidate": "full_audio_asr.json",
+  "initial_candidate_status": "REJECTED_FOR_DIALOGUE_STYLE_AND_MONEY_INFERENCE_PENDING_REPAIR",
+  "reason": "初回全尺出力には同一文877連続、別の同一文が後半約3時間20分に401連続する重大な反復異常。全文が正しく書き起こされたとは認定しない。",
+  "automated_audit": "full_audio_asr_quality.json",
+  "probe": {
+    "file": "asr_probe_6270_6330_no_context.json",
+    "requested_source_interval_s": [6270, 6330],
+    "tool": "whisper.cpp large-v3-turbo",
+    "language": "ja",
+    "maximum_previous_text_context_tokens": 0,
+    "observed_improvement": "初回の反復文ではなく複数の会話が得られた。6297.920〜6302.620の認識文には、6300秒の映像字幕の『三毛作／焼け野原』に対応する内容がある。ただし漢字・語句の誤認識は残る。",
+    "verified_transcript": false,
+    "direct_audio_review": false,
+    "causal_limit": "区間分割と前文脈0を同時に変えた試験。改善の原因を一方だけに断定せず、全編への効果も未検証。"
+  },
+  "second_full_candidate": "full_audio_asr_no_context.json",
+  "second_candidate_job": "OUTPUT_COMPLETE_REPETITION_FLAGS_REMAIN",
+  "second_candidate_audit": {
+    "evidence": "full_audio_asr_no_context_quality.json",
+    "segments": 3417,
+    "maximum_identical_consecutive_segments": 22,
+    "flagged_segments_in_runs_of_at_least_five": 93,
+    "initial_flagged_segments": 1770,
+    "last_offset_s": 16521.94,
+    "conclusion": "長い反復異常は減少したが、93セグメントが反復フラグに該当。反復数減少は正答率を示さず、会話・金額・語彙の根拠への自動採用不可。"
+  },
+  "second_candidate_verified": false,
+  "table_window_check": {
+    "source_interval_s": [2680,2720],
+    "full_candidate_observation": "前文脈0の全尺候補でも、この卓区間は約30秒単位の定型句しか出力せず、画面のアクション説明の裏取りには使えない。隣接完全一致の検査だけでは、この種の異常を検出できない。",
+    "bounded_probe": "asr_probe_2680_2720_auto.json",
+    "probe_source_offset_s": 2680,
+    "probe_language_option": "auto",
+    "probe_detected_language": "ja",
+    "probe_result": "再試験でも同じ挨拶10回と締めの定型句を出力。未採用。音声に実際の会話があるか、音楽/環境音主体なのかは直接聴取で別途確認が必要。",
+    "verified_transcript": false,
+    "direct_audio_review": false
+  },
+  "production_transcript_approved": false,
+  "next_checks": ["出力JSONの完了", "全文の反復検査", "日本語会話区間と英語を含む卓の区間を分けた照合", "表示金額・固有名詞との照合", "タイムコードのドリフトと末尾超過"]
+}

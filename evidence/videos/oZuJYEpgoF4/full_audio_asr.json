@@ -1,0 +1,131 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,360"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6360
+			},
+			"text": "おそばランキング 順番に言うので強いと思う順にランキング埋めてください"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,360",
+				"to": "00:00:11,920"
+			},
+			"offsets": {
+				"from": 6360,
+				"to": 11920
+			},
+			"text": "オルフェーブオルフェーブめっちゃ好きよ うち1 a クイノックス"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,920",
+				"to": "00:00:15,260"
+			},
+			"offsets": {
+				"from": 11920,
+				"to": 15260
+			},
+			"text": "なら 今 t アイラと町"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,260",
+				"to": "00:00:18,700"
+			},
+			"offsets": {
+				"from": 15260,
+				"to": 18700
+			},
+			"text": "ゴールドシップ 北山ブロック"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,700",
+				"to": "00:00:22,380"
+			},
+			"offsets": {
+				"from": 18700,
+				"to": 22380
+			},
+			"text": "いっ パンサロッサ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,380",
+				"to": "00:00:26,380"
+			},
+			"offsets": {
+				"from": 22380,
+				"to": 26380
+			},
+			"text": "キングカメハメか6 ピープインパクト"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,380",
+				"to": "00:00:32,760"
+			},
+			"offsets": {
+				"from": 26380,
+				"to": 32760
+			},
+			"text": "あれを一緒にやられちゃうんですよ さあアーモンドはいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,760",
+				"to": "00:00:38,300"
+			},
+			"offsets": {
+				"from": 32760,
+				"to": 38300
+			},
+			"text": "ああいう一緒に乗っさなかったですよ 4444パーパー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,300",
+				"to": "00:00:42,180"
+			},
+			"offsets": {
+				"from": 38300,
+				"to": 42180
+			},
+			"text": "8 イッチがオルフェーブルでいいですね"
+		}
+	]
+}

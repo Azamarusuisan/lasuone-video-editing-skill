@@ -1,0 +1,153 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "01:44:30,000",
+				"to": "01:44:34,500"
+			},
+			"offsets": {
+				"from": 6270000,
+				"to": 6274500
+			},
+			"text": "たですねーさー 本部とが500かけてるとこだけば結び自分"
+		},
+		{
+			"timestamps": {
+				"from": "01:44:34,500",
+				"to": "01:44:44,940"
+			},
+			"offsets": {
+				"from": 6274500,
+				"to": 6284940
+			},
+			"text": "家でも本当だよね闇が深かったじゃねやったいだいぶやで検証結果闇が深いパッハ 俺いろんなところに希望があったときっ"
+		},
+		{
+			"timestamps": {
+				"from": "01:44:44,940",
+				"to": "01:44:50,800"
+			},
+			"offsets": {
+				"from": 6284940,
+				"to": 6290800
+			},
+			"text": "バルコンさんにも300ドルですし 正直それがなくなってもアルティメット攻略すればいいかと思って"
+		},
+		{
+			"timestamps": {
+				"from": "01:44:50,800",
+				"to": "01:44:57,920"
+			},
+			"offsets": {
+				"from": 6290800,
+				"to": 6297920
+			},
+			"text": "夜も期待してたし 確かに2段が前だよね今作ってみます3本作らしサポツです"
+		},
+		{
+			"timestamps": {
+				"from": "01:44:57,920",
+				"to": "01:45:02,620"
+			},
+			"offsets": {
+				"from": 6297920,
+				"to": 6302620
+			},
+			"text": "3毛作したけどもう焼けの腹だったんだ 競馬もはずし"
+		},
+		{
+			"timestamps": {
+				"from": "01:45:02,620",
+				"to": "01:45:08,620"
+			},
+			"offsets": {
+				"from": 6302620,
+				"to": 6308620
+			},
+			"text": "4毛作なんじゃんよ 下作自分を出てたから5毛作"
+		},
+		{
+			"timestamps": {
+				"from": "01:45:08,620",
+				"to": "01:45:13,480"
+			},
+			"offsets": {
+				"from": 6308620,
+				"to": 6313480
+			},
+			"text": "5軒家建てて台風で壊れたんだ ベガス家買っとけなかったマジで"
+		},
+		{
+			"timestamps": {
+				"from": "01:45:13,480",
+				"to": "01:45:17,920"
+			},
+			"offsets": {
+				"from": 6313480,
+				"to": 6317920
+			},
+			"text": "家買って 日本に帰って大会やる"
+		},
+		{
+			"timestamps": {
+				"from": "01:45:17,920",
+				"to": "01:45:22,440"
+			},
+			"offsets": {
+				"from": 6317920,
+				"to": 6322440
+			},
+			"text": "何の?ベガスの家を買ってた? いや10万ドルフリーロール"
+		},
+		{
+			"timestamps": {
+				"from": "01:45:22,440",
+				"to": "01:45:27,180"
+			},
+			"offsets": {
+				"from": 6322440,
+				"to": 6327180
+			},
+			"text": "10万ドルフリーロール ああ確かに 日本にも売れないしね フリーロールだったら"
+		},
+		{
+			"timestamps": {
+				"from": "01:45:27,180",
+				"to": "01:45:30,160"
+			},
+			"offsets": {
+				"from": 6327180,
+				"to": 6330160
+			},
+			"text": "女子 女子限定"
+		}
+	]
+}

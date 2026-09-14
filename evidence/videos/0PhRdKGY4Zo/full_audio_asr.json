@@ -1,0 +1,219 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,400"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4400
+			},
+			"text": "チーカワのウサギがバカラを絞ったときの再現"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,400",
+				"to": "00:00:08,240"
+			},
+			"offsets": {
+				"from": 4400,
+				"to": 8240
+			},
+			"text": "やる?バカラ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,240",
+				"to": "00:00:09,220"
+			},
+			"offsets": {
+				"from": 8240,
+				"to": 9220
+			},
+			"text": "やる?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,200",
+				"to": "00:00:15,180"
+			},
+			"offsets": {
+				"from": 13200,
+				"to": 15180
+			},
+			"text": "プレア?バンカー?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,940",
+				"to": "00:00:18,160"
+			},
+			"offsets": {
+				"from": 15940,
+				"to": 18160
+			},
+			"text": "プレア?バンカー?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,420",
+				"to": "00:00:20,280"
+			},
+			"offsets": {
+				"from": 19420,
+				"to": 20280
+			},
+			"text": "どっちにかける?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,880",
+				"to": "00:00:21,140"
+			},
+			"offsets": {
+				"from": 20880,
+				"to": 21140
+			},
+			"text": "プレア"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,140",
+				"to": "00:00:28,620"
+			},
+			"offsets": {
+				"from": 21140,
+				"to": 28620
+			},
+			"text": "プレア"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:32,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 32000
+			},
+			"text": "プレア?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,000",
+				"to": "00:00:34,880"
+			},
+			"offsets": {
+				"from": 32000,
+				"to": 34880
+			},
+			"text": "ちょっと待って!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,880",
+				"to": "00:00:36,880"
+			},
+			"offsets": {
+				"from": 34880,
+				"to": 36880
+			},
+			"text": "3,3目行ってください!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,880",
+				"to": "00:00:38,680"
+			},
+			"offsets": {
+				"from": 36880,
+				"to": 38680
+			},
+			"text": "うさぎね!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,680",
+				"to": "00:00:40,680"
+			},
+			"offsets": {
+				"from": 38680,
+				"to": 40680
+			},
+			"text": "じゃあ、ハジワレ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,680",
+				"to": "00:00:44,680"
+			},
+			"offsets": {
+				"from": 40680,
+				"to": 44680
+			},
+			"text": "来たね!バカだ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,680",
+				"to": "00:00:46,680"
+			},
+			"offsets": {
+				"from": 44680,
+				"to": 46680
+			},
+			"text": "やっ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,680",
+				"to": "00:00:48,680"
+			},
+			"offsets": {
+				"from": 46680,
+				"to": 48680
+			},
+			"text": "おやすみなさい!"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,680",
+				"to": "00:01:46,660"
+			},
+			"offsets": {
+				"from": 76680,
+				"to": 106660
+			},
+			"text": "ご視聴ありがとうございました"
+		}
+	]
+}

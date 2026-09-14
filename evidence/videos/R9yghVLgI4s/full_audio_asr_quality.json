@@ -1,0 +1,119 @@
+{
+  "candidate": "full_audio_asr.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 2674,
+  "flagged_segment_count": 1770,
+  "max_exact_repeat_count": 877,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "えぇー?",
+      "count": 24,
+      "from_ms": 370680,
+      "to_ms": 390680
+    },
+    {
+      "text": "えぇー?",
+      "count": 34,
+      "from_ms": 396500,
+      "to_ms": 424500
+    },
+    {
+      "text": "はい",
+      "count": 11,
+      "from_ms": 716820,
+      "to_ms": 727020
+    },
+    {
+      "text": "丸が…",
+      "count": 5,
+      "from_ms": 935020,
+      "to_ms": 940020
+    },
+    {
+      "text": "大きさ!",
+      "count": 8,
+      "from_ms": 1094940,
+      "to_ms": 1100940
+    },
+    {
+      "text": "9!",
+      "count": 5,
+      "from_ms": 1160940,
+      "to_ms": 1165940
+    },
+    {
+      "text": "ご視聴ありがとうございました",
+      "count": 10,
+      "from_ms": 1356480,
+      "to_ms": 1495120
+    },
+    {
+      "text": "はい、2万点ぐらいしかかかってたのにねん",
+      "count": 5,
+      "from_ms": 1648600,
+      "to_ms": 1657520
+    },
+    {
+      "text": "はい、2万点ぐらいしかかかってたのにねん",
+      "count": 10,
+      "from_ms": 1657960,
+      "to_ms": 1672760
+    },
+    {
+      "text": "電気財布だよ。",
+      "count": 126,
+      "from_ms": 1818920,
+      "to_ms": 2026920
+    },
+    {
+      "text": "電気財布だよ。",
+      "count": 35,
+      "from_ms": 2028920,
+      "to_ms": 2098920
+    },
+    {
+      "text": "お疲れ様でした。",
+      "count": 9,
+      "from_ms": 2106920,
+      "to_ms": 2138920
+    },
+    {
+      "text": "お前の目が獲得です。",
+      "count": 21,
+      "from_ms": 2215920,
+      "to_ms": 2240920
+    },
+    {
+      "text": "お前の目獲得です。",
+      "count": 79,
+      "from_ms": 2240920,
+      "to_ms": 2384920
+    },
+    {
+      "text": "お前獲得です。",
+      "count": 10,
+      "from_ms": 2384920,
+      "to_ms": 2406920
+    },
+    {
+      "text": "大きささんこっち見て。",
+      "count": 877,
+      "from_ms": 2476920,
+      "to_ms": 4213920
+    },
+    {
+      "text": "大きささんこっち見て。",
+      "count": 100,
+      "from_ms": 4215920,
+      "to_ms": 4419920
+    },
+    {
+      "text": "次回予告",
+      "count": 401,
+      "from_ms": 4500980,
+      "to_ms": 16523100
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

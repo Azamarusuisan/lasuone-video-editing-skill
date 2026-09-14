@@ -1,0 +1,35 @@
+{
+  "candidate": "full_audio_asr_no_context.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 993,
+  "flagged_segment_count": 27,
+  "max_exact_repeat_count": 9,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "ラストスマイロスト",
+      "count": 6,
+      "from_ms": 848420,
+      "to_ms": 870420
+    },
+    {
+      "text": "- 中に入った4番、アンディラメダ。 - 中に入った4番、アンディラメダ。",
+      "count": 5,
+      "from_ms": 1101800,
+      "to_ms": 1122800
+    },
+    {
+      "text": "12の外",
+      "count": 9,
+      "from_ms": 1135320,
+      "to_ms": 1142320
+    },
+    {
+      "text": "スタッフ:サラサラヘアー",
+      "count": 7,
+      "from_ms": 1813360,
+      "to_ms": 1824360
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

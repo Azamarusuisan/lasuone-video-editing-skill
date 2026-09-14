@@ -1,0 +1,176 @@
+{
+  "video_id": "CEf_sKZk6d8",
+  "url": "https://www.youtube.com/watch?v=CEf_sKZk6d8",
+  "captured_at": "2026-09-13T09:29:45.290Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【番外編】バカラでまさかの展開 - YouTube",
+  "duration_s": 135.761,
+  "width": 360,
+  "height": 640,
+  "description": "－－－－－－－－－－－－－－－ \nポッドキャスト始めました🎙\n今ポッドキャストがかなり熱いです🔥 …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 34,
+      "time_s": 34,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0034000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 48,
+      "time_s": 48,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0048000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 61,
+      "time_s": 61,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0061000.jpg"
+    },
+    {
+      "requested_s": 75,
+      "time_s": 75,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0075000.jpg"
+    },
+    {
+      "requested_s": 88,
+      "time_s": 88,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0088000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 102,
+      "time_s": 102,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0102000.jpg"
+    },
+    {
+      "requested_s": 105.761,
+      "time_s": 105.761,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0105761.jpg"
+    },
+    {
+      "requested_s": 115,
+      "time_s": 115,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0115000.jpg"
+    },
+    {
+      "requested_s": 120.761,
+      "time_s": 120.761,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0120761.jpg"
+    },
+    {
+      "requested_s": 125,
+      "time_s": 125,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0125000.jpg"
+    },
+    {
+      "requested_s": 132.761,
+      "time_s": 132.761,
+      "width": 360,
+      "height": 640,
+      "file": "frame_0132761.jpg"
+    }
+  ]
+}

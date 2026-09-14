@@ -1,0 +1,263 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "type": "EDIT_DECISION_TEMPLATE_NOT_RENDERABLE_NLE_PROJECT",
+  "production_enabled": false,
+  "unmeasured_values_must_not_be_filled_with_generic_defaults": true,
+  "decision_fields": [
+    "SPEAKER",
+    "SOURCE_TIMECODE_IN",
+    "SOURCE_TIMECODE_OUT",
+    "TEXT",
+    "EMOTION",
+    "IMPORTANCE",
+    "SUBTITLE_TYPE",
+    "ASSET_NEEDED",
+    "BGM",
+    "SE",
+    "CUT",
+    "ZOOM",
+    "REFERENCE",
+    "CONFIDENCE",
+    "REASON"
+  ],
+  "cut_interval_s": null,
+  "punch_in_scale": null,
+  "se_gain_db": null,
+  "export_preset": null,
+  "states": [
+    "BET",
+    "WAIT",
+    "RESULT",
+    "REACTION"
+  ],
+  "state_durations_s": null,
+  "variants": [
+    {
+      "game": "BACCARAT",
+      "references": [
+        {
+          "video_id": "luauPBapN7U",
+          "time_s": 720,
+          "url": "https://www.youtube.com/watch?v=luauPBapN7U&t=720"
+        },
+        {
+          "video_id": "HBiRgIIzSR4",
+          "time_s": 290,
+          "url": "https://www.youtube.com/watch?v=HBiRgIIzSR4&t=290"
+        }
+      ],
+      "fields": [
+        "BET_SIDE",
+        "BET_AMOUNT",
+        "CURRENCY",
+        "BANKER_CARDS",
+        "PLAYER_CARDS",
+        "BANKER_POINT",
+        "PLAYER_POINT",
+        "WIN_LOSE_PUSH",
+        "GROSS_RETURN",
+        "NET_PROFIT",
+        "BANKROLL"
+      ],
+      "layout": "BANKER/PLAYERカード・点数は下左右。トーナメントの横長パネルは別レイアウト。"
+    },
+    {
+      "game": "POKER",
+      "references": [
+        {
+          "video_id": "k5GIOKkoAc4",
+          "time_s": 671,
+          "url": "https://www.youtube.com/watch?v=k5GIOKkoAc4&t=671"
+        },
+        {
+          "video_id": "E2KvTtptb7Y",
+          "time_s": 412,
+          "url": "https://www.youtube.com/watch?v=E2KvTtptb7Y&t=412"
+        },
+        {
+          "video_id": "j6dt3zbPjfE",
+          "time_s": 129,
+          "url": "https://www.youtube.com/watch?v=j6dt3zbPjfE&t=129"
+        }
+      ],
+      "fields": [
+        "ACTIVE_PLAYERS",
+        "POSITION",
+        "KNOWN_HOLE_CARDS",
+        "ACTION",
+        "ACTION_AMOUNT",
+        "BOARD_BY_STREET",
+        "POT",
+        "BLINDS_ANTE",
+        "WINNER"
+      ],
+      "layout": "左にプレイヤー、右下にボード・Pot・Blinds、上に機能色付きアクション説明。",
+      "visibility_rule": "見えていないカードを事実として補完しない。ポット更新とアクション順は音声／映像の裏取りが必要。"
+    },
+    {
+      "game": "POKER_MULTIWAY_AND_LIMIT_BRANCHES",
+      "references": [
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 1492,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=1492",
+          "timestamp_basis": "SOURCE_PTS",
+          "evidence": "evidence/videos/R9yghVLgI4s/points/review.json"
+        },
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 3120,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=3120",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        },
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 3525,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=3525",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        }
+      ],
+      "evidence": "evidence/videos/R9yghVLgI4s/overview/review_progress.json",
+      "fields": [
+        "RESULT_BY_PARTICIPANT",
+        "HAND_MADE",
+        "HAND_WIN_CONFIRMED",
+        "BETTING_STRUCTURE",
+        "BLINDS",
+        "LIMIT"
+      ],
+      "rules": [
+        "CHOPを参加者別に保持する",
+        "役成立と勝利確定を分離する",
+        "NLHEのBlinds欄とFLHEのLimit欄を混ぜない"
+      ],
+      "timing_values_s": null,
+      "settlement_amounts": null,
+      "generalization": "LOW",
+      "production_approved": false
+    },
+    {
+      "game": "LEGACY_BACCARAT_VERTICAL_HUD",
+      "references": [
+        {
+          "video_id": "Z53j2cRj1C8",
+          "time_s": 12000,
+          "url": "https://www.youtube.com/watch?v=Z53j2cRj1C8&t=12000",
+          "timestamp_basis": "SELECTED_POINT_REQUEST"
+        },
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 360,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=360",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        },
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 2175,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=2175",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        }
+      ],
+      "evidence": [
+        "evidence/videos/Z53j2cRj1C8/points/review.json",
+        "evidence/videos/R9yghVLgI4s/overview/review_progress.json"
+      ],
+      "layout": "旧バカラのBANKER/PLAYER縦積みHUDには右下例と左下例があり、左右を固定しない。",
+      "timing_values_s": null,
+      "generalization": "LOW",
+      "production_approved": false
+    },
+    {
+      "game": "MAHJONG",
+      "references": [
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 5700,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=5700",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        },
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 5805,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=5805",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        }
+      ],
+      "evidence": "evidence/videos/R9yghVLgI4s/overview/review_progress.json",
+      "fields": [
+        "SHANTEN",
+        "HAND",
+        "DORA",
+        "POINTS",
+        "SETTLEMENT",
+        "CURRENCY"
+      ],
+      "layout": "ポーカー／バカラHUDへ変換せず、麻雀の役・状態・精算を別管理する。",
+      "timing_values_s": null,
+      "payout": null,
+      "generalization": "LOW",
+      "production_approved": false
+    },
+    {
+      "game": "ULTIMATE_CASINO_TABLE_GAME",
+      "references": [
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 6135,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=6135",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        },
+        {
+          "video_id": "R9yghVLgI4s",
+          "time_s": 6270,
+          "url": "https://www.youtube.com/watch?v=R9yghVLgI4s&t=6270",
+          "timestamp_basis": "NOMINAL_OVERVIEW_GRID",
+          "timestamp_uncertainty_s": 7.5
+        }
+      ],
+      "evidence": "evidence/videos/R9yghVLgI4s/overview/review_progress.json",
+      "fields": [
+        "ANTE",
+        "BLIND",
+        "PLAY",
+        "PLAYER_CARDS",
+        "BOARD",
+        "DEALER_RESULT",
+        "PAYOUT"
+      ],
+      "layout": "カジノ側との対戦を対人NLHE／FLHEのPot・席順・Blinds表示から分離する。",
+      "timing_values_s": null,
+      "payout": null,
+      "generalization": "LOW",
+      "production_approved": false
+    }
+  ],
+  "money_checks": [
+    "払戻と純利益を区別",
+    "通貨と換算時点を明示",
+    "本人と同行者の収支を混ぜない",
+    "BET・収支・残高の字幕とグラフィックを照合",
+    "後続訂正を元表示へ紐づける",
+    "推定・以上などの限定を保持する",
+    "矛盾するBET額と損失額は原因確認まで確定しない"
+  ],
+  "cut_rules_not_yet_learned": [
+    "待ちの残尺",
+    "結果直前の無音",
+    "リアクション保持尺",
+    "笑い後の間",
+    "ズーム倍率と速度"
+  ],
+  "broll_policy": "勝負へ集中する場面の情報追加は慎重に判断する（ユーザー指定）。実測頻度は未確定。"
+}

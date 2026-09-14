@@ -1,0 +1,142 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,580"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2580
+			},
+			"text": "このチャンネルは僕の人間観察バラエティでございます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,840",
+				"to": "00:00:06,540"
+			},
+			"offsets": {
+				"from": 2840,
+				"to": 6540
+			},
+			"text": "オンラインギャンブル並びフォートバクの勧誘推奨は一切行っておりません。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,760",
+				"to": "00:00:08,080"
+			},
+			"offsets": {
+				"from": 6760,
+				"to": 8080
+			},
+			"text": "日本でのギャンブルはダメだっちゃうよ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,280",
+				"to": "00:00:09,480"
+			},
+			"offsets": {
+				"from": 8280,
+				"to": 9480
+			},
+			"text": "それでは本編をご覧ください。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,040",
+				"to": "00:00:14,560"
+			},
+			"offsets": {
+				"from": 12040,
+				"to": 14560
+			},
+			"text": "おはようございます。今日はミステリーバウンティー。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,640",
+				"to": "00:00:18,100"
+			},
+			"offsets": {
+				"from": 14640,
+				"to": 18100
+			},
+			"text": "ミステリーバウンティーですね。どのような情報を探しですか?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,500",
+				"to": "00:00:19,360"
+			},
+			"offsets": {
+				"from": 18500,
+				"to": 19360
+			},
+			"text": "うるせえ、黙ってろ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,300",
+				"to": "00:00:25,200"
+			},
+			"offsets": {
+				"from": 21300,
+				"to": 25200
+			},
+			"text": "ぼっちぼっちふたわしく、決して負けるな、ふなぼっち。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,480",
+				"to": "00:00:28,920"
+			},
+			"offsets": {
+				"from": 25480,
+				"to": 28920
+			},
+			"text": "今日は頑張ってきたんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,920",
+				"to": "00:00:30,240"
+			},
+			"offsets": {
+				"from": 28920,
+				"to": 30240
+			},
+			"text": "ちょっとええな使い方だった"
+		}
+	]
+}

@@ -1,0 +1,285 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,100"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2100
+			},
+			"text": "世界一のノージルスロットをぶん回した結果"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,100",
+				"to": "00:00:04,860"
+			},
+			"offsets": {
+				"from": 2100,
+				"to": 4860
+			},
+			"text": "ギャンブルで19億負けたとしても"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,860",
+				"to": "00:00:06,660"
+			},
+			"offsets": {
+				"from": 4860,
+				"to": 6660
+			},
+			"text": "一筋の光に望みをかけ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,660",
+				"to": "00:00:09,280"
+			},
+			"offsets": {
+				"from": 6660,
+				"to": 9280
+			},
+			"text": "この男は今日もスロットでお金を投入する"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,280",
+				"to": "00:00:10,820"
+			},
+			"offsets": {
+				"from": 9280,
+				"to": 10820
+			},
+			"text": "とりあえず原曲回していこう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,820",
+				"to": "00:00:12,800"
+			},
+			"offsets": {
+				"from": 10820,
+				"to": 12800
+			},
+			"text": "このカジノスロットは通常時に"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,800",
+				"to": "00:00:13,820"
+			},
+			"offsets": {
+				"from": 12800,
+				"to": 13820
+			},
+			"text": "ワイルドズ柄を貯め"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,820",
+				"to": "00:00:16,120"
+			},
+			"offsets": {
+				"from": 13820,
+				"to": 16120
+			},
+			"text": "ある一定の確率で解放された時に"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,120",
+				"to": "00:00:17,380"
+			},
+			"offsets": {
+				"from": 16120,
+				"to": 17380
+			},
+			"text": "後輩刀を狙う仕様だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,380",
+				"to": "00:00:19,720"
+			},
+			"offsets": {
+				"from": 17380,
+				"to": 19720
+			},
+			"text": "貯めれば貯めるほどスロットをやめにくくなるため"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,720",
+				"to": "00:00:21,460"
+			},
+			"offsets": {
+				"from": 19720,
+				"to": 21460
+			},
+			"text": "地獄の展開も予想される"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,460",
+				"to": "00:00:26,780"
+			},
+			"offsets": {
+				"from": 21460,
+				"to": 26780
+			},
+			"text": "お、安い"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,780",
+				"to": "00:00:28,560"
+			},
+			"offsets": {
+				"from": 26780,
+				"to": 28560
+			},
+			"text": "179ドル"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,560",
+				"to": "00:00:31,760"
+			},
+			"offsets": {
+				"from": 28560,
+				"to": 31760
+			},
+			"text": "ここでようやく3万円ほどの配当をゲットしたようだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,760",
+				"to": "00:00:34,780"
+			},
+			"offsets": {
+				"from": 31760,
+				"to": 34780
+			},
+			"text": "ながこの男は3万円では満足しない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,780",
+				"to": "00:00:42,700"
+			},
+			"offsets": {
+				"from": 34780,
+				"to": 42700
+			},
+			"text": "この大当たりは今まで貯めたワイルドを"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,700",
+				"to": "00:00:45,300"
+			},
+			"offsets": {
+				"from": 42700,
+				"to": 45300
+			},
+			"text": "10回転のフリーゲームの中で全て放出する"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,300",
+				"to": "00:00:48,160"
+			},
+			"offsets": {
+				"from": 45300,
+				"to": 48160
+			},
+			"text": "大当たりの特性と最終回転が激アツとなる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,160",
+				"to": "00:00:49,540"
+			},
+			"offsets": {
+				"from": 48160,
+				"to": 49540
+			},
+			"text": "最後10個使う"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,540",
+				"to": "00:00:51,700"
+			},
+			"offsets": {
+				"from": 49540,
+				"to": 51700
+			},
+			"text": "このスロットは1回転1200円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,700",
+				"to": "00:00:53,220"
+			},
+			"offsets": {
+				"from": 51700,
+				"to": 53220
+			},
+			"text": "さあいくら出る?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,240",
+				"to": "00:00:55,840"
+			},
+			"offsets": {
+				"from": 54240,
+				"to": 55840
+			},
+			"text": "1日に3万5000円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,840",
+				"to": "00:00:56,320"
+			},
+			"offsets": {
+				"from": 55840,
+				"to": 56320
+			},
+			"text": "微妙"
+		}
+	]
+}

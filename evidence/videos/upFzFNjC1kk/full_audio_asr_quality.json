@@ -1,0 +1,107 @@
+{
+  "candidate": "full_audio_asr.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 531,
+  "flagged_segment_count": 371,
+  "max_exact_repeat_count": 84,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "3番手",
+      "count": 7,
+      "from_ms": 133520,
+      "to_ms": 140520
+    },
+    {
+      "text": "持っている4番ヘニーザクインが立っている",
+      "count": 6,
+      "from_ms": 180860,
+      "to_ms": 188980
+    },
+    {
+      "text": "持っている3番ヘニーザクインが立っている",
+      "count": 5,
+      "from_ms": 189980,
+      "to_ms": 200980
+    },
+    {
+      "text": "2番ヘニーザクインが立っている",
+      "count": 8,
+      "from_ms": 222980,
+      "to_ms": 238980
+    },
+    {
+      "text": "2番ヘニーザクインが立っている",
+      "count": 13,
+      "from_ms": 244980,
+      "to_ms": 270980
+    },
+    {
+      "text": "2番ヘニーザクインが立っている",
+      "count": 30,
+      "from_ms": 272980,
+      "to_ms": 332980
+    },
+    {
+      "text": "2番ヘニーザクインが立っている",
+      "count": 10,
+      "from_ms": 334980,
+      "to_ms": 354980
+    },
+    {
+      "text": "1番ヘニーザクインが立っている",
+      "count": 27,
+      "from_ms": 384980,
+      "to_ms": 442980
+    },
+    {
+      "text": "2番ヘニーザクインが立っている",
+      "count": 8,
+      "from_ms": 442980,
+      "to_ms": 458980
+    },
+    {
+      "text": "5番ヘニーザクインが立っている",
+      "count": 12,
+      "from_ms": 458980,
+      "to_ms": 482980
+    },
+    {
+      "text": "5番ヘニーザクインが立っている",
+      "count": 49,
+      "from_ms": 486980,
+      "to_ms": 584980
+    },
+    {
+      "text": "6番ヘニーザクインが立っている",
+      "count": 5,
+      "from_ms": 584980,
+      "to_ms": 594980
+    },
+    {
+      "text": "5番ヘニーザクインが立っている",
+      "count": 54,
+      "from_ms": 594980,
+      "to_ms": 702980
+    },
+    {
+      "text": "5番ヘニーザクインが立っている",
+      "count": 23,
+      "from_ms": 704980,
+      "to_ms": 750980
+    },
+    {
+      "text": "5番ヘニーザクインが立っている",
+      "count": 84,
+      "from_ms": 770980,
+      "to_ms": 938980
+    },
+    {
+      "text": "5番ヘニーザクインが立っている",
+      "count": 30,
+      "from_ms": 950980,
+      "to_ms": 1010980
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

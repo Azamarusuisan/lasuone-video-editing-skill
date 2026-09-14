@@ -1,0 +1,145 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "type": "EDIT_DECISION_TEMPLATE_NOT_RENDERABLE_NLE_PROJECT",
+  "production_enabled": false,
+  "unmeasured_values_must_not_be_filled_with_generic_defaults": true,
+  "decision_fields": [
+    "SPEAKER",
+    "SOURCE_TIMECODE_IN",
+    "SOURCE_TIMECODE_OUT",
+    "TEXT",
+    "EMOTION",
+    "IMPORTANCE",
+    "SUBTITLE_TYPE",
+    "ASSET_NEEDED",
+    "BGM",
+    "SE",
+    "CUT",
+    "ZOOM",
+    "REFERENCE",
+    "CONFIDENCE",
+    "REASON"
+  ],
+  "cut_interval_s": null,
+  "punch_in_scale": null,
+  "se_gain_db": null,
+  "export_preset": null,
+  "canvas": [
+    1080,
+    1920
+  ],
+  "safe_zone_px": null,
+  "variants": [
+    {
+      "id": "HORIZONTAL_BACCARAT_IN_PORTRAIT",
+      "references": [
+        {
+          "video_id": "CEf_sKZk6d8",
+          "time_s": 12,
+          "url": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=12"
+        },
+        {
+          "video_id": "vmCVh6ft97I",
+          "time_s": 12,
+          "url": "https://www.youtube.com/watch?v=vmCVh6ft97I&t=12"
+        }
+      ],
+      "layout": "黒背景、横動画の幅を維持、字幕はその下。",
+      "subtitle_profiles": [
+        "SHORT_GREEN_BELOW",
+        "SHORT_YELLOW_BELOW",
+        "GOLD_MONEY"
+      ]
+    },
+    {
+      "id": "COMEDY_DIALOGUE",
+      "references": [
+        {
+          "video_id": "gDkJ105rFjo",
+          "time_s": 2,
+          "url": "https://www.youtube.com/watch?v=gDkJ105rFjo&t=2"
+        }
+      ],
+      "layout": "人物と相手表現、中央大型字幕、1〜4行。キャラクター権利未確認。",
+      "subtitle_profiles": [
+        "SHORT_WHITE_BLUE",
+        "SHORT_BLUE_YELLOW_BUBBLE"
+      ]
+    },
+    {
+      "id": "BILINGUAL_INTERVIEW",
+      "references": [
+        {
+          "video_id": "WPjhmOMImg8",
+          "time_s": 38,
+          "url": "https://www.youtube.com/watch?v=WPjhmOMImg8&t=38"
+        }
+      ],
+      "layout": "上部タイトル／横対談／暗い下段に英語白と日本語黄／拡大ぼかし背景。",
+      "subtitle_profiles": [
+        "SHORT_BILINGUAL"
+      ]
+    },
+    {
+      "id": "RECENT_BLACK_BAND_EXPERIMENT",
+      "references": [
+        {
+          "video_id": "Uieu_JqrI-8",
+          "time_s": 8,
+          "url": "https://www.youtube.com/watch?v=Uieu_JqrI-8&t=8"
+        }
+      ],
+      "layout": "縦実写、下寄り黒帯字幕、冒頭黄カード。1本だけの暫定例。",
+      "subtitle_profiles": [
+        "SHORT_BLACK_BAND"
+      ]
+    },
+    {
+      "id": "SHORTS_PHYSICAL_BOARD_BACCARAT",
+      "references": [
+        {
+          "video_id": "N1YKZdA9-CI",
+          "time_s": 0,
+          "url": "https://www.youtube.com/watch?v=N1YKZdA9-CI&t=0"
+        }
+      ],
+      "evidence": "evidence/videos/N1YKZdA9-CI/overview_pts/review.json",
+      "layout": "縦実写で本人が物理的なスケッチブックを提示し、黄系字幕を実写へ直接重ねる暫定例。",
+      "generalization": "LOW",
+      "production_approved": false
+    },
+    {
+      "id": "SHORTS_BACCARAT_MEME_SANDWICH",
+      "references": [
+        {
+          "video_id": "RXuQ5dOJUOo",
+          "time_s": 0,
+          "url": "https://www.youtube.com/watch?v=RXuQ5dOJUOo&t=0"
+        }
+      ],
+      "evidence": "evidence/videos/RXuQ5dOJUOo/overview_pts/review.json",
+      "layout": "切り抜き・複製・キャラクター矩形・文字による演出の間に、白い小型字幕箱付きの縦実写の実戦を置く暫定例。",
+      "generalization": "LOW",
+      "production_approved": false
+    },
+    {
+      "id": "SHORTS_AI_EDITING_PROMO_EXAMPLE",
+      "references": [
+        {
+          "video_id": "8eiOy6oJ4m4",
+          "time_s": 0,
+          "url": "https://www.youtube.com/watch?v=8eiOy6oJ4m4&t=0"
+        }
+      ],
+      "evidence": "evidence/videos/8eiOy6oJ4m4/overview_pts/review.json",
+      "layout": "黒余白を伴う横実写に小型発話字幕、中央説明カード・要点表示・終端CTAを分ける暫定例。",
+      "generalization": "LOW",
+      "production_approved": false
+    }
+  ],
+  "hook_rule": "初秒の問い・題材表示は確認。結果先見せやループを全Shorts共通にしない。"
+}

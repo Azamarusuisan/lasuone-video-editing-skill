@@ -1,0 +1,5125 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,660"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2660
+			},
+			"text": "このチャンネルは僕の人間観察バラエティでございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,660",
+				"to": "00:00:04,480"
+			},
+			"offsets": {
+				"from": 2660,
+				"to": 4480
+			},
+			"text": "オンラインギャンブル並びフォートバクの"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,480",
+				"to": "00:00:06,620"
+			},
+			"offsets": {
+				"from": 4480,
+				"to": 6620
+			},
+			"text": "勧誘推奨は一切行っておりません"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,620",
+				"to": "00:00:08,140"
+			},
+			"offsets": {
+				"from": 6620,
+				"to": 8140
+			},
+			"text": "日本でのギャンブルはダメだっちゃよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,140",
+				"to": "00:00:09,540"
+			},
+			"offsets": {
+				"from": 8140,
+				"to": 9540
+			},
+			"text": "それでは本編をご覧ください"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:59,980"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 59980
+			},
+			"text": "3ベッドに対して4ベッドジャムが足りなすぎるから"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:01,120"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 61120
+			},
+			"text": "めちゃくちゃやられちゃうんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,120",
+				"to": "00:01:02,400"
+			},
+			"offsets": {
+				"from": 61120,
+				"to": 62400
+			},
+			"text": "俺もめちゃくちゃオープン広いから"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,400",
+				"to": "00:01:03,600"
+			},
+			"offsets": {
+				"from": 62400,
+				"to": 63600
+			},
+			"text": "めちゃくちゃやられるから"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,600",
+				"to": "00:01:05,200"
+			},
+			"offsets": {
+				"from": 63600,
+				"to": 65200
+			},
+			"text": "この分フォームを広げないといけないし"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,200",
+				"to": "00:01:06,400"
+			},
+			"offsets": {
+				"from": 65200,
+				"to": 66400
+			},
+			"text": "あとオープンする時に"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,400",
+				"to": "00:01:07,840"
+			},
+			"offsets": {
+				"from": 66400,
+				"to": 67840
+			},
+			"text": "わざとチェック全部回して"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,840",
+				"to": "00:01:09,320"
+			},
+			"offsets": {
+				"from": 67840,
+				"to": 69320
+			},
+			"text": "夫を捨てる時の雰囲気と"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,320",
+				"to": "00:01:11,320"
+			},
+			"offsets": {
+				"from": 69320,
+				"to": 71320
+			},
+			"text": "強い時の雰囲気を2個に分けて"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,320",
+				"to": "00:01:13,360"
+			},
+			"offsets": {
+				"from": 71320,
+				"to": 73360
+			},
+			"text": "それを結構昨日ビルとかに見せる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,360",
+				"to": "00:01:15,280"
+			},
+			"offsets": {
+				"from": 73360,
+				"to": 75280
+			},
+			"text": "俺の動きを勉強させておいて"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,280",
+				"to": "00:01:16,880"
+			},
+			"offsets": {
+				"from": 75280,
+				"to": 76880
+			},
+			"text": "で、後半逆をやるっていう"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,880",
+				"to": "00:01:18,400"
+			},
+			"offsets": {
+				"from": 76880,
+				"to": 78400
+			},
+			"text": "結構ほんとライブトラマでは"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,400",
+				"to": "00:01:19,600"
+			},
+			"offsets": {
+				"from": 78400,
+				"to": 79600
+			},
+			"text": "めっちゃ細かいところを見てる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,600",
+				"to": "00:01:21,600"
+			},
+			"offsets": {
+				"from": 79600,
+				"to": 81600
+			},
+			"text": "もう俳優業だよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:32,680"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 92680
+			},
+			"text": "広がりしたからいいですね"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,680",
+				"to": "00:01:34,020"
+			},
+			"offsets": {
+				"from": 92680,
+				"to": 94020
+			},
+			"text": "白を黒に"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,020",
+				"to": "00:01:35,360"
+			},
+			"offsets": {
+				"from": 94020,
+				"to": 95360
+			},
+			"text": "黒をオレンジに"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,360",
+				"to": "00:01:36,460"
+			},
+			"offsets": {
+				"from": 95360,
+				"to": 96460
+			},
+			"text": "現状29BB"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,460",
+				"to": "00:01:38,380"
+			},
+			"offsets": {
+				"from": 96460,
+				"to": 98380
+			},
+			"text": "17位、18位くらいに"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,380",
+				"to": "00:01:41,040"
+			},
+			"offsets": {
+				"from": 98380,
+				"to": 101040
+			},
+			"text": "29BBは普通に入れ切るサイズ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,040",
+				"to": "00:01:41,700"
+			},
+			"offsets": {
+				"from": 101040,
+				"to": 101700
+			},
+			"text": "入れ切るサイズ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,700",
+				"to": "00:01:43,100"
+			},
+			"offsets": {
+				"from": 101700,
+				"to": 103100
+			},
+			"text": "序盤から来るかしくないし"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,100",
+				"to": "00:01:44,300"
+			},
+			"offsets": {
+				"from": 103100,
+				"to": 104300
+			},
+			"text": "ダブルアップしようかしくないし"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,300",
+				"to": "00:01:45,220"
+			},
+			"offsets": {
+				"from": 104300,
+				"to": 105220
+			},
+			"text": "チップリンするなる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,220",
+				"to": "00:01:57,700"
+			},
+			"offsets": {
+				"from": 105220,
+				"to": 117700
+			},
+			"text": "残り23人"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,700",
+				"to": "00:01:58,560"
+			},
+			"offsets": {
+				"from": 117700,
+				"to": 118560
+			},
+			"text": "プライズアップして"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,560",
+				"to": "00:01:59,460"
+			},
+			"offsets": {
+				"from": 118560,
+				"to": 119460
+			},
+			"text": "今6万ドル"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,460",
+				"to": "00:02:01,840"
+			},
+			"offsets": {
+				"from": 119460,
+				"to": 121840
+			},
+			"text": "えーなんでまあ約1000万"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,840",
+				"to": "00:02:03,560"
+			},
+			"offsets": {
+				"from": 121840,
+				"to": 123560
+			},
+			"text": "まあ今1.2ミリオン持ちで"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,560",
+				"to": "00:02:04,800"
+			},
+			"offsets": {
+				"from": 123560,
+				"to": 124800
+			},
+			"text": "アベレージが2.8ミリオン"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,800",
+				"to": "00:02:07,220"
+			},
+			"offsets": {
+				"from": 124800,
+				"to": 127220
+			},
+			"text": "アベレージが全体が20BBなんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,220",
+				"to": "00:02:08,380"
+			},
+			"offsets": {
+				"from": 127220,
+				"to": 128380
+			},
+			"text": "一番得意なフィールド"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,380",
+				"to": "00:02:09,640"
+			},
+			"offsets": {
+				"from": 128380,
+				"to": 129640
+			},
+			"text": "振り振るなんかないんですよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,640",
+				"to": "00:02:11,580"
+			},
+			"offsets": {
+				"from": 129640,
+				"to": 131580
+			},
+			"text": "弱そうなオープンに対してリジャムする"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,580",
+				"to": "00:02:14,520"
+			},
+			"offsets": {
+				"from": 131580,
+				"to": 134520
+			},
+			"text": "この弱そうなオープンを見分ける力だけです"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,520",
+				"to": "00:02:15,480"
+			},
+			"offsets": {
+				"from": 134520,
+				"to": 135480
+			},
+			"text": "ほんとこれしかないんですよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,480",
+				"to": "00:02:16,240"
+			},
+			"offsets": {
+				"from": 135480,
+				"to": 136240
+			},
+			"text": "実際トラメって"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,240",
+				"to": "00:02:17,520"
+			},
+			"offsets": {
+				"from": 136240,
+				"to": 137520
+			},
+			"text": "なんかみんなが思っている以上"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,520",
+				"to": "00:02:19,280"
+			},
+			"offsets": {
+				"from": 137520,
+				"to": 139280
+			},
+			"text": "トラメの後半はほぼ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,280",
+				"to": "00:02:20,440"
+			},
+			"offsets": {
+				"from": 139280,
+				"to": 140440
+			},
+			"text": "ほぼそうなってないんですよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,440",
+				"to": "00:02:21,560"
+			},
+			"offsets": {
+				"from": 140440,
+				"to": 141560
+			},
+			"text": "振り振るがいいんですよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,560",
+				"to": "00:02:22,060"
+			},
+			"offsets": {
+				"from": 141560,
+				"to": 142060
+			},
+			"text": "頑張りましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,060",
+				"to": "00:02:22,580"
+			},
+			"offsets": {
+				"from": 142060,
+				"to": 142580
+			},
+			"text": "頑張ってよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,460",
+				"to": "00:02:59,440"
+			},
+			"offsets": {
+				"from": 149460,
+				"to": 179440
+			},
+			"text": "おやすみなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,460",
+				"to": "00:03:01,460"
+			},
+			"offsets": {
+				"from": 179460,
+				"to": 181460
+			},
+			"text": "ん"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,380",
+				"to": "00:03:25,320"
+			},
+			"offsets": {
+				"from": 197380,
+				"to": 205320
+			},
+			"text": "残り14俺人生の多いんで一番緊張した別にさ今までもこれぐらいのトラム出てるし 全然もっと高いトラム出てるんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,320",
+				"to": "00:03:29,020"
+			},
+			"offsets": {
+				"from": 205320,
+				"to": 209020
+			},
+			"text": "なんかその中仲間の思いがさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,460",
+				"to": "00:03:32,380"
+			},
+			"offsets": {
+				"from": 209460,
+				"to": 212380
+			},
+			"text": "あっちいいわ 重いが乗ってるわ"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:32,380",
+				"to": "00:03:35,260"
+			},
+			"offsets": {
+				"from": 212380,
+				"to": 215260
+			},
+			"text": "マジで ゾーンに入ってる"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,260",
+				"to": "00:03:37,560"
+			},
+			"offsets": {
+				"from": 215260,
+				"to": 217560
+			},
+			"text": "全然まだまだ安倍下で もう1ダブルアップで"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,560",
+				"to": "00:03:39,120"
+			},
+			"offsets": {
+				"from": 217560,
+				"to": 219120
+			},
+			"text": "あとは失敗してるくらいですね"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:39,120",
+				"to": "00:03:41,340"
+			},
+			"offsets": {
+				"from": 219120,
+				"to": 221340
+			},
+			"text": "だからまあその すごくコロコロ入れ替わるし"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:41,340",
+				"to": "00:03:43,840"
+			},
+			"offsets": {
+				"from": 221340,
+				"to": 223840
+			},
+			"text": "フリップの一個一個が人生が勝ったみたいな"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,840",
+				"to": "00:03:45,100"
+			},
+			"offsets": {
+				"from": 223840,
+				"to": 225100
+			},
+			"text": "楽しいな"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,100",
+				"to": "00:03:48,420"
+			},
+			"offsets": {
+				"from": 225100,
+				"to": 228420
+			},
+			"text": "お金じゃなくてやっぱり名誉が"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,420",
+				"to": "00:03:51,080"
+			},
+			"offsets": {
+				"from": 228420,
+				"to": 231080
+			},
+			"text": "俺もあれをあげてやる"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:57,860",
+				"to": "00:03:59,420"
+			},
+			"offsets": {
+				"from": 237860,
+				"to": 239420
+			},
+			"text": "お疲れ様です"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:59,420",
+				"to": "00:04:01,420"
+			},
+			"offsets": {
+				"from": 239420,
+				"to": 241420
+			},
+			"text": "ずーっと耐えてる"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:01,420",
+				"to": "00:04:03,420"
+			},
+			"offsets": {
+				"from": 241420,
+				"to": 243420
+			},
+			"text": "ペーシェントは今日のテーマで"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:03,420",
+				"to": "00:04:05,420"
+			},
+			"offsets": {
+				"from": 243420,
+				"to": 245420
+			},
+			"text": "もともと最初の朝、誰もバレずにエフっていこう"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:05,420",
+				"to": "00:04:07,420"
+			},
+			"offsets": {
+				"from": 245420,
+				"to": 247420
+			},
+			"text": "そういう作戦やってます"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:07,420",
+				"to": "00:04:09,420"
+			},
+			"offsets": {
+				"from": 247420,
+				"to": 249420
+			},
+			"text": "応援した方は楽しくないだってさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,420",
+				"to": "00:04:11,420"
+			},
+			"offsets": {
+				"from": 249420,
+				"to": 251420
+			},
+			"text": "あと14分ってさ、2億だね"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:11,420",
+				"to": "00:04:13,420"
+			},
+			"offsets": {
+				"from": 251420,
+				"to": 253420
+			},
+			"text": "熱い"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:13,420",
+				"to": "00:04:15,420"
+			},
+			"offsets": {
+				"from": 253420,
+				"to": 255420
+			},
+			"text": "激アツです"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,420",
+				"to": "00:04:21,420"
+			},
+			"offsets": {
+				"from": 259420,
+				"to": 261420
+			},
+			"text": "行ってます"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:25,420",
+				"to": "00:04:28,740"
+			},
+			"offsets": {
+				"from": 265420,
+				"to": 268740
+			},
+			"text": "I don't know what that's going on"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,740",
+				"to": "00:04:30,000"
+			},
+			"offsets": {
+				"from": 268740,
+				"to": 270000
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,000",
+				"to": "00:04:32,420"
+			},
+			"offsets": {
+				"from": 270000,
+				"to": 272420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,420",
+				"to": "00:04:33,960"
+			},
+			"offsets": {
+				"from": 272420,
+				"to": 273960
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:33,960",
+				"to": "00:04:35,480"
+			},
+			"offsets": {
+				"from": 273960,
+				"to": 275480
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:35,480",
+				"to": "00:04:37,500"
+			},
+			"offsets": {
+				"from": 275480,
+				"to": 277500
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:37,500",
+				"to": "00:04:39,500"
+			},
+			"offsets": {
+				"from": 277500,
+				"to": 279500
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:39,500",
+				"to": "00:04:40,920"
+			},
+			"offsets": {
+				"from": 279500,
+				"to": 280920
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:40,920",
+				"to": "00:04:41,920"
+			},
+			"offsets": {
+				"from": 280920,
+				"to": 281920
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:41,920",
+				"to": "00:04:43,540"
+			},
+			"offsets": {
+				"from": 281920,
+				"to": 283540
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:43,540",
+				"to": "00:04:44,920"
+			},
+			"offsets": {
+				"from": 283540,
+				"to": 284920
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:44,920",
+				"to": "00:04:45,420"
+			},
+			"offsets": {
+				"from": 284920,
+				"to": 285420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,420",
+				"to": "00:04:46,420"
+			},
+			"offsets": {
+				"from": 285420,
+				"to": 286420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:46,420",
+				"to": "00:04:47,420"
+			},
+			"offsets": {
+				"from": 286420,
+				"to": 287420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,420",
+				"to": "00:04:48,420"
+			},
+			"offsets": {
+				"from": 287420,
+				"to": 288420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:48,420",
+				"to": "00:04:49,420"
+			},
+			"offsets": {
+				"from": 288420,
+				"to": 289420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:49,420",
+				"to": "00:04:50,420"
+			},
+			"offsets": {
+				"from": 289420,
+				"to": 290420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,420",
+				"to": "00:04:51,420"
+			},
+			"offsets": {
+				"from": 290420,
+				"to": 291420
+			},
+			"text": "I don't know what that's going to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:51,420",
+				"to": "00:04:56,300"
+			},
+			"offsets": {
+				"from": 291420,
+				"to": 296300
+			},
+			"text": "とても面白い場所があります"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,300",
+				"to": "00:05:02,140"
+			},
+			"offsets": {
+				"from": 296300,
+				"to": 302140
+			},
+			"text": "もしシミズムと戦闘を見ることができるかもしれません"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:02,140",
+				"to": "00:05:05,100"
+			},
+			"offsets": {
+				"from": 302140,
+				"to": 305100
+			},
+			"text": "アイスチェンサービスを追加することができるかもしれません"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,100",
+				"to": "00:05:05,100"
+			},
+			"offsets": {
+				"from": 305100,
+				"to": 305100
+			},
+			"text": "コメントを打ち上げるかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないかもしれないか"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,100",
+				"to": "00:05:09,720"
+			},
+			"offsets": {
+				"from": 305100,
+				"to": 309720
+			},
+			"text": "コミュニアは、カルビンのリーはカルビンのリーを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:09,720",
+				"to": "00:05:13,900"
+			},
+			"offsets": {
+				"from": 309720,
+				"to": 313900
+			},
+			"text": "カルビンのリーはカルビンのリーを取り出しているので、アイステンを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:13,900",
+				"to": "00:05:16,620"
+			},
+			"offsets": {
+				"from": 313900,
+				"to": 316620
+			},
+			"text": "カルビンのリーはカルビンを取り出しているので、カルビンのリーを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:16,620",
+				"to": "00:05:20,720"
+			},
+			"offsets": {
+				"from": 316620,
+				"to": 320720
+			},
+			"text": "カルビンのリーはカルビンのリーを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,720",
+				"to": "00:05:23,320"
+			},
+			"offsets": {
+				"from": 320720,
+				"to": 323320
+			},
+			"text": "カルビンのリーはカルビンを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:23,320",
+				"to": "00:05:26,180"
+			},
+			"offsets": {
+				"from": 323320,
+				"to": 326180
+			},
+			"text": "カルビンのリーはカルビンのリーを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,180",
+				"to": "00:05:28,800"
+			},
+			"offsets": {
+				"from": 326180,
+				"to": 328800
+			},
+			"text": "カルビンのリーはカルビンを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:28,800",
+				"to": "00:05:32,480"
+			},
+			"offsets": {
+				"from": 328800,
+				"to": 332480
+			},
+			"text": "カルビンのリーはカルビンのリーを取り出しています。"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:32,480",
+				"to": "00:05:38,880"
+			},
+			"offsets": {
+				"from": 332480,
+				"to": 338880
+			},
+			"text": "And when Shimizu calls, he also gets a little bit of an overlay from Calvin who often will be folding here."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:39,120",
+				"to": "00:05:44,620"
+			},
+			"offsets": {
+				"from": 339120,
+				"to": 344620
+			},
+			"text": "I don't think he would be looking to try to reshove out a 2 million stack."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:44,620",
+				"to": "00:05:46,260"
+			},
+			"offsets": {
+				"from": 344620,
+				"to": 346260
+			},
+			"text": "I kind of like this call."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:46,440",
+				"to": "00:05:55,540"
+			},
+			"offsets": {
+				"from": 346440,
+				"to": 355540
+			},
+			"text": "I mean, it doesn't feel particularly trappy, but Shimizu has put in a significant portion of his stack,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,620",
+				"to": "00:05:57,680"
+			},
+			"offsets": {
+				"from": 355620,
+				"to": 357680
+			},
+			"text": "just 2 million back after putting in 1.4."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:58,880",
+				"to": "00:06:00,080"
+			},
+			"offsets": {
+				"from": 358880,
+				"to": 360080
+			},
+			"text": "That's kind of interesting too."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:00,580",
+				"to": "00:06:05,620"
+			},
+			"offsets": {
+				"from": 360580,
+				"to": 365620
+			},
+			"text": "シミズが「Wow」と言ったら、カルヴィンが「Wow」と言ったら、カルヴィンが「Wow」と言ったら、彼は「Wow」と言ったらいい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,080",
+				"to": "00:06:25,480"
+			},
+			"offsets": {
+				"from": 379080,
+				"to": 385480
+			},
+			"text": "ドリーサイドポットは、アイスチェックスは、アイスチェックスに対応することができるんだよ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:25,480",
+				"to": "00:06:32,200"
+			},
+			"offsets": {
+				"from": 385480,
+				"to": 392200
+			},
+			"text": "スタッフは、シミズは、アイスチェックスに対応することができるんだよ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,200",
+				"to": "00:06:39,480"
+			},
+			"offsets": {
+				"from": 392200,
+				"to": 399480
+			},
+			"text": "フェア、アイスチェックスに対応することは、アイスチェックスに対応することができるんだよ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:39,480",
+				"to": "00:06:43,560"
+			},
+			"offsets": {
+				"from": 399480,
+				"to": 403560
+			},
+			"text": "アイスチェックスに対応することができるんだよ。"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:43,560",
+				"to": "00:07:13,560"
+			},
+			"offsets": {
+				"from": 403560,
+				"to": 433560
+			},
+			"text": "トイレによって、あなたはコンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテンテ"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,560",
+				"to": "00:07:15,560"
+			},
+			"offsets": {
+				"from": 433560,
+				"to": 435560
+			},
+			"text": "KING AND JACK"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:43,560",
+				"to": "00:07:45,560"
+			},
+			"offsets": {
+				"from": 463560,
+				"to": 465560
+			},
+			"text": "おやすみなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:13,560",
+				"to": "00:08:20,560"
+			},
+			"offsets": {
+				"from": 493560,
+				"to": 500560
+			},
+			"text": "シモンは最初の最初のカーロンです。 最初のカーロンです。"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:43,560",
+				"to": "00:08:47,860"
+			},
+			"offsets": {
+				"from": 523560,
+				"to": 527860
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:47,860",
+				"to": "00:08:50,900"
+			},
+			"offsets": {
+				"from": 527860,
+				"to": 530900
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:50,900",
+				"to": "00:08:55,960"
+			},
+			"offsets": {
+				"from": 530900,
+				"to": 535960
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,960",
+				"to": "00:08:58,880"
+			},
+			"offsets": {
+				"from": 535960,
+				"to": 538880
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:58,880",
+				"to": "00:09:03,120"
+			},
+			"offsets": {
+				"from": 538880,
+				"to": 543120
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,120",
+				"to": "00:09:05,520"
+			},
+			"offsets": {
+				"from": 543120,
+				"to": 545520
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:05,520",
+				"to": "00:09:08,120"
+			},
+			"offsets": {
+				"from": 545520,
+				"to": 548120
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:08,120",
+				"to": "00:09:10,560"
+			},
+			"offsets": {
+				"from": 548120,
+				"to": 550560
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:10,560",
+				"to": "00:09:12,560"
+			},
+			"offsets": {
+				"from": 550560,
+				"to": 552560
+			},
+			"text": "カメラはレッテンズを取り入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:12,560",
+				"to": "00:09:40,380"
+			},
+			"offsets": {
+				"from": 552560,
+				"to": 580380
+			},
+			"text": "コンテンツを持ち上げることができるようなチェックを打ち上げることができるようなチェックを打ち上げることができるようなチェックを打ち上げるようなチェックを打ち上げるようなチェックを打ち上げることができるようなチェックを打ち上げるようなチェックを打ち上げるようなチェックを打ち上げるようなチェックを打ち上げるようなチェックを打ち上げるようなチェックを打ち上げるようなチェックを打ち上げます"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:42,560",
+				"to": "00:09:52,560"
+			},
+			"offsets": {
+				"from": 582560,
+				"to": 592560
+			},
+			"text": "1-0-0-0-0-0-0-0-0-0-0-0"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:12,560",
+				"to": "00:10:22,000"
+			},
+			"offsets": {
+				"from": 612560,
+				"to": 622000
+			},
+			"text": "6-handed"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:22,000",
+				"to": "00:10:23,620"
+			},
+			"offsets": {
+				"from": 622000,
+				"to": 623620
+			},
+			"text": "11 big blinds"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,620",
+				"to": "00:10:25,540"
+			},
+			"offsets": {
+				"from": 623620,
+				"to": 625540
+			},
+			"text": "I think this is"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:25,540",
+				"to": "00:10:29,240"
+			},
+			"offsets": {
+				"from": 625540,
+				"to": 629240
+			},
+			"text": "quite a loose shove"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:29,240",
+				"to": "00:10:31,000"
+			},
+			"offsets": {
+				"from": 629240,
+				"to": 631000
+			},
+			"text": "2-0"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,000",
+				"to": "00:10:37,860"
+			},
+			"offsets": {
+				"from": 631000,
+				"to": 637860
+			},
+			"text": "1-2 notches"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:37,860",
+				"to": "00:10:39,280"
+			},
+			"offsets": {
+				"from": 637860,
+				"to": 639280
+			},
+			"text": "2 loose on average"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:39,280",
+				"to": "00:10:46,140"
+			},
+			"offsets": {
+				"from": 639280,
+				"to": 646140
+			},
+			"text": " but yeah and right away we get an indication as to why i will say what's interesting about this"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,140",
+				"to": "00:10:51,880"
+			},
+			"offsets": {
+				"from": 646140,
+				"to": 651880
+			},
+			"text": " shove because it should be stronger i think there's a version of this where andre had he had"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,880",
+				"to": "00:10:59,680"
+			},
+			"offsets": {
+				"from": 651880,
+				"to": 659680
+			},
+			"text": " ace 10 off might fold or a king jack suited king queen off might might find you actually might"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,680",
+				"to": "00:11:04,660"
+			},
+			"offsets": {
+				"from": 659680,
+				"to": 664660
+			},
+			"text": " fold out better kings and the better 10 but ace jack suited is going to be a bit too strong"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:04,660",
+				"to": "00:11:08,180"
+			},
+			"offsets": {
+				"from": 664660,
+				"to": 668180
+			},
+			"text": " looks like he's going to click it yeah and he's going to click it to get the rest of the money in"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:09,280",
+				"to": "00:11:16,480"
+			},
+			"offsets": {
+				"from": 669280,
+				"to": 676480
+			},
+			"text": "シミズさんは全体力を受け入れました"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,480",
+				"to": "00:11:19,080"
+			},
+			"offsets": {
+				"from": 676480,
+				"to": 679080
+			},
+			"text": "シミズさんは全体力を受け入れました"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:19,080",
+				"to": "00:11:26,280"
+			},
+			"offsets": {
+				"from": 679080,
+				"to": 686280
+			},
+			"text": "シミズさんは全体力を受け入れました"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:26,280",
+				"to": "00:11:29,280"
+			},
+			"offsets": {
+				"from": 686280,
+				"to": 689280
+			},
+			"text": "シミズさんは全体力を受け入れました"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:29,280",
+				"to": "00:11:32,280"
+			},
+			"offsets": {
+				"from": 689280,
+				"to": 692280
+			},
+			"text": "シミズさんは全体力を受け入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,280",
+				"to": "00:11:34,280"
+			},
+			"offsets": {
+				"from": 692280,
+				"to": 694280
+			},
+			"text": "シミズさんは全体力を受け入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:34,280",
+				"to": "00:11:36,280"
+			},
+			"offsets": {
+				"from": 694280,
+				"to": 696280
+			},
+			"text": "シミズさんは全体力を受け入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:36,280",
+				"to": "00:11:38,280"
+			},
+			"offsets": {
+				"from": 696280,
+				"to": 698280
+			},
+			"text": "シミズさんは全体力を受け入れます"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:38,280",
+				"to": "00:11:40,280"
+			},
+			"offsets": {
+				"from": 698280,
+				"to": 700280
+			},
+			"text": "お疲れ様でした。"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:08,280",
+				"to": "00:12:10,280"
+			},
+			"offsets": {
+				"from": 728280,
+				"to": 730280
+			},
+			"text": "Oh, he flopped it"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:10,280",
+				"to": "00:12:12,280"
+			},
+			"offsets": {
+				"from": 730280,
+				"to": 732280
+			},
+			"text": "Yeah, then he puts it"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:16,280",
+				"to": "00:12:18,280"
+			},
+			"offsets": {
+				"from": 736280,
+				"to": 738280
+			},
+			"text": "Andre doesn't like it"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,280",
+				"to": "00:12:20,280"
+			},
+			"offsets": {
+				"from": 738280,
+				"to": 740280
+			},
+			"text": "Not only because he's gotten unlucky"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:20,280",
+				"to": "00:12:22,280"
+			},
+			"offsets": {
+				"from": 740280,
+				"to": 742280
+			},
+			"text": "Maybe also thinking"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:22,280",
+				"to": "00:12:25,280"
+			},
+			"offsets": {
+				"from": 742280,
+				"to": 745280
+			},
+			"text": "This is only a hand that should be going down like this"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:26,280",
+				"to": "00:12:28,280"
+			},
+			"offsets": {
+				"from": 746280,
+				"to": 748280
+			},
+			"text": "So it needs to dodge"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:28,280",
+				"to": "00:12:30,280"
+			},
+			"offsets": {
+				"from": 748280,
+				"to": 750280
+			},
+			"text": "Running cards"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,280",
+				"to": "00:12:32,280"
+			},
+			"offsets": {
+				"from": 750280,
+				"to": 752280
+			},
+			"text": "Yeah"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:32,280",
+				"to": "00:12:34,280"
+			},
+			"offsets": {
+				"from": 752280,
+				"to": 754280
+			},
+			"text": "Professional dealer for you, huh?"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:34,280",
+				"to": "00:12:36,280"
+			},
+			"offsets": {
+				"from": 754280,
+				"to": 756280
+			},
+			"text": "Professional dealer"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:36,280",
+				"to": "00:12:38,280"
+			},
+			"offsets": {
+				"from": 756280,
+				"to": 758280
+			},
+			"text": "ありがとう"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:06,280",
+				"to": "00:13:07,540"
+			},
+			"offsets": {
+				"from": 786280,
+				"to": 787540
+			},
+			"text": "より繊細なセンディーでした"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:07,540",
+				"to": "00:13:13,820"
+			},
+			"offsets": {
+				"from": 787540,
+				"to": 793820
+			},
+			"text": "中国のラストワンです"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:13,820",
+				"to": "00:13:16,540"
+			},
+			"offsets": {
+				"from": 793820,
+				"to": 796540
+			},
+			"text": "レンリンさんです"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,540",
+				"to": "00:13:20,240"
+			},
+			"offsets": {
+				"from": 796540,
+				"to": 800240
+			},
+			"text": "かっこいい顔状シーンが撮れる"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:20,240",
+				"to": "00:13:21,320"
+			},
+			"offsets": {
+				"from": 800240,
+				"to": 801320
+			},
+			"text": "撮れたらめちゃめちゃ"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:21,320",
+				"to": "00:13:51,300"
+			},
+			"offsets": {
+				"from": 801320,
+				"to": 831300
+			},
+			"text": "おやすみなさい。"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,320",
+				"to": "00:13:57,320"
+			},
+			"offsets": {
+				"from": 831320,
+				"to": 837320
+			},
+			"text": "シミツのゾンビン、5.3ミリオンは5.3ミリオンで、シミツのゾンビンを迎えます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:59,320",
+				"to": "00:14:03,320"
+			},
+			"offsets": {
+				"from": 839320,
+				"to": 843320
+			},
+			"text": "シミツのゾンビンを迎えたら、シミツのゾンビンを迎えました。"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:03,320",
+				"to": "00:14:05,320"
+			},
+			"offsets": {
+				"from": 843320,
+				"to": 845320
+			},
+			"text": "シミツのフレンビンを迎えます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,320",
+				"to": "00:14:08,320"
+			},
+			"offsets": {
+				"from": 845320,
+				"to": 848320
+			},
+			"text": "シミツのゾンビンを迎えたら、シミツのゾンビンを迎えます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:10,320",
+				"to": "00:14:14,320"
+			},
+			"offsets": {
+				"from": 850320,
+				"to": 854320
+			},
+			"text": "5ミニュースのゾンビンを迎えたら、1.5ミリオンを迎えたら、3ミリオンを迎えます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:15,320",
+				"to": "00:14:18,540"
+			},
+			"offsets": {
+				"from": 855320,
+				"to": 858540
+			},
+			"text": "I wish you all the very best of luck, Tiareg, shuffle up and deal, please."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,020",
+				"to": "00:14:25,380"
+			},
+			"offsets": {
+				"from": 861020,
+				"to": 865380
+			},
+			"text": "Yellow diamonds. It's not even gold, eh? It's yellow diamonds."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:27,460",
+				"to": "00:14:30,340"
+			},
+			"offsets": {
+				"from": 867460,
+				"to": 870340
+			},
+			"text": "I'm still thinking about the roulette wheel. Is that a functioning roulette wheel?"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:30,760",
+				"to": "00:14:31,900"
+			},
+			"offsets": {
+				"from": 870760,
+				"to": 871900
+			},
+			"text": "That's what I hear."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:45,320",
+				"to": "00:15:14,060"
+			},
+			"offsets": {
+				"from": 885320,
+				"to": 914060
+			},
+			"text": "3-betの3-betのGathy"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:15,320",
+				"to": "00:15:19,480"
+			},
+			"offsets": {
+				"from": 915320,
+				"to": 919480
+			},
+			"text": "フレイスプレミュース"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:19,480",
+				"to": "00:15:21,960"
+			},
+			"offsets": {
+				"from": 919480,
+				"to": 921960
+			},
+			"text": "13 big blinds"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:21,960",
+				"to": "00:15:23,660"
+			},
+			"offsets": {
+				"from": 921960,
+				"to": 923660
+			},
+			"text": "Nizomu plays a lot more"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,660",
+				"to": "00:15:26,260"
+			},
+			"offsets": {
+				"from": 923660,
+				"to": 926260
+			},
+			"text": "20 or 25"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:26,260",
+				"to": "00:15:27,860"
+			},
+			"offsets": {
+				"from": 926260,
+				"to": 927860
+			},
+			"text": "Gaffey can easily"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:27,860",
+				"to": "00:15:28,880"
+			},
+			"offsets": {
+				"from": 927860,
+				"to": 928880
+			},
+			"text": "3bet and get away"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:28,880",
+				"to": "00:15:31,080"
+			},
+			"offsets": {
+				"from": 928880,
+				"to": 931080
+			},
+			"text": "but this time he's running into it"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:31,080",
+				"to": "00:15:32,800"
+			},
+			"offsets": {
+				"from": 931080,
+				"to": 932800
+			},
+			"text": "2 queens for"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:32,800",
+				"to": "00:15:34,880"
+			},
+			"offsets": {
+				"from": 932800,
+				"to": 934880
+			},
+			"text": "the man from Spain"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:34,880",
+				"to": "00:15:35,680"
+			},
+			"offsets": {
+				"from": 934880,
+				"to": 935680
+			},
+			"text": "John Ender"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:35,680",
+				"to": "00:15:36,560"
+			},
+			"offsets": {
+				"from": 935680,
+				"to": 936560
+			},
+			"text": "Valinus"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,560",
+				"to": "00:15:47,540"
+			},
+			"offsets": {
+				"from": 936560,
+				"to": 947540
+			},
+			"text": "I think it's mandatory for Gaffey to run it and try to make a pair of aces"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:47,540",
+				"to": "00:15:50,040"
+			},
+			"offsets": {
+				"from": 947540,
+				"to": 950040
+			},
+			"text": "Yeah, just going to be 1.3 million more to call"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:50,040",
+				"to": "00:15:55,920"
+			},
+			"offsets": {
+				"from": 950040,
+				"to": 955920
+			},
+			"text": "Effectively 6.5 or 7 big blinds"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:55,920",
+				"to": "00:16:00,640"
+			},
+			"offsets": {
+				"from": 955920,
+				"to": 960640
+			},
+			"text": "He knows he's up against a huge hand, but the price is extremely good"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:00,640",
+				"to": "00:16:01,840"
+			},
+			"offsets": {
+				"from": 960640,
+				"to": 961840
+			},
+			"text": "And with that ace power"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:01,840",
+				"to": "00:16:31,820"
+			},
+			"offsets": {
+				"from": 961840,
+				"to": 991820
+			},
+			"text": "お待ちしております"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:31,840",
+				"to": "00:16:40,640"
+			},
+			"offsets": {
+				"from": 991840,
+				"to": 1000640
+			},
+			"text": "7 big blinds should know that he's well ahead of ramblin's cutoff open here spots don't get much"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:40,640",
+				"to": "00:16:45,940"
+			},
+			"offsets": {
+				"from": 1000640,
+				"to": 1005940
+			},
+			"text": " better than this but man michael gathy maybe things are finally turning around for the man"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:45,940",
+				"to": "00:16:53,620"
+			},
+			"offsets": {
+				"from": 1005940,
+				"to": 1013620
+			},
+			"text": " from delvin pocket kings in the small blind i was gonna say nozomu did deliberately leave 100k"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:53,620",
+				"to": "00:17:00,780"
+			},
+			"offsets": {
+				"from": 1013620,
+				"to": 1020780
+			},
+			"text": " back there pretty hard for him to ever decide to fold and leave himself with 100k but gathy"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:00,780",
+				"to": "00:17:05,340"
+			},
+			"offsets": {
+				"from": 1020780,
+				"to": 1025340
+			},
+			"text": "Waking up with kings is potentially the start of it. It would just take Mario..."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:08,300",
+				"to": "00:17:12,540"
+			},
+			"offsets": {
+				"from": 1028300,
+				"to": 1032540
+			},
+			"text": "I don't know if this one's gonna be good enough, but it would take Mario waking up with a big one is"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:12,540",
+				"to": "00:17:19,500"
+			},
+			"offsets": {
+				"from": 1032540,
+				"to": 1039500
+			},
+			"text": " what I was about to say. He knows he has to get away there. Gaffy's not calling here light."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:24,940",
+				"to": "00:17:30,140"
+			},
+			"offsets": {
+				"from": 1044940,
+				"to": 1050140
+			},
+			"text": " And the other thing to point out is that that last 100k doesn't have to go in post-flop either."
+		},
+		{
+			"timestamps": {
+				"from": "00:17:30,140",
+				"to": "00:17:33,300"
+			},
+			"offsets": {
+				"from": 1050140,
+				"to": 1053300
+			},
+			"text": "ウェン・リンにフォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,300",
+				"to": "00:17:36,500"
+			},
+			"offsets": {
+				"from": 1053300,
+				"to": 1056500
+			},
+			"text": "フォールドはフォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,700",
+				"to": "00:17:43,140"
+			},
+			"offsets": {
+				"from": 1059700,
+				"to": 1063140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:43,140",
+				"to": "00:17:45,140"
+			},
+			"offsets": {
+				"from": 1063140,
+				"to": 1065140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:45,140",
+				"to": "00:17:48,140"
+			},
+			"offsets": {
+				"from": 1065140,
+				"to": 1068140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,140",
+				"to": "00:17:50,140"
+			},
+			"offsets": {
+				"from": 1068140,
+				"to": 1070140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:50,140",
+				"to": "00:17:52,140"
+			},
+			"offsets": {
+				"from": 1070140,
+				"to": 1072140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:52,140",
+				"to": "00:17:54,140"
+			},
+			"offsets": {
+				"from": 1072140,
+				"to": 1074140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:54,140",
+				"to": "00:17:56,140"
+			},
+			"offsets": {
+				"from": 1074140,
+				"to": 1076140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:56,140",
+				"to": "00:17:58,140"
+			},
+			"offsets": {
+				"from": 1076140,
+				"to": 1078140
+			},
+			"text": "フォールドを打ち込みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:58,140",
+				"to": "00:18:28,140"
+			},
+			"offsets": {
+				"from": 1078140,
+				"to": 1108140
+			},
+			"text": "キングが必要ない場合は、キングが必要ない場合が必要ない場合は、キングが必要ない場合は、キングが必要ない場合は、ナイクリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリスカリス"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,140",
+				"to": "00:18:58,120"
+			},
+			"offsets": {
+				"from": 1108140,
+				"to": 1138120
+			},
+			"text": "お疲れ様でした。"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:58,140",
+				"to": "00:19:03,480"
+			},
+			"offsets": {
+				"from": 1138140,
+				"to": 1143480
+			},
+			"text": "9th finisher, Shimizu Nozomu"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:03,480",
+				"to": "00:19:06,440"
+			},
+			"offsets": {
+				"from": 1143480,
+				"to": 1146440
+			},
+			"text": " obviously an important spot for Nozomu"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:06,440",
+				"to": "00:19:09,440"
+			},
+			"offsets": {
+				"from": 1146440,
+				"to": 1149440
+			},
+			"text": " looks like this is his first ever Triton calf"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:09,440",
+				"to": "00:19:12,780"
+			},
+			"offsets": {
+				"from": 1149440,
+				"to": 1152780
+			},
+			"text": "何がきちいって FTで何本もしたいんだって"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:12,780",
+				"to": "00:19:14,300"
+			},
+			"offsets": {
+				"from": 1152780,
+				"to": 1154300
+			},
+			"text": "今回でも仕様がないから"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:14,300",
+				"to": "00:19:16,100"
+			},
+			"offsets": {
+				"from": 1154300,
+				"to": 1156100
+			},
+			"text": "仕様がないプレーラインだったけどね"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,100",
+				"to": "00:19:20,200"
+			},
+			"offsets": {
+				"from": 1156100,
+				"to": 1160200
+			},
+			"text": "まぁでもこんな俺でも FT行けるっていうことをお届けできたから"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:20,200",
+				"to": "00:19:24,080"
+			},
+			"offsets": {
+				"from": 1160200,
+				"to": 1164080
+			},
+			"text": "まだまだトランの残ってるしあと2つぐらいで"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:24,080",
+				"to": "00:19:27,940"
+			},
+			"offsets": {
+				"from": 1164080,
+				"to": 1167940
+			},
+			"text": "まぁちょっとラスト抜けて切り替えて2カロリー"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:27,940",
+				"to": "00:19:29,940"
+			},
+			"offsets": {
+				"from": 1167940,
+				"to": 1169940
+			},
+			"text": "一旦お疲れ様でした"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,940",
+				"to": "00:19:29,940"
+			},
+			"offsets": {
+				"from": 1169940,
+				"to": 1169940
+			},
+			"text": "お疲れ様でした"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:29,940",
+				"to": "00:19:31,940"
+			},
+			"offsets": {
+				"from": 1169940,
+				"to": 1171940
+			},
+			"text": "キーっていうだけでもね"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:31,940",
+				"to": "00:19:33,940"
+			},
+			"offsets": {
+				"from": 1171940,
+				"to": 1173940
+			},
+			"text": "みんな盛り上がってます"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:33,940",
+				"to": "00:19:35,940"
+			},
+			"offsets": {
+				"from": 1173940,
+				"to": 1175940
+			},
+			"text": "切り替えてみましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:35,940",
+				"to": "00:19:37,940"
+			},
+			"offsets": {
+				"from": 1175940,
+				"to": 1177940
+			},
+			"text": "お疲れ様でした"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:49,940",
+				"to": "00:19:51,940"
+			},
+			"offsets": {
+				"from": 1189940,
+				"to": 1191940
+			},
+			"text": "どうしよっかな 出よっかな"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:51,940",
+				"to": "00:19:53,940"
+			},
+			"offsets": {
+				"from": 1191940,
+				"to": 1193940
+			},
+			"text": "考えよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:53,940",
+				"to": "00:19:55,940"
+			},
+			"offsets": {
+				"from": 1193940,
+				"to": 1195940
+			},
+			"text": "明日暇ないの"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:55,940",
+				"to": "00:19:56,940"
+			},
+			"offsets": {
+				"from": 1195940,
+				"to": 1196940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:56,940",
+				"to": "00:19:57,940"
+			},
+			"offsets": {
+				"from": 1196940,
+				"to": 1197940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:57,940",
+				"to": "00:19:58,940"
+			},
+			"offsets": {
+				"from": 1197940,
+				"to": 1198940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:58,940",
+				"to": "00:19:59,940"
+			},
+			"offsets": {
+				"from": 1198940,
+				"to": 1199940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,940",
+				"to": "00:20:00,940"
+			},
+			"offsets": {
+				"from": 1199940,
+				"to": 1200940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:00,940",
+				"to": "00:20:01,940"
+			},
+			"offsets": {
+				"from": 1200940,
+				"to": 1201940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:01,940",
+				"to": "00:20:02,940"
+			},
+			"offsets": {
+				"from": 1201940,
+				"to": 1202940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:02,940",
+				"to": "00:20:03,940"
+			},
+			"offsets": {
+				"from": 1202940,
+				"to": 1203940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:03,940",
+				"to": "00:20:04,940"
+			},
+			"offsets": {
+				"from": 1203940,
+				"to": 1204940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:04,940",
+				"to": "00:20:05,940"
+			},
+			"offsets": {
+				"from": 1204940,
+				"to": 1205940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,940",
+				"to": "00:20:06,940"
+			},
+			"offsets": {
+				"from": 1205940,
+				"to": 1206940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:06,940",
+				"to": "00:20:07,940"
+			},
+			"offsets": {
+				"from": 1206940,
+				"to": 1207940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:07,940",
+				"to": "00:20:08,940"
+			},
+			"offsets": {
+				"from": 1207940,
+				"to": 1208940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:08,940",
+				"to": "00:20:09,940"
+			},
+			"offsets": {
+				"from": 1208940,
+				"to": 1209940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:09,940",
+				"to": "00:20:10,940"
+			},
+			"offsets": {
+				"from": 1209940,
+				"to": 1210940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,940",
+				"to": "00:20:11,940"
+			},
+			"offsets": {
+				"from": 1210940,
+				"to": 1211940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:11,940",
+				"to": "00:20:12,940"
+			},
+			"offsets": {
+				"from": 1211940,
+				"to": 1212940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:12,940",
+				"to": "00:20:13,940"
+			},
+			"offsets": {
+				"from": 1212940,
+				"to": 1213940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:13,940",
+				"to": "00:20:14,940"
+			},
+			"offsets": {
+				"from": 1213940,
+				"to": 1214940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:14,940",
+				"to": "00:20:15,940"
+			},
+			"offsets": {
+				"from": 1214940,
+				"to": 1215940
+			},
+			"text": "カフェだけいってんの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:25,940",
+				"to": "00:20:28,420"
+			},
+			"offsets": {
+				"from": 1225940,
+				"to": 1228420
+			},
+			"text": "街にちょっと行って"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:28,420",
+				"to": "00:20:30,680"
+			},
+			"offsets": {
+				"from": 1228420,
+				"to": 1230680
+			},
+			"text": "チェジューを満喫しようかなと"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:30,680",
+				"to": "00:20:33,440"
+			},
+			"offsets": {
+				"from": 1230680,
+				"to": 1233440
+			},
+			"text": "今トリチョレがどうなってるかというと"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:33,440",
+				"to": "00:20:34,980"
+			},
+			"offsets": {
+				"from": 1233440,
+				"to": 1234980
+			},
+			"text": "13万ドル使って"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:34,980",
+				"to": "00:20:36,580"
+			},
+			"offsets": {
+				"from": 1234980,
+				"to": 1236580
+			},
+			"text": "ちょうど13万ドル回収したと"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:36,580",
+				"to": "00:20:38,840"
+			},
+			"offsets": {
+				"from": 1236580,
+				"to": 1238840
+			},
+			"text": "夢は見せれたのは良かったんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:38,840",
+				"to": "00:20:39,540"
+			},
+			"offsets": {
+				"from": 1238840,
+				"to": 1239540
+			},
+			"text": "やっぱりあとは結果"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,540",
+				"to": "00:20:40,700"
+			},
+			"offsets": {
+				"from": 1239540,
+				"to": 1240700
+			},
+			"text": "ラストのトロメがした"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:40,700",
+				"to": "00:20:45,000"
+			},
+			"offsets": {
+				"from": 1240700,
+				"to": 1245000
+			},
+			"text": "25,000ドルWPTとトリトンの合同イベントで"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:45,000",
+				"to": "00:20:47,320"
+			},
+			"offsets": {
+				"from": 1245000,
+				"to": 1247320
+			},
+			"text": "まあなんかトルト2つタイトルもらえるみたいな"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,320",
+				"to": "00:20:47,900"
+			},
+			"offsets": {
+				"from": 1247320,
+				"to": 1247900
+			},
+			"text": "美味しい"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:47,900",
+				"to": "00:20:50,060"
+			},
+			"offsets": {
+				"from": 1247900,
+				"to": 1250060
+			},
+			"text": "なんか二毛作みたいな"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:50,060",
+				"to": "00:20:52,280"
+			},
+			"offsets": {
+				"from": 1250060,
+				"to": 1252280
+			},
+			"text": "なんで本当は今日の3万出る予定だったんですけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:52,280",
+				"to": "00:20:54,520"
+			},
+			"offsets": {
+				"from": 1252280,
+				"to": 1254520
+			},
+			"text": "まあどうせWPTのタイトルも取れるなら"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:54,520",
+				"to": "00:20:55,820"
+			},
+			"offsets": {
+				"from": 1254520,
+				"to": 1255820
+			},
+			"text": "明日の方がいいかなっていうので"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:55,820",
+				"to": "00:20:57,820"
+			},
+			"offsets": {
+				"from": 1255820,
+				"to": 1257820
+			},
+			"text": "今日は観光で勉強しよう"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:57,820",
+				"to": "00:20:58,820"
+			},
+			"offsets": {
+				"from": 1257820,
+				"to": 1258820
+			},
+			"text": "勉強で"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,820",
+				"to": "00:20:59,820"
+			},
+			"offsets": {
+				"from": 1258820,
+				"to": 1259820
+			},
+			"text": "じゃあ行きましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:59,820",
+				"to": "00:21:00,820"
+			},
+			"offsets": {
+				"from": 1259820,
+				"to": 1260820
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:00,820",
+				"to": "00:21:02,820"
+			},
+			"offsets": {
+				"from": 1260820,
+				"to": 1262820
+			},
+			"text": "とりあえずしゃぶしゃぶを食いに行きます"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:04,820",
+				"to": "00:21:05,820"
+			},
+			"offsets": {
+				"from": 1264820,
+				"to": 1265820
+			},
+			"text": "これさつまいの"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:05,820",
+				"to": "00:21:06,820"
+			},
+			"offsets": {
+				"from": 1265820,
+				"to": 1266820
+			},
+			"text": "お茶?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:06,820",
+				"to": "00:21:07,820"
+			},
+			"offsets": {
+				"from": 1266820,
+				"to": 1267820
+			},
+			"text": "お茶"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:07,820",
+				"to": "00:21:08,820"
+			},
+			"offsets": {
+				"from": 1267820,
+				"to": 1268820
+			},
+			"text": "お茶"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:08,820",
+				"to": "00:21:10,820"
+			},
+			"offsets": {
+				"from": 1268820,
+				"to": 1270820
+			},
+			"text": "お茶"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:10,820",
+				"to": "00:21:11,820"
+			},
+			"offsets": {
+				"from": 1270820,
+				"to": 1271820
+			},
+			"text": "お茶じゃないです"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:11,820",
+				"to": "00:21:12,820"
+			},
+			"offsets": {
+				"from": 1271820,
+				"to": 1272820
+			},
+			"text": "お茶じゃないですか"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:12,820",
+				"to": "00:21:14,820"
+			},
+			"offsets": {
+				"from": 1272820,
+				"to": 1274820
+			},
+			"text": "あ、紅茶って言ってるの"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:14,820",
+				"to": "00:21:17,820"
+			},
+			"offsets": {
+				"from": 1274820,
+				"to": 1277820
+			},
+			"text": "紅茶、紅茶、あのリップとリップ"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:17,820",
+				"to": "00:21:18,820"
+			},
+			"offsets": {
+				"from": 1277820,
+				"to": 1278820
+			},
+			"text": "これ何ですかこれ"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:18,820",
+				"to": "00:21:21,820"
+			},
+			"offsets": {
+				"from": 1278820,
+				"to": 1281820
+			},
+			"text": "なんか昨日中国人があのトーナミ優勝したんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:21,820",
+				"to": "00:21:24,820"
+			},
+			"offsets": {
+				"from": 1281820,
+				"to": 1284820
+			},
+			"text": "その中国人と1個前の大会で優勝した中国人"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:24,820",
+				"to": "00:21:25,780"
+			},
+			"offsets": {
+				"from": 1284820,
+				"to": 1285780
+			},
+			"text": "何故かこういう事なのよ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:25,780",
+				"to": "00:21:26,980"
+			},
+			"offsets": {
+				"from": 1285780,
+				"to": 1286980
+			},
+			"text": "俺それマジ見てて!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,980",
+				"to": "00:21:28,140"
+			},
+			"offsets": {
+				"from": 1286980,
+				"to": 1288140
+			},
+			"text": "これ買いに来ました、急遽!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:28,140",
+				"to": "00:21:29,060"
+			},
+			"offsets": {
+				"from": 1288140,
+				"to": 1289060
+			},
+			"text": "オレンジの…"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:29,060",
+				"to": "00:21:30,580"
+			},
+			"offsets": {
+				"from": 1289060,
+				"to": 1290580
+			},
+			"text": "いやいや、オレンジの帽子ね!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:30,580",
+				"to": "00:21:31,780"
+			},
+			"offsets": {
+				"from": 1290580,
+				"to": 1291780
+			},
+			"text": "じゃあ行くかも…"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,780",
+				"to": "00:21:32,820"
+			},
+			"offsets": {
+				"from": 1291780,
+				"to": 1292820
+			},
+			"text": "囲碁マシンです!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:32,820",
+				"to": "00:21:34,180"
+			},
+			"offsets": {
+				"from": 1292820,
+				"to": 1294180
+			},
+			"text": "ほら!お前の番組!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:43,460",
+				"to": "00:21:45,140"
+			},
+			"offsets": {
+				"from": 1303460,
+				"to": 1305140
+			},
+			"text": "これ撮れるの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:45,140",
+				"to": "00:21:46,740"
+			},
+			"offsets": {
+				"from": 1305140,
+				"to": 1306740
+			},
+			"text": "1個ずれましたよ!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:46,740",
+				"to": "00:21:48,580"
+			},
+			"offsets": {
+				"from": 1306740,
+				"to": 1308580
+			},
+			"text": "直…あ、凄い!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:48,580",
+				"to": "00:21:50,020"
+			},
+			"offsets": {
+				"from": 1308580,
+				"to": 1310020
+			},
+			"text": "直してくれました、今!"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,020",
+				"to": "00:21:58,800"
+			},
+			"offsets": {
+				"from": 1310020,
+				"to": 1318800
+			},
+			"text": "おはようございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:58,800",
+				"to": "00:22:00,400"
+			},
+			"offsets": {
+				"from": 1318800,
+				"to": 1320400
+			},
+			"text": "さあいきますか今日は"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:00,400",
+				"to": "00:22:02,520"
+			},
+			"offsets": {
+				"from": 1320400,
+				"to": 1322520
+			},
+			"text": "25,000のWPTなんとか"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:02,520",
+				"to": "00:22:05,180"
+			},
+			"offsets": {
+				"from": 1322520,
+				"to": 1325180
+			},
+			"text": "でこれは多分おそらく25,000が一番出る"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:05,180",
+				"to": "00:22:08,160"
+			},
+			"offsets": {
+				"from": 1325180,
+				"to": 1328160
+			},
+			"text": "参加人数が一番多そうな大会で"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:08,160",
+				"to": "00:22:11,540"
+			},
+			"offsets": {
+				"from": 1328160,
+				"to": 1331540
+			},
+			"text": "WPTとトリトンの合同イベントみたいな感じなんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:11,540",
+				"to": "00:22:13,320"
+			},
+			"offsets": {
+				"from": 1331540,
+				"to": 1333320
+			},
+			"text": "ここにちょっと気合い入れていきたいなと"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,320",
+				"to": "00:22:15,120"
+			},
+			"offsets": {
+				"from": 1333320,
+				"to": 1335120
+			},
+			"text": "で今ちょっと趣旨を言うと"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:15,120",
+				"to": "00:22:17,000"
+			},
+			"offsets": {
+				"from": 1335120,
+				"to": 1337000
+			},
+			"text": "3,100が総予算"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:17,000",
+				"to": "00:22:19,040"
+			},
+			"offsets": {
+				"from": 1337000,
+				"to": 1339040
+			},
+			"text": "今日2人出ると約2800万"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:19,040",
+				"to": "00:22:21,320"
+			},
+			"offsets": {
+				"from": 1339040,
+				"to": 1341320
+			},
+			"text": "使うことになるので残り300万"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:21,320",
+				"to": "00:22:23,220"
+			},
+			"offsets": {
+				"from": 1341320,
+				"to": 1343220
+			},
+			"text": "獲得済みがすでに2000万あるので"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:23,220",
+				"to": "00:22:24,240"
+			},
+			"offsets": {
+				"from": 1343220,
+				"to": 1344240
+			},
+			"text": "2300万"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,240",
+				"to": "00:22:27,860"
+			},
+			"offsets": {
+				"from": 1344240,
+				"to": 1347860
+			},
+			"text": "このまま仮に2人飛んだ場合は戻しが74%"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:27,860",
+				"to": "00:22:29,260"
+			},
+			"offsets": {
+				"from": 1347860,
+				"to": 1349260
+			},
+			"text": "でインバネすると100%超えると"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:29,260",
+				"to": "00:22:31,500"
+			},
+			"offsets": {
+				"from": 1349260,
+				"to": 1351500
+			},
+			"text": "ただやっぱりあの1BBのやつが飛んでたら"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,500",
+				"to": "00:22:32,540"
+			},
+			"offsets": {
+				"from": 1351500,
+				"to": 1352540
+			},
+			"text": "もうプラテンしてたから"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:32,540",
+				"to": "00:22:34,960"
+			},
+			"offsets": {
+				"from": 1352540,
+				"to": 1354960
+			},
+			"text": "みんなプラスにしようと思ってやっぱり我慢してたけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:34,960",
+				"to": "00:22:36,900"
+			},
+			"offsets": {
+				"from": 1354960,
+				"to": 1356900
+			},
+			"text": "まあまあまあうちの株主たちが見たいのは"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:36,900",
+				"to": "00:22:38,200"
+			},
+			"offsets": {
+				"from": 1356900,
+				"to": 1358200
+			},
+			"text": "そういう姿じゃないと思うんだね"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:38,200",
+				"to": "00:22:41,080"
+			},
+			"offsets": {
+				"from": 1358200,
+				"to": 1361080
+			},
+			"text": "しっかりとROIをプラスに持っていくっていうところは"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:41,080",
+				"to": "00:22:42,800"
+			},
+			"offsets": {
+				"from": 1361080,
+				"to": 1362800
+			},
+			"text": "少し意識して頑張っていきたいなと"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:42,800",
+				"to": "00:22:44,200"
+			},
+			"offsets": {
+				"from": 1362800,
+				"to": 1364200
+			},
+			"text": "我慢だね我慢我慢"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:44,200",
+				"to": "00:22:46,400"
+			},
+			"offsets": {
+				"from": 1364200,
+				"to": 1366400
+			},
+			"text": "攻めのポーカーじゃなくて我慢して"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:46,400",
+				"to": "00:22:48,960"
+			},
+			"offsets": {
+				"from": 1366400,
+				"to": 1368960
+			},
+			"text": "しっかりと要所についていくというところを"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:48,960",
+				"to": "00:22:50,040"
+			},
+			"offsets": {
+				"from": 1368960,
+				"to": 1370040
+			},
+			"text": "意識してやっていきたいと思います"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:50,040",
+				"to": "00:22:51,300"
+			},
+			"offsets": {
+				"from": 1370040,
+				"to": 1371300
+			},
+			"text": "じゃあ頑張っていきましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,300",
+				"to": "00:22:56,720"
+			},
+			"offsets": {
+				"from": 1371300,
+				"to": 1376720
+			},
+			"text": "レベル1の最初からエントリーしたことないけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:56,720",
+				"to": "00:22:57,700"
+			},
+			"offsets": {
+				"from": 1376720,
+				"to": 1377700
+			},
+			"text": "暇なんで出ます"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:57,700",
+				"to": "00:22:58,740"
+			},
+			"offsets": {
+				"from": 1377700,
+				"to": 1378740
+			},
+			"text": "待てよそっと私たちに"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,740",
+				"to": "00:23:01,620"
+			},
+			"offsets": {
+				"from": 1378740,
+				"to": 1381620
+			},
+			"text": "最初のYouTube見て考え方は勉強してきたから大丈夫"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:01,620",
+				"to": "00:23:03,280"
+			},
+			"offsets": {
+				"from": 1381620,
+				"to": 1383280
+			},
+			"text": "ここがブラックしてるが得です"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:03,280",
+				"to": "00:23:04,800"
+			},
+			"offsets": {
+				"from": 1383280,
+				"to": 1384800
+			},
+			"text": "絶対すべきストットです"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:04,800",
+				"to": "00:23:06,780"
+			},
+			"offsets": {
+				"from": 1384800,
+				"to": 1386780
+			},
+			"text": "やりめしをみたいなYouTuberやってるから"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,780",
+				"to": "00:23:09,280"
+			},
+			"offsets": {
+				"from": 1386780,
+				"to": 1389280
+			},
+			"text": "ちょっと今日は先方の勉強にないレンジ"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:09,280",
+				"to": "00:23:12,000"
+			},
+			"offsets": {
+				"from": 1389280,
+				"to": 1392000
+			},
+			"text": "オープンQBBとCBの800%を"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,000",
+				"to": "00:23:12,960"
+			},
+			"offsets": {
+				"from": 1392000,
+				"to": 1392960
+			},
+			"text": "ちょっと最初やってみようと"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:12,960",
+				"to": "00:23:16,960"
+			},
+			"offsets": {
+				"from": 1392960,
+				"to": 1396960
+			},
+			"text": "はい、飛ばしましょう。"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:42,960",
+				"to": "00:24:12,940"
+			},
+			"offsets": {
+				"from": 1422960,
+				"to": 1452940
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:12,960",
+				"to": "00:24:42,940"
+			},
+			"offsets": {
+				"from": 1452960,
+				"to": 1482940
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:42,960",
+				"to": "00:25:12,940"
+			},
+			"offsets": {
+				"from": 1482960,
+				"to": 1512940
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:12,960",
+				"to": "00:25:18,380"
+			},
+			"offsets": {
+				"from": 1512960,
+				"to": 1518380
+			},
+			"text": "全然今日入らない"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:18,380",
+				"to": "00:25:20,960"
+			},
+			"offsets": {
+				"from": 1518380,
+				"to": 1520960
+			},
+			"text": "今は25万点スタートで"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:20,960",
+				"to": "00:25:21,800"
+			},
+			"offsets": {
+				"from": 1520960,
+				"to": 1521800
+			},
+			"text": "20万点くらい"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:21,800",
+				"to": "00:25:23,100"
+			},
+			"offsets": {
+				"from": 1521800,
+				"to": 1523100
+			},
+			"text": "シーナちゃんも20万点くらい"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:23,100",
+				"to": "00:25:24,400"
+			},
+			"offsets": {
+				"from": 1523100,
+				"to": 1524400
+			},
+			"text": "トーナメントの前半は"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:24,400",
+				"to": "00:25:26,140"
+			},
+			"offsets": {
+				"from": 1524400,
+				"to": 1526140
+			},
+			"text": "本当にダブルアップ頑張って"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:26,140",
+				"to": "00:25:28,380"
+			},
+			"offsets": {
+				"from": 1526140,
+				"to": 1528380
+			},
+			"text": "チャンスが来るまでいっぱい手数取って"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:28,380",
+				"to": "00:25:30,740"
+			},
+			"offsets": {
+				"from": 1528380,
+				"to": 1530740
+			},
+			"text": "だからやっぱりダブルアップできるチャンスが"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:30,740",
+				"to": "00:25:31,380"
+			},
+			"offsets": {
+				"from": 1530740,
+				"to": 1531380
+			},
+			"text": "プロだからさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:31,380",
+				"to": "00:25:32,820"
+			},
+			"offsets": {
+				"from": 1531380,
+				"to": 1532820
+			},
+			"text": "例えば素人が多いトーナメントだとさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:32,820",
+				"to": "00:25:33,960"
+			},
+			"offsets": {
+				"from": 1532820,
+				"to": 1533960
+			},
+			"text": "いっぱい手数出してさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:33,960",
+				"to": "00:25:35,760"
+			},
+			"offsets": {
+				"from": 1533960,
+				"to": 1535760
+			},
+			"text": "1ペア2ペア降りられないマンからさ"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,760",
+				"to": "00:25:36,420"
+			},
+			"offsets": {
+				"from": 1535760,
+				"to": 1536420
+			},
+			"text": "いっぱい取れると"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:36,420",
+				"to": "00:25:38,240"
+			},
+			"offsets": {
+				"from": 1536420,
+				"to": 1538240
+			},
+			"text": "なかなかねそういう感じもならないから"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:38,240",
+				"to": "00:25:41,200"
+			},
+			"offsets": {
+				"from": 1538240,
+				"to": 1541200
+			},
+			"text": "逆に言うとその1ペアでしっかりバリューを大きく取り切るとか"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:41,200",
+				"to": "00:25:43,420"
+			},
+			"offsets": {
+				"from": 1541200,
+				"to": 1543420
+			},
+			"text": "きわどいところを取っていくので"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:43,420",
+				"to": "00:25:45,580"
+			},
+			"offsets": {
+				"from": 1543420,
+				"to": 1545580
+			},
+			"text": "泣いても泣いても最後に頑張ります"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:11,200",
+				"to": "00:26:41,180"
+			},
+			"offsets": {
+				"from": 1571200,
+				"to": 1601180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,200",
+				"to": "00:27:11,180"
+			},
+			"offsets": {
+				"from": 1601200,
+				"to": 1631180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:11,200",
+				"to": "00:27:41,180"
+			},
+			"offsets": {
+				"from": 1631200,
+				"to": 1661180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:41,200",
+				"to": "00:28:11,180"
+			},
+			"offsets": {
+				"from": 1661200,
+				"to": 1691180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:11,200",
+				"to": "00:28:41,180"
+			},
+			"offsets": {
+				"from": 1691200,
+				"to": 1721180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:41,200",
+				"to": "00:29:11,180"
+			},
+			"offsets": {
+				"from": 1721200,
+				"to": 1751180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:11,200",
+				"to": "00:29:41,180"
+			},
+			"offsets": {
+				"from": 1751200,
+				"to": 1781180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:41,200",
+				"to": "00:30:11,180"
+			},
+			"offsets": {
+				"from": 1781200,
+				"to": 1811180
+			},
+			"text": "また次回の動画でお会いしましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:11,200",
+				"to": "00:30:41,180"
+			},
+			"offsets": {
+				"from": 1811200,
+				"to": 1841180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:41,200",
+				"to": "00:30:42,800"
+			},
+			"offsets": {
+				"from": 1841200,
+				"to": 1842800
+			},
+			"text": "お疲れ様でーす"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:42,800",
+				"to": "00:30:45,520"
+			},
+			"offsets": {
+				"from": 1842800,
+				"to": 1845520
+			},
+			"text": "25万が18万って4時間遊んで"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,520",
+				"to": "00:30:46,880"
+			},
+			"offsets": {
+				"from": 1845520,
+				"to": 1846880
+			},
+			"text": "しーちゃんと同宅になった"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:46,880",
+				"to": "00:30:48,940"
+			},
+			"offsets": {
+				"from": 1846880,
+				"to": 1848940
+			},
+			"text": "忖度なしでガチガチでやってます"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:48,940",
+				"to": "00:30:49,780"
+			},
+			"offsets": {
+				"from": 1848940,
+				"to": 1849780
+			},
+			"text": "次は何点"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:49,780",
+				"to": "00:30:52,880"
+			},
+			"offsets": {
+				"from": 1849780,
+				"to": 1852880
+			},
+			"text": "なんか今来たみたいな今来たスイート"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,200",
+				"to": "00:31:41,180"
+			},
+			"offsets": {
+				"from": 1871200,
+				"to": 1901180
+			},
+			"text": "ご視聴ありがとうございました"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,200",
+				"to": "00:32:11,180"
+			},
+			"offsets": {
+				"from": 1901200,
+				"to": 1931180
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:11,200",
+				"to": "00:32:20,800"
+			},
+			"offsets": {
+				"from": 1931200,
+				"to": 1940800
+			},
+			"text": "お疲れ様です。 危険かー。 1オーバーフラドロは引けないわ。犯罪なんだよな。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:20,800",
+				"to": "00:32:32,800"
+			},
+			"offsets": {
+				"from": 1940800,
+				"to": 1952800
+			},
+			"text": "お疲れ様です。 クルーシュー。ダダをこねてもう1回出ることしました。必殺だなこれ。 リエントリーしたいーって言ってリエントリーすることしました。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,800",
+				"to": "00:32:34,800"
+			},
+			"offsets": {
+				"from": 1952800,
+				"to": 1954800
+			},
+			"text": "25000ドル。 うん。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:34,800",
+				"to": "00:32:37,800"
+			},
+			"offsets": {
+				"from": 1954800,
+				"to": 1957800
+			},
+			"text": "あなたが私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,800",
+				"to": "00:32:39,800"
+			},
+			"offsets": {
+				"from": 1957800,
+				"to": 1959800
+			},
+			"text": "あなたが私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:39,800",
+				"to": "00:32:43,800"
+			},
+			"offsets": {
+				"from": 1959800,
+				"to": 1963800
+			},
+			"text": "あなたが私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,800",
+				"to": "00:32:46,800"
+			},
+			"offsets": {
+				"from": 1963800,
+				"to": 1966800
+			},
+			"text": "あなたが私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:46,800",
+				"to": "00:32:49,800"
+			},
+			"offsets": {
+				"from": 1966800,
+				"to": 1969800
+			},
+			"text": "あなたが私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:49,800",
+				"to": "00:32:52,800"
+			},
+			"offsets": {
+				"from": 1969800,
+				"to": 1972800
+			},
+			"text": "あなたが私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:52,800",
+				"to": "00:32:55,800"
+			},
+			"offsets": {
+				"from": 1972800,
+				"to": 1975800
+			},
+			"text": "あなたが私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:55,800",
+				"to": "00:32:59,800"
+			},
+			"offsets": {
+				"from": 1975800,
+				"to": 1979800
+			},
+			"text": "あなたは私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:59,800",
+				"to": "00:33:03,800"
+			},
+			"offsets": {
+				"from": 1979800,
+				"to": 1983800
+			},
+			"text": "あなたは私たちを一緒に食べることができます。"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:03,800",
+				"to": "00:33:33,780"
+			},
+			"offsets": {
+				"from": 1983800,
+				"to": 2013780
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:33,800",
+				"to": "00:34:03,780"
+			},
+			"offsets": {
+				"from": 2013800,
+				"to": 2043780
+			},
+			"text": "次回予告"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:03,800",
+				"to": "00:34:33,780"
+			},
+			"offsets": {
+				"from": 2043800,
+				"to": 2073780
+			},
+			"text": "お疲れ様でした"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:33,800",
+				"to": "00:34:41,980"
+			},
+			"offsets": {
+				"from": 2073800,
+				"to": 2081980
+			},
+			"text": "アマくないね"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:41,980",
+				"to": "00:34:42,940"
+			},
+			"offsets": {
+				"from": 2081980,
+				"to": 2082940
+			},
+			"text": "トルトンは"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:42,940",
+				"to": "00:34:45,600"
+			},
+			"offsets": {
+				"from": 2082940,
+				"to": 2085600
+			},
+			"text": "マジで山FTで7位とかいってればね"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:45,600",
+				"to": "00:34:47,760"
+			},
+			"offsets": {
+				"from": 2085600,
+				"to": 2087760
+			},
+			"text": "全プラス2倍とかになってたから"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:47,760",
+				"to": "00:34:49,380"
+			},
+			"offsets": {
+				"from": 2087760,
+				"to": 2089380
+			},
+			"text": "もうここだけなんだよな"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:49,380",
+				"to": "00:34:50,580"
+			},
+			"offsets": {
+				"from": 2089380,
+				"to": 2090580
+			},
+			"text": "ってことで飲みます"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:50,580",
+				"to": "00:34:53,140"
+			},
+			"offsets": {
+				"from": 2090580,
+				"to": 2093140
+			},
+			"text": "光通信名物橋本聖子"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:53,140",
+				"to": "00:34:54,180"
+			},
+			"offsets": {
+				"from": 2093140,
+				"to": 2094180
+			},
+			"text": "初耳ですけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:54,180",
+				"to": "00:34:55,980"
+			},
+			"offsets": {
+				"from": 2094180,
+				"to": 2095980
+			},
+			"text": "橋本聖子"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:55,980",
+				"to": "00:34:58,460"
+			},
+			"offsets": {
+				"from": 2095980,
+				"to": 2098460
+			},
+			"text": "まあ次WSOPに向けて修行かな"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,460",
+				"to": "00:35:02,240"
+			},
+			"offsets": {
+				"from": 2098460,
+				"to": 2102240
+			},
+			"text": "WSOPも多分少しお金は集めていこうかなと思うんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:02,240",
+				"to": "00:35:03,600"
+			},
+			"offsets": {
+				"from": 2102240,
+				"to": 2103600
+			},
+			"text": "イメージは俺が50%"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:03,600",
+				"to": "00:35:05,680"
+			},
+			"offsets": {
+				"from": 2103600,
+				"to": 2105680
+			},
+			"text": "誰か50%乗ってもらうみたいな感じで"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:05,680",
+				"to": "00:35:07,500"
+			},
+			"offsets": {
+				"from": 2105680,
+				"to": 2107500
+			},
+			"text": "みんなでできればいいかなというところと"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:07,500",
+				"to": "00:35:09,200"
+			},
+			"offsets": {
+				"from": 2107500,
+				"to": 2109200
+			},
+			"text": "最終結果はちょっとしーちゃんが"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:09,200",
+				"to": "00:35:11,700"
+			},
+			"offsets": {
+				"from": 2109200,
+				"to": 2111700
+			},
+			"text": "結果トーナメントが終わった後にまとめされています"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:11,700",
+				"to": "00:35:15,760"
+			},
+			"offsets": {
+				"from": 2111700,
+				"to": 2115760
+			},
+			"text": "ただ結果どうあれ今回応援いただいた仲間の方には"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:15,760",
+				"to": "00:35:18,580"
+			},
+			"offsets": {
+				"from": 2115760,
+				"to": 2118580
+			},
+			"text": "その出していただいた以上の恩返しというか"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:18,580",
+				"to": "00:35:21,800"
+			},
+			"offsets": {
+				"from": 2118580,
+				"to": 2121800
+			},
+			"text": "自分ができることをやっぱりやっていくということが大事だから"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:21,800",
+				"to": "00:35:24,300"
+			},
+			"offsets": {
+				"from": 2121800,
+				"to": 2124300
+			},
+			"text": "そこは本当にお金じゃないお金以上の価値があるから"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:24,300",
+				"to": "00:35:27,280"
+			},
+			"offsets": {
+				"from": 2124300,
+				"to": 2127280
+			},
+			"text": "だからやっぱりそのお金出して儲けたい儲けたくないというよりは"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:27,280",
+				"to": "00:35:28,860"
+			},
+			"offsets": {
+				"from": 2127280,
+				"to": 2128860
+			},
+			"text": "仲間の輪に加わってもらって"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:28,860",
+				"to": "00:35:30,460"
+			},
+			"offsets": {
+				"from": 2128860,
+				"to": 2130460
+			},
+			"text": "よりビジネスが向上したりとか"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:30,460",
+				"to": "00:35:32,760"
+			},
+			"offsets": {
+				"from": 2130460,
+				"to": 2132760
+			},
+			"text": "よりポーカーシーンが向上したりとか"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:32,760",
+				"to": "00:35:36,340"
+			},
+			"offsets": {
+				"from": 2132760,
+				"to": 2136340
+			},
+			"text": "そういうことができればいいかなという新しい取り組みで"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:36,340",
+				"to": "00:35:38,740"
+			},
+			"offsets": {
+				"from": 2136340,
+				"to": 2138740
+			},
+			"text": "いろんな批判賛否両論あると思うんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:38,740",
+				"to": "00:35:41,100"
+			},
+			"offsets": {
+				"from": 2138740,
+				"to": 2141100
+			},
+			"text": "やっぱりそういう新しいことをやっていくっていうのが"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:41,100",
+				"to": "00:35:42,660"
+			},
+			"offsets": {
+				"from": 2141100,
+				"to": 2142660
+			},
+			"text": "俺のスタイルだから楽しみです"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:42,660",
+				"to": "00:35:44,820"
+			},
+			"offsets": {
+				"from": 2142660,
+				"to": 2144820
+			},
+			"text": "おはようございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:44,820",
+				"to": "00:35:47,920"
+			},
+			"offsets": {
+				"from": 2144820,
+				"to": 2147920
+			},
+			"text": "結果はちょっと惜しかったんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:47,920",
+				"to": "00:35:49,500"
+			},
+			"offsets": {
+				"from": 2147920,
+				"to": 2149500
+			},
+			"text": "総括して言いたいのは"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:49,500",
+				"to": "00:35:51,820"
+			},
+			"offsets": {
+				"from": 2149500,
+				"to": 2151820
+			},
+			"text": "人間こうやるって目標を決めて"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:51,820",
+				"to": "00:35:55,760"
+			},
+			"offsets": {
+				"from": 2151820,
+				"to": 2155760
+			},
+			"text": "目標から逆算して行動していって実現していく"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:55,760",
+				"to": "00:35:57,980"
+			},
+			"offsets": {
+				"from": 2155760,
+				"to": 2157980
+			},
+			"text": "そんな姿は見せれたかなと"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:57,980",
+				"to": "00:35:59,540"
+			},
+			"offsets": {
+				"from": 2157980,
+				"to": 2159540
+			},
+			"text": "やっぱりあと優勝したかったけどね"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:59,540",
+				"to": "00:36:01,760"
+			},
+			"offsets": {
+				"from": 2159540,
+				"to": 2161760
+			},
+			"text": "ただこれは別にトリトンじゃなかったとしても"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:01,760",
+				"to": "00:36:04,420"
+			},
+			"offsets": {
+				"from": 2161760,
+				"to": 2164420
+			},
+			"text": "目の前の仕事もこれから何かをやる人も"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:04,420",
+				"to": "00:36:06,440"
+			},
+			"offsets": {
+				"from": 2164420,
+				"to": 2166440
+			},
+			"text": "何かやるっていう目標を決めて"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:06,440",
+				"to": "00:36:08,940"
+			},
+			"offsets": {
+				"from": 2166440,
+				"to": 2168940
+			},
+			"text": "言い続けることでそこの夢っていうのは"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:08,940",
+				"to": "00:36:10,180"
+			},
+			"offsets": {
+				"from": 2168940,
+				"to": 2170180
+			},
+			"text": "基本的には叶っていく"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:10,180",
+				"to": "00:36:12,600"
+			},
+			"offsets": {
+				"from": 2170180,
+				"to": 2172600
+			},
+			"text": "こんな姿をお届けできたらなと思います"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:12,600",
+				"to": "00:36:15,020"
+			},
+			"offsets": {
+				"from": 2172600,
+				"to": 2175020
+			},
+			"text": "ちょうど日本に帰ったら"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:15,020",
+				"to": "00:36:17,020"
+			},
+			"offsets": {
+				"from": 2175020,
+				"to": 2177020
+			},
+			"text": "何するかはまだちょっと考えてないんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:17,020",
+				"to": "00:36:19,500"
+			},
+			"offsets": {
+				"from": 2177020,
+				"to": 2179500
+			},
+			"text": "基本的にはAI系の事業で"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,500",
+				"to": "00:36:21,260"
+			},
+			"offsets": {
+				"from": 2179500,
+				"to": 2181260
+			},
+			"text": "もう1回20億を超えた"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:21,260",
+				"to": "00:36:22,900"
+			},
+			"offsets": {
+				"from": 2181260,
+				"to": 2182900
+			},
+			"text": "50億100億の会社を作りたい"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:22,900",
+				"to": "00:36:25,800"
+			},
+			"offsets": {
+				"from": 2182900,
+				"to": 2185800
+			},
+			"text": "こっちをもしかしたらお届けするかもしれない"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,800",
+				"to": "00:36:27,820"
+			},
+			"offsets": {
+				"from": 2185800,
+				"to": 2187820
+			},
+			"text": "一旦ギャンタマからAIタマ"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:27,820",
+				"to": "00:36:28,720"
+			},
+			"offsets": {
+				"from": 2187820,
+				"to": 2188720
+			},
+			"text": "そうだね"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:28,720",
+				"to": "00:36:30,340"
+			},
+			"offsets": {
+				"from": 2188720,
+				"to": 2190340
+			},
+			"text": "やっぱりラスベガスだったり"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:30,340",
+				"to": "00:36:33,380"
+			},
+			"offsets": {
+				"from": 2190340,
+				"to": 2193380
+			},
+			"text": "次の遠征に向けてもう1回夢を見つけて"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:33,380",
+				"to": "00:36:36,540"
+			},
+			"offsets": {
+				"from": 2193380,
+				"to": 2196540
+			},
+			"text": "そこに向けてギャンブラーのリアルを届けたいと俺は"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:36,540",
+				"to": "00:36:39,480"
+			},
+			"offsets": {
+				"from": 2196540,
+				"to": 2199480
+			},
+			"text": "ただそのやっぱりどうしてもお金がなくなったりしたら"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:39,480",
+				"to": "00:36:40,540"
+			},
+			"offsets": {
+				"from": 2199480,
+				"to": 2200540
+			},
+			"text": "働かないといけないから"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:40,540",
+				"to": "00:36:42,420"
+			},
+			"offsets": {
+				"from": 2200540,
+				"to": 2202420
+			},
+			"text": "視聴者さんからしたら見たくないかもしれないけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:42,420",
+				"to": "00:36:44,940"
+			},
+			"offsets": {
+				"from": 2202420,
+				"to": 2204940
+			},
+			"text": "働くシーンもちゃんとお届けして"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:44,940",
+				"to": "00:36:46,680"
+			},
+			"offsets": {
+				"from": 2204940,
+				"to": 2206680
+			},
+			"text": "ちゃんとお金をリアルに貯めて"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:46,680",
+				"to": "00:36:47,840"
+			},
+			"offsets": {
+				"from": 2206680,
+				"to": 2207840
+			},
+			"text": "ちゃんとそれでギャンブルする"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:47,840",
+				"to": "00:36:49,960"
+			},
+			"offsets": {
+				"from": 2207840,
+				"to": 2209960
+			},
+			"text": "そういうのをちょっとやっていきたいなと思ってます"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:49,960",
+				"to": "00:36:56,760"
+			},
+			"offsets": {
+				"from": 2209960,
+				"to": 2216760
+			},
+			"text": "ドリトンサレッジに"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:56,760",
+				"to": "00:36:58,220"
+			},
+			"offsets": {
+				"from": 2216760,
+				"to": 2218220
+			},
+			"text": "がんばーい"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:58,220",
+				"to": "00:36:58,940"
+			},
+			"offsets": {
+				"from": 2218220,
+				"to": 2218940
+			},
+			"text": "チキットショーあったから"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:58,940",
+				"to": "00:37:01,380"
+			},
+			"offsets": {
+				"from": 2218940,
+				"to": 2221380
+			},
+			"text": "つけてるよね"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:01,380",
+				"to": "00:37:03,620"
+			},
+			"offsets": {
+				"from": 2221380,
+				"to": 2223620
+			},
+			"text": "その弱さで例えば"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:03,620",
+				"to": "00:37:04,680"
+			},
+			"offsets": {
+				"from": 2223620,
+				"to": 2224680
+			},
+			"text": "プロジェクトが"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:04,680",
+				"to": "00:37:05,600"
+			},
+			"offsets": {
+				"from": 2224680,
+				"to": 2225600
+			},
+			"text": "カズキさんのおかげ"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:05,600",
+				"to": "00:37:09,520"
+			},
+			"offsets": {
+				"from": 2225600,
+				"to": 2229520
+			},
+			"text": "え、奥さんに頼むの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:09,660",
+				"to": "00:37:12,000"
+			},
+			"offsets": {
+				"from": 2229660,
+				"to": 2232000
+			},
+			"text": "これを財布に入れると"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:12,000",
+				"to": "00:37:14,420"
+			},
+			"offsets": {
+				"from": 2232000,
+				"to": 2234420
+			},
+			"text": "イチゴ大福でございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:14,420",
+				"to": "00:37:17,260"
+			},
+			"offsets": {
+				"from": 2234420,
+				"to": 2237260
+			},
+			"text": "未来の姿は日本初のトリトン王者となり"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:17,260",
+				"to": "00:37:17,920"
+			},
+			"offsets": {
+				"from": 2237260,
+				"to": 2237920
+			},
+			"text": "応援しております"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:17,920",
+				"to": "00:37:18,620"
+			},
+			"offsets": {
+				"from": 2237920,
+				"to": 2238620
+			},
+			"text": "僕を応援します"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:18,620",
+				"to": "00:37:19,040"
+			},
+			"offsets": {
+				"from": 2238620,
+				"to": 2239040
+			},
+			"text": "ありがとうございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:19,040",
+				"to": "00:37:20,020"
+			},
+			"offsets": {
+				"from": 2239040,
+				"to": 2240020
+			},
+			"text": "こちらを応援します"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,020",
+				"to": "00:37:20,720"
+			},
+			"offsets": {
+				"from": 2240020,
+				"to": 2240720
+			},
+			"text": "よろしくお願いします"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:20,720",
+				"to": "00:37:22,720"
+			},
+			"offsets": {
+				"from": 2240720,
+				"to": 2242720
+			},
+			"text": "うおぉー!"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:50,720",
+				"to": "00:37:56,220"
+			},
+			"offsets": {
+				"from": 2270720,
+				"to": 2276220
+			},
+			"text": "ご視聴ありがとうございました"
+		}
+	]
+}

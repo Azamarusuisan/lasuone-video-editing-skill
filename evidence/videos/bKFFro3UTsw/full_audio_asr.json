@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,700"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4700
+			},
+			"text": "おめでとうございます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,700",
+				"to": "00:00:13,240"
+			},
+			"offsets": {
+				"from": 4700,
+				"to": 13240
+			},
+			"text": "社長お疲れさまです 目のためお金がなかったこれラウン優勝してそこだけ金ができたんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,240",
+				"to": "00:00:20,380"
+			},
+			"offsets": {
+				"from": 13240,
+				"to": 20380
+			},
+			"text": "ブーブー3ヶ月負けて僕のトーナメットですよね7位5位優勝できています すごい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,380",
+				"to": "00:00:24,920"
+			},
+			"offsets": {
+				"from": 20380,
+				"to": 24920
+			},
+			"text": "ばから行けそうです 仕事でカメラクター"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,920",
+				"to": "00:00:35,100"
+			},
+			"offsets": {
+				"from": 24920,
+				"to": 35100
+			},
+			"text": "アップしてじゃあいきましょう本場ですなっていっ 持ちまいさあんっ2歳の方がないっ1個戦ったそれをお願いします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,100",
+				"to": "00:00:38,360"
+			},
+			"offsets": {
+				"from": 35100,
+				"to": 38360
+			},
+			"text": "リースに立つまるん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,520",
+				"to": "00:00:45,440"
+			},
+			"offsets": {
+				"from": 38520,
+				"to": 45440
+			},
+			"text": "3人ということで5本皆様がご存知です 持っ"
+		}
+	]
+}

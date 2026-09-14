@@ -1,0 +1,152 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "profiles": [
+    {
+      "speaker_id": "LASUONE",
+      "display_name": "ラスワン",
+      "identity_basis": "Explicit on-screen introduction/name or text; not inferred solely from face or voice",
+      "notes": "長尺の通常白字幕と過去回の黒字白光彩を分ける。WSOPの自分のアクションは赤、Shortsバカラの発話は緑の例。固定の全チャンネル話者色を作らない。",
+      "subtitle_color": null,
+      "voice_identity_verified": false,
+      "cut_frequency": null,
+      "speech_duration_distribution": null,
+      "confidence": "MEDIUM",
+      "references": [
+        {
+          "video_id": "luauPBapN7U",
+          "time_s": 8,
+          "url": "https://www.youtube.com/watch?v=luauPBapN7U&t=8"
+        },
+        {
+          "video_id": "k5GIOKkoAc4",
+          "time_s": 671,
+          "url": "https://www.youtube.com/watch?v=k5GIOKkoAc4&t=671"
+        },
+        {
+          "video_id": "CEf_sKZk6d8",
+          "time_s": 2,
+          "url": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=2"
+        }
+      ]
+    },
+    {
+      "speaker_id": "HAYASHI",
+      "display_name": "林社長",
+      "identity_basis": "Explicit on-screen introduction/name or text; not inferred solely from face or voice",
+      "notes": "長尺で肩書き紹介。Shortsの明示ラベル付き発話は黄。",
+      "subtitle_color": null,
+      "voice_identity_verified": false,
+      "cut_frequency": null,
+      "speech_duration_distribution": null,
+      "confidence": "MEDIUM",
+      "references": [
+        {
+          "video_id": "YINy5jM1p7M",
+          "time_s": 2,
+          "url": "https://www.youtube.com/watch?v=YINy5jM1p7M&t=2"
+        },
+        {
+          "video_id": "CEf_sKZk6d8",
+          "time_s": 12,
+          "url": "https://www.youtube.com/watch?v=CEf_sKZk6d8&t=12"
+        },
+        {
+          "video_id": "vmCVh6ft97I",
+          "time_s": 12,
+          "url": "https://www.youtube.com/watch?v=vmCVh6ft97I&t=12"
+        }
+      ]
+    },
+    {
+      "speaker_id": "STAFF_UNRESOLVED",
+      "display_name": "スタッフ",
+      "identity_basis": "Explicit on-screen introduction/name or text; not inferred solely from face or voice",
+      "notes": "通常字幕の上の小ラベル。別回のスタッフを同一人物と確定しない。",
+      "subtitle_color": null,
+      "voice_identity_verified": false,
+      "cut_frequency": null,
+      "speech_duration_distribution": null,
+      "confidence": "MEDIUM",
+      "references": [
+        {
+          "video_id": "luauPBapN7U",
+          "time_s": 60,
+          "url": "https://www.youtube.com/watch?v=luauPBapN7U&t=60"
+        }
+      ]
+    },
+    {
+      "speaker_id": "NONO",
+      "display_name": "のの（娘）",
+      "identity_basis": "Explicit on-screen introduction/name or text; not inferred solely from face or voice",
+      "notes": "人物名タグと買い目の桃色を分けて管理。",
+      "subtitle_color": null,
+      "voice_identity_verified": false,
+      "cut_frequency": null,
+      "speech_duration_distribution": null,
+      "confidence": "MEDIUM",
+      "references": [
+        {
+          "video_id": "UE2SSdiQCUM",
+          "time_s": 8,
+          "url": "https://www.youtube.com/watch?v=UE2SSdiQCUM&t=8"
+        },
+        {
+          "video_id": "UE2SSdiQCUM",
+          "time_s": 440,
+          "url": "https://www.youtube.com/watch?v=UE2SSdiQCUM&t=440"
+        }
+      ]
+    },
+    {
+      "speaker_id": "YUTO",
+      "display_name": "ゆうと（息子）",
+      "identity_basis": "Explicit on-screen introduction/name or text; not inferred solely from face or voice",
+      "notes": "人物名タグ、自由研究カード、買い目青。未成年への推奨・金銭行動をこちらから付加しない。",
+      "subtitle_color": null,
+      "voice_identity_verified": false,
+      "cut_frequency": null,
+      "speech_duration_distribution": null,
+      "confidence": "MEDIUM",
+      "references": [
+        {
+          "video_id": "upFzFNjC1kk",
+          "time_s": 12,
+          "url": "https://www.youtube.com/watch?v=upFzFNjC1kk&t=12"
+        },
+        {
+          "video_id": "upFzFNjC1kk",
+          "time_s": 155,
+          "url": "https://www.youtube.com/watch?v=upFzFNjC1kk&t=155"
+        }
+      ]
+    },
+    {
+      "speaker_id": "BRYN_KENNEY",
+      "display_name": "Bryn Kenney",
+      "identity_basis": "Explicit on-screen introduction/name or text; not inferred solely from face or voice",
+      "notes": "動画内タイトルに明示。対談の英日字幕は言語別レイヤー。",
+      "subtitle_color": null,
+      "voice_identity_verified": false,
+      "cut_frequency": null,
+      "speech_duration_distribution": null,
+      "confidence": "MEDIUM",
+      "references": [
+        {
+          "video_id": "WPjhmOMImg8",
+          "time_s": 0.15,
+          "url": "https://www.youtube.com/watch?v=WPjhmOMImg8&t=0"
+        },
+        {
+          "video_id": "WPjhmOMImg8",
+          "time_s": 38,
+          "url": "https://www.youtube.com/watch?v=WPjhmOMImg8&t=38"
+        }
+      ]
+    }
+  ]
+}

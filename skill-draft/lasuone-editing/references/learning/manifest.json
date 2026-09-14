@@ -1,0 +1,73 @@
+{
+  "snapshot_date": "2026-09-14T10:46:09.120941+09:00",
+  "provenance_root": "../..",
+  "media_bundled": false,
+  "external_evidence_note": "Research video/audio/frame files are not bundled. URLs, video IDs, timecodes, and evidence paths inside the documents are references only.",
+  "files": [
+    {
+      "path": "references/learning/README.md",
+      "source_relative_path": "README.md",
+      "sha256": "33d09b6709ace0251971a5f92b799e06ed9fb650b26d00e9fff16244fbc86d8b"
+    },
+    {
+      "path": "references/learning/CHANNEL_EDITING_BIBLE.md",
+      "source_relative_path": "CHANNEL_EDITING_BIBLE.md",
+      "sha256": "6f61510f9a6a4f575d839d264b6a0f67b21e79b21d7fc7448f7106bd40ac96e3"
+    },
+    {
+      "path": "references/learning/QUALITY_CHECKLIST.md",
+      "source_relative_path": "QUALITY_CHECKLIST.md",
+      "sha256": "be1822abdd3a6fa59a3eea06f16f9b7c6163f0cc1dfdb79edf356b45c5a52055"
+    },
+    {
+      "path": "references/learning/ASSET_LIBRARY.json",
+      "source_relative_path": "ASSET_LIBRARY.json",
+      "sha256": "32d396571c2429e21e035fd0961a4bc7c3047d83328b28cb66d48aaca2504c20"
+    },
+    {
+      "path": "references/learning/BGM_RULES.json",
+      "source_relative_path": "BGM_RULES.json",
+      "sha256": "2602e241b9e39d1782b9fcb95c21487cf8fda197d0afe2374a698dc72676d2a7"
+    },
+    {
+      "path": "references/learning/FONT_STYLE_LIBRARY.json",
+      "source_relative_path": "FONT_STYLE_LIBRARY.json",
+      "sha256": "aeb845cbc5720437e3460e77f8f77ccb28daf47390e2f5474ac2795be82bcfc4"
+    },
+    {
+      "path": "references/learning/GAMBLING_TENSION_TEMPLATE.json",
+      "source_relative_path": "GAMBLING_TENSION_TEMPLATE.json",
+      "sha256": "cce051b872e96b7a43b39a6dbdf423f4e917b1ea4f9bcd840def71604c8fb7eb"
+    },
+    {
+      "path": "references/learning/LONGFORM_TEMPLATE.json",
+      "source_relative_path": "LONGFORM_TEMPLATE.json",
+      "sha256": "beb6e4a8df2d3856b69c4e15f36203b0cf60ef61646d577e2f74c596bfec189c"
+    },
+    {
+      "path": "references/learning/PODCAST_TEMPLATE.json",
+      "source_relative_path": "PODCAST_TEMPLATE.json",
+      "sha256": "8978f77e6865ca98fcf4d01f340d398b8b7886c7d153d304895722a38d397dc6"
+    },
+    {
+      "path": "references/learning/SE_RULES.json",
+      "source_relative_path": "SE_RULES.json",
+      "sha256": "41fd6e97b3edc8233d844072800d111624aa673fdc63bbb4007f5e15df02fc05"
+    },
+    {
+      "path": "references/learning/SHORTS_TEMPLATE.json",
+      "source_relative_path": "SHORTS_TEMPLATE.json",
+      "sha256": "c7ede5470fb507c0d113a2e9c26a5918839289d7741c12ac7562fd970a17c947"
+    },
+    {
+      "path": "references/learning/SPEAKER_STYLE_DATABASE.json",
+      "source_relative_path": "SPEAKER_STYLE_DATABASE.json",
+      "sha256": "1490319448a103c252861b0486b24e483fef18db434d7c2b400f5a13e8f99b55"
+    },
+    {
+      "path": "references/learning/SUBTITLE_STYLE_DATABASE.json",
+      "source_relative_path": "SUBTITLE_STYLE_DATABASE.json",
+      "sha256": "45f9077095e10971e7ab8195e9b0cc8771f3ce66c9ecfe42530fe9cfc4e30b8b"
+    }
+  ]
+}

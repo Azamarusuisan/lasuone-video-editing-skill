@@ -1,0 +1,113 @@
+{
+  "video_id": "wZ21mzS0SBU",
+  "source": "source.mkv",
+  "method": "FFmpeg scene score on each decoded source frame, scaled to width 320",
+  "threshold": 0.18,
+  "processed_interval_s": [
+    0,
+    111.99000000000001
+  ],
+  "source_duration_s": 111.99000000000001,
+  "candidate_count": 24,
+  "candidates": [
+    {
+      "time_s": 1.533,
+      "score": 0.84369
+    },
+    {
+      "time_s": 1.567,
+      "score": 0.230081
+    },
+    {
+      "time_s": 19.067,
+      "score": 0.201142
+    },
+    {
+      "time_s": 19.167,
+      "score": 0.180771
+    },
+    {
+      "time_s": 19.6,
+      "score": 0.507423
+    },
+    {
+      "time_s": 19.633,
+      "score": 0.181666
+    },
+    {
+      "time_s": 22.767,
+      "score": 0.421111
+    },
+    {
+      "time_s": 28.5,
+      "score": 0.180555
+    },
+    {
+      "time_s": 31.933,
+      "score": 0.183666
+    },
+    {
+      "time_s": 32,
+      "score": 0.216672
+    },
+    {
+      "time_s": 32.1,
+      "score": 0.190145
+    },
+    {
+      "time_s": 32.2,
+      "score": 0.203314
+    },
+    {
+      "time_s": 38.267,
+      "score": 0.582462
+    },
+    {
+      "time_s": 39.567,
+      "score": 0.648726
+    },
+    {
+      "time_s": 49.033,
+      "score": 0.572078
+    },
+    {
+      "time_s": 55.367,
+      "score": 0.596211
+    },
+    {
+      "time_s": 56.733,
+      "score": 0.685404
+    },
+    {
+      "time_s": 72.433,
+      "score": 0.558307
+    },
+    {
+      "time_s": 73.5,
+      "score": 0.767627
+    },
+    {
+      "time_s": 92.7,
+      "score": 0.185068
+    },
+    {
+      "time_s": 92.8,
+      "score": 0.182113
+    },
+    {
+      "time_s": 101.4,
+      "score": 0.246002
+    },
+    {
+      "time_s": 101.5,
+      "score": 0.231402
+    },
+    {
+      "time_s": 103.767,
+      "score": 1
+    }
+  ],
+  "confirmed_cut_count": null,
+  "full_visual_review": false,
+  "limitations": "Camera motion, graphics and flashes can trigger candidates. Same-angle jump cuts and fades can be missed. Candidates are not a measured cut count."
+}

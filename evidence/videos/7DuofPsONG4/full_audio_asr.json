@@ -1,0 +1,241 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,780"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2780
+			},
+			"text": "息子にギャンブルの相談をする父親の末路"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,780",
+				"to": "00:00:18,280"
+			},
+			"offsets": {
+				"from": 2780,
+				"to": 18280
+			},
+			"text": "息子に適切なアドバイスをもらったこの男は"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,280",
+				"to": "00:00:20,120"
+			},
+			"offsets": {
+				"from": 18280,
+				"to": 20120
+			},
+			"text": "早速バカなテーブルに座った"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,120",
+				"to": "00:00:22,260"
+			},
+			"offsets": {
+				"from": 20120,
+				"to": 22260
+			},
+			"text": "そして息子との約束を果たす"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,260",
+				"to": "00:00:23,880"
+			},
+			"offsets": {
+				"from": 22260,
+				"to": 23880
+			},
+			"text": "プレイヤーにイセンドローベット"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,880",
+				"to": "00:00:26,280"
+			},
+			"offsets": {
+				"from": 23880,
+				"to": 26280
+			},
+			"text": "この男がかけた1枚目のトランプは"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,280",
+				"to": "00:00:27,880"
+			},
+			"offsets": {
+				"from": 26280,
+				"to": 27880
+			},
+			"text": "ここで8が確定した"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,880",
+				"to": "00:00:30,820"
+			},
+			"offsets": {
+				"from": 27880,
+				"to": 30820
+			},
+			"text": "もう1枚のトランプは1から3が確定している"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,820",
+				"to": "00:00:33,140"
+			},
+			"offsets": {
+				"from": 30820,
+				"to": 33140
+			},
+			"text": "もしも1ならナチュラルナイン"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,140",
+				"to": "00:00:34,700"
+			},
+			"offsets": {
+				"from": 33140,
+				"to": 34700
+			},
+			"text": "だが甘くはない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,700",
+				"to": "00:00:37,220"
+			},
+			"offsets": {
+				"from": 34700,
+				"to": 37220
+			},
+			"text": "2枚目のトランプで合計数を下げて1"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,220",
+				"to": "00:00:40,120"
+			},
+			"offsets": {
+				"from": 37220,
+				"to": 40120
+			},
+			"text": "そして対する相手の合計数は4"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,120",
+				"to": "00:00:43,240"
+			},
+			"offsets": {
+				"from": 40120,
+				"to": 43240
+			},
+			"text": "現状負けてはいるが3枚目の勝負にも連れ込んだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,240",
+				"to": "00:00:46,040"
+			},
+			"offsets": {
+				"from": 43240,
+				"to": 46040
+			},
+			"text": "ここで横から見て2本足が確定した"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,040",
+				"to": "00:00:47,540"
+			},
+			"offsets": {
+				"from": 46040,
+				"to": 47540
+			},
+			"text": "そして3サイド"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,540",
+				"to": "00:00:49,820"
+			},
+			"offsets": {
+				"from": 47540,
+				"to": 49820
+			},
+			"text": "このトランプは6、7、8のどれか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,820",
+				"to": "00:00:52,680"
+			},
+			"offsets": {
+				"from": 49820,
+				"to": 52680
+			},
+			"text": "3枚目のトランプはここで8が確定"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,680",
+				"to": "00:00:54,560"
+			},
+			"offsets": {
+				"from": 52680,
+				"to": 54560
+			},
+			"text": "合計数は最強のナインで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,560",
+				"to": "00:00:55,980"
+			},
+			"offsets": {
+				"from": 54560,
+				"to": 55980
+			},
+			"text": "ギャンチュー親子の勝利"
+		}
+	]
+}

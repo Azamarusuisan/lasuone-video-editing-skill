@@ -1,0 +1,45 @@
+{
+  "video_id": "8LyhF_w2vo8",
+  "source": "segment_0_30.webm",
+  "scope": "SAMPLED_BROWSER_DECODED_MIX_ONLY",
+  "original_video_integrated_lufs": null,
+  "original_stem_levels": null,
+  "sample_integrated_lufs": -16.8,
+  "sample_loudness_range_lu": 3.9,
+  "sample_true_peak_dbfs": -2.1,
+  "rendered_frames": 788,
+  "median_frame_interval_s": 0.03333300000000072,
+  "max_frame_gap_s": 0.5666660000000014,
+  "scene_change_candidates": [
+    {
+      "time_s": 9.666666,
+      "mean_rgb_difference": 164.37282986111111
+    },
+    {
+      "time_s": 12.133333,
+      "mean_rgb_difference": 125.69777199074075
+    },
+    {
+      "time_s": 13.066666,
+      "mean_rgb_difference": 48.77589699074074
+    },
+    {
+      "time_s": 19.866666,
+      "mean_rgb_difference": 110.71079282407408
+    },
+    {
+      "time_s": 21.466666,
+      "mean_rgb_difference": 103.93923611111111
+    },
+    {
+      "time_s": 25.433333,
+      "mean_rgb_difference": 34.23191550925926
+    },
+    {
+      "time_s": 27.566666,
+      "mean_rgb_difference": 29.516203703703702
+    }
+  ],
+  "confirmed_cut_count": null,
+  "summary": "Summary:\n\n  Integrated loudness:\n    I:         -16.8 LUFS\n    Threshold: -27.1 LUFS\n\n  Loudness range:\n    LRA:         3.9 LU\n    Threshold: -37.2 LUFS\n    LRA low:   -19.5 LUFS\n    LRA high:  -15.5 LUFS\n\n  True peak:\n    Peak:       -2.1 dBFS\n"
+}

@@ -1,0 +1,131 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,200"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7200
+			},
+			"text": "マジでうますぎるシーシャン見つけたチルハビットこれすごくて本当のシーシャンみたいにシーシャンの口がついてます"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,200",
+				"to": "00:00:11,100"
+			},
+			"offsets": {
+				"from": 7200,
+				"to": 11100
+			},
+			"text": "これをカパッとはめてこれはストレベリアシーですね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,100",
+				"to": "00:00:14,600"
+			},
+			"offsets": {
+				"from": 11100,
+				"to": 14600
+			},
+			"text": "チルハビットそれでは行きたいと思います"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,600",
+				"to": "00:00:22,940"
+			},
+			"offsets": {
+				"from": 14600,
+				"to": 22940
+			},
+			"text": "ほぼシーシャンマジでシーシャンなんかねこの金属の感じとこれを"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,940",
+				"to": "00:00:25,040"
+			},
+			"offsets": {
+				"from": 22940,
+				"to": 25040
+			},
+			"text": "これコーラですね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:38,120"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 38120
+			},
+			"text": "めっちゃうまい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,120",
+				"to": "00:00:41,060"
+			},
+			"offsets": {
+				"from": 38120,
+				"to": 41060
+			},
+			"text": "1本6000円ぐらい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,060",
+				"to": "00:00:43,660"
+			},
+			"offsets": {
+				"from": 41060,
+				"to": 43660
+			},
+			"text": "チルハビット"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,660",
+				"to": "00:00:47,040"
+			},
+			"offsets": {
+				"from": 43660,
+				"to": 47040
+			},
+			"text": "お問い合わせはこちらまで"
+		}
+	]
+}

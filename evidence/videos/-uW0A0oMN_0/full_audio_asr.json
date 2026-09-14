@@ -1,0 +1,186 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,220"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3220
+			},
+			"text": "息子の誕生日プレゼントをギャンブルで買おうとした父親の末路"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,220",
+				"to": "00:00:17,640"
+			},
+			"offsets": {
+				"from": 3220,
+				"to": 17640
+			},
+			"text": "息子に最高品質のプレゼントを用意するために"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,640",
+				"to": "00:00:21,040"
+			},
+			"offsets": {
+				"from": 17640,
+				"to": 21040
+			},
+			"text": "この男は高額バカなテーブルのバンカーに1000ドルを貼った"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,040",
+				"to": "00:00:23,640"
+			},
+			"offsets": {
+				"from": 21040,
+				"to": 23640
+			},
+			"text": "金額は日本円にして約16万円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,640",
+				"to": "00:00:26,520"
+			},
+			"offsets": {
+				"from": 23640,
+				"to": 26520
+			},
+			"text": "この金額は息子にバットをプレゼントした後に"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,520",
+				"to": "00:00:29,140"
+			},
+			"offsets": {
+				"from": 26520,
+				"to": 29140
+			},
+			"text": "自分のバットを振ることも考えられた賭け金だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,140",
+				"to": "00:00:32,540"
+			},
+			"offsets": {
+				"from": 29140,
+				"to": 32540
+			},
+			"text": "この男はまず自分が賭けた方のトランプから見ていくようだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,540",
+				"to": "00:00:34,900"
+			},
+			"offsets": {
+				"from": 32540,
+				"to": 34900
+			},
+			"text": "1枚目のトランプは絵柄が確定しており"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,900",
+				"to": "00:00:37,540"
+			},
+			"offsets": {
+				"from": 34900,
+				"to": 37540
+			},
+			"text": "2枚目のトランプはここで5が確定した"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,540",
+				"to": "00:00:39,800"
+			},
+			"offsets": {
+				"from": 37540,
+				"to": 39800
+			},
+			"text": "この男の合計数は現在5"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,800",
+				"to": "00:00:42,440"
+			},
+			"offsets": {
+				"from": 39800,
+				"to": 42440
+			},
+			"text": "相手の合計数が8か9でない限り"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,440",
+				"to": "00:00:44,560"
+			},
+			"offsets": {
+				"from": 42440,
+				"to": 44560
+			},
+			"text": "勝負は3枚目のトランプに託される"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,560",
+				"to": "00:00:47,800"
+			},
+			"offsets": {
+				"from": 44560,
+				"to": 47800
+			},
+			"text": "相手の合計数はまさかのナチュラルナイン"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,800",
+				"to": "00:00:49,760"
+			},
+			"offsets": {
+				"from": 47800,
+				"to": 49760
+			},
+			"text": "息子もこの男もバットフレス"
+		}
+	]
+}

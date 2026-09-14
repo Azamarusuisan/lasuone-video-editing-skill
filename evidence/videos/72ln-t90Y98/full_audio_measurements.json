@@ -1,0 +1,39 @@
+{
+  "video_id": "72ln-t90Y98",
+  "scope": "ENTIRE_DOWNLOADED_YOUTUBE_DECODED_MIX",
+  "duration_s": 131.19,
+  "processed_interval_s": [
+    0,
+    131.19
+  ],
+  "integrated_lufs": -17.7,
+  "loudness_range_lu": 5.8,
+  "true_peak_dbfs": 0.2,
+  "silence_threshold_db": -35,
+  "silence_min_s": 0.3,
+  "silence_starts_s": [
+    62.8863,
+    72.8347,
+    129.542
+  ],
+  "silence_ends": [
+    {
+      "end_s": 63.2067,
+      "duration_s": 0.320333
+    },
+    {
+      "end_s": 73.3655,
+      "duration_s": 0.530708
+    },
+    {
+      "end_s": 131.177,
+      "duration_s": 1.63471
+    }
+  ],
+  "original_master_lufs": null,
+  "original_stem_levels": null,
+  "full_manual_listening": false,
+  "bgm_genre": null,
+  "se_identification": null,
+  "warning": "Silencedetect measures the mixed track, not speech pauses. No claims about source EQ/compression or isolated BGM levels."
+}

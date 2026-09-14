@@ -1,0 +1,183 @@
+{
+  "video_id": "j6dt3zbPjfE",
+  "url": "https://www.youtube.com/watch?v=j6dt3zbPjfE",
+  "captured_at": "2026-09-13T09:27:52.888Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【密着】\"運命の戦い\"絶好調のギャン中が高額世界大会に挑みます。 - YouTube",
+  "duration_s": 861.821,
+  "width": 640,
+  "height": 360,
+  "description": "WSOP2025の僕の密着＆アフターストーリーが\nなんと DMM TVで配信されます‼️\n …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 129,
+      "time_s": 129,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0129000.jpg"
+    },
+    {
+      "requested_s": 215,
+      "time_s": 215,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0215000.jpg"
+    },
+    {
+      "requested_s": 302,
+      "time_s": 302,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0302000.jpg"
+    },
+    {
+      "requested_s": 388,
+      "time_s": 388,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0388000.jpg"
+    },
+    {
+      "requested_s": 474,
+      "time_s": 474,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0474000.jpg"
+    },
+    {
+      "requested_s": 560,
+      "time_s": 560,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0560000.jpg"
+    },
+    {
+      "requested_s": 646,
+      "time_s": 646,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0646000.jpg"
+    },
+    {
+      "requested_s": 733,
+      "time_s": 733,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0733000.jpg"
+    },
+    {
+      "requested_s": 793,
+      "time_s": 793,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0793000.jpg"
+    },
+    {
+      "requested_s": 831.821,
+      "time_s": 831.821,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0831821.jpg"
+    },
+    {
+      "requested_s": 846.821,
+      "time_s": 846.821,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0846821.jpg"
+    },
+    {
+      "requested_s": 858.821,
+      "time_s": 858.821,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0858821.jpg"
+    }
+  ]
+}

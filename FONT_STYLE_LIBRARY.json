@@ -1,0 +1,1205 @@
+{
+  "version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "scope": "ALL_189_PUBLIC_VIDEOS_FULL_LENGTH_TARGET",
+  "compiled_at": "2026-09-14T01:45:19.180Z",
+  "measurement_warning": "Neither OCR line height nor visible glyph height is a nominal font size. Compare あ/さ/き/digits/Latin/punctuation before choosing a licensed substitute.",
+  "styles": [
+    {
+      "style_id": "W_GOTHIC",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "luauPBapN7U_8000",
+        "luauPBapN7U_60000",
+        "3B5q6DXJNcE_12000",
+        "3B5q6DXJNcE_197000",
+        "UE2SSdiQCUM_5000",
+        "upFzFNjC1kk_12000",
+        "fenmCOzaygE_2000",
+        "fenmCOzaygE_5000",
+        "fenmCOzaygE_8000",
+        "fenmCOzaygE_218000",
+        "MyVnNIgfBS8_5000",
+        "MyVnNIgfBS8_8000",
+        "YINy5jM1p7M_5000",
+        "YINy5jM1p7M_8000",
+        "YINy5jM1p7M_116000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "MINCHO_RED_GLOW",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "luauPBapN7U_16000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "WHITE_YELLOW_INLINE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "luauPBapN7U_40000",
+        "upFzFNjC1kk_2000",
+        "upFzFNjC1kk_5000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "W_BOLD_MINCHO",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "luauPBapN7U_240000",
+        "3B5q6DXJNcE_16000",
+        "gpnPgXXrPwk_187000",
+        "ehJssPk1s7Q_2000",
+        "ehJssPk1s7Q_8000",
+        "ehJssPk1s7Q_147000",
+        "ss1IFQqav-8_757000",
+        "pOUrvKX-9Rs_5000",
+        "pOUrvKX-9Rs_8000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "W_MINCHO_LARGE",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "luauPBapN7U_880000",
+        "Q1ydGCm90R8_8000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "ROUND_WHITE",
+      "classification": "ROUND",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ丸ゴ ProN",
+        "丸フォーク",
+        "Zen Maru Gothic"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "3B5q6DXJNcE_5000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "MINCHO_BLUE_GLOW",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "3B5q6DXJNcE_852000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "W_MINCHO",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "gpnPgXXrPwk_5000",
+        "gpnPgXXrPwk_8000",
+        "gpnPgXXrPwk_12000",
+        "gpnPgXXrPwk_311000",
+        "ftcX4PmRTLs_12000",
+        "ftcX4PmRTLs_631000",
+        "51UBRypjCPw_2000",
+        "51UBRypjCPw_12000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "GOTHIC_RED",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "AqcEeAHJo8c_8000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "GOTHIC_YELLOW",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "AqcEeAHJo8c_12000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "GRADIENT_NAME",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "AqcEeAHJo8c_16000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "GOTHIC_GREEN_STROKE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "AqcEeAHJo8c_364000",
+        "Q1ydGCm90R8_12000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "GOTHIC_PURPLE_STROKE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "AqcEeAHJo8c_1576000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "B_MINCHO_WHITE_GLOW",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "HBiRgIIzSR4_5000",
+        "HBiRgIIzSR4_12000",
+        "HBiRgIIzSR4_16000",
+        "8LyhF_w2vo8_16000",
+        "JogL0RWGkXc_16000",
+        "k5GIOKkoAc4_16000",
+        "t0QQnSsbMjY_16000",
+        "j6dt3zbPjfE_16000",
+        "j6dt3zbPjfE_560000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "GOLD_MONEY",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "HBiRgIIzSR4_484000",
+        "CEf_sKZk6d8_90000",
+        "vmCVh6ft97I_51521"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "POKER_BLUE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "8LyhF_w2vo8_264000",
+        "8LyhF_w2vo8_440000",
+        "JogL0RWGkXc_1045000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "BLUE_GREEN_INFO",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "8LyhF_w2vo8_792000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "POKER_RED",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "k5GIOKkoAc4_671000",
+        "t0QQnSsbMjY_597000",
+        "E2KvTtptb7Y_412000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "POKER_ORANGE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "E2KvTtptb7Y_294000",
+        "j6dt3zbPjfE_129000",
+        "j6dt3zbPjfE_302000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "POKER_YELLOW",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "E2KvTtptb7Y_530000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "POKER_WHITE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "E2KvTtptb7Y_766000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "YELLOW_BOLD_MINCHO",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "ehJssPk1s7Q_635000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "W_BOLD_GOTHIC",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "IlXtl0Hq_As_2000",
+        "IlXtl0Hq_As_8000",
+        "IlXtl0Hq_As_16000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "MINCHO_PURPLE_GLOW",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "UE2SSdiQCUM_188000",
+        "ftcX4PmRTLs_5000",
+        "ftcX4PmRTLs_8000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "REPORT_TITLE",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "upFzFNjC1kk_16000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "BLACK_YELLOW_GOTHIC",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "ss1IFQqav-8_5000",
+        "pOUrvKX-9Rs_12000",
+        "dC-UoCnsa2Q_8000",
+        "dC-UoCnsa2Q_16000",
+        "dC-UoCnsa2Q_223000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "BLACK_YELLOW_GOTHIC_RED_WORD",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "ss1IFQqav-8_8000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "BLACK_YELLOW_MINCHO",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "ss1IFQqav-8_12000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "POINT_BOX",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "ss1IFQqav-8_421000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "BRUSH_WHITE",
+      "classification": "BRUSH",
+      "font_family": null,
+      "candidates": [
+        "衡山毛筆フォント",
+        "青柳衡山フォント",
+        "白舟行書"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "MyVnNIgfBS8_12000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SLIDE_CAPTION",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "MyVnNIgfBS8_90000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SERIOUS_BAND_MINCHO",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "u1Gz_kTbc9g_5000",
+        "u1Gz_kTbc9g_8000",
+        "u1Gz_kTbc9g_12000",
+        "u1Gz_kTbc9g_185000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "YELLOW_MINCHO_RED_SLATE",
+      "classification": "MINCHO",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ明朝 ProN",
+        "游明朝",
+        "Noto Serif JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "pOUrvKX-9Rs_16000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "RED_BLACK_RETORT",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "Q1ydGCm90R8_447000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "EXPERIMENT_FRAME_CAPTION",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "51UBRypjCPw_90000",
+        "51UBRypjCPw_140000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_YELLOW_CARD",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "Uieu_JqrI-8_150"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_BLACK_BAND",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "Uieu_JqrI-8_2000",
+        "Uieu_JqrI-8_8000",
+        "Uieu_JqrI-8_40000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_BLACK_BAND_YELLOW",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "Uieu_JqrI-8_37000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_GREEN_BELOW",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "CEf_sKZk6d8_2000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_YELLOW_BELOW",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "CEf_sKZk6d8_12000",
+        "vmCVh6ft97I_12000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_RED_YELLOW_INSIDE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "CEf_sKZk6d8_60000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_YELLOW_ON_BLACK",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "vmCVh6ft97I_150"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_WHITE_BLUE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "gDkJ105rFjo_2000",
+        "gDkJ105rFjo_51521"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_BLUE_YELLOW",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "gDkJ105rFjo_5000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_BLUE_YELLOW_BUBBLE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "gDkJ105rFjo_8000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_INTERVIEW_TITLE",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "WPjhmOMImg8_150"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    },
+    {
+      "style_id": "SHORT_BILINGUAL",
+      "classification": "GOTHIC",
+      "font_family": null,
+      "candidates": [
+        "ヒラギノ角ゴシック",
+        "游ゴシック",
+        "Noto Sans JP"
+      ],
+      "font_exact_match_confidence_percent": 0,
+      "confidence_meaning": "No exact font has been established. 0 is not a measured probability that all candidates are wrong.",
+      "candidate_comparison_status": "UNTESTED_CANDIDATES_NOT_IDENTIFIED_FONTS",
+      "weight": null,
+      "width_scale": null,
+      "tracking_px": null,
+      "line_spacing_px": null,
+      "nominal_size_px": null,
+      "rights_status": "UNKNOWN",
+      "production_approved": false,
+      "reference_samples": [
+        "WPjhmOMImg8_2000",
+        "WPjhmOMImg8_12000",
+        "WPjhmOMImg8_38000"
+      ],
+      "family_classification_confidence": "MEDIUM"
+    }
+  ]
+}

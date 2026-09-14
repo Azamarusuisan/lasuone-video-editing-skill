@@ -1,0 +1,183 @@
+{
+  "video_id": "MyVnNIgfBS8",
+  "url": "https://www.youtube.com/watch?v=MyVnNIgfBS8",
+  "captured_at": "2026-09-13T09:27:36.489Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【超重要】マジで使える最強営業リストを作成しました。 - YouTube",
+  "duration_s": 578.441,
+  "width": 640,
+  "height": 360,
+  "description": "【お問い合わせ・出演依頼】\nラスワンのXから公式LINEを追加してお問い合わせください！\nラスワン 𝕏：https://x.com/lasuone …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 87,
+      "time_s": 87,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0087000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 145,
+      "time_s": 145,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0145000.jpg"
+    },
+    {
+      "requested_s": 202,
+      "time_s": 202,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0202000.jpg"
+    },
+    {
+      "requested_s": 260,
+      "time_s": 260,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0260000.jpg"
+    },
+    {
+      "requested_s": 318,
+      "time_s": 318,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0318000.jpg"
+    },
+    {
+      "requested_s": 376,
+      "time_s": 376,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0376000.jpg"
+    },
+    {
+      "requested_s": 434,
+      "time_s": 434,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0434000.jpg"
+    },
+    {
+      "requested_s": 492,
+      "time_s": 492,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0492000.jpg"
+    },
+    {
+      "requested_s": 532,
+      "time_s": 532,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0532000.jpg"
+    },
+    {
+      "requested_s": 548.441,
+      "time_s": 548.441,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0548441.jpg"
+    },
+    {
+      "requested_s": 563.441,
+      "time_s": 563.441,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0563441.jpg"
+    },
+    {
+      "requested_s": 575.441,
+      "time_s": 575.441,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0575441.jpg"
+    }
+  ]
+}

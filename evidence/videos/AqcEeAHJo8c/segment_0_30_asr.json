@@ -1,0 +1,186 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:08,840"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 8840
+			},
+			"text": "あまりにもバカラがやりたいので"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,840",
+				"to": "00:00:11,320"
+			},
+			"offsets": {
+				"from": 8840,
+				"to": 11320
+			},
+			"text": "インスパイヤーさんのバカラテーブルを持ってきていただいて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,320",
+				"to": "00:00:13,400"
+			},
+			"offsets": {
+				"from": 11320,
+				"to": 13400
+			},
+			"text": "バカラトーナメントで形式でやっていきましょうか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,400",
+				"to": "00:00:14,780"
+			},
+			"offsets": {
+				"from": 13400,
+				"to": 14780
+			},
+			"text": "散歩へようと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,780",
+				"to": "00:00:15,760"
+			},
+			"offsets": {
+				"from": 14780,
+				"to": 15760
+			},
+			"text": "そう散歩へようと"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,760",
+				"to": "00:00:16,960"
+			},
+			"offsets": {
+				"from": 15760,
+				"to": 16960
+			},
+			"text": "ポンカープレイヤーですね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,960",
+				"to": "00:00:17,920"
+			},
+			"offsets": {
+				"from": 16960,
+				"to": 17920
+			},
+			"text": "エイミーです"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,920",
+				"to": "00:00:18,540"
+			},
+			"offsets": {
+				"from": 17920,
+				"to": 18540
+			},
+			"text": "エイミーちゃん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,540",
+				"to": "00:00:20,580"
+			},
+			"offsets": {
+				"from": 18540,
+				"to": 20580
+			},
+			"text": "今1000人くらいのライバー事務所"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,580",
+				"to": "00:00:22,020"
+			},
+			"offsets": {
+				"from": 20580,
+				"to": 22020
+			},
+			"text": "斎藤ラジオとなっています"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,020",
+				"to": "00:00:23,840"
+			},
+			"offsets": {
+				"from": 22020,
+				"to": 23840
+			},
+			"text": "最近番組枠を変えました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,840",
+				"to": "00:00:25,580"
+			},
+			"offsets": {
+				"from": 23840,
+				"to": 25580
+			},
+			"text": "日中絞りたくないですか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,580",
+				"to": "00:00:27,020"
+			},
+			"offsets": {
+				"from": 25580,
+				"to": 27020
+			},
+			"text": "依存症ないですか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,020",
+				"to": "00:00:29,940"
+			},
+			"offsets": {
+				"from": 27020,
+				"to": 29940
+			},
+			"text": "ああああああああ"
+		}
+	]
+}

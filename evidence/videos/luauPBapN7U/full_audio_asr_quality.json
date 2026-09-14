@@ -1,0 +1,23 @@
+{
+  "candidate": "full_audio_asr.json",
+  "status": "REPETITION_FLAGS_REQUIRE_REVIEW",
+  "segment_count": 742,
+  "flagged_segment_count": 11,
+  "max_exact_repeat_count": 6,
+  "verified_transcript": false,
+  "repetition_runs": [
+    {
+      "text": "ウルトララウンジです",
+      "count": 5,
+      "from_ms": 300380,
+      "to_ms": 306380
+    },
+    {
+      "text": "おー。",
+      "count": 6,
+      "from_ms": 1079860,
+      "to_ms": 1085860
+    }
+  ],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

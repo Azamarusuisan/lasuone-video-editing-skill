@@ -1,0 +1,16 @@
+{
+  "video_id":"3B5q6DXJNcE",
+  "candidate":"full_audio_asr_no_context.json",
+  "candidate_output_complete":true,
+  "segments":380,
+  "maximum_identical_consecutive_segments":3,
+  "flagged_segments_in_runs_of_at_least_five":0,
+  "verified_transcript":false,
+  "direct_audio_review":false,
+  "screen_text_comparisons":[
+    {"source_time_s":420.02,"screen_text":"50万","asr_window_s":[415,425],"finding":"対応時間のASRにはこの金額が得られず、字幕との一致を認定しない。金額提示が無発話なのかASR誤りなのかは直接音声確認が必要。"},
+    {"source_time_s":540.006,"screen_text":"とりあえず130万円両替して","asr_interval_s":[538.84,544.34],"finding":"130万の両替という内容は整合。ただし他の金額・文を含む全尺の正答率を示さない。"},
+    {"source_time_s":1140.006,"screen_text":"収支を問う字幕","asr_window_s":[1139.3,1141.28],"finding":"ASRは収支を『終始』と認識。続く損失額も未校正で、収支台帳へ自動採用不可。"}
+  ],
+  "conclusion":"長い完全一致反復がなくても金額の欠落・同音異義語の誤りは残る。全文校正済み/編集用正本とはしない。"
+}

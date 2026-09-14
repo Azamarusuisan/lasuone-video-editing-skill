@@ -1,0 +1,252 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1880
+			},
+			"text": "お疲れ様です"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,880",
+				"to": "00:00:04,240"
+			},
+			"offsets": {
+				"from": 1880,
+				"to": 4240
+			},
+			"text": "今って最高にどれくらい入ってますか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,240",
+				"to": "00:00:05,980"
+			},
+			"offsets": {
+				"from": 4240,
+				"to": 5980
+			},
+			"text": "今500ドルくらい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,980",
+				"to": "00:00:08,040"
+			},
+			"offsets": {
+				"from": 5980,
+				"to": 8040
+			},
+			"text": "500ドル?意外とないっすね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,040",
+				"to": "00:00:10,040"
+			},
+			"offsets": {
+				"from": 8040,
+				"to": 10040
+			},
+			"text": "でも一応日本から4000万も来たら"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,040",
+				"to": "00:00:11,220"
+			},
+			"offsets": {
+				"from": 10040,
+				"to": 11220
+			},
+			"text": "ちょっと取りに行くわ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,220",
+				"to": "00:00:12,340"
+			},
+			"offsets": {
+				"from": 11220,
+				"to": 12340
+			},
+			"text": "取りに行く?どういうこと?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,660",
+				"to": "00:00:13,020"
+			},
+			"offsets": {
+				"from": 12660,
+				"to": 13020
+			},
+			"text": "リベンジ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,020",
+				"to": "00:00:14,720"
+			},
+			"offsets": {
+				"from": 13020,
+				"to": 14720
+			},
+			"text": "ギャンブルの聖地ラスベガスにて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,720",
+				"to": "00:00:17,300"
+			},
+			"offsets": {
+				"from": 14720,
+				"to": 17300
+			},
+			"text": "ラスワンが1ヶ月で失った金額は"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,300",
+				"to": "00:00:18,620"
+			},
+			"offsets": {
+				"from": 17300,
+				"to": 18620
+			},
+			"text": "およそ4000万円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,620",
+				"to": "00:00:20,560"
+			},
+			"offsets": {
+				"from": 18620,
+				"to": 20560
+			},
+			"text": "残されたこの500ドルをもとに"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,560",
+				"to": "00:00:22,840"
+			},
+			"offsets": {
+				"from": 20560,
+				"to": 22840
+			},
+			"text": "この男の逆襲が今始まる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,840",
+				"to": "00:00:24,480"
+			},
+			"offsets": {
+				"from": 22840,
+				"to": 24480
+			},
+			"text": "1枚目のトランプは6"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,480",
+				"to": "00:00:27,520"
+			},
+			"offsets": {
+				"from": 24480,
+				"to": 27520
+			},
+			"text": "そして2枚目のトランプは10カード"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,520",
+				"to": "00:00:30,320"
+			},
+			"offsets": {
+				"from": 27520,
+				"to": 30320
+			},
+			"text": "ブラックジャックにおいて最弱の手が来てしまった"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,320",
+				"to": "00:00:32,840"
+			},
+			"offsets": {
+				"from": 30320,
+				"to": 32840
+			},
+			"text": "だがディーラーのベースカードが4と弱い"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,840",
+				"to": "00:00:34,880"
+			},
+			"offsets": {
+				"from": 32840,
+				"to": 34880
+			},
+			"text": "ラスワンはここでステリを選択した"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,880",
+				"to": "00:00:37,880"
+			},
+			"offsets": {
+				"from": 34880,
+				"to": 37880
+			},
+			"text": "さあ果たしてディーラーは飛ぶのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,880",
+				"to": "00:00:45,200"
+			},
+			"offsets": {
+				"from": 37880,
+				"to": 45200
+			},
+			"text": "クソみてえな街だなこの街は"
+		}
+	]
+}

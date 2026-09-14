@@ -1,0 +1,126 @@
+{
+  "video_id": "ehJssPk1s7Q",
+  "reference_video": "https://www.youtube.com/watch?v=ehJssPk1s7Q",
+  "reviewed_at": "2026-09-14",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 65,
+  "reviewed_sheet_count": 11,
+  "sample_step_s": 15,
+  "timestamp_uncertainty_s": 7.5,
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "timestamp_warning": "Nominal overview-grid times only, up to 7.5 seconds from selected source PTS. Sample bands below are not verified chapter boundaries. Gaps have not been continuously reviewed.",
+  "confidence_scope": "HIGH for visible sampled frames; provisional logic only, not a channel-wide rule.",
+  "observations": [
+    {
+      "nominal_sample_band_s": [
+        0,
+        960
+      ],
+      "sample_step_s": 15,
+      "sample_count": 65,
+      "type": "MAIN_CAMERA",
+      "observation": "全65サンプルが2人のワイド画。個人クローズアップやB-rollはサンプルでは見つからない。第1話の別撮りモニター導入は第2話のサンプルにはない。"
+    },
+    {
+      "nominal_times_s": [
+        0,
+        495,
+        690,
+        780,
+        810,
+        840,
+        870,
+        945
+      ],
+      "type": "NO_CAPTION_SAMPLES",
+      "observation": "この8点には編集字幕がない。笑顔や身振りがあっても必ず字幕を埋めるわけではない。"
+    },
+    {
+      "nominal_times_s": [
+        15,
+        195,
+        210,
+        255,
+        375,
+        600,
+        645,
+        915,
+        960
+      ],
+      "type": "NORMAL_CAPTION",
+      "observation": "白い太明朝系＋黒い縁／影、下部中央。1行または2行。語尾・言い直し・相づちをそのまま残す字幕例もある。実際の発話との照合・要約率は未確定。"
+    },
+    {
+      "nominal_times_s": [
+        315,
+        390,
+        450,
+        570,
+        675,
+        735,
+        765,
+        855,
+        930
+      ],
+      "type": "YELLOW_EMPHASIS",
+      "observation": "仕事の捉え方・質問技法・話の要点などに黄色＋黒縁／影を使用する例。金額・勝利専用色ではない。左右いずれの発話内容にも使われるため固定の話者色としない。"
+    },
+    {
+      "nominal_times_s": [
+        270
+      ],
+      "type": "RED_MONEY",
+      "observation": "『1,000万円ぐらい もらってたんですよ』が赤い2行字幕。周囲の白字幕と大幅に画面占有率を変えず色で強調している。金額の意味・期間は未校正のため台帳に確定値として採用しない。"
+    },
+    {
+      "nominal_times_s": [
+        390,
+        600,
+        675
+      ],
+      "type": "LINE_BREAK_DEFECT_COUNTEREXAMPLES",
+      "observation": "『短／く』『池／袋北口』『とに／かく』のように語を途中で分ける改行例が見える。既存の見た目の観察として保存するが、読みやすさ・固有名詞を分断しないという制作要件を優先し、この欠点の再現は目標にしない。"
+    },
+    {
+      "nominal_times_s": [
+        750,
+        930
+      ],
+      "type": "NO_AUTOMATIC_REFERENT_IMAGE",
+      "observation": "『ぬりかべ』『鬼太郎』への言及字幕でもサンプル上は対談のみ。固有名詞が出たら必ず人物／キャラクター画像を出すという機械的な挿入規則にしない。"
+    },
+    {
+      "nominal_times_s": [
+        960
+      ],
+      "type": "ENDING",
+      "observation": "対談のまま『第2回の配信…』という締めの字幕。末尾フレームは別確認が必要。"
+    }
+  ],
+  "sample_metrics": {
+    "sample_count": 65,
+    "caption_visible_samples": 57,
+    "no_caption_samples": 8,
+    "yellow_caption_samples": 9,
+    "red_caption_samples": 1,
+    "white_caption_samples": 47,
+    "observed_caption_sample_fraction": 0.8769230769230769,
+    "observed_max_lines": 2,
+    "alternate_camera_samples": 0,
+    "insert_samples": 0,
+    "continuous_caption_coverage": null,
+    "spoken_utterance_caption_rate": null,
+    "confirmed_cut_count": null,
+    "warning": "57/65（約87.7%）は15秒間隔の字幕存在率で、発話の87.7%を字幕化した意味ではない。独立した字幕イベント数や全時間表示率でもない。"
+  },
+  "provisional_editing_inferences": [
+    {
+      "rule": "第2話は第1話の無字幕本編と別プロファイル。通常白・要点黄・金額赤の用途色を暫定採用し、話者色と混同しない。",
+      "confidence": "MEDIUM",
+      "independent_videos": 1,
+      "channel_wide_rule": false
+    }
+  ]
+}

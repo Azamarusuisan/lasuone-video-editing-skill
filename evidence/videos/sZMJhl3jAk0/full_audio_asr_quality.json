@@ -1,0 +1,10 @@
+{
+  "candidate": "full_audio_asr.json",
+  "status": "UNVERIFIED_NO_LONG_EXACT_REPETITION_FOUND",
+  "segment_count": 85,
+  "flagged_segment_count": 0,
+  "max_exact_repeat_count": 0,
+  "verified_transcript": false,
+  "repetition_runs": [],
+  "warning": "Five identical adjacent segments trigger review, not automatic deletion. Genuine repetition can occur. Absence of flags does not establish ASR accuracy."
+}

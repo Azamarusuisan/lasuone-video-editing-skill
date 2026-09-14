@@ -1,0 +1,263 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,040"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2040
+			},
+			"text": "社長に究極のギャンブルさせてみた"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,040",
+				"to": "00:00:05,260"
+			},
+			"offsets": {
+				"from": 2040,
+				"to": 5260
+			},
+			"text": "ラストンさん今からこのトランプ引いて出た数字×10万円"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,260",
+				"to": "00:00:06,500"
+			},
+			"offsets": {
+				"from": 5260,
+				"to": 6500
+			},
+			"text": "バカラに全突破してください"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,500",
+				"to": "00:00:06,920"
+			},
+			"offsets": {
+				"from": 6500,
+				"to": 6920
+			},
+			"text": "お願いします"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,920",
+				"to": "00:00:07,800"
+			},
+			"offsets": {
+				"from": 6920,
+				"to": 7800
+			},
+			"text": "13引き合いでしょ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,800",
+				"to": "00:00:08,120"
+			},
+			"offsets": {
+				"from": 7800,
+				"to": 8120
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,120",
+				"to": "00:00:10,360"
+			},
+			"offsets": {
+				"from": 8120,
+				"to": 10360
+			},
+			"text": "ピクチャー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,360",
+				"to": "00:00:12,700"
+			},
+			"offsets": {
+				"from": 10360,
+				"to": 12700
+			},
+			"text": "問題はしこー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,700",
+				"to": "00:00:14,860"
+			},
+			"offsets": {
+				"from": 12700,
+				"to": 14860
+			},
+			"text": "つけつけつけつけ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,860",
+				"to": "00:00:19,220"
+			},
+			"offsets": {
+				"from": 14860,
+				"to": 19220
+			},
+			"text": "じゃあラストンさん今から50万円全突破です"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,220",
+				"to": "00:00:21,420"
+			},
+			"offsets": {
+				"from": 19220,
+				"to": 21420
+			},
+			"text": "まあ安いけど頑張ります"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,420",
+				"to": "00:00:21,880"
+			},
+			"offsets": {
+				"from": 21420,
+				"to": 21880
+			},
+			"text": "いきましょう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,880",
+				"to": "00:00:25,120"
+			},
+			"offsets": {
+				"from": 21880,
+				"to": 25120
+			},
+			"text": "この男はプレイヤーに50万円を張った"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,120",
+				"to": "00:00:26,760"
+			},
+			"offsets": {
+				"from": 25120,
+				"to": 26760
+			},
+			"text": "勝負の世界は一瞬"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,760",
+				"to": "00:00:29,160"
+			},
+			"offsets": {
+				"from": 26760,
+				"to": 29160
+			},
+			"text": "まずはラストンのトランプから見ていこう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,160",
+				"to": "00:00:32,940"
+			},
+			"offsets": {
+				"from": 29160,
+				"to": 32940
+			},
+			"text": "1枚目のトランプは2本足4から10の数字が確定"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,940",
+				"to": "00:00:36,200"
+			},
+			"offsets": {
+				"from": 32940,
+				"to": 36200
+			},
+			"text": "そして2枚目のトランプはこちらの2本足"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,200",
+				"to": "00:00:39,900"
+			},
+			"offsets": {
+				"from": 36200,
+				"to": 39900
+			},
+			"text": "果たしてラストンの合計数はいくつになるのか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,900",
+				"to": "00:00:43,180"
+			},
+			"offsets": {
+				"from": 39900,
+				"to": 43180
+			},
+			"text": "2つのトランプを足してまさかの合計数はゼロ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,180",
+				"to": "00:00:46,700"
+			},
+			"offsets": {
+				"from": 43180,
+				"to": 46700
+			},
+			"text": "対して相手の合計数はナチュラル9"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,700",
+				"to": "00:00:47,760"
+			},
+			"offsets": {
+				"from": 46700,
+				"to": 47760
+			},
+			"text": "バンカーやったな"
+		}
+	]
+}

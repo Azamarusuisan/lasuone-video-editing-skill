@@ -1,0 +1,17 @@
+{
+  "video_id":"N2ecdYXYaXw",
+  "review_type":"MANUAL_SELECTED_STATIC_POINTS",
+  "reviewed_requested_s":[0,8,30,60,120,300,600,1200,1800,2400,3000,3600,4200,4800,5400,6000,6600,7200,7800,8400,9000,9600,10200,10690],
+  "full_continuous_visual_review":false,
+  "direct_audio_review":false,
+  "timestamp_basis":"capture.json source PTS; selected points are not chapter boundaries",
+  "observations":[
+    {"requested_s":[0,8,30,60,120],"finding":"共通注意カード後に新規着席トーク。黄太ゴシック黒縁の通常説明、赤告知、右上の別チャンネル紹介画像がある。背景の制作方法や画像の権利は未確認。","confidence":"HIGH"},
+    {"requested_s":[300,600,1200,1800],"finding":"旧ロゴのロケ、競艇画面合成、屋外トーク、1800秒の光が広がる転換中の像。転換の全長・種類・同期音は単独フレームだけでは決めない。","confidence":"HIGH"},
+    {"requested_s":[2400,10200],"finding":"ポーカーはプレイヤー左、ボード/Pot/Blinds右下。2400秒の開始ハンド説明は緑の上字幕。10200秒は別の卓でも同様の情報構造。単に本人の話だから赤いという規則は不十分。","confidence":"HIGH"},
+    {"requested_s":[3000,3600,7200],"finding":"ヤニブのルール説明・中間発表・会話を含む。3000秒は左上企画ラベルと下の半透明白角丸パネル、黄の条件文と白の説明。3600秒は右上HIGH LIMIT/YANIVラベル、左下の中間発表カード。バカラのカード点数やポーカーのPotルールをヤニブへ適用しない。","confidence":"HIGH"},
+    {"requested_s":[4200,4800,5400,6000,6600,7800,8400,9000,9600],"finding":"PCで過去ポーカー映像を見る説明、飲食店、車内、撮影施設などの日常・会話を含む。黒明朝白光彩、青字白光彩、黄太ゴシック、中央の短い編集者注釈を場面別に確認。全編を単一の海外ポーカー形式にしない。","confidence":"HIGH"},
+    {"requested_s":[10690],"finding":"終端近くに別チャンネル紹介と太い白ゴシック黒縁の登録案内。新規導入の別チャンネル案内とも合わせ、どのチャンネルへのCTAかを個別に管理する必要がある。動画最終フレーム・CTA全体尺は未確認。","confidence":"HIGH"}
+  ],
+  "limitations":"全尺に散らした24静止点の目視のみ。総集編の素材重複、話者、章境界、平均カット間隔、音響は未確定。"
+}

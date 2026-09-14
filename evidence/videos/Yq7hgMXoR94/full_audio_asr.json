@@ -1,0 +1,186 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/stork/.cache/hyperframes/whisper/models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3000
+			},
+			"text": "フィリピンなんとですねカジノ2年ぶりに勝ちまして50万勝ち"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,000",
+				"to": "00:00:05,540"
+			},
+			"offsets": {
+				"from": 3000,
+				"to": 5540
+			},
+			"text": "社長フィリピンから帰ってきたんですか?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,840",
+				"to": "00:00:06,680"
+			},
+			"offsets": {
+				"from": 5840,
+				"to": 6680
+			},
+			"text": "フィリピンから帰ってきました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,680",
+				"to": "00:00:08,960"
+			},
+			"offsets": {
+				"from": 6680,
+				"to": 8960
+			},
+			"text": "フィリピンの仕事で行ったんですけれども"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,960",
+				"to": "00:00:12,540"
+			},
+			"offsets": {
+				"from": 8960,
+				"to": 12540
+			},
+			"text": "フィリピンなんとですねカジノ2年ぶりに勝ちまして50万勝ち"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,540",
+				"to": "00:00:17,040"
+			},
+			"offsets": {
+				"from": 12540,
+				"to": 17040
+			},
+			"text": "お金が1円もなかったんで部から150万円を借りて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,040",
+				"to": "00:00:19,740"
+			},
+			"offsets": {
+				"from": 17040,
+				"to": 19740
+			},
+			"text": "AIでシステムベッドをして50万返って帰ってきた"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,740",
+				"to": "00:00:23,300"
+			},
+			"offsets": {
+				"from": 19740,
+				"to": 23300
+			},
+			"text": "ただ飛行機が飛ばずに2日間フィリピンに閉じ込められ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,300",
+				"to": "00:00:26,820"
+			},
+			"offsets": {
+				"from": 23300,
+				"to": 26820
+			},
+			"text": "カジノ側と飛行機の会社の連携がよく取れてるなと思いました"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,480",
+				"to": "00:00:30,140"
+			},
+			"offsets": {
+				"from": 27480,
+				"to": 30140
+			},
+			"text": "あとは今うちの会社ストップを中止していて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,140",
+				"to": "00:00:32,960"
+			},
+			"offsets": {
+				"from": 30140,
+				"to": 32960
+			},
+			"text": "ストップが今100万円くらいまで積み上がってたんで"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,960",
+				"to": "00:00:34,400"
+			},
+			"offsets": {
+				"from": 32960,
+				"to": 34400
+			},
+			"text": "短縮1000万のストップ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,400",
+				"to": "00:00:35,820"
+			},
+			"offsets": {
+				"from": 34400,
+				"to": 35820
+			},
+			"text": "大変だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,820",
+				"to": "00:00:36,780"
+			},
+			"offsets": {
+				"from": 35820,
+				"to": 36780
+			},
+			"text": "頑張っていきます"
+		}
+	]
+}

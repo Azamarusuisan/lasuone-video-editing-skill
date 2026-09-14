@@ -1,0 +1,62 @@
+{
+  "snapshot_date": "2026-09-14",
+  "source_version": "0.1-observed-samples",
+  "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
+  "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
+  "learning": {
+    "coverage_compiled_at": "2026-09-14T01:45:19.180Z",
+    "coverage_source": "evidence/COVERAGE.json (not bundled; counts recorded at snapshot time)",
+    "public_videos": 189,
+    "ordinary_videos": 59,
+    "shorts": 130,
+    "research_copies_acquired": 188,
+    "asr_candidate_video_count": 188,
+    "partial_frame_video_count": 39,
+    "whole_duration_sparse_review_count": 9,
+    "review_progress_auxiliary": {
+      "R9yghVLgI4s": {
+        "reviewed_grid_frames": 1101,
+        "total_grid_frames": 1101,
+        "reviewed_nominal_grid_s": [0, 16500],
+        "timestamp_uncertainty_s": 7.5,
+        "last_approximately_22_s_unsampled": true,
+        "continuous_visual_review": false,
+        "direct_audio_review": false
+      },
+      "rUZ__0uKiMA": {
+        "reviewed_grid_frames": 480,
+        "total_grid_frames": 799,
+        "reviewed_nominal_grid_s": [0, 7185],
+        "next_sheet": 81,
+        "timestamp_uncertainty_s": 7.5,
+        "continuous_visual_review": false,
+        "direct_audio_review": false
+      }
+    },
+    "continuous_interval_observations": 21,
+    "continuous_interval_reviewed_frames": 551,
+    "subtitle_frame_samples": 114,
+    "unique_subtitle_events": null,
+    "full_length_reviewed_video_count": 0,
+    "full_channel_review_complete": false,
+    "vegas_compilations_complete": false,
+    "audio_identification_complete": false
+  },
+  "assets": {
+    "inventory_count": 189,
+    "rights_unknown_count": 189,
+    "production_approved_count": 0,
+    "generated_asset_count": 0
+  },
+  "decision_records": {
+    "types": ["longform", "shorts", "podcast", "gambling_tension"],
+    "record_type": "EDIT_DECISION_TEMPLATE_NOT_RENDERABLE_NLE_PROJECT",
+    "production_enabled": false,
+    "export_preset": null
+  },
+  "required_references": [
+    "references/status-and-gates.md",
+    "references/formats.md",
+    "references/assets-and-rights.md"
+  ]
+}

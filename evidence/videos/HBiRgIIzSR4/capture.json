@@ -1,0 +1,183 @@
+{
+  "video_id": "HBiRgIIzSR4",
+  "url": "https://www.youtube.com/watch?v=HBiRgIIzSR4",
+  "captured_at": "2026-09-13T09:26:03.956Z",
+  "evidence_type": "SPARSE_VISUAL_SAMPLES",
+  "full_watch": false,
+  "audio_analyzed": false,
+  "title": "【一撃〇〇〇万円】ギャン中が命を賭けた大勝負に出ました。 - YouTube",
+  "duration_s": 1934.941,
+  "width": 640,
+  "height": 360,
+  "description": "次回のカジノクラブ主催ラスワンと絞れる魂のバカラツアーは夏頃開催予定🔥\n …\n...もっと見る\n",
+  "frames": [
+    {
+      "requested_s": 0.15,
+      "time_s": 0.15,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0000150.jpg"
+    },
+    {
+      "requested_s": 2,
+      "time_s": 2,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0002000.jpg"
+    },
+    {
+      "requested_s": 5,
+      "time_s": 5,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0005000.jpg"
+    },
+    {
+      "requested_s": 8,
+      "time_s": 8,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0008000.jpg"
+    },
+    {
+      "requested_s": 12,
+      "time_s": 12,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0012000.jpg"
+    },
+    {
+      "requested_s": 16,
+      "time_s": 16,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0016000.jpg"
+    },
+    {
+      "requested_s": 20,
+      "time_s": 20,
+      "width": 640,
+      "height": 360,
+      "file": "frame_0020000.jpg"
+    },
+    {
+      "requested_s": 25,
+      "time_s": 25,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0025000.jpg"
+    },
+    {
+      "requested_s": 29,
+      "time_s": 29,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0029000.jpg"
+    },
+    {
+      "requested_s": 40,
+      "time_s": 40,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0040000.jpg"
+    },
+    {
+      "requested_s": 60,
+      "time_s": 60,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0060000.jpg"
+    },
+    {
+      "requested_s": 90,
+      "time_s": 90,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0090000.jpg"
+    },
+    {
+      "requested_s": 290,
+      "time_s": 290,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0290000.jpg"
+    },
+    {
+      "requested_s": 484,
+      "time_s": 484,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0484000.jpg"
+    },
+    {
+      "requested_s": 677,
+      "time_s": 677,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0677000.jpg"
+    },
+    {
+      "requested_s": 871,
+      "time_s": 871,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_0871000.jpg"
+    },
+    {
+      "requested_s": 1064,
+      "time_s": 1064,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1064000.jpg"
+    },
+    {
+      "requested_s": 1258,
+      "time_s": 1258,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1258000.jpg"
+    },
+    {
+      "requested_s": 1451,
+      "time_s": 1451,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1451000.jpg"
+    },
+    {
+      "requested_s": 1645,
+      "time_s": 1645,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1645000.jpg"
+    },
+    {
+      "requested_s": 1780,
+      "time_s": 1780,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1780000.jpg"
+    },
+    {
+      "requested_s": 1904.941,
+      "time_s": 1904.941,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1904941.jpg"
+    },
+    {
+      "requested_s": 1919.941,
+      "time_s": 1919.941,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1919941.jpg"
+    },
+    {
+      "requested_s": 1931.941,
+      "time_s": 1931.941,
+      "width": 1280,
+      "height": 720,
+      "file": "frame_1931941.jpg"
+    }
+  ]
+}
