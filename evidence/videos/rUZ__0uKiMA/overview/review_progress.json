@@ -1,7 +1,7 @@
 {
   "video_id": "rUZ__0uKiMA",
   "reference_video": "https://www.youtube.com/watch?v=rUZ__0uKiMA",
-  "updated_at": "2026-09-14T03:04:05.000Z",
+  "updated_at": "2026-09-14T03:08:48.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 799,
@@ -109,23 +109,35 @@
     101,
     102,
     103,
-    104
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    624
+    696
   ],
-  "reviewed_frame_count": 624,
+  "reviewed_frame_count": 696,
   "reviewed_nominal_grid_s": [
     0,
-    9345
+    10425
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 105,
+  "next_sheet": 117,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -847,6 +859,50 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9360,
+        9495
+      ],
+      "observed": "sheet105〜106前半。スイートルームから多国籍ビュッフェへ移り、料理・ライブキッチンを実写と青見出し/白説明パネルで紹介する。施設スタッフの連絡CTAも一時再掲。続いて『Le Space INSPIRE』を同じ情報カード形式で紹介し、暗い没入型展示の映像へ進む。",
+      "limits": "電話番号は本文へ転記しない。施設・飲食・展示の名称、説明、無料条件、営業状況、素材権利は現在の公式情報として未検証。静止サンプル間の移動順、カードの表示尺、BGM/SEは未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9510,
+        9855
+      ],
+      "observed": "sheet106後半〜110。道路実写に緑の状況要約を重ね、右上『前日の会話』付きの車内素材を挟んだ後、炎/火の粉の番組カードを経て車内インタビューへ。100万円、80万円を取り戻して2日で20万円負けという自己申告は、単独数字、大型白字幕、青い期間/損失強調で分ける。後半はカジノ開業、車、企画の理由、成人向けサービスに関する話題へ進み、店舗ロゴや『カップルコース』の説明カードも差し込む。",
+      "limits": "各金額は発言/画面上の自己申告で帳簿照合ではなく、開始資金・賭け額・回収額・純損失を混同しない。成人向けサービスの説明は公開映像の取材内容で、推奨・現行サービス・広告契約・適法性を保証しない。店舗情報や第三者情報の再掲は許可を確認する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        9870,
+        10245
+      ],
+      "observed": "sheet110後半〜114。街頭から化粧品店へ入り、店員への質問、商品説明、顔/腕への試用を長めの実写で見せる。大部分は隅ロゴのみで、9960の大きい白明朝系要約や10050の通常字幕などを選択的に付ける。移動ブラーを挟んで衣料店、白箱の『ベイプショップへ』、商品棚と実物説明へ移る。",
+      "limits": "商品の効能・安全性・成分・購入を編集側で保証しない。店員/客の同意、ブランドとの広告契約、商品画像の再利用権、正確な店舗名は未確認。表示のない点を無言や字幕不要の固定尺にしない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        10260,
+        10425
+      ],
+      "observed": "sheet115〜116。繁華街の移動、靴/衣料の店頭、飲食店への入店を経て、着席した本人の会話へ。10395は『今はもっと沢山の人に見てもらいたい』を大きい白字幕、10425は『次金借りにいくシリーズ』を小さめの白字幕で提示し、商品体験から今後の企画トークへ戻る。",
+      "limits": "字幕は画面上の発言要約で、将来企画の実施決定・借入事実・勧誘を意味しない。店名、購入品、金額、撮影順、発話字幕率は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -917,6 +973,20 @@
       "nominal_grid_s": [
         8280,
         9345
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        105,
+        116
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        9360,
+        10425
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
