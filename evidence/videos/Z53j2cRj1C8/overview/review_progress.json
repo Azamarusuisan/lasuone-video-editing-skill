@@ -1,7 +1,7 @@
 {
   "video_id": "Z53j2cRj1C8",
   "reference_video": "https://www.youtube.com/watch?v=Z53j2cRj1C8",
-  "updated_at": "2026-09-14T07:12:26.000Z",
+  "updated_at": "2026-09-14T07:21:16.000Z",
   "status": "PARTIAL_MANUAL_REVIEW_OF_OVERVIEW_GRID",
   "capture": "capture.json",
   "total_overview_frames": 1059,
@@ -137,23 +137,35 @@
     129,
     130,
     131,
-    132
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144
   ],
   "reviewed_frame_file_index_inclusive": [
     1,
-    792
+    864
   ],
-  "reviewed_frame_count": 792,
+  "reviewed_frame_count": 864,
   "reviewed_nominal_grid_s": [
     0,
-    11865
+    12945
   ],
   "sample_step_s": 15,
   "timestamp_uncertainty_s": 7.5,
   "full_continuous_visual_review": false,
   "direct_audio_review": false,
   "whole_duration_sparse_review_complete": false,
-  "next_sheet": 133,
+  "next_sheet": 145,
   "observations": [
     {
       "nominal_sample_band_s": [
@@ -946,6 +958,83 @@
       "reviewer": "Codex",
       "evidence_status": "OBSERVED_STATIC_SAMPLES",
       "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11880,
+        11955
+      ],
+      "observed": "sheet133。前区間の約3.5万円ベット局をPLAYER/BANKERのカードHUDで追い、次の約4.5万円局へ切り替える。最後に過去カットを4分割し、勝ち/負けの赤青ラベルで短く振り返る。",
+      "limits": "3.5万円/4.5万円は局別表示。HUDと分割回想だけで勝敗数、払戻、残高、通算収支を再構築せず、過去素材の正確な対応時刻も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        11970,
+        12135
+      ],
+      "observed": "sheet134〜135。白箱『バカラ再開』から約5万円、約10万円、約5万円、約10万円の局を順に見せる。カードHUDに加え、連続結果を示す罫線表と、連続後の傾向を説明する白黄枠カードを一時表示する。",
+      "limits": "各金額・局・カードを分離する。罫線表や『テレコ』等の説明は番組内の賭け方/俗説で、独立した統計検証なし。予測精度、勝敗、追加賭け、払戻、残高を補完しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        12150,
+        12405
+      ],
+      "observed": "sheet136〜138。約6万円の局を複数回追い、『小学生罫線』『お金が落ちている』『フラワー』等の白黄枠説明、罫線表、黄色大型『ナチュラル8で勝利』を重ねる。途中に約11.5万円、再び約6万円のベット表示へ進む。",
+      "limits": "説明語は企画内の呼称/戦略表現で、勝率や安全性の根拠にしない。6万円の同額局を同一局としてまとめず、自然勝ち表示も通算利益に変換しない。各局のチップ、追加賭け、払戻、残高は未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        12420,
+        12615
+      ],
+      "observed": "sheet139〜141前半。約6万円、約5万円のバカラ局と罫線表を続け、一度賭けずに流れを見るという字幕を挟む。卓のぼかしカットから夜の街、飲食店での会話へ移り、翌朝の空港へ切り替える。",
+      "limits": "賭けない判断と前後局の境界、最終残高、店/マッサージの利用内容、移動日程、音は未確認。ぼかしの対象・目的、通行人/店舗/空港素材の権利を別途確認する。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        12630,
+        12765
+      ],
+      "observed": "sheet141後半〜142。空港の出発表示前で格安航空に関する会話をし、待合でオンライン手続きを操作する。ベトナム入国予定に問題が生じたという字幕、大型の反応要約、白字幕の経緯説明を続ける。",
+      "limits": "旅券、予約、便、渡航資格、入国可否、原因、航空会社対応は未確認。画面上の連絡先・予約/旅券情報を転記せず、入国手続の助言や現在の渡航情報として再利用しない。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        12780,
+        12855
+      ],
+      "observed": "sheet143〜144冒頭。台湾1日目ラベルでポーカートーナメント会場の本人を映し、夜のテラスで女性参加者と合流する。続いて黒地白文字で別動画の食事場面を案内し、台湾2日目のホテルへ切り替える。",
+      "limits": "大会名、結果、人物関係、贈答、別動画内容、撮影許可は未確認。案内カードの外部動画を視聴済みにせず、サムネイル、人物、会場、ロゴの再利用権はUNKNOWN。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
+    },
+    {
+      "nominal_sample_band_s": [
+        12870,
+        12945
+      ],
+      "observed": "sheet144。台湾2日目のホテルで入国問題に関する説明を続け、黒地に大きな白文字『運命の時』を挟む。その後は空港の窓口周辺と到着エリアらしい実写で本人の反応を見せる。",
+      "limits": "入国可否、手続、国/空港、成功/失敗の最終結果は静止点から確定しない。旅券、予約、連絡先、画面情報を読み取らず、正確な章境界・音・移動順も未確認。",
+      "reviewer": "Codex",
+      "evidence_status": "OBSERVED_STATIC_SAMPLES",
+      "confidence": "HIGH_FOR_VISIBLE_LAYOUT_LOW_FOR_GENERALIZATION"
     }
   ],
   "limitations": [
@@ -1105,6 +1194,20 @@
       "nominal_grid_s": [
         10800,
         11865
+      ],
+      "full_continuous_visual_review": false,
+      "direct_audio_review": false
+    },
+    {
+      "reviewer": "Codex",
+      "sheet_numbers_inclusive": [
+        133,
+        144
+      ],
+      "frame_count": 72,
+      "nominal_grid_s": [
+        11880,
+        12945
       ],
       "full_continuous_visual_review": false,
       "direct_audio_review": false
