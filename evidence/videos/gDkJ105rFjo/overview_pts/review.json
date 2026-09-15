@@ -1,0 +1,113 @@
+{
+  "video_id": "gDkJ105rFjo",
+  "reference_video": "https://www.youtube.com/watch?v=gDkJ105rFjo",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 41,
+  "reviewed_sheet_count": 7,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.011},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.022},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.011},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.022},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.011},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.022},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.011},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.022},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.033},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.011},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.022},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.033},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.01},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.022},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.033},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.01},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.021},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42.033},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44.01},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46.021},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48.032},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50.01},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52.021},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54.032},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56.01},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58.021},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60.032},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62.01},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64.021},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66.032},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68.01},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70.021},
+    {"file":"frame_000072000.jpg","requested_s":72,"time_s":72.032},
+    {"file":"frame_000074000.jpg","requested_s":74,"time_s":74.01},
+    {"file":"frame_000076000.jpg","requested_s":76,"time_s":76.021},
+    {"file":"frame_000078000.jpg","requested_s":78,"time_s":78.032},
+    {"file":"frame_000080000.jpg","requested_s":80,"time_s":80.009}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "CHARACTER_GAMBLING_PARODY",
+    "SINGLE_PERSON_TABLE_PERFORMANCE",
+    "PERSISTENT_CHARACTER_CUTOUT",
+    "SLOT_BACCARAT_BOAT_RACE_POKER_VIGNETTES",
+    "REPEATED_HOOK",
+    "FACEPALM_REACTION",
+    "COMMENT_PROMPT_END_CARD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4],
+      "observed": "漫画柄らしい卓上に座る人物の左半身と、青い猫型キャラクター風の大型切り抜きを右半分に並べる。青縁の白文字で『えっなんでそんなハンドでレイズしたんですか？』を先出しし、黄青の『ドラ○もん ギャンブルシリーズ』らしい企画名へ切り替える。",
+      "limits": "キャラクター名・画像出典・許諾・公式関係、人物、卓、発話、音は未確認。"
+    },
+    {
+      "sample_requested_s": [6, 8, 10, 12, 14],
+      "observed": "スロット店にいるキャラクターという小見出しから、飲み物を頼む声と台を止める依頼らしい短文を青縁字幕で演じる。人物とキャラクター切り抜きの固定二分割を維持する。",
+      "limits": "店舗、台、遊技、注文、人物関係、実際のやり取りは未確認。"
+    },
+    {
+      "sample_requested_s": [16, 18, 20, 22, 24, 26, 28],
+      "observed": "バカラらしい遊技をするキャラクターという小見出しへ移り、掛け声風の語、罫線、ツラという用語らしい字幕を続ける。最後は『ちょっと失礼します』で次の寸劇へ区切る。",
+      "limits": "遊技名、掛け声、罫線、ツラ、ベット、勝敗、配当、テーブル状況は未確認。実戦HUDやカードは映らない。"
+    },
+    {
+      "sample_requested_s": [30, 32, 34, 36, 38],
+      "observed": "競艇場にいるキャラクターという小見出しから、2-1を買っていたという不満と、直前なら別の並びだったという数字入りの台詞へ進む。数字列の一部は記号で伏せた字幕にする。",
+      "limits": "競艇場、買い目、投票、金額、着順、払戻、損益、伏字の内容は未確認。"
+    },
+    {
+      "sample_requested_s": [40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78],
+      "observed": "ポーカーでマナーが悪いキャラクターという小見出しの後、冒頭のレイズ質問を再掲して区切る。GTO、相手のスタック確認、オールイン、マック、バイイン追加という語を会話風に並べ、人物の笑顔と顔を覆う反応を交互に残し、『厳しいwww』へ落とす。",
+      "limits": "GTO、スタック、ハンド、レイズ、オールイン、マック、バイイン、マナー、相手、勝敗、損益は寸劇字幕で、実戦事実ではない。"
+    },
+    {
+      "sample_requested_s": [80],
+      "observed": "黒画面へ切り替え、やってほしいネタのコメントを募集する白い終了カードで締める。",
+      "limits": "コメント投稿、アカウント、募集条件、反映は未確認。外部連絡をしない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_gambling_vignette_terms": "HIGH",
+    "actual_game_actions_results_and_money": "NOT_SHOWN",
+    "character_identity_source_and_official_relationship": "UNVERIFIED",
+    "audio_and_exact_performance_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "41点の2秒間隔静止画目視であり、81.53秒の連続視聴・聴取ではない。",
+    "requested_sに対する実source PTSは0〜約0.033秒後で、小見出し、台詞、表情、反復の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 80.009秒。最後の約1.52秒と全サンプル間は未視聴。",
+    "スロット、バカラ、競艇、ポーカーの用語はキャラクター寸劇で、実遊技、ベット、買い目、ハンド、勝敗、配当、損益を示さない。",
+    "人物、場所、卓布、キャラクター、撮影同意、画面・字幕・映像の素材権利と音は未確認。"
+  ]
+}
