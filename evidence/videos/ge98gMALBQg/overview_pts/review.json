@@ -1,0 +1,72 @@
+{
+  "video_id": "ge98gMALBQg",
+  "reference_video": "https://www.youtube.com/watch?v=ge98gMALBQg",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 19,
+  "reviewed_sheet_count": 4,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.002},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.004},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6.006},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.008},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.01},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12.012},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.014},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.016},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18.018},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.02},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.022},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.024},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.026},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.028},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.03},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.032},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.034},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.036}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "RANKING",
+    "CAR_INTERVIEW",
+    "PERSISTENT_PROGRESS_BOARD",
+    "CANDIDATE_PHOTO_CARDS",
+    "VISIBLE_REPOST_WATERMARK"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2],
+      "observed": "車内の固定人物画の左へ1〜10位の灰色の空欄を縦に常設し、中央下の黒いカードで『ボートレーサー強さランキング』と主題を出す。",
+      "limits": "ランキングの評価基準、対象時期、回答者、音は未確認。"
+    },
+    {
+      "sample_requested_s": [4, 6, 8, 10, 12, 14, 16, 18],
+      "observed": "候補ごとに氏名と顔写真の白い大カードを人物の右側へ出し、次の候補へ進む際に前候補の写真を左の順位枠へ縮小して蓄積する。本人の考える表情と身振りは背景として保つ。",
+      "limits": "人物の氏名・顔写真は画面上の候補表示。順位、所属、実績、写真の出典・権利を検証していない。"
+    },
+    {
+      "sample_requested_s": [20, 22, 24, 26, 28, 30, 32, 34, 36],
+      "observed": "同じ大カード→縮小配置を繰り返し、未回答枠を順不同で埋める。最終サンプルでは1〜10位の全枠が顔写真で埋まり、最後の候補カードも右側に残る。",
+      "limits": "静止画では各回答の発話、迷い、確定時刻を確認できない。途中の未完成表を最終順位として引用せず、最終表も回答者の主観として扱う。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_progress_and_final_board": "HIGH",
+    "ranking_accuracy_and_criteria": "UNKNOWN",
+    "photo_and_source_reuse_rights": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "19点の2秒間隔静止画目視であり、37.53秒の連続視聴・聴取ではない。",
+    "time_sは24fps素材の抽出画像source PTSで、requested_sより0〜0.036秒後。カード出入り・順位確定とは異なる。",
+    "最終サンプルはsource PTS 36.036秒。動画尺37.53秒に対する最後の約1.49秒と全サンプル間は未視聴。",
+    "人物、順位、評価基準、顔写真、透かし元、撮影・公開同意、素材権利は未確認。"
+  ]
+}
