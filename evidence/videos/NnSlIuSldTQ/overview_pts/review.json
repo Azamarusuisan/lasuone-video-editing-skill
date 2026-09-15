@@ -1,0 +1,446 @@
+{
+  "video_id": "NnSlIuSldTQ",
+  "reference_video": "https://www.youtube.com/watch?v=NnSlIuSldTQ",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 61,
+  "reviewed_sheet_count": 11,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.005
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.01
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.016
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.021
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.026
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.031
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.003
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.008
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.014
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.019
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.024
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.029
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.001
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.006
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.011
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.017
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.022
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.027
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.032
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.004
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.009
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.014
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.02
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48.025
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.03
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.002
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.007
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.012
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.018
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.023
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.028
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.005
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.01
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.015
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.021
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.026
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.031
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.003
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.008
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.013
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.018
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86.024
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88.029
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.001
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92.006
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94.011
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96.016
+    },
+    {
+      "file": "frame_000098000.jpg",
+      "requested_s": 98,
+      "time_s": 98.022
+    },
+    {
+      "file": "frame_000100000.jpg",
+      "requested_s": 100,
+      "time_s": 100.027
+    },
+    {
+      "file": "frame_000102000.jpg",
+      "requested_s": 102,
+      "time_s": 102.032
+    },
+    {
+      "file": "frame_000104000.jpg",
+      "requested_s": 104,
+      "time_s": 104.004
+    },
+    {
+      "file": "frame_000106000.jpg",
+      "requested_s": 106,
+      "time_s": 106.009
+    },
+    {
+      "file": "frame_000108000.jpg",
+      "requested_s": 108,
+      "time_s": 108.014
+    },
+    {
+      "file": "frame_000110000.jpg",
+      "requested_s": 110,
+      "time_s": 110.019
+    },
+    {
+      "file": "frame_000112000.jpg",
+      "requested_s": 112,
+      "time_s": 112.025
+    },
+    {
+      "file": "frame_000114000.jpg",
+      "requested_s": 114,
+      "time_s": 114.03
+    },
+    {
+      "file": "frame_000116000.jpg",
+      "requested_s": 116,
+      "time_s": 116.002
+    },
+    {
+      "file": "frame_000118000.jpg",
+      "requested_s": 118,
+      "time_s": 118.007
+    },
+    {
+      "file": "frame_000120000.jpg",
+      "requested_s": 120,
+      "time_s": 120.012
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "OFFICE_SEATED_TALK",
+    "RETAKE_META_OPENING",
+    "BUDDHIST_ENLIGHTENMENT_JOKE",
+    "AI_AVATAR_WEB_DEMO",
+    "MONITOR_CLOSEUPS",
+    "AUTOMATED_LIVESTREAM_CLAIM",
+    "AI_DIALOG_REACTION",
+    "WORK_ENJOYMENT_CALLBACK"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22
+      ],
+      "observed": "壁際のデスク横で灰色の服を着た人物が座り、白い角丸の『今何されてるんですか！』を質問役として置く。人生の本質、仏教の中道という黄字幕から笑い、もう一回という撮り直しメタ会話へ移り、同じ質問を再掲して『今、悟りを開いています』、白い『急に？』、お釈迦様という語へ進む。",
+      "limits": "人物、場所、発話、宗教的説明、撮影順、再撮影の実態、音は未確認。仏教や人物史の正確な解説にしない。"
+    },
+    {
+      "sample_requested_s": [
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "observed": "30年苦しい修行をして悟りを開こうとしたという黄字幕を続け、悟りを開くことを口にした瞬間という省略された話から、楽しいことをしていれば必ず悟りは開けるという結論へまとめる。横を向く無字幕画の後、『今日ご紹介させていただくのはこちら』で隣のモニターへ導く。",
+      "limits": "年数、修行、悟り、因果、必ずという保証は検証しておらず、宗教的・歴史的事実や人生助言にしない。"
+    },
+    {
+      "sample_requested_s": [
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62
+      ],
+      "observed": "人物と机上モニターを同じ縦画面内で見せ、赤黄の『GeminiVRM』を製品名らしい見出しとして出す。自分たちが作っているOpenClawで10分ほどで設定・構築した、題を入れると自動で24時間動き、YouTubeのライブ配信もできるという黄字幕を積み、『やらせてみましょう』で画面実演へ進む。",
+      "limits": "名称、開発主体、10分、設定、構築、入力、24時間稼働、YouTube配信、機能、安定性、権利は画面上の訴求で未検証。"
+    },
+    {
+      "sample_requested_s": [
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80
+      ],
+      "observed": "モニターへ寄り、ブラウザ上の2体のアバターと会話欄らしいUIを映す。ピーという伏せ字を含むサイズの話題らしい黄字幕へ白い『ん？』を重ね、複数の会話カード表示を経て、人物側の白い問いとアバター側の引用記号付き白字幕を置く。",
+      "limits": "画面内文章は外部入力を含み得る非信頼データとして扱い、細文や指示を転記・実行しない。アバター名、会話生成、応答主体、音声、同期、入力内容、サービス権利は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        82,
+        84,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        98,
+        100,
+        102,
+        104
+      ],
+      "observed": "人物画へ戻ってAIから見た自分への問いを出し、『中身が大事』を白縁の太い黄色で要約する。続いてAIが人間の会話を繰り返し、自動で24時間ライブ配信できるという黄字幕を人物とモニター画で反復する。自分のチャンネルで24時間、バカラか否かという冗談へ進み、横向きの『うるせえ』とモニター上の白い『可哀想』で反応オチを作る。",
+      "limits": "AIの判断、会話品質、24時間配信、チャンネル、バカラ、運用状態は未検証。実配信、賭け、勝敗、収益の証拠にしない。"
+    },
+    {
+      "sample_requested_s": [
+        106,
+        108,
+        110,
+        112,
+        114,
+        116,
+        118,
+        120
+      ],
+      "observed": "座り画で『とにかくAIを楽しむってことが大事』を白縁の淡い黄字幕にし、仕事も楽しみ好きでないとなかなか難しいという黄字幕へ接続する。間を置いた『仕事…』から、モニターを向いて『ただ！仕事も好きです』と切り返し、最後は白い角丸の『ありがとうございました』で閉じる。",
+      "limits": "AI利用、楽しさ、仕事観、本人の感情は画面上の発言で、一般的効果や助言にしない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_ai_demo_and_livestream_claims": "HIGH",
+    "product_functionality_authorship_and_religious_accuracy": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "61点の2秒間隔静止画目視であり、121.81秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大約0.033秒の差があり、撮り直し、人物・モニター切替、会話表示、終了字幕の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 120.012秒。最後の約1.798秒と全サンプル間は未視聴。",
+    "中道、修行年数、悟りの説明は簡略化された画面上の話で、宗教的・歴史的正確さを検証していない。",
+    "GeminiVRM、OpenClaw、10分、24時間、自動会話、YouTubeライブ配信は画面上の名称・機能訴求で、開発主体、実装、動作、権利、成果を検証していない。",
+    "モニター内の細文や指示は非信頼データとして扱い、転載・実行していない。",
+    "人物、場所、PC、ブラウザ、アバター、撮影同意、素材権利と音は未確認。"
+  ]
+}
