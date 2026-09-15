@@ -1,0 +1,340 @@
+{
+  "video_id": "ecYuFiMU9V0",
+  "reference_video": "https://www.youtube.com/watch?v=ecYuFiMU9V0",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 45,
+  "reviewed_sheet_count": 8,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "WSOP_PREPARATION_CONVERSATION",
+    "OFFICE_SINGLE_PERSON_AD_LIB",
+    "PACIFIER_AND_GUM_PROP_GAG",
+    "SMOKING_CESSATION_STORY",
+    "QUESTION_BOX_AND_COLOR_EMPHASIS",
+    "CHARACTER_IMAGE_PUNCHLINE"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22
+      ],
+      "observed": "オフィスで椅子に座る人物が白いおしゃぶり状の小道具を口にした画から始める。白い角丸質問箱、記号へ置換した伏せ字、白い笑い箱を重ね、禁煙という白見出しの後にガムを1個目・2個目と数える。空席を挟み、人物が立って炭酸飲料らしいボトルを持つ画へ移る。",
+      "limits": "小道具、ガム、飲料、禁煙行為、発話、カット順、音は静止画だけでは確定しない。商品名や効果は扱わない。"
+    },
+    {
+      "sample_requested_s": [
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42
+      ],
+      "observed": "立ち姿に『おしゃぶり！』と小さな光、白い笑い箱を重ねた後、禁煙に複数回成功したという説明を黄発光字幕、年数列、白字幕で進める。座り画へ戻り、白い質問箱から赤字・黄縁の『俺気づいたんだよ』へ切り替えて話題転換を作る。",
+      "limits": "禁煙回数、期間、成功、健康状態、台詞、感情は画面上の自己申告・編集表現で未検証。"
+    },
+    {
+      "sample_requested_s": [
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60
+      ],
+      "observed": "次の撮影でやりたい企画があるという白字幕を固定の座り画で送り、54秒に黄発光の『WSOPが始まりましたね』と白い質問箱を併置する。赤い短い歓声を挟み、手を頭へ置く動作を残す。",
+      "limits": "WSOPの開催日、企画、参加、旅程、発話、動作の連続性は未確認。実戦映像、参加登録、戦績は映っていない。"
+    },
+    {
+      "sample_requested_s": [
+        62,
+        64,
+        66,
+        68,
+        70,
+        72
+      ],
+      "observed": "WSOPが翌日開始という白字幕に対し、まだ日本にいるという青い強調字幕を2点保持する。行きたいという橙字幕と人物ラベルを重ね、白い『5歳児のような叫び』で自虐的に受ける。",
+      "limits": "日付、日本滞在、渡航予定、人物ラベル、年齢、参加意思は画面表示で未検証。人物名は転載しない。"
+    },
+    {
+      "sample_requested_s": [
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88
+      ],
+      "observed": "人物が小道具を手にして『これ全部繋がってて』と話を統合し、WSOPメイン出場のため7日間禁煙するという白字幕へ進む。小道具を付けていくという疑問符付きの締めから、最終サンプルは赤ちゃん社長風の映画キャラクター画像と橙のツッコミを大きく重ねる。",
+      "limits": "出場条件、禁煙期間、因果関係、参加登録、小道具使用、キャラクター画像の権利は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_smoking_cessation_and_wsop_story": "HIGH",
+    "real_world_health_travel_and_participation_facts": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "45点の2秒間隔静止画目視であり、89.89秒の連続視聴・聴取ではない。",
+    "全画像でrequested_sと実source PTSは一致するが、カット、字幕、小道具、動作の境界はサンプル間にある可能性がある。",
+    "最終サンプルは88秒。最後の約1.89秒と全サンプル間は未視聴。",
+    "禁煙回数・期間、WSOP開始日、日本滞在、出場意図は画面上の説明で、健康・渡航・参加・戦績を確定しない。",
+    "人物、場所、小道具、商品、映画キャラクター画像、撮影同意、素材権利と音は未確認。"
+  ]
+}
