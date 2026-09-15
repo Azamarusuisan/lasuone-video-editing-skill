@@ -1,0 +1,97 @@
+{
+  "video_id": "GonawVVrOXM",
+  "reference_video": "https://www.youtube.com/watch?v=GonawVVrOXM",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 36,
+  "reviewed_sheet_count": 6,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.028},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.022},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6.016},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.01},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.004},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12.031},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.025},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.019},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18.013},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.007},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.001},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.029},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.023},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.017},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.011},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.005},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.033},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.027},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.021},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.015},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42.009},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44.002},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46.03},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48.024},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50.018},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52.012},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54.006},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58.028},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60.022},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62.016},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64.01},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66.004},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68.031},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70.025}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "FIXED_SEATED_BUSINESS_CONVERSATION",
+    "LAPTOP_PROP",
+    "HEALTHCARE_AND_CARE_BUSINESS_DISCUSSION",
+    "AI_AND_CLAUDE_CODE_DISCUSSION",
+    "CONSULTING_SERVICE_FLYER",
+    "CONTACT_DETAILS_WITHHELD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28],
+      "observed": "ノートPCを膝に置く着席人物を斜め前からほぼ固定で捉え、白い小型字幕で、事業を始めたい、医療・介護、自分の知見、資金、元手の少ない領域という相談を長く残す。",
+      "limits": "話者分担、事業計画、資格、知見、資金、医療・介護への参入、PC内容は未確認。患者・利用者情報は見えないが、画面内容を再利用しない。"
+    },
+    {
+      "sample_requested_s": [30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54],
+      "observed": "同じ着席画で、やりたい事業、クリニックや介護施設、アナログさ、改善余地を問答する。頬へ手を当てる思考、椅子の向き直り、頭へ手を置く反応も切らずに残す。",
+      "limits": "施設の運営実態、課題、デジタル化、改善効果、相談の結論は未確認。医療・介護への一般的評価にしない。"
+    },
+    {
+      "sample_requested_s": [56, 58, 60, 62, 64],
+      "observed": "AIで何を使っているかという質問から、Claude Codeを使っているという回答へ進む。字幕は引き続き白一色で、製品名だけを特別装飾しない。",
+      "limits": "利用者、契約、用途、コード、成果、データ取扱い、Claudeとの公式関係は未確認。"
+    },
+    {
+      "sample_requested_s": [66, 68, 70],
+      "observed": "会話を外し、黒地の中央へ顧問サービスの縦長チラシを小さく置く。AI・営業・人脈、100万円、現在40社超え、目標100社という表示と感謝文を下部に添える。",
+      "limits": "サービス内容、100万円の課金単位、顧客数、目標、実績、契約、連絡先、提供条件は未検証。チラシの連絡識別子を転載・利用しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_conversation_and_flyer_text": "HIGH",
+    "business_healthcare_and_ai_claims": "UNVERIFIED",
+    "client_count_price_and_service_terms": "UNVERIFIED",
+    "audio_speaker_attribution_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "36点の2秒間隔静止画目視であり、70.63秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大0.033秒の差があり、発話者交替・反応・チラシの境界はサンプル間にある可能性がある。",
+    "最終サンプルはsource PTS 70.025秒。最後の約0.605秒と全サンプル間は未視聴。",
+    "事業、医療、介護、資金、AI、Claude Code、サービス価格・顧客数は会話・広告上の主張で、資格・実績・効果・契約を検証していない。",
+    "人物、会社、施設、PC、チラシ、撮影同意、名称・字幕・映像の素材権利は未確認。連絡識別子は転載していない。"
+  ]
+}
