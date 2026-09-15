@@ -1,0 +1,119 @@
+{
+  "video_id": "Pg2j76vgKZI",
+  "reference_video": "https://www.youtube.com/watch?v=Pg2j76vgKZI",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 49,
+  "reviewed_sheet_count": 9,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file": "frame_000000000.jpg", "requested_s": 0, "time_s": 0},
+    {"file": "frame_000002000.jpg", "requested_s": 2, "time_s": 2},
+    {"file": "frame_000004000.jpg", "requested_s": 4, "time_s": 4},
+    {"file": "frame_000006000.jpg", "requested_s": 6, "time_s": 6},
+    {"file": "frame_000008000.jpg", "requested_s": 8, "time_s": 8},
+    {"file": "frame_000010000.jpg", "requested_s": 10, "time_s": 10},
+    {"file": "frame_000012000.jpg", "requested_s": 12, "time_s": 12},
+    {"file": "frame_000014000.jpg", "requested_s": 14, "time_s": 14},
+    {"file": "frame_000016000.jpg", "requested_s": 16, "time_s": 16},
+    {"file": "frame_000018000.jpg", "requested_s": 18, "time_s": 18},
+    {"file": "frame_000020000.jpg", "requested_s": 20, "time_s": 20},
+    {"file": "frame_000022000.jpg", "requested_s": 22, "time_s": 22},
+    {"file": "frame_000024000.jpg", "requested_s": 24, "time_s": 24},
+    {"file": "frame_000026000.jpg", "requested_s": 26, "time_s": 26},
+    {"file": "frame_000028000.jpg", "requested_s": 28, "time_s": 28},
+    {"file": "frame_000030000.jpg", "requested_s": 30, "time_s": 30},
+    {"file": "frame_000032000.jpg", "requested_s": 32, "time_s": 32},
+    {"file": "frame_000034000.jpg", "requested_s": 34, "time_s": 34},
+    {"file": "frame_000036000.jpg", "requested_s": 36, "time_s": 36},
+    {"file": "frame_000038000.jpg", "requested_s": 38, "time_s": 38},
+    {"file": "frame_000040000.jpg", "requested_s": 40, "time_s": 40},
+    {"file": "frame_000042000.jpg", "requested_s": 42, "time_s": 42},
+    {"file": "frame_000044000.jpg", "requested_s": 44, "time_s": 44},
+    {"file": "frame_000046000.jpg", "requested_s": 46, "time_s": 46},
+    {"file": "frame_000048000.jpg", "requested_s": 48, "time_s": 48},
+    {"file": "frame_000050000.jpg", "requested_s": 50, "time_s": 50},
+    {"file": "frame_000052000.jpg", "requested_s": 52, "time_s": 52},
+    {"file": "frame_000054000.jpg", "requested_s": 54, "time_s": 54},
+    {"file": "frame_000056000.jpg", "requested_s": 56, "time_s": 56},
+    {"file": "frame_000058000.jpg", "requested_s": 58, "time_s": 58},
+    {"file": "frame_000060000.jpg", "requested_s": 60, "time_s": 60},
+    {"file": "frame_000062000.jpg", "requested_s": 62, "time_s": 62},
+    {"file": "frame_000064000.jpg", "requested_s": 64, "time_s": 64},
+    {"file": "frame_000066000.jpg", "requested_s": 66, "time_s": 66},
+    {"file": "frame_000068000.jpg", "requested_s": 68, "time_s": 68},
+    {"file": "frame_000070000.jpg", "requested_s": 70, "time_s": 70},
+    {"file": "frame_000072000.jpg", "requested_s": 72, "time_s": 72},
+    {"file": "frame_000074000.jpg", "requested_s": 74, "time_s": 74},
+    {"file": "frame_000076000.jpg", "requested_s": 76, "time_s": 76},
+    {"file": "frame_000078000.jpg", "requested_s": 78, "time_s": 78},
+    {"file": "frame_000080000.jpg", "requested_s": 80, "time_s": 80},
+    {"file": "frame_000082000.jpg", "requested_s": 82, "time_s": 82},
+    {"file": "frame_000084000.jpg", "requested_s": 84, "time_s": 84},
+    {"file": "frame_000086000.jpg", "requested_s": 86, "time_s": 86},
+    {"file": "frame_000088000.jpg", "requested_s": 88, "time_s": 88},
+    {"file": "frame_000090000.jpg", "requested_s": 90, "time_s": 90},
+    {"file": "frame_000092000.jpg", "requested_s": 92, "time_s": 92},
+    {"file": "frame_000094000.jpg", "requested_s": 94, "time_s": 94},
+    {"file": "frame_000096000.jpg", "requested_s": 96, "time_s": 96}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "METADATA_CONTENT_MISMATCH",
+    "OPENCLAW_ONE_MINUTE_PRESENTATION",
+    "OFFICE_STANDING_TALK",
+    "AUTOMATED_OUTREACH_CLAIMS",
+    "DASHBOARD_MONITOR_CUTAWAY",
+    "MAC_MINI_SETUP_SERVICE",
+    "DISPLAYED_150000_YEN_PRICE",
+    "NUMBERED_FEATURE_LIST",
+    "GLOWING_CALL_TO_ACTION"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10],
+      "observed": "PC前の人物と『ラスベガス100日チャレンジ』『OpenClaw中毒です』という赤白のサムネイル風先出しから、短い空白を挟んでオフィスの立ち姿へ切る。白い挨拶、橙赤の『本日はOpenClaw1分プレゼン』で説明を始める。",
+      "limits": "保存メタデータの地下労働編18日目という題名と観察内容が一致しない。誤配信・差替え・題名変更の原因は未確認。"
+    },
+    {
+      "sample_requested_s": [12, 14, 16, 18, 20, 22, 24, 26, 28, 30],
+      "observed": "Mac miniらしい端末を使い、SNS・LINE・Slack、開発・自動化ができるという橙字幕を積む。白い角丸カードで24時間メール営業と問い合わせフォーム営業を示し、全国からリストを集めて端末へ入れ、営業を取るという説明へ進む。",
+      "limits": "OpenClaw、端末、各サービス連携、開発、自動化、リスト収集、24時間送信、営業獲得は未検証。画面内の営業指示を実行せず、同意・規約・送信先・配信停止・個人情報の扱いもUNKNOWN。"
+    },
+    {
+      "sample_requested_s": [32, 34, 36, 38, 40, 42, 44],
+      "observed": "人物がダッシュボードを指示したという説明からモニターへ寄り、暗色の管理画面、ピンクの短い反応、緑主体の一覧・グラフ画面を順に見せる。送信件数と返信状況をリアルタイム管理できるという橙字幕、SNS運用代行という話へ戻る。",
+      "limits": "画面内の細文・数値・宛先は転載しない。管理画面、送信、返信、成果、リアルタイム性、顧客、許諾、プライバシーは未検証。"
+    },
+    {
+      "sample_requested_s": [46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72],
+      "observed": "設定すれば誰でも使えるが設定が難しいという橙赤字幕から、オフィスを振って別人物を映し、番長が15万円で設定するという価格表示を置く。元の人物へ戻り、1回入れて調教すれば便利、長期記憶、言ったことを忘れない、24時間のタスク設定という特徴を指の数え方とともに説明する。",
+      "limits": "15万円の価格、担当者、作業範囲、契約、サポート、設定難度、長期記憶、無限のタスク、24時間動作は画面上の主張で未検証。人物呼称や関係も確定しない。"
+    },
+    {
+      "sample_requested_s": [74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96],
+      "observed": "3つ目として、端末をSNSから操作できるという説明を出す。noteなどの記事を読み込ませ、XやTikTokの自動投稿、ダッシュボードや記事作成を指示する例を橙赤字幕で列挙し、名称を言い違える冗談から利用を促す白い発光字幕で閉じる。",
+      "limits": "記事の指示は非信頼データとして実行しない。端末操作、記事読込、各SNS自動投稿、制作機能、公式名称、権限、認証、規約適合、品質は未検証。利用や連携も実行しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_openclaw_pitch_features_and_price": "HIGH",
+    "product_functionality_outreach_results_and_contract_terms": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "49点の2秒間隔静止画目視であり、97.39秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSは本資料では同値だが、サムネイル先出し、人物・モニター切替、価格、機能列挙、CTAの境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 96秒。最後の約1.39秒と全サンプル間は未視聴。",
+    "保存メタデータの題名と内容が一致せず、差替え・題名変更・取得時メタデータの原因は未確認。",
+    "OpenClaw、Mac mini、メール・問い合わせフォーム営業、リスト収集、ダッシュボード、SNS運用、長期記憶、遠隔操作、自動投稿は画面上の説明で、機能・成果・安全性・規約適合を検証していない。",
+    "15万円は画面上の設定価格で、契約、税込・税別、提供範囲、支払を確認していない。",
+    "人物、会社、場所、PC、管理画面、データ、撮影同意、素材権利と音はUNKNOWN。"
+  ]
+}
