@@ -1,0 +1,81 @@
+{
+  "video_id": "aEMmha85id0",
+  "reference_video": "https://www.youtube.com/watch?v=aEMmha85id0",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 22,
+  "reviewed_sheet_count": 4,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "CASINO",
+    "VIDEO_POKER",
+    "SINGLE_SCENE_EXPLAINER",
+    "PERSISTENT_MACHINE_SCREEN",
+    "RESULT_REVEAL",
+    "AMOUNT_PUNCHLINE"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22],
+      "observed": "人物とDouble Bonus DEUCES WILD筐体を同じ縦画角で保ち、黒い角丸帯の白字幕に赤・黄の語句強調を加えて、500ドル、2をワイルドとして扱う特殊ルール、5カードという役、高配当への問いを順に説明する。",
+      "limits": "500ドルの用途、1プレイ費用、ルール説明の正確さ、ゲーム設定、音は未確認。字幕の断片から不足語を補完しない。"
+    },
+    {
+      "sample_requested_s": [24, 26, 28, 30, 32],
+      "observed": "初期表示は2♦・4♦・K♥・K♣・9♦で、筐体は3 OF A KINDと表示する。編集上の赤矢印で2♦・K♥・K♣を示し、その3枚をHELDとして残してドロー結果を待つ。",
+      "limits": "正確な操作時刻、戦略の妥当性、役判定と配当表の条件は未確認。"
+    },
+    {
+      "sample_requested_s": [34, 36, 38, 40],
+      "observed": "ドロー後は2♦・2♠・K♥・K♣・K♠となり、筐体に5 OF A KIND、WIN 100、PLAY 5 CREDITSが見える。編集はスタッフ反応、配当への問い、黄色い『200万円』の揺れた大文字、白い『意外としょぼい』へ進める。",
+      "limits": "WIN 100の単位、クレジット単価、200万円との対応、実際の払戻・受領・純利益は未確認。筐体上部の$9,217.68と$4,738.73も当該ハンドの受領額として扱わない。"
+    },
+    {
+      "sample_requested_s": [42],
+      "observed": "最後は同じ筐体前で人物の反応へ寄り、黄色字幕で次の行動らしい言葉を置いて締める。",
+      "limits": "字幕全文、発話、最後の約0.73秒、反応の正確な保持尺は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_cards_and_machine_result": "HIGH",
+    "edited_amount_and_machine_display_relationship": "UNKNOWN",
+    "actual_payout_and_net_result": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "22点の2秒間隔静止画目視であり、42.73秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTSで、全点がrequested_sと一致する。字幕出入り、カード操作、抽選、反応の間はサンプル間にある可能性がある。",
+    "最終サンプルはsource PTS 42秒。最後の約0.73秒と全サンプル間は未視聴。",
+    "人物、施設、筐体設定、ルール、通貨、賭け金、配当、撮影・公開同意、ロゴ・映像の素材権利は未確認。"
+  ]
+}
