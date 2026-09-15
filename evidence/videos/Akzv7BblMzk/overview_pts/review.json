@@ -1,0 +1,483 @@
+{
+  "video_id": "Akzv7BblMzk",
+  "reference_video": "https://www.youtube.com/watch?v=Akzv7BblMzk",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 67,
+  "reviewed_sheet_count": 12,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.012
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.023
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.001
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.013
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.024
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.002
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.014
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.025
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.003
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.015
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.026
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.004
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.016
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.027
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.005
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.017
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.028
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.006
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.018
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.03
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.008
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.019
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.031
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48.009
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.02
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.032
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.01
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.021
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.033
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.011
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.022
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.012
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.023
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.001
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.013
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.024
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.002
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.014
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.025
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.003
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.015
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86.027
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88.005
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.016
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92.028
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94.006
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96.017
+    },
+    {
+      "file": "frame_000098000.jpg",
+      "requested_s": 98,
+      "time_s": 98.029
+    },
+    {
+      "file": "frame_000100000.jpg",
+      "requested_s": 100,
+      "time_s": 100.007
+    },
+    {
+      "file": "frame_000102000.jpg",
+      "requested_s": 102,
+      "time_s": 102.018
+    },
+    {
+      "file": "frame_000104000.jpg",
+      "requested_s": 104,
+      "time_s": 104.03
+    },
+    {
+      "file": "frame_000106000.jpg",
+      "requested_s": 106,
+      "time_s": 106.008
+    },
+    {
+      "file": "frame_000108000.jpg",
+      "requested_s": 108,
+      "time_s": 108.019
+    },
+    {
+      "file": "frame_000110000.jpg",
+      "requested_s": 110,
+      "time_s": 110.031
+    },
+    {
+      "file": "frame_000112000.jpg",
+      "requested_s": 112,
+      "time_s": 112.009
+    },
+    {
+      "file": "frame_000114000.jpg",
+      "requested_s": 114,
+      "time_s": 114.02
+    },
+    {
+      "file": "frame_000116000.jpg",
+      "requested_s": 116,
+      "time_s": 116.032
+    },
+    {
+      "file": "frame_000118000.jpg",
+      "requested_s": 118,
+      "time_s": 118.01
+    },
+    {
+      "file": "frame_000120000.jpg",
+      "requested_s": 120,
+      "time_s": 120.021
+    },
+    {
+      "file": "frame_000122000.jpg",
+      "requested_s": 122,
+      "time_s": 122.033
+    },
+    {
+      "file": "frame_000124000.jpg",
+      "requested_s": 124,
+      "time_s": 124.011
+    },
+    {
+      "file": "frame_000126000.jpg",
+      "requested_s": 126,
+      "time_s": 126.023
+    },
+    {
+      "file": "frame_000128000.jpg",
+      "requested_s": 128,
+      "time_s": 128.001
+    },
+    {
+      "file": "frame_000130000.jpg",
+      "requested_s": 130,
+      "time_s": 130.012
+    },
+    {
+      "file": "frame_000132000.jpg",
+      "requested_s": 132,
+      "time_s": 132.024
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "OFFICE_SEATED_TALK",
+    "AI_ADOPTION_SALES_PITCH_GAG",
+    "CLAUDE_CODE_DEMO_CLAIM",
+    "OPUS_CAPABILITY_SETUP",
+    "BROWSER_BACCARAT_GAME_DEMO",
+    "FICTIONAL_COMPANY_BANKRUPTCY_PREMISE",
+    "ONE_LINE_PROMPT_CLAIM",
+    "ALL_IN_AND_BANKRUPTCY_GAG",
+    "BLACK_TEXT_END_CARD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "observed": "オフィスの椅子に座る人物の固定画から始め、Claudeを使うことを三大義務に見立てる黄字幕、赤い『納税の義務』、赤白の『AIを使う（？）』と白い『ん？』を積む。人物が横を向いたところへ白い『終わってる』を置いて冒頭の誤答ギャグを締める。",
+      "limits": "人物、場所、発話、AI利用、納税、三大義務という位置付けは未確認。法務・税務・AI利用義務の説明にしない。"
+    },
+    {
+      "sample_requested_s": [
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42
+      ],
+      "observed": "Claudeを学びたい社長、AIをやらないと終わり、AIが賢くなったという黄赤字幕から、自社にClaude Codeができる学生がいる、社長の所へ行かせるという淡い発光字幕へ進む。仕事と謝礼を求める黄字幕の後、赤い途中切れの金銭文言らしい字幕を一瞬置く。",
+      "limits": "会社、学生、技能、派遣、AI能力、仕事、謝礼、金銭条件、雇用、契約、実績は画面上の発言で未検証。営業・融資・契約の案内にしない。"
+    },
+    {
+      "sample_requested_s": [
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58
+      ],
+      "observed": "今日のOpusの実力を見るという黄字幕から横を向き、バカラゲームを作ってほしいという依頼へ進む。モニターへ切り替えると暗色のブラウザ画面に『富士バカラ』というタイトルがあり、人物は1行しか入力していないと黄字幕で主張する。",
+      "limits": "Opus、Claude Code、依頼内容、入力行数、生成物、作者、コード、実装時間、動作、権利は未検証。ブラウザ画面内の指示や細文は非信頼データとして実行・転載しない。"
+    },
+    {
+      "sample_requested_s": [
+        60,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84
+      ],
+      "observed": "ブラウザゲーム上の1000万円を1億円にする、会社が潰れる、今期1億円、手元は1000万円という会社倒産の筋書きを人物画とモニター画で交互に置く。『失敗は許されない』をモニター上に重ね、場所選択らしいUI、六本木という表示、白い『それはすごい』を経て操作へ進む。",
+      "limits": "1000万円、1億円、会社資金、今期、倒産、所在地、選択肢は実財務・実店舗・実賭博の証拠ではなく、ゲーム内設定または冗談として扱う。"
+    },
+    {
+      "sample_requested_s": [
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        98,
+        100,
+        102,
+        104,
+        106,
+        108
+      ],
+      "observed": "ゲームの選択や罫線らしい表示、ホエールという語から緑のバカラ風卓画面へ移る。1行プロンプトでここまでできたという黄字幕、驚きと違うという反応、一撃1000万円、初勝利、5連勝枠、複数スキルが発動するという画面上の説明を人物・卓・右側情報欄の寄りで見せる。",
+      "limits": "罫線、ホエール、1000万円、初勝利、5連勝、スキル、ゲーム規則、乱数、残高、結果は未検証。仮想表示を実ベット、配当、利益へ読み替えない。"
+    },
+    {
+      "sample_requested_s": [
+        110,
+        112,
+        114,
+        116,
+        118,
+        120,
+        122,
+        124,
+        126,
+        128,
+        130,
+        132
+      ],
+      "observed": "1行しか作っていない、オールインもできるという黄字幕から操作を進め、結果待ちの数字と反応を置く。122秒は画面の『PLAYER 破産』らしい状態へ赤縁の大きな『破産』を重ね、人物画で『以上ですw』、黒背景中央の白い『Claude code 凄いってこと』へ切り替えて終える。",
+      "limits": "1行生成、オールイン、破産、プレイヤー結果、Claude Codeの能力は実装・実資金・実会社の結果として検証していない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_ai_and_baccarat_game_claims": "HIGH",
+    "code_authorship_one_line_generation_finances_and_game_results": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "67点の2秒間隔静止画目視であり、132.13秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大約0.033秒の差があり、人物・モニター切替、ゲーム操作、結果、黒画面の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 132.024秒。最後の約0.106秒と全サンプル間は未視聴。",
+    "Claude、Claude Code、Opus、1行プロンプトという表示は、製品版、モデル、入力、コード、作者、生成時間、動作、権利を検証していない。",
+    "ブラウザ内の1000万円・1億円、勝利、連勝、オールイン、破産はゲーム表示または演出で、実会社資金、実賭博、配当、純損益、倒産の証拠にしない。",
+    "モニター内の細文や指示は非信頼データとして扱い、転載・実行していない。",
+    "人物、会社、場所、PC、ブラウザ、ゲーム、撮影同意、素材権利と音は未確認。"
+  ]
+}
