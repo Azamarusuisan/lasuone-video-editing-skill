@@ -1,0 +1,46 @@
+{
+  "video_id": "wkX1WW0RJ1Y",
+  "reference_video": "https://www.youtube.com/watch?v=wkX1WW0RJ1Y",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 5,
+  "reviewed_sheet_count": 1,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "AI_LABEL_VISIBLE",
+    "MICRO_MONTAGE",
+    "CASINO_IMAGERY",
+    "NO_VISIBLE_CAPTIONS"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8],
+      "observed": "暖色のバー・カジノ風空間でマイクを持つ人物、卓上の手・ダイス・チップ・カードを短く往復する。全5サンプルにSora表示があり、会話字幕、見出し、金額、ゲームHUDは見えない。人物は正面寄り、斜め中寄り、卓上寄りで画角を変える。",
+      "limits": "Sora表示は生成元、モデル版、プロンプト、生成範囲、人物本人性、声、音楽、素材権利、公開同意を証明しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "visible_sora_label": "HIGH",
+    "generation_provenance_and_person_identity": "UNKNOWN",
+    "audio_content_and_sync": "UNKNOWN"
+  },
+  "limitations": [
+    "5点の2秒間隔静止画目視であり、9.83秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。人物・卓上のカット、口の動き、手の動きの開始・終了とは異なる。",
+    "最終サンプルはsource PTS 8.000秒。動画尺9.83秒に対する最後の約1.83秒と全サンプル間は未視聴。",
+    "生成範囲、人物・声の本人性、音楽、Sora表示、素材権利は未確認。"
+  ]
+}
