@@ -1,0 +1,81 @@
+{
+  "video_id": "gfR20Xbvrkw",
+  "reference_video": "https://www.youtube.com/watch?v=gfR20Xbvrkw",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 21,
+  "reviewed_sheet_count": 4,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.002},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.004},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6.006},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.008},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.01},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12.012},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.014},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.016},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18.018},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.02},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.022},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.024},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.026},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.028},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.03},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.032},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.034},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.036},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.038},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.04}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "CAR_INTERVIEW",
+    "VEHICLE_BROLL",
+    "SERVICE_EXPLAINER",
+    "SELF_DEPRECATING_PUNCHLINE",
+    "VISIBLE_REPOST_WATERMARK",
+    "VISIBLE_VEHICLE_IDENTIFIER"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10],
+      "observed": "走行中の車内で人物を固定気味に捉え、白い会話字幕で行き先と車の話へ入る。8秒サンプルだけ顔へ急に寄り、大きな『は？』を重ねて反応を強調する。",
+      "limits": "行き先、車種、話者、会話全文、寄りの正確な開始・終了、音は未確認。"
+    },
+    {
+      "sample_requested_s": [12, 14, 16, 18],
+      "observed": "駐車中の黒い車を正面から見せる別素材へ切り替え、金色の縁・グロー付き『VIP用送迎車』を中央に常設する。",
+      "limits": "車種、所有者、VIPの定義、撮影場所、サービス提供者は未確認。車両番号が見えるため転記しない。"
+    },
+    {
+      "sample_requested_s": [20, 22, 24, 26],
+      "observed": "車内へ戻り、赤い『出先までの送りも可能』、緑の『車内でのサービスあり』という帯を段階的に積み、待遇説明を視覚化する。",
+      "limits": "サービス内容、条件、料金、利用資格、現在の提供状況を検証していない。広告や利用案内へ転記しない。"
+    },
+    {
+      "sample_requested_s": [28, 30, 32, 34, 36, 38, 40],
+      "observed": "人物への矢印付き『カジノで100万円負け』から、勝っている人はVIPサービスを使えるという流れを白字幕と金文字で進める。最後は画面を低彩度・雨粒風にし、『いつも損するのはおれだけ』へ反転して締める。",
+      "limits": "100万円の通貨原額、期間、賭け、払戻、純損失、VIP条件は未確認。末尾表現は動画内の自虐オチとして扱う。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_service_and_loss_claims": "HIGH",
+    "service_terms_and_actual_loss": "UNKNOWN",
+    "vehicle_and_location_identity": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "21点の2秒間隔静止画目視であり、40.79秒の連続視聴・聴取ではない。",
+    "time_sは24fps素材の抽出画像source PTSで、requested_sより0〜0.04秒後。字幕出入り、寄り、B-roll切替、末尾効果の境界とは異なる。",
+    "最終サンプルはsource PTS 40.04秒。最後の約0.75秒と全サンプル間は未視聴。",
+    "YouTube Shortsと別ハンドル風の透かしが全編に見える。撮影元、再投稿、人物・車両・場所の同意、車両番号、素材権利は未確認。",
+    "車両番号を含む画面の機械OCR候補は公開リポジトリへ同梱しない。"
+  ]
+}
