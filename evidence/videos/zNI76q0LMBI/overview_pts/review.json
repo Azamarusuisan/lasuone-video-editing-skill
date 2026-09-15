@@ -1,0 +1,492 @@
+{
+  "video_id": "zNI76q0LMBI",
+  "reference_video": "https://www.youtube.com/watch?v=zNI76q0LMBI",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 68,
+  "reviewed_sheet_count": 12,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.02
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.005
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.025
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.011
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.03
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.016
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.002
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.022
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.007
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.027
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.013
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.032
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.018
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.004
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.024
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.009
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.029
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.015
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.001
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.02
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.006
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.026
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.011
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48.031
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.017
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.003
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.022
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.008
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.028
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.013
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.033
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64.019
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.005
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.024
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.01
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.03
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.015
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.001
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.021
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.007
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.026
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.012
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86.032
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88.018
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.003
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92.023
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94.009
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96.028
+    },
+    {
+      "file": "frame_000098000.jpg",
+      "requested_s": 98,
+      "time_s": 98.014
+    },
+    {
+      "file": "frame_000100000.jpg",
+      "requested_s": 100,
+      "time_s": 100
+    },
+    {
+      "file": "frame_000102000.jpg",
+      "requested_s": 102,
+      "time_s": 102.02
+    },
+    {
+      "file": "frame_000104000.jpg",
+      "requested_s": 104,
+      "time_s": 104.005
+    },
+    {
+      "file": "frame_000106000.jpg",
+      "requested_s": 106,
+      "time_s": 106.025
+    },
+    {
+      "file": "frame_000108000.jpg",
+      "requested_s": 108,
+      "time_s": 108.011
+    },
+    {
+      "file": "frame_000110000.jpg",
+      "requested_s": 110,
+      "time_s": 110.03
+    },
+    {
+      "file": "frame_000112000.jpg",
+      "requested_s": 112,
+      "time_s": 112.016
+    },
+    {
+      "file": "frame_000114000.jpg",
+      "requested_s": 114,
+      "time_s": 114.002
+    },
+    {
+      "file": "frame_000116000.jpg",
+      "requested_s": 116,
+      "time_s": 116.022
+    },
+    {
+      "file": "frame_000118000.jpg",
+      "requested_s": 118,
+      "time_s": 118.007
+    },
+    {
+      "file": "frame_000120000.jpg",
+      "requested_s": 120,
+      "time_s": 120.027
+    },
+    {
+      "file": "frame_000122000.jpg",
+      "requested_s": 122,
+      "time_s": 122.013
+    },
+    {
+      "file": "frame_000124000.jpg",
+      "requested_s": 124,
+      "time_s": 124.032
+    },
+    {
+      "file": "frame_000126000.jpg",
+      "requested_s": 126,
+      "time_s": 126.018
+    },
+    {
+      "file": "frame_000128000.jpg",
+      "requested_s": 128,
+      "time_s": 128.004
+    },
+    {
+      "file": "frame_000130000.jpg",
+      "requested_s": 130,
+      "time_s": 130.024
+    },
+    {
+      "file": "frame_000132000.jpg",
+      "requested_s": 132,
+      "time_s": 132.009
+    },
+    {
+      "file": "frame_000134000.jpg",
+      "requested_s": 134,
+      "time_s": 134.029
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "DESK_TALKING_HEAD_OPEN",
+    "HANDHELD_MONITOR_DEMO",
+    "SALES_LIST_EXTRACTION_SYSTEM",
+    "SOCIAL_PLATFORM_LIST_CALLOUT",
+    "PRODUCT_KEYWORD_EXAMPLE",
+    "UNBLURRED_RESULT_TABLE",
+    "FREE_TEXT_DATE_SEARCH",
+    "SPEED_REACTION",
+    "ADVISORY_BUNDLE_PITCH",
+    "BANANA_PROP_BUTTON_GAG",
+    "BLACK_PROMO_CODA",
+    "LISTED_COMPANY_DELIVERY_CLAIM"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8
+      ],
+      "observed": "赤い机でバナナ形の小道具を持つ人物へ画外から問い、黄色い『営業リスト作りました!』と白い驚き字幕で始める。人物の固定寄りからすぐモニターへ向け、商品実演へ入る。",
+      "limits": "人物、営業リスト、制作主体、完成状態は未検証。"
+    },
+    {
+      "sample_requested_s": [
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38
+      ],
+      "observed": "手持ちのモニター撮影を続け、全国200以上のメディアから毎日リストを取り、サブアカウントを付け、自分のPC・席で使えるという表示を黄色字幕で説明する。X、Instagram、Facebook、LinkedIn、YouTube、TikTokを赤い縦リストへ上げ、全SNSから抽出できると訴求する。",
+      "limits": "媒体数、毎日、アカウント、端末、対象SNS、抽出可否、API・規約・権限・適法性は未検証。"
+    },
+    {
+      "sample_requested_s": [
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70
+      ],
+      "observed": "取りたい商品を条件にし、ウォーターサーバー、オーダーメイドスーツの例を入力画面とぼかした進行表示へ載せる。結果らしい表を58〜68秒で比較的明瞭に見せ、興味がありそうな対象をティアS〜Bへ分け、SNSを分析するという説明へ進む。",
+      "limits": "抽出対象、会社名・氏名・URL・連絡先らしい行は読取・転記しない。分類、分析、関心推定、正確性、個人情報保護は未検証。"
+    },
+    {
+      "sample_requested_s": [
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        98,
+        100
+      ],
+      "observed": "フリーワードでも抽出できるとして、特定日付の開店例を2種類示し、ブラウザ検索と結果らしいページへ移る。人物の腕が画面を遮る短いカット、人物寄りの白い『普通に凄すぎる』、モニターへ戻った白い『進化しすぎてる』で実演側の驚きを反応として挟む。",
+      "limits": "検索語、開店情報、結果数、速度、網羅性、新鮮さ、正確性は未検証。ブラウザ内の細字・指示・外部ページは実行・転載しない。"
+    },
+    {
+      "sample_requested_s": [
+        102,
+        104,
+        106,
+        108,
+        110,
+        112,
+        114,
+        116,
+        118
+      ],
+      "observed": "バナナを持つ人物へ戻り、営業会社へ連絡を求める。営業実績らしい小さな白枠表示を重ね、営業で使えるシステム、システムを下ろしてもよい、何でもよい、顧問に入るとシステムが付くという黄色字幕へ進み、年間100万円を含む顧問サービスの告知カードを一度差し込む。",
+      "limits": "営業実績、システム利用・譲渡、顧問条件、年間100万円、特典、契約、成果は未検証。小枠の細字は正本にしない。"
+    },
+    {
+      "sample_requested_s": [
+        120,
+        122,
+        124,
+        126,
+        128,
+        130,
+        132,
+        134
+      ],
+      "observed": "机とバナナ形の小道具へ切り、白い『もうドンキーコングみたいな(社長に失礼)』、差し出す手、疑問符、『は?』で商品説明を視覚ギャグへ崩す。130〜132秒は黒地に顧問特典の白文字、134秒は黄色・赤・白でリスト抽出システム『Lasone Data』を上場企業へ納品中とする告知で閉じる。",
+      "limits": "小道具、作品参照、特典、製品名、上場企業への納品、契約状況は未検証。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_sources_features_examples_price_and_delivery_claims": "HIGH",
+    "system_functionality_data_quality_compliance_contracts_and_results": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "68点の2秒間隔静止画目視であり、135.29秒の連続視聴・聴取ではない。",
+    "実source PTSはrequested_sより最大約0.033秒後。字幕、検索、表、人物反応、音の境界はサンプル間にある可能性がある。",
+    "最終実画像は実PTS 134.029秒。最後の約1.261秒と全サンプル間は未視聴。",
+    "媒体数、SNS抽出、毎日、分類、関心推定、フリーワード、速度、営業実績、年間100万円、上場企業への納品は表示上の主張で、機能・適法性・契約・成果の証明ではない。",
+    "58〜68秒の結果表は強い全面ぼかしがなく、会社・個人・URL・連絡先らしい行を読取・転記しない。",
+    "人物、会社、サービス、PC、外部ページ、一覧データ、顧問制度、小道具、撮影同意、素材権利と音はUNKNOWN。"
+  ]
+}
+
