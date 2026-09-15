@@ -4,15 +4,15 @@
   "status": "LEARNING_IN_PROGRESS_NOT_PRODUCTION_READY",
   "channel_id": "UCKZYs8oGxqj_63DOCp1kCNQ",
   "learning": {
-    "coverage_compiled_at": "2026-09-15T01:06:11.325Z",
+    "coverage_compiled_at": "2026-09-15T01:17:57.678Z",
     "coverage_source": "evidence/COVERAGE.json (not bundled; counts recorded at snapshot time)",
     "public_videos": 189,
     "ordinary_videos": 59,
     "shorts": 130,
     "research_copies_acquired": 188,
     "asr_candidate_video_count": 188,
-    "partial_frame_video_count": 94,
-    "whole_duration_sparse_review_count": 66,
+    "partial_frame_video_count": 99,
+    "whole_duration_sparse_review_count": 71,
     "review_progress_auxiliary": {
       "R9yghVLgI4s": {
         "reviewed_grid_frames": 1101,
