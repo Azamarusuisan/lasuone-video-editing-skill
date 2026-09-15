@@ -1,0 +1,328 @@
+{
+  "video_id": "kLgv4W24Mpc",
+  "reference_video": "https://www.youtube.com/watch?v=kLgv4W24Mpc",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 43,
+  "reviewed_sheet_count": 8,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.018
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.002
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.019
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.003
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.021
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.005
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.022
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.006
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.024
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.008
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.026
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.01
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.027
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.011
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.029
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.013
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.03
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.014
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.032
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.016
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.017
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.001
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48.019
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.003
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.021
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.005
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.022
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.006
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.024
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.008
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64.025
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.009
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.027
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.011
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.029
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.013
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.03
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.014
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.032
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.016
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "AI_SUBSIDY_EXPLAINER",
+    "OFFICE_SINGLE_PERSON_CONVERSATION",
+    "MONITOR_DOCUMENT_CUTAWAY",
+    "COLOR_CODED_EMPHASIS_SUBTITLES",
+    "BLACK_META_JOKE_CARD",
+    "AD_LIB_COMEDY_TAIL"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "observed": "椅子に座る人物の固定寄りから始め、相手側らしい青字幕『なんだい』、白字幕の質問を置く。8秒から粒子を伴う黄色発光の見出しを立ち上げ、10秒で『AI導入補助金』を大きく確定表示し、12秒は白い驚き字幕へ戻す。",
+      "limits": "話者、会話相手、AI、補助金制度、発話、音、粒子アニメーションの正確な開始・終了は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36
+      ],
+      "observed": "机上モニターへパンまたはカットし、茶番へのメタ注釈を白い角丸箱で重ねる。人物画とモニター実写を往復しながら、3次・4次、画面上の締切日、事業期間、売上、既存のDX・IT導入補助金利用歴という対象条件を、黄発光または白字幕で順に説明する。",
+      "limits": "制度名、募集回、締切日、対象条件、事業期間、売上額、利用歴の解釈は画面上の説明であり、公式制度情報として検証していない。モニター内の細字全文も転記しない。"
+    },
+    {
+      "sample_requested_s": [
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50
+      ],
+      "observed": "固定の人物画へ戻り、補助を採用時に使うという説明から、良いAIライフと特典の訴求へ進む。通常は白字幕、要点の『特典を用意しております』は黄発光で強調する。",
+      "limits": "補助対象、採用、特典、適用条件、契約、成果は未検証。"
+    },
+    {
+      "sample_requested_s": [
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66
+      ],
+      "observed": "顧問先と申請会社の説明を白字幕で始め、『日本で一番』という自己評価を赤い大型字幕へ切り替える。問い合わせ誘導の後は青いキャラクター口調、白い振り、青い返答へ進み、64〜66秒には要約の白い角丸箱を追加して締めを二層化する。",
+      "limits": "顧問関係、会社、国内順位、申請実績、連絡先、サービス、キャラクター設定は未検証。連絡や申請をしない。"
+    },
+    {
+      "sample_requested_s": [
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84
+      ],
+      "observed": "68秒に黒地中央の白文字で、撮影がアドリブだというメタツッコミを単独表示する。その後は同じ人物画でAIの便利さを青く反復し、無字幕の間、AIより先を生きるという冗談、白い『量子コンピュータ？』、業務が溜まるという青いツッコミを重ね、84秒の言いかけで終端へ向かう。",
+      "limits": "台本、アドリブ、AI、量子コンピュータ、業務状況、最後の台詞と音は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_subsidy_dates_conditions_and_rank_claim": "HIGH",
+    "official_subsidy_accuracy_and_eligibility": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "43点の2秒間隔静止画目視であり、85.99秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大約0.032秒の差があり、カット、パン、字幕、粒子、黒画面の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 84秒。最後の約1.99秒と全サンプル間は未視聴。",
+    "補助金の名称、締切、対象条件、売上、利用歴、特典、順位、申請実績は画面上の説明で、制度・適格性・契約条件を確定しない。",
+    "人物、会社、オフィス、モニター資料、撮影同意、素材権利と音は未確認。"
+  ]
+}
