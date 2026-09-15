@@ -1,0 +1,88 @@
+{
+  "video_id": "fFwbvwp6xZE",
+  "reference_video": "https://www.youtube.com/watch?v=fFwbvwp6xZE",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 27,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "DAILY_SERIES_WITHOUT_ONSCREEN_DAY_CARD",
+    "OUTDOOR_PICNIC_CONVERSATION",
+    "HANDHELD_SINGLE_LOCATION",
+    "SPEAKER_COLOR_SUBTITLES",
+    "LARGE_PINK_TOPIC_LABEL",
+    "APPEARANCE_COMMENT_CTA",
+    "LAUGHTER_INTERRUPTION_ENDING"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14, 16],
+      "observed": "芝生の敷物で横になる人物から始め、ピンク字幕の挨拶、無字幕の間、芝生全景へ大きく出すピンクの『ピクニックで』、白い『番長とピクニック』へ進む。再び食事中の2人へ寄り、ピンクの『美味しい』で導入を閉じる。",
+      "limits": "8秒の大文字はサンプル外で続く可能性がある。公園名、同行者の役割、食事の提供者、撮影同意は未確認。"
+    },
+    {
+      "sample_requested_s": [18, 20, 22, 24, 26, 28, 30, 32],
+      "observed": "同じ敷物上の2ショットを手持ちで保ち、白字幕で従業員が約5人増えたこと、同行者が海外へ行きたいこと、新しい人をまた紹介したいことを話す。24秒サンプルだけピンクの『ナイス！』を重ねる。",
+      "limits": "人員、雇用、人数、海外計画、今後の紹介は発言上の内容。会社記録、採用実績、本人の意思として検証していない。"
+    },
+    {
+      "sample_requested_s": [34, 36, 38, 40, 42, 44, 46],
+      "observed": "白字幕の『番長も可愛いか』から、ピンク字幕の『たまに褒めてくれるんですよね 嬉しいね』へ受け、白い『番長可愛いかどうかコメントで教えてください』を大きく表示する。同行者が赤い『待って 待って wwwwww』で遮り、同じCTAを再表示する。",
+      "limits": "容姿評価は会話上の企画とコメント誘導。人物属性、関係、同意、視聴者反応を補完しない。"
+    },
+    {
+      "sample_requested_s": [48, 50, 52],
+      "observed": "字幕を外し、2人を広く捉え直して再び敷物へ横になる動きで終える。",
+      "limits": "笑いから無字幕終端への正確な境界、最後の台詞、音、約1.47秒の末尾は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_subtitle_content": "HIGH",
+    "speaker_color_mapping": "MEDIUM",
+    "employment_and_future_plan_claims": "UNVERIFIED_SPEAKER_STATEMENTS",
+    "audio_and_edit_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "27点の2秒間隔静止画目視であり、53.47秒の連続視聴・聴取ではない。",
+    "time_sは全点でrequested_sと一致するが、字幕、笑い、画角変更の境界はサンプル間にある可能性がある。",
+    "メタデータ上は31日目だが、サンプル内に100日チャレンジ表紙や日数表示は見えない。",
+    "最終サンプルはsource PTS 52秒。最後の約1.47秒と全サンプル間は未視聴。",
+    "人物、公園、背景の来園者、撮影・公開同意、映像の素材権利は未確認。"
+  ]
+}
