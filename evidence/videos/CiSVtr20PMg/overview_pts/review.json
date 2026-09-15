@@ -1,0 +1,372 @@
+{
+  "video_id": "CiSVtr20PMg",
+  "reference_video": "https://www.youtube.com/watch?v=CiSVtr20PMg",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 49,
+  "reviewed_sheet_count": 9,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "AI_CALL_SERVICE_PROMOTION",
+    "OFFICE_SINGLE_PERSON_CONVERSATION",
+    "LONG_BLACK_AUDIO_ONLY_HOLD",
+    "TEAL_AI_AUDIO_LABEL",
+    "PLAN_AND_CLAIM_CARDS",
+    "MANGA_REACTION_INSERT",
+    "FULLSCREEN_SALES_FLYERS"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14
+      ],
+      "observed": "黒地の『今から結構大事な資料置きます』を先出しし、オフィスで椅子に座る人物へ切り替える。仕事中かという白い角丸質問、赤い『AIコール』、水色の聞いてほしいという字幕を出し、人物が手鏡らしい小道具を持つ。",
+      "limits": "人物、役職、仕事、AI製品、小道具、発話と音は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36
+      ],
+      "observed": "画面を黒一色にし、中央下寄りの発光する薄緑文字『-この音声はAIです-』だけを約22秒のサンプル範囲で保持する。",
+      "limits": "直接聴取していないため音声内容、声質、話者、生成方式、開始・終了、同期はUNKNOWN。静止画間も同一表示だったことは確定しない。"
+    },
+    {
+      "sample_requested_s": [
+        38,
+        40,
+        42,
+        44
+      ],
+      "observed": "人物画へ戻り、人が喋っていないのかという質問とAIだという返答を白・金の字幕で示し、コールセンター利用者への呼び掛けへ進む。",
+      "limits": "AI音声、人の関与、製品機能、利用者、運用、録音同意は未検証。"
+    },
+    {
+      "sample_requested_s": [
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60
+      ],
+      "observed": "35万円で1万コール、営業のプロがトークを作るという赤黄の大型訴求を、プラン表や人物入り資料の縮小画像とともに置く。人間7人ほどの出力、コール数が2倍、追加費用なしという説明を白い半透明帯で続ける。",
+      "limits": "価格、税、件数、期間、人員換算、制作主体、倍増、費用、契約、成果、掲載人物は未検証。資料内の氏名は転載しない。"
+    },
+    {
+      "sample_requested_s": [
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78
+      ],
+      "observed": "漫画風の反応画像と赤い煽り文を短く挟み、10社ほどで結果が出ている、100社展開したいという白字幕から赤い挨拶へ進む。キャラクター画像付きの聞き違い風ツッコミを入れ、赤いサービス名らしい訂正で会話部分を締める。",
+      "limits": "導入社数、結果、展開目標、サービス名、人物・キャラクターの公式関係は未検証。"
+    },
+    {
+      "sample_requested_s": [
+        80,
+        82,
+        84,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96
+      ],
+      "observed": "冒頭と同じ黒い資料予告を再掲し、営業AIサービスの縦長資料を全画面で順に見せる。生産性、採用コスト、他社比較、導入価値、業務、プランの図表から、月額8,800円から、24時間、リスクゼロ、1人分をAIへ置換という画面上の訴求カードで終える。",
+      "limits": "数値、比較、月額、稼働時間、リスク、置換可能性、契約、成果は未検証。連絡・契約・支払をしない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_service_price_volume_and_claims": "HIGH",
+    "ai_audio_content_and_generation": "UNKNOWN",
+    "service_performance_terms_and_comparisons": "UNVERIFIED",
+    "audio_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "49点の2秒間隔静止画目視であり、96.95秒の連続視聴・聴取ではない。",
+    "全画像でrequested_sと実source PTSは一致するが、黒画面、音声、資料、字幕の境界はサンプル間にある可能性がある。",
+    "最終サンプルは96秒。最後の約0.95秒と全サンプル間は未視聴。",
+    "AI音声表示、35万円、1万コール、人間7人分、2倍、10社、100社、8,800円、24時間、リスクゼロは画面上の訴求で、機能・実績・契約条件を確定しない。",
+    "人物、会社、オフィス、資料、漫画、キャラクター、撮影同意、素材権利と音は未確認。"
+  ]
+}
