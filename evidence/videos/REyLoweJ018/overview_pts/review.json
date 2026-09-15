@@ -1,0 +1,112 @@
+{
+  "video_id": "REyLoweJ018",
+  "reference_video": "https://www.youtube.com/watch?v=REyLoweJ018",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 37,
+  "reviewed_sheet_count": 7,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70},
+    {"file":"frame_000072000.jpg","requested_s":72,"time_s":72}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "CASINO",
+    "BACCARAT",
+    "FAMILY_COST_HOOK",
+    "CARD_SQUEEZE",
+    "PERSISTENT_LOWER_HUD",
+    "LOSS_RESULT"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2],
+      "observed": "本人の表情へ、娘の学費をバカラへ全額賭ける男という黄色い導入字幕を黒い半透明帯で重ねる。",
+      "limits": "家族関係、学費、資金源、全額という表現は画面上の企画フック。実際の家計・支払い・同意を示さない。"
+    },
+    {
+      "sample_requested_s": [4, 6, 8, 10, 12, 14],
+      "observed": "賭け額を問う会話から、2,200万ウォン（約220万円）をBANKERへ賭けた表示、高校生になった娘、年間200万円らしい費用、『娘の維持費』を『学費』へ言い直す笑いへ進む。",
+      "limits": "2,200万ウォン、約220万円、年間200万円、学費は用途の異なる表示。家族、学校、費用、賭け金、資金源、換算を検証していない。"
+    },
+    {
+      "sample_requested_s": [16, 18, 20, 22, 24],
+      "observed": "赤い卓の手元へ切り替え、下部中央へBANKER青・PLAYER赤のカード枠、賭け額、施設ロゴを一体化したHUDを常設する。本人がカードを絞る寄りを続ける。",
+      "limits": "施設、賭け受理、チップ、ロゴ・HUDの権利、正確なスクイーズ時間は未確認。"
+    },
+    {
+      "sample_requested_s": [26, 28, 30, 32],
+      "observed": "BANKERを9♦・3♠＝2点、PLAYERを5♣・K♣＝5点へ順に更新する。卓俯瞰と本人の表情へ切り替えてもHUDと賭け額を残す。",
+      "limits": "カードと点数は実物・HUDで見える範囲。配札順、全賭け、サイドベット、精算は未確認。"
+    },
+    {
+      "sample_requested_s": [34, 36, 38, 40, 42, 44, 46, 48],
+      "observed": "BANKER 2点、PLAYER 5点のHUDを保持しながら本人の説明と表情を長く残し、次のBANKERカードを待つ緊張区間へつなぐ。",
+      "limits": "発話内容、間、音、感情の強さ、勝率は未確認。静止画から必勝法を作らない。"
+    },
+    {
+      "sample_requested_s": [50, 52, 54, 56, 58, 60, 62, 64, 66, 68],
+      "observed": "3枚目のBANKERカードを長く絞り、10♥公開後もBANKER 2点、PLAYER 5点をHUDで示す。末尾近くに『5or6 出たら勝利』という期待字幕を大きく重ねる。",
+      "limits": "10♥ではBANKER合計2点のまま。5または6への期待は公開前の実況を後置した可能性があり、字幕と実カードの厳密な同期は未確認。"
+    },
+    {
+      "sample_requested_s": [70, 72],
+      "observed": "飲み物を持つ本人の静かな表情へ切り替え、『一撃200万負け』を白文字・黒縁で大きく表示して締める。",
+      "limits": "タイトル・末尾の200万円は概数らしく、賭け表示の約220万円とは同一の厳密値ではない。払戻、手数料、純損失、通算収支を補完しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_cards_points_and_loss": "HIGH",
+    "displayed_bet_and_conversion": "HIGH",
+    "family_cost_claims": "LOW",
+    "settlement_and_net_loss": "LOW",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "37点の2秒間隔静止画目視であり、72.37秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。会話、配札、カード公開、期待字幕、結果表示の開始・終了とは異なる。",
+    "最終サンプルはsource PTS 72.000秒。動画尺72.37秒に対する最後の約0.37秒と全サンプル間は未視聴。",
+    "家族、学費、資金源、賭け受理、換算、払戻、純損失、人物、施設、素材権利は未確認。"
+  ]
+}
