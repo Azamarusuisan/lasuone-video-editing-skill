@@ -1,0 +1,88 @@
+{
+  "video_id": "a-1RO38MEgI",
+  "reference_video": "https://www.youtube.com/watch?v=a-1RO38MEgI",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 26,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "CASINO",
+    "BACCARAT",
+    "ONE_MILLION_YEN_STAKE_HOOK",
+    "SIDE_BET_CONTEXT",
+    "STACKED_BACCARAT_HUD",
+    "LONG_THIRD_CARD_SQUEEZE",
+    "HUD_CARD_CONTRADICTION",
+    "LOSS_WITHOUT_SETTLEMENT"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10],
+      "observed": "人物の先行カットから卓へクロスフェードし、『バカラに一撃100万円賭けてみた』『サイドベットも盛り盛りだ』『日本円にして約100万円』『その大金をバンカーに張った』という白・黄字幕で賭けの規模を先出しする。",
+      "limits": "通貨原額、換算時点、チップ額、各サイドベット、実際の賭け位置・総額は未確認。"
+    },
+    {
+      "sample_requested_s": [12, 14, 16, 18, 20, 22, 24, 26, 28],
+      "observed": "上段を黄緑枠のBANKER-LASUONE、下段を赤枠としてHUDを常設し、本人側9♥・2♠＝1、下段9♦・7♦＝6を段階表示する。16秒サンプルでは小さなルール図を右へ追加する。",
+      "limits": "下段ラベル、ルール図の全文、カード公開順、実物カードとの完全一致、サイドベット結果は未確認。"
+    },
+    {
+      "sample_requested_s": [30, 32, 34, 36, 38, 40, 42, 44, 46],
+      "observed": "両側の第三カード待ちを白字幕で説明し、本人の手元寄りを長く保つ。3サイドへの期待から青い『絶望の4サイド』へ反転し、上段第三カードをHUD上で9♥としてCount 0に更新する。",
+      "limits": "HUDは上段1枚目と3枚目に同じ9♥を重複表示する物理的に不可能な構成。実物第三カードのスート、正確な結果、HUD制作ミスの原因を確定しない。"
+    },
+    {
+      "sample_requested_s": [48, 50],
+      "observed": "完成HUDを保ち、白い『ラスワンは言った』に続いて緑の『0,6じゃんw』を置き、上段0対下段6という負けの反応で締める。",
+      "limits": "WIN/LOSE、サイドベット、払戻、コミッション、純損失、通算収支は未表示。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_amount_and_counts": "HIGH",
+    "hud_card_identity": "CONTRADICTED",
+    "actual_bet_and_settlement": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "26点の2秒間隔静止画目視であり、50.11秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTSで、全点がrequested_sと一致する。字幕出入り、クロスフェード、カード公開、反応の境界はサンプル間にある可能性がある。",
+    "最終サンプルはsource PTS 50秒。最後の約0.11秒と全サンプル間は未視聴。",
+    "UJ7BuwREAyYと人物の服装、卓、ディーラーが視覚上共通するが、同一撮影セッション、元素材の順序、連続性は未確定。",
+    "人物、施設、賭け、撮影・公開同意、HUD・卓映像の素材権利は未確認。会員カード風の物体が見えるため機械OCR候補は公開リポジトリへ同梱しない。"
+  ]
+}
