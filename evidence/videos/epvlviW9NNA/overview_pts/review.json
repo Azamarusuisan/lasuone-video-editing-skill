@@ -1,0 +1,107 @@
+{
+  "video_id": "epvlviW9NNA",
+  "reference_video": "https://www.youtube.com/watch?v=epvlviW9NNA",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 47,
+  "reviewed_sheet_count": 8,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70},
+    {"file":"frame_000072000.jpg","requested_s":72,"time_s":72},
+    {"file":"frame_000074000.jpg","requested_s":74,"time_s":74},
+    {"file":"frame_000076000.jpg","requested_s":76,"time_s":76},
+    {"file":"frame_000078000.jpg","requested_s":78,"time_s":78},
+    {"file":"frame_000080000.jpg","requested_s":80,"time_s":80},
+    {"file":"frame_000082000.jpg","requested_s":82,"time_s":82},
+    {"file":"frame_000084000.jpg","requested_s":84,"time_s":84},
+    {"file":"frame_000086000.jpg","requested_s":86,"time_s":86},
+    {"file":"frame_000088000.jpg","requested_s":88,"time_s":88},
+    {"file":"frame_000090000.jpg","requested_s":90,"time_s":90},
+    {"file":"frame_000092000.jpg","requested_s":92,"time_s":92}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "POKER_BROADCAST_RECUT",
+    "THREE_PLAYER_HAND",
+    "PERSISTENT_THREE_ROW_HUD",
+    "FULL_STREET_ACTION_PROGRESSION",
+    "HERO_FOLD_FRAMING",
+    "FORMAL_LOSS_AND_SKILL_PRAISE_SEPARATED",
+    "BLUE_PARTICLE_END_EMPHASIS"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14, 16],
+      "observed": "白いフーディーの人物へ赤黒の『この男が魅せたスーパープレイ！』を置いた後、放送卓＋下部の大きな3段HUDへ切り替える。ウタサンA♠・A♦、ハルK♣・9♦、ラスワンJ♦・10♦を顔写真・勝率付きで並べ、CALL 300、RAISE 600、CALL 600、3-BET 1.8K、残る2人のCALL 1.8Kまでを更新してPot 6.5Kへ進める。",
+      "limits": "ブラインド、スタック、放送側の全アクション順、単位Kの通貨・チップ価値、2秒間隔にない判断時間は未確認。"
+    },
+    {
+      "sample_requested_s": [18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46],
+      "observed": "フロップA♣・K♦・Q♦で勝率を34%／1%／65%へ更新。ハルとウタサンのCHECK、ラスワンBET 1.3K、ハルCALL 1.3K、ウタサンRAISE 3.9K、ラスワンCALL 3.9K、ハルFOLDを段階表示し、Potを6.5Kから15.6Kへ進める。",
+      "limits": "上部の放送内小型HUDと下部の再編集HUDが併存する。両者の数値を重複加算せず、アクション境界・実ポット計算は未確認。"
+    },
+    {
+      "sample_requested_s": [48, 50, 52, 54, 56, 58, 60, 62, 64],
+      "observed": "ターンQ♠でウタサン100%、他2人0%へ変わり、ウタサンとラスワンのCHECKを表示。リバー9♠を加えてボードA♣・K♦・Q♦・Q♠・9♠を完成させ、Pot 15.6Kを保持する。",
+      "limits": "表示カード上、ウタサンはAのフルハウス、ラスワンはAハイストレート、ハルはKとQのツーペアに整合する。役成立と最終アクション・勝敗を分ける。"
+    },
+    {
+      "sample_requested_s": [66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92],
+      "observed": "リバーでウタサンBET 28K、表示Pot 43.6K。黄色い『フルハウスでしょ？』『ストレートっす！』『しかも10Jダイヤダイヤ』を上部へ入れ、82秒サンプルでラスワンFOLD、84秒からウタサンWIN・ラスワンLOSEを表示する。解説の『めちゃくちゃナイスフォールド』字幕を添え、90〜92秒はラスワンの反応へ青い帯・粒子を重ねる。",
+      "limits": "『スーパープレイ』は勝利ではなく、強い完成役を降りた判断への編集評価。43.6Kを払戻や純利益とせず、未コール分の扱い、Pot分配、賞金・収支は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_cards_board_actions_and_result": "HIGH",
+    "derived_hand_categories_from_displayed_cards": "HIGH",
+    "pot_distribution_and_actual_profit": "UNKNOWN",
+    "audio_and_action_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "47点の2秒間隔静止画目視であり、92.15秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTSで、全点がrequested_sと一致する。アクション、ボード公開、字幕、反応の境界はサンプル間にある可能性がある。",
+    "最終サンプルはsource PTS 92秒。最後の約0.15秒と全サンプル間は未視聴。",
+    "大会、人物、放送元、再編集許可、顔写真・ロゴ・放送映像・青い演出素材の権利は未確認。"
+  ]
+}
