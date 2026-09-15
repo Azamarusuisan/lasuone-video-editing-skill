@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-09-14T20:50:34+09:00",
+  "snapshot_date": "2026-09-15T09:00:20+09:00",
   "provenance_root": "../..",
   "media_bundled": false,
   "external_evidence_note": "Research video/audio/frame files are not bundled. URLs, video IDs, timecodes, and evidence paths inside the documents are references only.",
@@ -12,7 +12,7 @@
     {
       "path": "references/learning/CHANNEL_EDITING_BIBLE.md",
       "source_relative_path": "CHANNEL_EDITING_BIBLE.md",
-      "sha256": "29f7f4e730b4e12ae01ddb5c3be87195952ed5fa49357bfc8588915a2e75ba41"
+      "sha256": "6e1bbc43caa007b4697ce4c92bdf6a38608be4900c948ddb36467bdac32b79ce"
     },
     {
       "path": "references/learning/QUALITY_CHECKLIST.md",
@@ -22,52 +22,52 @@
     {
       "path": "references/learning/ASSET_LIBRARY.json",
       "source_relative_path": "ASSET_LIBRARY.json",
-      "sha256": "dba51064053ae5b071fc3483a36bbef303f2e9c68cdb327d25f52e461ff6c3a6"
+      "sha256": "0d1c59a1dce6b3da42d3b5a6ce7fbbaffc2c1bcbd48b795db47e04d26f3b582d"
     },
     {
       "path": "references/learning/BGM_RULES.json",
       "source_relative_path": "BGM_RULES.json",
-      "sha256": "ce6bb7e43ec39141168264b5aade05cae2ec2b48e9a810472ac89564fe6a72ff"
+      "sha256": "b8e59a75d1749c3018249fb1132037c42ad4f02e4e2ca005c4c655c4bad8ed02"
     },
     {
       "path": "references/learning/FONT_STYLE_LIBRARY.json",
       "source_relative_path": "FONT_STYLE_LIBRARY.json",
-      "sha256": "d78c999e6dd70fa64c2ac9dd130c4d1c5dde5e597cfafb55386cedbc298a6c8c"
+      "sha256": "073f75c69fd02eb08ef2f5e998c8003f7b5491b24beeb9b92c45ba8baff7a054"
     },
     {
       "path": "references/learning/GAMBLING_TENSION_TEMPLATE.json",
       "source_relative_path": "GAMBLING_TENSION_TEMPLATE.json",
-      "sha256": "114f715185d2a6ea289c2a83f1101163ee630eefd1471dd2e13244dcd218c5a3"
+      "sha256": "32f6b0016b6255601712cd70aa53d9ec149a39205cadf998e3cc3f8f9ad29a06"
     },
     {
       "path": "references/learning/LONGFORM_TEMPLATE.json",
       "source_relative_path": "LONGFORM_TEMPLATE.json",
-      "sha256": "98f324b74f4e53924c561f7bcb013f2d2d6bcdcd7cde0ddbd2e249aaf6530c97"
+      "sha256": "9c6479459599e63b35d0a6683c81a86e7397d49624c1c9adff2099a561070e2b"
     },
     {
       "path": "references/learning/PODCAST_TEMPLATE.json",
       "source_relative_path": "PODCAST_TEMPLATE.json",
-      "sha256": "1aa7ad76978028650f05f40b2d4cc553c93b0afd4bf20538c0ee123cdb4ceeea"
+      "sha256": "9787cd769f541437bdc9d419eb1a31ef3df058b75d138323f8bcd10a24757164"
     },
     {
       "path": "references/learning/SE_RULES.json",
       "source_relative_path": "SE_RULES.json",
-      "sha256": "5b28a8af9538f02834abdf2b01a9ddc795269212318c2de1a70d20745b39d8ae"
+      "sha256": "c6e3bb9d7aa7aef0a2d6311579256d7011f871c60eb63b24df91560adb268eff"
     },
     {
       "path": "references/learning/SHORTS_TEMPLATE.json",
       "source_relative_path": "SHORTS_TEMPLATE.json",
-      "sha256": "07061a7f28034aefd0a2c54fe6088a018e2f8b3c2ff6a62ea0e1b61c4888fa61"
+      "sha256": "9f36495f9a821f07c44a3d3d5f6b31f55e59c77bcd33b71b95ccd908b5366f22"
     },
     {
       "path": "references/learning/SPEAKER_STYLE_DATABASE.json",
       "source_relative_path": "SPEAKER_STYLE_DATABASE.json",
-      "sha256": "49d2d903356dbcf04c28dd6812142e07b3ffeb6cceae15ee96d5881ea84f4df1"
+      "sha256": "49d394f0dc0c9e2bbaf4ae486bd0c60d6105d945d6c991b0bac513a434cf1e98"
     },
     {
       "path": "references/learning/SUBTITLE_STYLE_DATABASE.json",
       "source_relative_path": "SUBTITLE_STYLE_DATABASE.json",
-      "sha256": "ab4cd42ad5496e9e3c7ab0f749f7aee92e9a8e3275ac4bc5febafe78980be564"
+      "sha256": "a0628b9d8c03a54197a131fac85a77aebe69009fcbd64cafc7d409bf7aef14e9"
     }
   ]
 }
