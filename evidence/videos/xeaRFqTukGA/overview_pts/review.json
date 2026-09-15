@@ -1,0 +1,85 @@
+{
+  "video_id": "xeaRFqTukGA",
+  "reference_video": "https://www.youtube.com/watch?v=xeaRFqTukGA",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 25,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.016},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.033},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6.016},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.032},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.015},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12.032},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.015},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.031},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18.014},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.031},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.013},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.03},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.013},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.029},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.012},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.029},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.012},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.028},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.011},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.027},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42.01},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44.027},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46.01},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48.026}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "AI_GENERATED_CONCEPT_MONTAGE",
+    "SORA_MARKED_VISUALS",
+    "MULTIPLE_IMAGINED_GAMBLING_CONCEPTS",
+    "OPENING_TITLE_CARD",
+    "SPARSE_EXPLANATORY_TEXT",
+    "VISUAL_PUNCHLINE_SEQUENCE"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8],
+      "observed": "ネオンのコースを走るウサギと、似た人物の笑顔・拍手を往復する。2秒サンプルだけ『ラスワンが考える理想のギャンブル10選』『ウサギのレース』『けいうさ』という水色・ピンクの発光文字を大きく重ねる。",
+      "limits": "Sora表示付きの生成映像であり、実在するレース、人物、会場、賭けの記録ではない。ルール、配当、勝敗は表示されない。"
+    },
+    {
+      "sample_requested_s": [10, 12, 14, 16, 18, 20, 22, 24, 26, 28],
+      "observed": "街頭で『7台!』の札を持つ人物、通行人、道路上の車、手帳へ書く人物、犬、笑う人物を短く切り替える。通常の会話字幕やルールHUDを置かず、行動と反応だけで別の賭け案らしい区間を進める。",
+      "limits": "何を数える企画か、賭け条件、札の意味、区間境界は2秒間隔サンプルだけでは確定できない。道路映像も生成画で、車両番号を記録しない。"
+    },
+    {
+      "sample_requested_s": [30, 32, 34, 36, 38],
+      "observed": "室内の麻雀卓らしい画から、中央のルーレット風機構と手元へ寄り、卓上へ大量の牌が散る画へ進む。説明字幕を挟まず、異常な物量と人物反応を見せ場にする。",
+      "limits": "通常の麻雀、ルーレット、独自ゲームのどれかは未確定。牌、手指、人物の形状を実在のゲーム進行や結果に読み替えない。"
+    },
+    {
+      "sample_requested_s": [40, 42, 44, 46, 48],
+      "observed": "飲み物へ温度計を差す寄りから、『参加費1万円』『ピタリ39℃で39万円』『それ以外は全員没収』という白黒縁のルールカードを1点だけ表示し、人物の口元と温度計表示へ戻る。",
+      "limits": "生成された温度計表示は字形が不安定で、最終値、勝敗、参加費の徴収、39万円の支払いを確定しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "sora_mark_and_ai_concept_classification": "HIGH",
+    "exact_number_and_boundaries_of_concepts": "LOW",
+    "real_world_events_people_and_settlement": "NOT_APPLICABLE",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "25点の2秒間隔静止画目視であり、49.03秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTSでrequested_sより最大0.033秒後。カット、文字、反応の境界はサンプル間にある可能性がある。",
+    "最終サンプルはsource PTS 48.026秒。最後の約1.00秒と全サンプル間は未視聴。",
+    "タイトルの『10選』に対し、全10案の名称・境界・ルールは分散サンプルから確認できない。",
+    "Sora表示は生成範囲、モデル版、プロンプト、人物同意、声・音楽、公開・再利用権を証明しない。研究映像を制作素材としてコピーしない。"
+  ]
+}
