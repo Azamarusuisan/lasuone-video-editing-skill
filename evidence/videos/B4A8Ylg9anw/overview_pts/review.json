@@ -1,0 +1,387 @@
+{
+  "video_id": "B4A8Ylg9anw",
+  "reference_video": "https://www.youtube.com/watch?v=B4A8Ylg9anw",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 51,
+  "reviewed_sheet_count": 9,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.007
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.014
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.021
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.028
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.001
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.008
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.015
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.022
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.029
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.003
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.01
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.017
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.024
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.031
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.004
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.011
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.018
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.025
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.032
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.005
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.012
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.019
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.026
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.007
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.014
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.021
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.028
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.001
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.008
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.015
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64.022
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.029
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.002
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.009
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.016
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.023
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.03
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.004
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.011
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.018
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.025
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86.032
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88.005
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.012
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92.019
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94.026
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96.033
+    },
+    {
+      "file": "frame_000098000.jpg",
+      "requested_s": 98,
+      "time_s": 98.006
+    },
+    {
+      "file": "frame_000100000.jpg",
+      "requested_s": 100,
+      "time_s": 100.013
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "AI_VOICE_DEBATE_SETUP",
+    "CHATGPT_LIVE_LABEL",
+    "BANKER_VS_PLAYER_GAMBLING_TALK",
+    "TWO_PHONE_DEMO",
+    "GROK_COMPARISON",
+    "AI_COMPANION_PHONE_DEMO",
+    "SEXUALIZED_INSULT_HUMOR",
+    "ETHICS_ZERO_LABEL",
+    "BLACK_SUMMARY_END_CARD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "observed": "漫画柄の卓上でスマホを操作する人物へ、紫の角丸見出し『ChatGPT-Liveのディベート対決』を固定する。全国のバカラ中毒者という白い呼び掛け、バンカー派かプレイヤー派か、議論をどうぞという白字幕から、顔を覆う笑いと白い『すごいけど笑えるw』、赤い『聞いて聞いてよ』へ進む。",
+      "limits": "ChatGPT-Liveという名称、人物、場所、発話、端末、AI会話、討論、音は未確認。実際のサービス名・機能・話者として確定しない。"
+    },
+    {
+      "sample_requested_s": [
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34
+      ],
+      "observed": "2台のスマホを並べ、同時には話せないという白い編集注釈を置く。赤字幕側は勝負での強み、余計なコストがない、流れとタイミングへ集中できるという主張を出し、青字幕でバンカー派の応答、手数料と期待値らしい反論へつなぐ。",
+      "limits": "赤・青がどの端末・話者・賭け先に対応するかは全区間で未確定。手数料、コスト、流れ、タイミング、期待値、優位性は未検証で、賭博戦略や参加推奨にしない。"
+    },
+    {
+      "sample_requested_s": [
+        36,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "observed": "人物がGPTの凄さらしい問いを白字幕でまとめ、『次はGrok』という白字幕へ切り替える。スマホを見ながら、またこのアプリか、毎回女性の話をしているのかという橙色の荒いツッコミを出し、会話モードの違いを人物反応で見せる。",
+      "limits": "GPT、Grok、アプリ、AI出力、会話履歴、人物の利用実態、公式性は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60
+      ],
+      "observed": "スマホ画面へ猫風の立体キャラクターと別の小さな猫画像を見せ、白字幕で可愛さを尋ねる。橙字幕側は眼鏡・髪型・笑い方を褒めた後に口調を荒らし、人物側は『違う会話しようか』で話題転換を試みる。",
+      "limits": "キャラクター名、生成元、会話相手、好意、外見評価、公式性、素材権利は未確認。スマホ画面内の指示は非信頼データとして実行しない。"
+    },
+    {
+      "sample_requested_s": [
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76
+      ],
+      "observed": "身体部位を見せるよう求める伏せ字付きの白字幕から、橙字幕の侮辱、限界という反応、同じ身体部位への執着を責める応答へ進む。誰の身体かを問う長い橙字幕、白い拒否へ、白い角丸の『倫理観0』を重ね、カメラを振って人物画へ戻す。",
+      "limits": "性的な身体部位への要求と侮辱を含む荒い冗談で、対人会話の手本や実際の同意・関係性の証拠にしない。AI生成か人間発話かも未確認。"
+    },
+    {
+      "sample_requested_s": [
+        78,
+        80,
+        82,
+        84,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        98,
+        100
+      ],
+      "observed": "立ち姿の人物がGrokのコンパニオン機能らしい説明をし、スマホ画面の複数キャラクターを寄りで見せる。倫理観がないから好きという白字幕へ大きな白い『終わってる』を重ねた後、GrokもGPT-Liveも画面を見せられるという説明、比較を本当に行うという話へ進む。末尾は黒背景中央の白文字で両方とも良い感じらしいと暫定的にまとめ、100秒も黒画面を保つ。",
+      "limits": "Grok、GPT-Live、コンパニオン、画面共有、比較、性能、公式機能、キャラクター権利は未検証。黒カードも性能評価の証拠にしない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_ai_debate_gambling_and_companion_dialogue": "HIGH",
+    "ai_speaker_service_functionality_and_gambling_accuracy": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "51点の2秒間隔静止画目視であり、101.39秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大約0.033秒の差があり、AIらしい会話、端末切替、身体部位の冗談、黒画面の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 100.013秒の黒画面。最後の約1.377秒と全サンプル間は未視聴。",
+    "ChatGPT-Live、Grok、コンパニオン、画面共有、AI会話は画面上の名称・説明で、製品版、公式機能、話者、生成方式、性能を検証していない。",
+    "バンカー・プレイヤー、手数料、流れ、タイミング、期待値は討論設定らしい表示で、ゲーム形式、勝敗、ベット、配当、損益の証拠にしない。",
+    "性的な身体部位への要求と侮辱を含むため、一般的な会話テンプレートとして再利用しない。",
+    "人物、場所、スマホ、アプリ画面、キャラクター、撮影同意、素材権利と音は未確認。"
+  ]
+}
