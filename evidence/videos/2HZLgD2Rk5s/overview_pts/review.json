@@ -1,0 +1,111 @@
+{
+  "video_id": "2HZLgD2Rk5s",
+  "reference_video": "https://www.youtube.com/watch?v=2HZLgD2Rk5s",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 39,
+  "reviewed_sheet_count": 7,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70},
+    {"file":"frame_000072000.jpg","requested_s":72,"time_s":72},
+    {"file":"frame_000074000.jpg","requested_s":74,"time_s":74},
+    {"file":"frame_000076000.jpg","requested_s":76,"time_s":76}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "OFFICE_TWO_PERSON_CONVERSATION",
+    "MATCHING_CHARACTER_SHIRTS",
+    "REWARD_BAG_PROP",
+    "PRODUCT_IMAGE_OVERLAY",
+    "GAMBLING_WORDPLAY",
+    "PRICE_ESCALATION_JOKE",
+    "SPARKLE_FILTER"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12],
+      "observed": "キャラクター柄の色違いTシャツを着た二人をオフィスのワンショットで見せ、緑の巾着と銀色の端末らしい物を持たせる。白字幕で秘密・裏技の導入を作り、『ちいかわです』だけピンクの大型文字へ上げる。画面全体には光点・きらめき風の効果が続く。",
+      "limits": "キャラクター、衣服、巾着、端末、所有、購入、人物関係、効果の生成方法と音は未確認。"
+    },
+    {
+      "sample_requested_s": [14, 16, 18, 20, 22],
+      "observed": "白い上部字幕で、キャラクター人気、施設での販売、ほかの場所でも売るかという問いへ進み、二人が巾着を見ながら会話する。",
+      "limits": "施設名、販売場所、商品、在庫、価格、入場条件、公式性は未検証。"
+    },
+    {
+      "sample_requested_s": [24, 26, 28],
+      "observed": "巾着とキャラクター形の小物を並べた写真を下半分へ重ね、金色の大型『報酬袋』を見出しにする。キャラクターが仕事をすると袋で報酬を得るという説明へつなぐ。",
+      "limits": "写真の出典、商品構成、キャラクター設定、報酬条件、公式名称・権利は未確認。"
+    },
+    {
+      "sample_requested_s": [30, 32, 34, 36, 38, 40, 42, 44, 46, 48],
+      "observed": "袋を1500円で買えるという白字幕から、チップを入れて賭けると負けないという赤黄の『負けませんッ』へ跳び、裏技として巾着を正面へ掲げる。",
+      "limits": "価格、袋の用途、チップ、ゲーム、賭け、勝率、勝敗、施設との関係を補完しない。『負けません』は誇張・冗談らしい訴求で、保証ではない。"
+    },
+    {
+      "sample_requested_s": [50, 52, 54, 56, 58, 60, 62, 64, 66],
+      "observed": "購入へ行く負担と1500円を繰り返し、施設の入場料3000円という発言へ『正確には3500円』の括弧注記を追加する。袋へたどり着くには遊ぶ必要があるという白字幕へ続く。",
+      "limits": "価格、訂正額、時期、税、入場・購入・遊技条件、交通費、販売主体は未検証。字幕内の訂正も外部確認ではない。"
+    },
+    {
+      "sample_requested_s": [68, 70, 72, 74, 76],
+      "observed": "『そんな報酬袋を』という白字幕から、1万円で販売しようと思うという赤黄の大型字幕へ上げ、二人の笑顔と巾着の提示を無字幕で残して終える。",
+      "limits": "実販売、価格、在庫、契約、支払、転売許可、広告関係を確定せず、購入・連絡をしない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_character_reward_bag_and_price_text": "HIGH",
+    "product_event_and_game_details": "UNVERIFIED",
+    "sale_intent_and_gambling_outcome": "UNVERIFIED_COMEDIC_CLAIM",
+    "audio_and_exact_effect_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "39点の2秒間隔静止画目視であり、76.07秒の連続視聴・聴取ではない。",
+    "全画像でrequested_sと実source PTSは一致するが、写真、字幕、価格、笑いの境界はサンプル間にある可能性がある。",
+    "最終サンプルは76秒。最後の約0.07秒と全サンプル間は未視聴。",
+    "施設、商品、報酬袋、1500円、入場料3000円・訂正3500円、遊技条件、1万円での販売は未検証。勝利・収益・購入・販売を生成しない。",
+    "人物、会社、オフィス、キャラクター、衣服、巾着、端末、商品写真、撮影同意、画面・字幕・映像の素材権利は未確認。"
+  ]
+}
