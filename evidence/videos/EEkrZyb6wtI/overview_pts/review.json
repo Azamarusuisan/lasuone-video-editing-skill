@@ -1,0 +1,458 @@
+{
+  "video_id": "EEkrZyb6wtI",
+  "reference_video": "https://www.youtube.com/watch?v=EEkrZyb6wtI",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 63,
+  "reviewed_sheet_count": 11,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.012
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.024
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.003
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.015
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.027
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.006
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.018
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.03
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.009
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.021
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.033
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.011
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.024
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.002
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.014
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.026
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.005
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.017
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.029
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.008
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.02
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.032
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.011
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48.023
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.001
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.013
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.026
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.004
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.016
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.028
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.007
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64.019
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.031
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.01
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.022
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.001
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.013
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.025
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.003
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.016
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.028
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.006
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86.018
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88.031
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.009
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92.021
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96.012
+    },
+    {
+      "file": "frame_000098000.jpg",
+      "requested_s": 98,
+      "time_s": 98.024
+    },
+    {
+      "file": "frame_000100000.jpg",
+      "requested_s": 100,
+      "time_s": 100.003
+    },
+    {
+      "file": "frame_000102000.jpg",
+      "requested_s": 102,
+      "time_s": 102.015
+    },
+    {
+      "file": "frame_000104000.jpg",
+      "requested_s": 104,
+      "time_s": 104.027
+    },
+    {
+      "file": "frame_000106000.jpg",
+      "requested_s": 106,
+      "time_s": 106.006
+    },
+    {
+      "file": "frame_000108000.jpg",
+      "requested_s": 108,
+      "time_s": 108.018
+    },
+    {
+      "file": "frame_000110000.jpg",
+      "requested_s": 110,
+      "time_s": 110.03
+    },
+    {
+      "file": "frame_000112000.jpg",
+      "requested_s": 112,
+      "time_s": 112.008
+    },
+    {
+      "file": "frame_000114000.jpg",
+      "requested_s": 114,
+      "time_s": 114.021
+    },
+    {
+      "file": "frame_000116000.jpg",
+      "requested_s": 116,
+      "time_s": 116.033
+    },
+    {
+      "file": "frame_000118000.jpg",
+      "requested_s": 118,
+      "time_s": 118.011
+    },
+    {
+      "file": "frame_000120000.jpg",
+      "requested_s": 120,
+      "time_s": 120.023
+    },
+    {
+      "file": "frame_000122000.jpg",
+      "requested_s": 122,
+      "time_s": 122.002
+    },
+    {
+      "file": "frame_000124000.jpg",
+      "requested_s": 124,
+      "time_s": 124.014
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "SLOT_MACHINE_COLD_OPEN",
+    "VIEWER_GIVEAWAY",
+    "PHYSICAL_ARTWORK_SHOWCASE",
+    "ARTIST_GROWTH_CLAIM",
+    "MULTIPLE_INTERPRETATION_GAG",
+    "EC_AND_APPAREL_PLAN",
+    "COMMENT_FIRST_COME_CTA",
+    "BACCARAT_LUCK_CLAIM",
+    "BLACK_GIVEAWAY_END_CARD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "observed": "明るい遊技機の前に座る人物を横から撮り、黄色字幕で全部埋まればという期待を反復する。青黄の『MINOR』、円表記の2万円らしい表示、赤黄の『GRAND』を短く挟み、18秒は機械上部の結果表示らしい画、20秒は暗い遷移になる。",
+      "limits": "機種、遊技場所、投入額、条件、MINOR・GRANDの意味、当選、配当、精算は未確認。円表記を勝ち額や受取額として確定しない。"
+    },
+    {
+      "sample_requested_s": [
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36
+      ],
+      "observed": "室内の椅子へ座る人物に切り替え、袋と紙類らしい物を持つ。欲しいとコメントした視聴者へ発送するという黄字幕、見せる掛け声、青黄の視聴者プレゼント宣言から、近代アートとして白地に黒い円状線と赤い中心がある実物作品を提示し、白字幕で題名らしい語を出す。",
+      "limits": "応募者、受付、当選、発送、受領、作者、題名、所有、真贋、原画・複製の別、制作方法、権利は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
+      "observed": "作品を持った固定画で、作者はこれから伸びる、結構来る、近代アートに来るという黄字幕を積み、作品を別の題名らしい白字幕で説明する。作者名らしい箇所は記録せず、途中の無字幕で机へ手を伸ばす画も残す。",
+      "limits": "作者、題名、経歴、将来性、知名度、価値、作品権利は未検証。作者名・署名らしい情報は転載しない。"
+    },
+    {
+      "sample_requested_s": [
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82
+      ],
+      "observed": "青字幕で最近見た売りつけるドラマというツッコミを挟み、色の付いた点が横一列に並ぶ白い作品へ替える。題名当ての問い、作品へ寄ったピンク縁の題名らしい字幕、無字幕の笑いから、見る人によっていろいろ見える、100通りほど見える、味が深いという黄字幕へ進み、2作品を並べて提示する。",
+      "limits": "題名、作者の意図、解釈数、芸術的評価、価値、販売意図、素材権利は未確認。画面内の署名らしい情報は転載しない。"
+    },
+    {
+      "sample_requested_s": [
+        84,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        98,
+        100,
+        102
+      ],
+      "observed": "これから近代アートを多く作る、ECサイトとアパレルも行いたいという黄字幕へ進み、青い相手側字幕で展開の速さに反応する。2作品を持って、コメントは付かないと思うという自虐から、コメントした人へ先着でプレゼントするという黄字幕で募集条件らしい内容を示す。",
+      "limits": "制作予定、ECサイト、アパレル、応募方法、先着順、在庫、当選、費用、税、配送、個人情報、規約、権利は未検証。コメントや応募を実行しない。"
+    },
+    {
+      "sample_requested_s": [
+        104,
+        106,
+        108,
+        110,
+        112,
+        114,
+        116,
+        118,
+        120,
+        122,
+        124
+      ],
+      "observed": "家に飾ると『勝てる』という黄・橙字幕を大きく出し、青字幕の『良いことがあるとかね』を挟む。作品を持ってバカラへ行った人は諸説あるが30万円勝ったらしいという逸話を続け、青い『自分じゃない？』と笑いで落とす。最後は黒背景中央の白文字で近代アートを希望する人へコメントを求める。",
+      "limits": "勝運、バカラ参加、30万円、勝敗、配当、純損益、因果は未検証。最終カードも応募条件の完全な説明ではなく、コメントを実行しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_art_giveaway_and_gambling_claims": "HIGH",
+    "artwork_origin_rights_value_giveaway_and_results": "UNKNOWN",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "63点の2秒間隔静止画目視であり、125.85秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大約0.033秒の差があり、遊技機、暗転、作品提示、字幕、終了カードの境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 124.014秒。最後の約1.836秒と全サンプル間は未視聴。",
+    "作者、題名、制作方法、真贋、所有、権利、作品価値、制作計画、EC・アパレル構想、応募、先着、発送は画面上の説明で検証していない。",
+    "円表記の2万円らしい表示、勝てるという訴求、バカラで30万円勝ったという逸話は、遊技結果、配当、損益、因果の証拠にしない。",
+    "人物、場所、遊技機、作品、袋、撮影同意、素材権利と音は未確認。"
+  ]
+}
