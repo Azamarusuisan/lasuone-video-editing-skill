@@ -1,0 +1,81 @@
+{
+  "video_id": "oZuJYEpgoF4",
+  "reference_video": "https://www.youtube.com/watch?v=oZuJYEpgoF4",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 22,
+  "reviewed_sheet_count": 4,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.002},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.004},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6.006},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.008},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.01},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12.012},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.014},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.016},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18.018},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.02},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.022},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.024},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.026},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.028},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.03},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.032},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.034},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.036},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.038},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.04},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42.001}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "RANKING",
+    "CAR_INTERVIEW",
+    "PERSISTENT_PROGRESS_BOARD",
+    "CANDIDATE_PHOTO_CARDS",
+    "INCOMPLETE_BOARD_PUNCHLINE",
+    "VISIBLE_REPOST_WATERMARK"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6],
+      "observed": "車内の固定人物画の左へ1〜10位の空欄を縦に常設し、『競走馬ランキング』『強いと思う順』『ランキング埋めてください』という白文字の問いを黒いカードで順に出す。",
+      "limits": "評価基準、対象時期、回答者、音は未確認。"
+    },
+    {
+      "sample_requested_s": [8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34],
+      "observed": "候補ごとに馬名と競走写真の白い大カードを人物の右へ表示し、次の候補へ進む際に前候補の写真を左の順位枠へ縮小して蓄積する。順位枠は1位から順番ではなく回答に応じて埋まる。",
+      "limits": "馬名・写真・順位は画面上の回答。戦績、時代、比較条件、写真の出典・権利を検証していない。"
+    },
+    {
+      "sample_requested_s": [36, 38],
+      "observed": "候補カード付近に小さな馬写真と大きな疑問符を追加し、別候補へ進んでも5位と9位を空欄のまま残す。",
+      "limits": "候補の取り違え、順位未確定、編集上の冗談のどれかは音未確認。空欄を補完しない。"
+    },
+    {
+      "sample_requested_s": [40, 42],
+      "observed": "ランキング表を外し、車内人物の中央へ明朝系の白文字・黒いぼかし影で『検証結果 ラスワン 記憶力悪い』と表示して締める。",
+      "limits": "人物評価は動画内のオチ。医学的な記憶評価や事実認定として扱わない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_progress_and_unfilled_slots": "HIGH",
+    "ranking_accuracy_and_criteria": "UNKNOWN",
+    "photo_and_source_reuse_rights": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "22点の2秒間隔静止画目視であり、42.19秒の連続視聴・聴取ではない。",
+    "time_sは24fps素材の抽出画像source PTSで、requested_sより0〜0.04秒後。カード出入り・順位確定とは異なる。",
+    "最終サンプルはsource PTS 42.001秒。動画尺42.19秒に対する最後の約0.19秒と全サンプル間は未視聴。",
+    "馬、順位、評価基準、競走写真、透かし元、人物、撮影・公開同意、素材権利は未確認。"
+  ]
+}
