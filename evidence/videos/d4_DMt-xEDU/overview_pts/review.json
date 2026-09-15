@@ -1,0 +1,89 @@
+{
+  "video_id": "d4_DMt-xEDU",
+  "reference_video": "https://www.youtube.com/watch?v=d4_DMt-xEDU",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 27,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "DARK_GAMBLING_DIALOGUE_MONTAGE",
+    "LANDSCAPE_CENTER_STRIP",
+    "BLURRED_DUPLICATE_VERTICAL_FILL",
+    "MULTIPLE_CHARACTER_CUTS",
+    "WHITE_OUTLINED_SUBTITLES",
+    "ANTI_SYSTEM_PUNCHLINE",
+    "ATM_REVERSAL_ENDING",
+    "SYNTHETIC_LOOK_UNVERIFIED"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14],
+      "observed": "暗い室内で卓を囲む複数の男性風人物を数秒単位で切り替え、バカラの連勝追跡、罫線予想、カード絞り、片側へ賭けた時の逆転を自虐的な白字幕で連ねる。鮮明な横長画を中央へ置き、同じ画の上下を強くぼかして縦画面を埋める。",
+      "limits": "人物、台詞、卓の出典と生成有無は未確認。字幕上の経験則をゲームの事実や攻略法にしない。"
+    },
+    {
+      "sample_requested_s": [16, 18, 20, 22, 24, 26],
+      "observed": "マーチンゲールを『メンタル崩壊RTA』と評し、チップタワー、タクシー代、ディーラー交代と流れへの思い込みを別人物の短い断言で畳み掛ける。字幕は中央帯の下部に白文字・黒縁でほぼ常設する。",
+      "limits": "台詞は風刺的な編集文。賭け方、資金管理、確率、個人の破産・損失を検証した説明ではない。"
+    },
+    {
+      "sample_requested_s": [28, 30, 32, 34, 36, 38, 40, 42],
+      "observed": "『今日こそは勝って帰る』という約束から、昨日は全部失ったという自己否定、『やらないこと』が最強という結論へ進める。その直後に『また明日もカジノに来る』と反転し、説教役らしい人物を細かく替えながら同じ夜景・卓・暖色ランプの世界観を保つ。",
+      "limits": "実際の損失、来店、依存状態を示す記録ではない。複数人物が同一話者か別話者か、音声の連続性は未確認。"
+    },
+    {
+      "sample_requested_s": [44, 46, 48, 50, 52],
+      "observed": "『脳が焼かれている』という断言から『コンビニのATMへダッシュだ！』へ振り、限度額エラーと時間外手数料の台詞を続ける。52秒サンプルでは字幕を外した銀髪人物の寄りで終える。",
+      "limits": "ATMへの誘導は自虐的なオチとして記録し、実用CTAや借入・追加入金の推奨に転用しない。正確な終端、台詞の間、音は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_subtitle_content": "HIGH",
+    "satirical_narrative_interpretation": "MEDIUM",
+    "ai_or_other_synthetic_origin": "UNKNOWN",
+    "speaker_identity_audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "27点の2秒間隔静止画目視であり、52.99秒の連続視聴・聴取ではない。",
+    "time_sは全点でrequested_sと一致するが、人物カット、字幕、無字幕終端の境界はサンプル間にある可能性がある。",
+    "最終サンプルはsource PTS 52秒。最後の約0.99秒と全サンプル間は未視聴。",
+    "メタデータ上は28日目だが、サンプル内に100日チャレンジ表紙、日数表示、オフィス日誌は見えない。シリーズ形式をタイトルだけから補完しない。",
+    "映像は生成・合成風だが明示表示がなく、生成元、人物本人性、公開同意、再利用権は未確認。"
+  ]
+}
