@@ -1,0 +1,111 @@
+{
+  "video_id": "aRg6xC-QyEo",
+  "reference_video": "https://www.youtube.com/watch?v=aRg6xC-QyEo",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 44,
+  "reviewed_sheet_count": 8,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.008},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.017},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6.025},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.009},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12.017},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.026},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.001},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18.009},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.018},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.026},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.001},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.009},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.018},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.026},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.001},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.01},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.018},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.027},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.002},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42.01},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44.019},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46.027},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48.002},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50.011},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52.019},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54.027},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56.002},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58.011},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60.019},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62.028},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64.003},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66.011},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68.02},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70.028},
+    {"file":"frame_000072000.jpg","requested_s":72,"time_s":72.003},
+    {"file":"frame_000074000.jpg","requested_s":74,"time_s":74.012},
+    {"file":"frame_000076000.jpg","requested_s":76,"time_s":76.02},
+    {"file":"frame_000078000.jpg","requested_s":78,"time_s":78.028},
+    {"file":"frame_000080000.jpg","requested_s":80,"time_s":80.003},
+    {"file":"frame_000082000.jpg","requested_s":82,"time_s":82.012},
+    {"file":"frame_000084000.jpg","requested_s":84,"time_s":84.02},
+    {"file":"frame_000086000.jpg","requested_s":86,"time_s":86.029}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "POKER_HAND_RECAP",
+    "SINGLE_PERSON_TABLE_INTERVIEW",
+    "HOLE_CARD_AND_FLOP_OVERLAYS",
+    "STREET_BY_STREET_NARRATION",
+    "CHIP_COUNT_PROGRESS_UPDATE",
+    "DAY_THREE_SIGNOFF",
+    "BLACK_SUPPORT_END_CARD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10],
+      "observed": "暗い会場の卓に座る人物を正面ワンショットで捉え、赤い縁取りの『オールイン番長』を冒頭見出しにする。今日のベストハンドとして57スーツという白字幕を出し、画面下へ5スペード・7スペードのカード画像を並べる。",
+      "limits": "人物、愛称、会場、イベント、実際のホールカード、ベストという評価、ゲーム形式、ステークスは未確認。"
+    },
+    {
+      "sample_requested_s": [12, 14, 16, 18, 20, 22, 24, 26, 28],
+      "observed": "深い状態だったという説明から、フロップで4と6が落ちてオープンエンドになったという白字幕へ進み、4スペード・6クラブ・Aダイヤのフロップ画像を追加する。スペードが一枚ある、最初のベットはコールしたという画面上の回想を続ける。",
+      "limits": "スタック、実カード、ボード、ストリート、アクション、ベット額、相手、スート、ドロー、ポットは未検証。カード画像は説明用HUDで実写カードではない。"
+    },
+    {
+      "sample_requested_s": [30, 32, 34, 36, 38, 40, 42, 44],
+      "observed": "次のカードが目立たない札から高めの札へ進んだという回想と、相手が出ないか考えたという説明を白字幕だけで運ぶ。ポットの半分ほどという表示、弱かったという評価、コールというアクション語へ続く。",
+      "limits": "ターンカード、誰の強弱・思考・アクションか、ポットサイズ、ベット額、コール成立を補完しない。"
+    },
+    {
+      "sample_requested_s": [46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70],
+      "observed": "8か3を求めるという説明の後、『3が落ちて（奇跡）』に人物イラストを添え、34567という並びを字幕で示す。そこで大きめに打つ判断、ポットにある緑チップ分は8万点、ポットの7〜8割ほど、コールされた、57を見せたという画面上の回想へ進む。",
+      "limits": "リバー、役成立、勝敗、相手の手、ショーダウン、チップ色、8万点、ベット比率、コール、獲得額、精算は未検証。点数を通貨や純利益に換算しない。"
+    },
+    {
+      "sample_requested_s": [72, 74, 76, 78, 80, 82, 84, 86],
+      "observed": "少し焼けたという感想から、55万点ほどで終わったという進捗表示、Day3も元気に続けたいという挨拶へまとめる。ピンクの発光縁『お疲れ様でした〜』で人物が頭を下げ、黒地の『みんなで応援！頑張れ番長！』へ切り替えて締める。",
+      "limits": "『焼けた』の対象、55万点の開始・終了・増減、順位、通過、賞金、Day3参加、最終結果は未検証。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_card_overlays_actions_and_points": "HIGH",
+    "actual_hand_board_actions_result_and_chip_accounting": "UNVERIFIED",
+    "person_event_and_day_three_status": "UNVERIFIED",
+    "audio_and_exact_subtitle_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "44点の2秒間隔静止画目視であり、87.15秒の連続視聴・聴取ではない。",
+    "requested_sに対する実source PTSは0〜約0.029秒後で、字幕、HUD、表情、終了カードの境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 86.029秒。最後の約1.12秒と全サンプル間は未視聴。",
+    "カードHUDと回想字幕はゲーム記録の候補であり、実カード、役、勝敗、8万点、55万点、賞金、損益、精算を正本として確定しない。",
+    "人物、愛称、場所、イベント、卓、チップ、カード画像、イラスト、撮影同意、素材権利と音は未確認。"
+  ]
+}
