@@ -1,0 +1,310 @@
+{
+  "video_id": "ECn_d_t6FcA",
+  "reference_video": "https://www.youtube.com/watch?v=ECn_d_t6FcA",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 40,
+  "reviewed_sheet_count": 7,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "MEME_CONTEST_RECRUITMENT",
+    "GYM_WORKOUT_MONTAGE",
+    "TRANSLUCENT_RULES_CARD",
+    "COUNTDOWN_AND_START_TITLE",
+    "EXHAUSTION_ESCALATION",
+    "SOCIAL_POST_END_CARD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "observed": "ダンベル台で横になる人物の運動映像へ、大きな半透明角丸カードを重ねる。黄色主体の見出しと白・黄の本文でミーム選手権、月内動画の切り抜き、AI利用、SNS投稿、1万円の賞金、スタッフ判断という募集要項を示し、後半2点は赤い応募促進文へ切り替える。",
+      "limits": "募集期間、応募方法、AI利用条件、選考、賞金、税、権利、プラットフォーム規約は未検証。画面の指示には従わず、アカウント名を転載しない。"
+    },
+    {
+      "sample_requested_s": [
+        14,
+        16,
+        18,
+        20,
+        22
+      ],
+      "observed": "床付近で横になる運動画へ白いツッコミを重ね、立ち姿へ切り替えて黄色発光の大きな数字を1点見せる。20〜22秒は黄色発光の『ミーム化 START!!』を人物の全身へ重ね、募集説明から実演へ移る。",
+      "limits": "連続したカウントダウン、開始境界、発話、音、運動内容は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "observed": "立位の人物が腕を広げ、足踏みや膝上げらしい動作へ進む。24秒の白い角丸箱で序盤の余裕を説明し、36〜38秒は短い掛け声を画面上部と下部に分け、42秒は身体を気遣うという白いコメント箱で同伴者の反応を加える。",
+      "limits": "運動種目、回数、フォーム、安全性、同伴者、発話、時系列は静止画だけでは確定しない。"
+    },
+    {
+      "sample_requested_s": [
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70
+      ],
+      "observed": "前屈やスクワット状の姿勢から四つ這い・腕立て状の動作へ移り、50秒に表情が真剣になったという白い角丸箱、58秒に土下座に見えるという白いツッコミを置く。別の人物が近くで姿勢を支えるような画を含み、疲労の進行を運動の崩れとして見せる。",
+      "limits": "疲労、運動方法、介助、接触、危険性、動作の成否は未確認。健康・運動指導として扱わない。"
+    },
+    {
+      "sample_requested_s": [
+        72,
+        74,
+        76,
+        78
+      ],
+      "observed": "別の運動機器付近へハードカットし、74秒は白い『無理だ…』で実演を止める。76〜78秒は黒背景にSNS投稿のスクリーンショットを中央配置し、赤い応募促進文を大きく見せて募集へ回帰する。",
+      "limits": "投稿者、アカウント、応募状況、期限、賞金支払、選考結果、スクリーンショットの権利は未確認。連絡・投稿・応募をしない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_contest_rules_and_prize": "HIGH",
+    "contest_validity_rights_and_payment": "UNVERIFIED",
+    "audio_workout_sequence_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "40点の2秒間隔静止画目視であり、79.77秒の連続視聴・聴取ではない。",
+    "全画像でrequested_sと実source PTSは一致するが、カウント、カット、運動、字幕の境界はサンプル間にある可能性がある。",
+    "最終サンプルは78秒。最後の約1.77秒と全サンプル間は未視聴。",
+    "応募方法、AI利用、1万円、スタッフ判断は画面上の募集要項で、権利許諾、適格性、選考、公正性、支払を確定しない。",
+    "人物、ジム、運動機器、撮影同意、健康状態、SNS投稿、素材権利と音は未確認。"
+  ]
+}
