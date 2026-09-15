@@ -1,0 +1,479 @@
+{
+  "video_id": "VoPzy39lL3M",
+  "reference_video": "https://www.youtube.com/watch?v=VoPzy39lL3M",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 67,
+  "reviewed_sheet_count": 12,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96
+    },
+    {
+      "file": "frame_000098000.jpg",
+      "requested_s": 98,
+      "time_s": 98
+    },
+    {
+      "file": "frame_000100000.jpg",
+      "requested_s": 100,
+      "time_s": 100
+    },
+    {
+      "file": "frame_000102000.jpg",
+      "requested_s": 102,
+      "time_s": 102
+    },
+    {
+      "file": "frame_000104000.jpg",
+      "requested_s": 104,
+      "time_s": 104
+    },
+    {
+      "file": "frame_000106000.jpg",
+      "requested_s": 106,
+      "time_s": 106
+    },
+    {
+      "file": "frame_000108000.jpg",
+      "requested_s": 108,
+      "time_s": 108
+    },
+    {
+      "file": "frame_000110000.jpg",
+      "requested_s": 110,
+      "time_s": 110
+    },
+    {
+      "file": "frame_000112000.jpg",
+      "requested_s": 112,
+      "time_s": 112
+    },
+    {
+      "file": "frame_000114000.jpg",
+      "requested_s": 114,
+      "time_s": 114
+    },
+    {
+      "file": "frame_000116000.jpg",
+      "requested_s": 116,
+      "time_s": 116
+    },
+    {
+      "file": "frame_000118000.jpg",
+      "requested_s": 118,
+      "time_s": 118
+    },
+    {
+      "file": "frame_000120000.jpg",
+      "requested_s": 120,
+      "time_s": 120
+    },
+    {
+      "file": "frame_000122000.jpg",
+      "requested_s": 122,
+      "time_s": 122
+    },
+    {
+      "file": "frame_000124000.jpg",
+      "requested_s": 124,
+      "time_s": 124
+    },
+    {
+      "file": "frame_000126000.jpg",
+      "requested_s": 126,
+      "time_s": 126
+    },
+    {
+      "file": "frame_000128000.jpg",
+      "requested_s": 128,
+      "time_s": 128
+    },
+    {
+      "file": "frame_000130000.jpg",
+      "requested_s": 130,
+      "time_s": 130
+    },
+    {
+      "file": "frame_000132000.jpg",
+      "requested_s": 132,
+      "time_s": 132
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "FIXED_TOP_GOLD_TITLE",
+    "LETTERBOXED_HORIZONTAL_INTERVIEW",
+    "TWO_PERSON_ADVISORY_PITCH",
+    "WHITE_VERBATIM_SUBTITLES",
+    "ANNUAL_PRICE_CALLOUT",
+    "AI_AND_SALES_ADVISORY",
+    "BACCARA_ADVISORY_JOKE",
+    "UNVERIFIED_PERCENT_CLAIM",
+    "KOREA_CASINO_TOUR_PITCH",
+    "RED_LOWER_THIRD_CTA",
+    "DIRECT_TO_CAMERA_CLOSE"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34
+      ],
+      "observed": "黒い縦画面の上部へ金色の『ラスワン 林顧問のお時間』を固定し、中央の横長対談に二人を収める。冒頭の短い肩書き表示から顧問制度を問い、営業・AI・人脈の強化、年間100万円、料金を変えず成果が出るまで関わるという新プランを、白い逐語字幕と16〜18秒の黒黄価格カードで説明する。",
+      "limits": "肩書き、人物、顧問契約、料金、成果、期間、営業・AI能力は未検証。"
+    },
+    {
+      "sample_requested_s": [
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72
+      ],
+      "observed": "バカラを世界一楽しませるという自己評価、人生の本質、楽しみ方、絞り方、負けた時の心構え、一体感へ話題を転じる。カードへ侮辱語を5回言う場合と『ありがとう』を5回言う場合で勝敗が2%ずれたという表示の後、人物へ寄って中央に『末期ギャン中』を置き、笑いの間を作る。",
+      "limits": "世界一、人生論、絞り方、勝敗、2%、比較方法、統計的意味は未検証。賭博戦略・助言や侮辱表現として再利用しない。"
+    },
+    {
+      "sample_requested_s": [
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88,
+        90,
+        92
+      ],
+      "observed": "AIや営業で力を借りたい人へ年間100万円という提案を戻し、バカラのカードへ感謝したい人も対象に含める。量子力学的に人のためを思うと結果がプラスになるという表示へ進み、人物が前方へ手を伸ばし、飲み物を持つ反応で区切る。",
+      "limits": "料金、対象、量子力学、感謝と勝敗・結果の因果は未検証。科学的説明や賭博助言にしない。"
+    },
+    {
+      "sample_requested_s": [
+        94,
+        96,
+        98,
+        100,
+        102,
+        104,
+        106,
+        108,
+        110,
+        112
+      ],
+      "observed": "動画から申し込んだ人と韓国へ行く案を会話で出し、赤い下帯の『ラスワン 林と行く韓国カジノツアー』と、100万円を振り込んだ人へ一緒に行くという表示を100〜108秒で保持する。110秒では『一応念のため…』『保険で払っとく？100万』という白い追記で冗談へ落とす。",
+      "limits": "ツアー、支払、申込、旅程、運営、許認可、契約、返金、カジノ利用は未確認。送金・申込を行わず、販売条件の正本にしない。"
+    },
+    {
+      "sample_requested_s": [
+        114,
+        116,
+        118,
+        120,
+        122,
+        124,
+        126,
+        128,
+        130,
+        132
+      ],
+      "observed": "普通の仕事を手伝ってほしい人へ対象を戻し、営業・AIの得意さ、上場経験という表示から、同行してバカラへ行った場合の勝率を問い、122秒に大きな『100%です』を置く。124秒以降は赤い下帯の顧問制度応募と概要欄案内を保持し、二人がカメラへ手を広げて閉じる。",
+      "limits": "能力、経験、勝率100%、母集団、応募条件、契約、成果は未検証。賭博の勝利保証や勧誘として使わない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_advisory_price_gambling_tour_and_win_rate_claims": "HIGH",
+    "contract_service_results_statistics_science_and_travel": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "67点の2秒間隔静止画目視であり、132.41秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSは観察した67点ですべて一致するが、字幕、寄り、下帯、身振り、音の境界はサンプル間にある可能性がある。",
+    "最終実画像は実PTS 132秒。最後の約0.41秒と全サンプル間は未視聴。",
+    "未校正ASRは画面上の話題整理の補助に限り、氏名、発話、金額、勝率、契約の正本にしない。",
+    "年間100万円、成果までの関与、2%差、韓国カジノツアー、勝率100%は表示上の主張で、契約・科学・統計・成果の証明ではない。",
+    "人物、会社、顧問制度、渡航、カジノ、部屋、ホワイトボード、撮影同意、素材権利と音はUNKNOWN。"
+  ]
+}
+
