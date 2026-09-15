@@ -1,0 +1,93 @@
+{
+  "video_id": "qs-oEHVT_TA",
+  "reference_video": "https://www.youtube.com/watch?v=qs-oEHVT_TA",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 27,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file": "frame_000000000.jpg", "requested_s": 0, "time_s": 0},
+    {"file": "frame_000002000.jpg", "requested_s": 2, "time_s": 2},
+    {"file": "frame_000004000.jpg", "requested_s": 4, "time_s": 4},
+    {"file": "frame_000006000.jpg", "requested_s": 6, "time_s": 6},
+    {"file": "frame_000008000.jpg", "requested_s": 8, "time_s": 8},
+    {"file": "frame_000010000.jpg", "requested_s": 10, "time_s": 10},
+    {"file": "frame_000012000.jpg", "requested_s": 12, "time_s": 12},
+    {"file": "frame_000014000.jpg", "requested_s": 14, "time_s": 14},
+    {"file": "frame_000016000.jpg", "requested_s": 16, "time_s": 16},
+    {"file": "frame_000018000.jpg", "requested_s": 18, "time_s": 18},
+    {"file": "frame_000020000.jpg", "requested_s": 20, "time_s": 20},
+    {"file": "frame_000022000.jpg", "requested_s": 22, "time_s": 22},
+    {"file": "frame_000024000.jpg", "requested_s": 24, "time_s": 24},
+    {"file": "frame_000026000.jpg", "requested_s": 26, "time_s": 26},
+    {"file": "frame_000028000.jpg", "requested_s": 28, "time_s": 28},
+    {"file": "frame_000030000.jpg", "requested_s": 30, "time_s": 30},
+    {"file": "frame_000032000.jpg", "requested_s": 32, "time_s": 32},
+    {"file": "frame_000034000.jpg", "requested_s": 34, "time_s": 34},
+    {"file": "frame_000036000.jpg", "requested_s": 36, "time_s": 36},
+    {"file": "frame_000038000.jpg", "requested_s": 38, "time_s": 38},
+    {"file": "frame_000040000.jpg", "requested_s": 40, "time_s": 40},
+    {"file": "frame_000042000.jpg", "requested_s": 42, "time_s": 42},
+    {"file": "frame_000044000.jpg", "requested_s": 44, "time_s": 44},
+    {"file": "frame_000046000.jpg", "requested_s": 46, "time_s": 46},
+    {"file": "frame_000048000.jpg", "requested_s": 48, "time_s": 48},
+    {"file": "frame_000050000.jpg", "requested_s": 50, "time_s": 50},
+    {"file": "frame_000052000.jpg", "requested_s": 52, "time_s": 52}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "ILLUSTRATED_DEBT_RECAP",
+    "BLACK_STAGE_LAYOUT",
+    "AVATAR_PRESENTER",
+    "SLIDE_ABOVE_SUBTITLE_BELOW",
+    "LAYERED_DESCENT_METAPHOR",
+    "CUMULATIVE_DEBT_TOTALS",
+    "CYAN_NARRATION_SUBTITLES",
+    "RED_FINAL_TOTAL"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10],
+      "observed": "黒背景の中央下に金髪人物の全身アバターを固定し、上部の横長イラスト、下部のシアン字幕で説明する。奈落への転落を示す導入、『アルマンドお願い』という画面上の語、暗転、崩れ始めたという物語から、借金総額0円という起点へ進む。",
+      "limits": "アバター、人物、物語、名称、債務0円、画像生成の有無、音は未確認。実在人物の財務履歴として確定しない。"
+    },
+    {
+      "sample_requested_s": [12, 14, 16, 18],
+      "observed": "『第一階層：国家という債権者』という上部カードから、修正ミスと逃れられない重圧という説明カードへ切り替え、シアン字幕で借金総額46,510,000円を表示する。",
+      "limits": "税目・債権者・修正内容・元本・利息・確定時期・債務者は未確認。表示総額を公的記録や確定債務にしない。"
+    },
+    {
+      "sample_requested_s": [20, 22, 24, 26, 28, 30, 32, 34],
+      "observed": "『第二階層：しがらみの世界』から、ビジネスが鎖に変わる、遊びの代償と個人の信用、応援が請求書になるという暗色カードを連ねる。シアン字幕の借金総額は66,510,000円、77,410,000円、78,410,000円へ段階的に増える。",
+      "limits": "各増加額の内訳、当事者、契約、貸付、請求、返済義務、時系列は未確認。差額から原因や債権者を補完しない。"
+    },
+    {
+      "sample_requested_s": [36, 38, 40, 42, 44, 46],
+      "observed": "『最終階層：心の負債』、到達してしまったという字幕、最も近く最も重い約束というカードへ進み、借金総額98,410,000円を表示する。崩落の底で見上げる空というカードとシアンの『絶望の淵です』で下降物語を締める。",
+      "limits": "心理状態、近しい人物、約束、借入、返済義務、98,410,000円の正確性は未検証。精神状態の診断にしない。"
+    },
+    {
+      "sample_requested_s": [48, 50, 52],
+      "observed": "上部カードを赤い『借金総額98,410,000円』へ切り替え、シアン字幕でも同額を反復する。続けて『アルマンドの物語が』という未完の文を置き、52秒はアバターだけを残す。",
+      "limits": "最終文の続きと終端意図はサンプル外の可能性がある。表示額を実際の残高、現在債務、純損失として再利用しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_debt_total_progression": "HIGH",
+    "identity_liability_breakdown_and_financial_accuracy": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "27点の2秒間隔静止画目視であり、53.57秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSは本資料では同値だが、カード切替、金額増加、字幕、終端の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 52秒。最後の約1.57秒と全サンプル間は未視聴。",
+    "0円、46,510,000円、66,510,000円、77,410,000円、78,410,000円、98,410,000円は画面上の物語表示で、債務者、債権者、内訳、契約、残高、返済、正確性を検証していない。",
+    "アバター、人物、名称、イラスト、生成方法、素材権利と音はUNKNOWN。"
+  ]
+}
