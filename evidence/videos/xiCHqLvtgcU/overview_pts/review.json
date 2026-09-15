@@ -1,0 +1,358 @@
+{
+  "video_id": "xiCHqLvtgcU",
+  "reference_video": "https://www.youtube.com/watch?v=xiCHqLvtgcU",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 48,
+  "reviewed_sheet_count": 8,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.002
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.004
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.006
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.008
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.01
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.012
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.014
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.016
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.018
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.02
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.022
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.024
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.026
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.028
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.03
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.032
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.001
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.003
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.005
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.007
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.009
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.011
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.013
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48.015
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.017
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.019
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.021
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.023
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58.025
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.027
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.029
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64.031
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.033
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.001
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.003
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.005
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.007
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.009
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.011
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.013
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.015
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.017
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86.019
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88.021
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.023
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92.025
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94.027
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "HORSE_RACING_AI",
+    "OUTDOOR_PHONE_VIEWING",
+    "AI_VS_HUMAN_RESULTS_CLAIMS",
+    "FULLSCREEN_REACTION_CARD",
+    "LIVE_RACE_NUMBER_REACTION",
+    "NO_SETTLEMENT_SHOWN"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18
+      ],
+      "observed": "公園らしい屋外でスマートフォンを持つ人物の寄りから始める。白い挨拶、赤い『WIN5の春』、白い稼働日の説明を置き、AIでWIN5を扱うという白字幕からROI約200%という赤字幕、黄発光の『大阪杯』、WIN4まで来ているという白字幕へ進む。",
+      "limits": "場所、日付、WIN5参加、AI、ROI、稼働、レース、投票、的中は画面上の説明で未検証。"
+    },
+    {
+      "sample_requested_s": [
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36
+      ],
+      "observed": "無字幕を挟み、9または15という候補を白字幕で示し、26秒は『優勝』を黄発光で強調する。続いて白い『WIN5は半端ない』、緑発光の『競馬AI』、ROIの上振れ、約150%、プラス約160万円という赤黄の数値説明を連ねる。",
+      "limits": "9・15の意味、優勝対象、ROI約200%と約150%の母集団・期間、160万円の計算、通貨、入出金、損益は未確認。数値間の関係を補完しない。"
+    },
+    {
+      "sample_requested_s": [
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54
+      ],
+      "observed": "無字幕から『ヒューマン』という白い呼称へ移り、人間の予想だと定義する。緑の競馬AIで約160万円勝ったという表示と、紫の人間予想で約100万円負けたという表示を対比し、8の複勝、4・8・15という選択を白・赤で示す。",
+      "limits": "AIと人間の予想方法、160万円と100万円の期間・元本・純損益、8の複勝、4・8・15の券種・買い目・金額は未確認。相殺して純利益を算出しない。"
+    },
+    {
+      "sample_requested_s": [
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78
+      ],
+      "observed": "56秒に橙色の全画面イラストカード『絶好調！』を挟み、手元の横向きスマートフォンでレース映像を見る画へ切り替える。白い『4もいる』、黄の4・8・15、白い15への反応とタオルに関するツッコミを重ね、端末画面と指の動きを中心にする。",
+      "limits": "レース配信元、権利、出走馬、順位、実況、発話、タオル表現の意味、映像のリアルタイム性は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        80,
+        82,
+        84,
+        86,
+        88,
+        90,
+        92,
+        94
+      ],
+      "observed": "端末上の終盤へ白い15の応援、黄い『15きた』と馬群付近の15ラベルを重ねる。86秒は人物の顔へ寄り、白い角丸箱で本当に15が来たと反応し、無字幕の間を経て緑発光の『これが競馬AI』で締める。",
+      "limits": "15の着順、券種、的中、WIN5成立、オッズ、投票額、払戻、純損益は表示確認できず、勝利・精算を確定しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_predictions_roi_and_money_claims": "HIGH",
+    "race_result_win5_hit_payout_and_net_profit": "UNKNOWN",
+    "audio_race_identity_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "48点の2秒間隔静止画目視であり、94.23秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大約0.031秒の差があり、字幕、全画面カード、レース、反応の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 94.027秒。最後の約0.203秒と全サンプル間は未視聴。",
+    "ROI約200%・約150%、約160万円の勝ち、約100万円の負け、8の複勝、4・8・15は画面上の説明で、期間、元本、券種、投票、的中、払戻、純損益を確定しない。",
+    "人物、場所、端末、レース映像、イラスト、撮影同意、素材権利と音は未確認。"
+  ]
+}
