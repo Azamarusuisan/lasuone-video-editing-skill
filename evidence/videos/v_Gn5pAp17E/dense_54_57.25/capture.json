@@ -1,0 +1,396 @@
+{
+  "video_id": "v_Gn5pAp17E",
+  "evidence_type": "ALL_DECODED_FRAMES_IN_LOCAL_SEGMENT",
+  "full_watch": false,
+  "requested_interval_s": [
+    54,
+    57.25
+  ],
+  "timestamp_method": "Source PTS preserved and read from FFmpeg showinfo",
+  "frames": [
+    {
+      "file": "frame_00001.jpg",
+      "time_s": 54
+    },
+    {
+      "file": "frame_00002.jpg",
+      "time_s": 54.033
+    },
+    {
+      "file": "frame_00003.jpg",
+      "time_s": 54.067
+    },
+    {
+      "file": "frame_00004.jpg",
+      "time_s": 54.1
+    },
+    {
+      "file": "frame_00005.jpg",
+      "time_s": 54.133
+    },
+    {
+      "file": "frame_00006.jpg",
+      "time_s": 54.167
+    },
+    {
+      "file": "frame_00007.jpg",
+      "time_s": 54.2
+    },
+    {
+      "file": "frame_00008.jpg",
+      "time_s": 54.233
+    },
+    {
+      "file": "frame_00009.jpg",
+      "time_s": 54.267
+    },
+    {
+      "file": "frame_00010.jpg",
+      "time_s": 54.3
+    },
+    {
+      "file": "frame_00011.jpg",
+      "time_s": 54.333
+    },
+    {
+      "file": "frame_00012.jpg",
+      "time_s": 54.367
+    },
+    {
+      "file": "frame_00013.jpg",
+      "time_s": 54.4
+    },
+    {
+      "file": "frame_00014.jpg",
+      "time_s": 54.433
+    },
+    {
+      "file": "frame_00015.jpg",
+      "time_s": 54.467
+    },
+    {
+      "file": "frame_00016.jpg",
+      "time_s": 54.5
+    },
+    {
+      "file": "frame_00017.jpg",
+      "time_s": 54.533
+    },
+    {
+      "file": "frame_00018.jpg",
+      "time_s": 54.567
+    },
+    {
+      "file": "frame_00019.jpg",
+      "time_s": 54.6
+    },
+    {
+      "file": "frame_00020.jpg",
+      "time_s": 54.633
+    },
+    {
+      "file": "frame_00021.jpg",
+      "time_s": 54.667
+    },
+    {
+      "file": "frame_00022.jpg",
+      "time_s": 54.7
+    },
+    {
+      "file": "frame_00023.jpg",
+      "time_s": 54.733
+    },
+    {
+      "file": "frame_00024.jpg",
+      "time_s": 54.767
+    },
+    {
+      "file": "frame_00025.jpg",
+      "time_s": 54.8
+    },
+    {
+      "file": "frame_00026.jpg",
+      "time_s": 54.833
+    },
+    {
+      "file": "frame_00027.jpg",
+      "time_s": 54.867
+    },
+    {
+      "file": "frame_00028.jpg",
+      "time_s": 54.9
+    },
+    {
+      "file": "frame_00029.jpg",
+      "time_s": 54.933
+    },
+    {
+      "file": "frame_00030.jpg",
+      "time_s": 54.967
+    },
+    {
+      "file": "frame_00031.jpg",
+      "time_s": 55
+    },
+    {
+      "file": "frame_00032.jpg",
+      "time_s": 55.033
+    },
+    {
+      "file": "frame_00033.jpg",
+      "time_s": 55.067
+    },
+    {
+      "file": "frame_00034.jpg",
+      "time_s": 55.1
+    },
+    {
+      "file": "frame_00035.jpg",
+      "time_s": 55.133
+    },
+    {
+      "file": "frame_00036.jpg",
+      "time_s": 55.167
+    },
+    {
+      "file": "frame_00037.jpg",
+      "time_s": 55.2
+    },
+    {
+      "file": "frame_00038.jpg",
+      "time_s": 55.233
+    },
+    {
+      "file": "frame_00039.jpg",
+      "time_s": 55.267
+    },
+    {
+      "file": "frame_00040.jpg",
+      "time_s": 55.3
+    },
+    {
+      "file": "frame_00041.jpg",
+      "time_s": 55.333
+    },
+    {
+      "file": "frame_00042.jpg",
+      "time_s": 55.367
+    },
+    {
+      "file": "frame_00043.jpg",
+      "time_s": 55.4
+    },
+    {
+      "file": "frame_00044.jpg",
+      "time_s": 55.433
+    },
+    {
+      "file": "frame_00045.jpg",
+      "time_s": 55.467
+    },
+    {
+      "file": "frame_00046.jpg",
+      "time_s": 55.5
+    },
+    {
+      "file": "frame_00047.jpg",
+      "time_s": 55.533
+    },
+    {
+      "file": "frame_00048.jpg",
+      "time_s": 55.567
+    },
+    {
+      "file": "frame_00049.jpg",
+      "time_s": 55.6
+    },
+    {
+      "file": "frame_00050.jpg",
+      "time_s": 55.633
+    },
+    {
+      "file": "frame_00051.jpg",
+      "time_s": 55.667
+    },
+    {
+      "file": "frame_00052.jpg",
+      "time_s": 55.7
+    },
+    {
+      "file": "frame_00053.jpg",
+      "time_s": 55.733
+    },
+    {
+      "file": "frame_00054.jpg",
+      "time_s": 55.767
+    },
+    {
+      "file": "frame_00055.jpg",
+      "time_s": 55.8
+    },
+    {
+      "file": "frame_00056.jpg",
+      "time_s": 55.833
+    },
+    {
+      "file": "frame_00057.jpg",
+      "time_s": 55.867
+    },
+    {
+      "file": "frame_00058.jpg",
+      "time_s": 55.9
+    },
+    {
+      "file": "frame_00059.jpg",
+      "time_s": 55.933
+    },
+    {
+      "file": "frame_00060.jpg",
+      "time_s": 55.967
+    },
+    {
+      "file": "frame_00061.jpg",
+      "time_s": 56
+    },
+    {
+      "file": "frame_00062.jpg",
+      "time_s": 56.033
+    },
+    {
+      "file": "frame_00063.jpg",
+      "time_s": 56.067
+    },
+    {
+      "file": "frame_00064.jpg",
+      "time_s": 56.1
+    },
+    {
+      "file": "frame_00065.jpg",
+      "time_s": 56.133
+    },
+    {
+      "file": "frame_00066.jpg",
+      "time_s": 56.167
+    },
+    {
+      "file": "frame_00067.jpg",
+      "time_s": 56.2
+    },
+    {
+      "file": "frame_00068.jpg",
+      "time_s": 56.233
+    },
+    {
+      "file": "frame_00069.jpg",
+      "time_s": 56.267
+    },
+    {
+      "file": "frame_00070.jpg",
+      "time_s": 56.3
+    },
+    {
+      "file": "frame_00071.jpg",
+      "time_s": 56.333
+    },
+    {
+      "file": "frame_00072.jpg",
+      "time_s": 56.367
+    },
+    {
+      "file": "frame_00073.jpg",
+      "time_s": 56.4
+    },
+    {
+      "file": "frame_00074.jpg",
+      "time_s": 56.433
+    },
+    {
+      "file": "frame_00075.jpg",
+      "time_s": 56.467
+    },
+    {
+      "file": "frame_00076.jpg",
+      "time_s": 56.5
+    },
+    {
+      "file": "frame_00077.jpg",
+      "time_s": 56.533
+    },
+    {
+      "file": "frame_00078.jpg",
+      "time_s": 56.567
+    },
+    {
+      "file": "frame_00079.jpg",
+      "time_s": 56.6
+    },
+    {
+      "file": "frame_00080.jpg",
+      "time_s": 56.633
+    },
+    {
+      "file": "frame_00081.jpg",
+      "time_s": 56.667
+    },
+    {
+      "file": "frame_00082.jpg",
+      "time_s": 56.7
+    },
+    {
+      "file": "frame_00083.jpg",
+      "time_s": 56.733
+    },
+    {
+      "file": "frame_00084.jpg",
+      "time_s": 56.767
+    },
+    {
+      "file": "frame_00085.jpg",
+      "time_s": 56.8
+    },
+    {
+      "file": "frame_00086.jpg",
+      "time_s": 56.833
+    },
+    {
+      "file": "frame_00087.jpg",
+      "time_s": 56.867
+    },
+    {
+      "file": "frame_00088.jpg",
+      "time_s": 56.9
+    },
+    {
+      "file": "frame_00089.jpg",
+      "time_s": 56.933
+    },
+    {
+      "file": "frame_00090.jpg",
+      "time_s": 56.967
+    },
+    {
+      "file": "frame_00091.jpg",
+      "time_s": 57
+    },
+    {
+      "file": "frame_00092.jpg",
+      "time_s": 57.033
+    },
+    {
+      "file": "frame_00093.jpg",
+      "time_s": 57.067
+    },
+    {
+      "file": "frame_00094.jpg",
+      "time_s": 57.1
+    },
+    {
+      "file": "frame_00095.jpg",
+      "time_s": 57.133
+    },
+    {
+      "file": "frame_00096.jpg",
+      "time_s": 57.167
+    }
+  ]
+}

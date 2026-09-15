@@ -720,6 +720,54 @@
       "confidence": "HIGH",
       "generalization_confidence": "LOW",
       "warning": "結果帯は区間入口ですでに存在し、出現時刻は未確認。2区間の差を連続したレース尺・反応尺にしない。レースと反応の実時間・音声同期は未確認。"
+    },
+    {
+      "video_id": "v_Gn5pAp17E",
+      "reference_video": "https://www.youtube.com/watch?v=v_Gn5pAp17E&t=54",
+      "evidence_directory": "evidence/videos/v_Gn5pAp17E/dense_54_57.25/",
+      "source_pts_first_s": 54,
+      "source_pts_last_s": 57.167,
+      "decoded_frames_visually_reviewed": 96,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 55.133,
+          "event": "LAST_MACHINE_RESULT_FRAME_BEFORE_CROSSFADE",
+          "frame_file": "frame_00035.jpg",
+          "description": "『運命の結果は・・』を重ねた筐体画面。CASH $896.00、BET $15.00、WIN $0.00が見える。"
+        },
+        {
+          "time_s": 55.167,
+          "event": "CROSSFADE_TO_CASH_HANDOFF_BEGINS",
+          "frame_file": "frame_00036.jpg"
+        },
+        {
+          "time_s": 55.567,
+          "event": "CASH_HANDOFF_SCENE_VISUALLY_RESOLVED",
+          "frame_file": "frame_00048.jpg"
+        },
+        {
+          "time_s": 56.067,
+          "event": "RESULT_TEXT_REVEAL_STILL_IN_PROGRESS",
+          "frame_file": "frame_00063.jpg"
+        },
+        {
+          "time_s": 56.1,
+          "event": "EDITORIAL_RESULT_CLAIM_FIRST_CLEAR",
+          "frame_file": "frame_00064.jpg",
+          "displayed_text": "一撃 20万円GETだ"
+        },
+        {
+          "time_s": 57.167,
+          "event": "CASH_SCENE_AND_EDITORIAL_RESULT_CLAIM_RETAINED_AT_INTERVAL_END",
+          "frame_file": "frame_00096.jpg"
+        }
+      ],
+      "confirmed_source_shot_cut_count": null,
+      "crossfade_full_end_s": null,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "20万円は編集字幕。現金の実額・所有、筐体数値との対応、チケット換金、払戻総額、純利益は未確認。クロスフェード開始は目視で確定したが、完全な終了時刻・音同期は確定しない。"
     }
   ],
   "audio_track_checks": [
