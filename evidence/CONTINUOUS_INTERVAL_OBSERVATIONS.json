@@ -821,6 +821,49 @@
       "confidence": "HIGH",
       "generalization_confidence": "LOW",
       "warning": "末尾は否定的な反応で、払戻・残高・純損失の表示ではない。字幕の出入りは確定したが、音同期、プリセット、素材カット数は未確定。"
+    },
+    {
+      "video_id": "b2v9ihNSqyc",
+      "reference_video": "https://www.youtube.com/watch?v=b2v9ihNSqyc&t=59",
+      "evidence_directory": "evidence/videos/b2v9ihNSqyc/dense_59.5_61.19/",
+      "source_pts_first_s": 59.5,
+      "source_pts_last_s": 61.133,
+      "decoded_frames_visually_reviewed": 50,
+      "audio_directly_reviewed": false,
+      "events": [
+        {
+          "time_s": 59.6,
+          "event": "LAST_FRAME_WITH_PLAYER_THIRD_CARD_HUD_SLOT_HIDDEN",
+          "frame_file": "frame_00004.jpg",
+          "display": "BANKER QH 2C QS = 2; PLAYER 5D 6D with third slot hidden = 1"
+        },
+        {
+          "time_s": 59.633,
+          "event": "PLAYER_THIRD_CARD_AND_FINAL_COUNT_ENTER_HUD",
+          "frame_file": "frame_00005.jpg",
+          "display": "PLAYER 5D 6D 4D = 5"
+        },
+        {
+          "time_s": 60.233,
+          "event": "LAST_TABLE_FRAME_WITH_COMPLETE_HUD_AND_BET_TEXT",
+          "frame_file": "frame_00023.jpg"
+        },
+        {
+          "time_s": 60.267,
+          "event": "HARD_CUT_TO_PERSON_REACTION_AND_EMPLOYMENT_JOKE",
+          "frame_file": "frame_00024.jpg",
+          "description": "カードHUD・6,000万ウォン・BANKER BET・施設ロゴを同時に外し、人物反応へ白い『永久雇用。』を置く。"
+        },
+        {
+          "time_s": 61.133,
+          "event": "PERSON_REACTION_AND_EMPLOYMENT_JOKE_RETAINED_AT_INTERVAL_END",
+          "frame_file": "frame_00050.jpg"
+        }
+      ],
+      "confirmed_source_shot_cut_count": 1,
+      "confidence": "HIGH",
+      "generalization_confidence": "LOW",
+      "warning": "完成HUDはBANKER 2対PLAYER 5とBANKERへのBETを示すが、実賭け、WIN/LOSE、チップ回収、払戻、純損失は未確認。『永久雇用。』を実際の雇用情報にしない。"
     }
   ],
   "audio_track_checks": [

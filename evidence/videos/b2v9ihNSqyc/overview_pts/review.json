@@ -1,0 +1,92 @@
+{
+  "video_id": "b2v9ihNSqyc",
+  "reference_video": "https://www.youtube.com/watch?v=b2v9ihNSqyc",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 31,
+  "reviewed_sheet_count": 6,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "CASINO",
+    "BACCARAT",
+    "SIXTY_MILLION_WON_BET_HOOK",
+    "BANKER_BET",
+    "PERSISTENT_LOWER_GAME_HUD",
+    "LONG_CARD_SQUEEZE",
+    "DISPLAYED_BANKER_LOSS",
+    "EMPLOYMENT_JOKE_EPILOGUE"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18],
+      "observed": "人物へ黄色い明朝系の『バカラで600万円をオールインする男』を置き、白い会話字幕で他動画の絞りとの違いと『これがリアルなんだよ!!』を語らせる。チップの寄りへ『6,000万ウォン（約600万円）BANKERにBET』を金縁の大文字で常設し、器の差を見せるという人物づけへ戻る。",
+      "limits": "一部伏せ字の語を補完しない。6,000万ウォン、約600万円、オールイン、BANKERへの実ベット、チップ総額、換算時点は編集表示だけでは検証できない。"
+    },
+    {
+      "sample_requested_s": [20, 22, 24, 26, 28, 30, 32, 34, 36, 38],
+      "observed": "手元の極端な寄りでBANKER側の第一カードを長く絞り、下部HUDを常設する。22秒サンプルからQ♥、36秒サンプルから2♣と計2点を表示し、途中で人物の反応画へ切り替えてもHUD・金額・BET先・施設ロゴを保つ。",
+      "limits": "配札・絞りの正確な開始時刻、カード実物とHUDの全境界、施設での撮影・ブランド使用許可は未確認。"
+    },
+    {
+      "sample_requested_s": [40, 42, 44, 46, 48, 50, 52],
+      "observed": "卓上のカードと人物反応を往復し、PLAYER側を5♦・6♦＝1としてHUDへ段階追加する。BANKER Q♥・2♣＝2対PLAYER 1の状態で双方の第三カード待ちを保つ。",
+      "limits": "42秒の実物カード、HUD更新、人物反応の正確な順序は2秒間隔の間にある可能性がある。"
+    },
+    {
+      "sample_requested_s": [54, 56, 58, 60],
+      "observed": "BANKERの第三カードをQ♠として計2点を維持し、PLAYERの第三カードを長く絞る。60秒サンプルで4♦を加え、完成HUDはBANKER Q♥・2♣・Q♠＝2、PLAYER 5♦・6♦・4♦＝5を表示する。局所連続50フレームでは60.267秒に人物反応へハードカットし、HUDを外して白い『永久雇用。』で締める。",
+      "limits": "表示カード上はPLAYER 5がBANKER 2を上回り、BANKERへのベットと組み合わせると負けに整合するが、WIN/LOSE、チップ回収、払戻、純損失は表示されない。『永久雇用。』は編集上のオチで、実際の雇用条件ではない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_cards_counts_and_bet_side": "HIGH",
+    "derived_hand_outcome_from_displayed_cards": "HIGH",
+    "actual_wager_and_settlement": "UNKNOWN",
+    "audio_and_unsampled_boundaries": "UNKNOWN"
+  },
+  "limitations": [
+    "31点の2秒間隔静止画目視であり、61.19秒全体の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTSで、全点がrequested_sと一致する。字幕、カード公開、HUD更新、反応の境界はサンプル間にある可能性がある。",
+    "59.500〜61.133秒は別途50デコードフレームを連続目視したが、映像全体の連続レビューや音声確認には広げない。",
+    "人物、施設、賭け、雇用、撮影・公開同意、HUD・ロゴ・卓映像の素材権利は未確認。"
+  ]
+}
