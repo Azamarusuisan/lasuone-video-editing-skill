@@ -1,0 +1,123 @@
+{
+  "video_id": "jSqQ27dDR3A",
+  "reference_video": "https://www.youtube.com/watch?v=jSqQ27dDR3A",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 54,
+  "reviewed_sheet_count": 9,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file": "frame_000000000.jpg", "requested_s": 0, "time_s": 0},
+    {"file": "frame_000002000.jpg", "requested_s": 2, "time_s": 2},
+    {"file": "frame_000004000.jpg", "requested_s": 4, "time_s": 4},
+    {"file": "frame_000006000.jpg", "requested_s": 6, "time_s": 6},
+    {"file": "frame_000008000.jpg", "requested_s": 8, "time_s": 8},
+    {"file": "frame_000010000.jpg", "requested_s": 10, "time_s": 10},
+    {"file": "frame_000012000.jpg", "requested_s": 12, "time_s": 12},
+    {"file": "frame_000014000.jpg", "requested_s": 14, "time_s": 14},
+    {"file": "frame_000016000.jpg", "requested_s": 16, "time_s": 16},
+    {"file": "frame_000018000.jpg", "requested_s": 18, "time_s": 18},
+    {"file": "frame_000020000.jpg", "requested_s": 20, "time_s": 20},
+    {"file": "frame_000022000.jpg", "requested_s": 22, "time_s": 22},
+    {"file": "frame_000024000.jpg", "requested_s": 24, "time_s": 24},
+    {"file": "frame_000026000.jpg", "requested_s": 26, "time_s": 26},
+    {"file": "frame_000028000.jpg", "requested_s": 28, "time_s": 28},
+    {"file": "frame_000030000.jpg", "requested_s": 30, "time_s": 30},
+    {"file": "frame_000032000.jpg", "requested_s": 32, "time_s": 32},
+    {"file": "frame_000034000.jpg", "requested_s": 34, "time_s": 34},
+    {"file": "frame_000036000.jpg", "requested_s": 36, "time_s": 36},
+    {"file": "frame_000038000.jpg", "requested_s": 38, "time_s": 38},
+    {"file": "frame_000040000.jpg", "requested_s": 40, "time_s": 40},
+    {"file": "frame_000042000.jpg", "requested_s": 42, "time_s": 42},
+    {"file": "frame_000044000.jpg", "requested_s": 44, "time_s": 44},
+    {"file": "frame_000046000.jpg", "requested_s": 46, "time_s": 46},
+    {"file": "frame_000048000.jpg", "requested_s": 48, "time_s": 48},
+    {"file": "frame_000050000.jpg", "requested_s": 50, "time_s": 50},
+    {"file": "frame_000052000.jpg", "requested_s": 52, "time_s": 52},
+    {"file": "frame_000054000.jpg", "requested_s": 54, "time_s": 54},
+    {"file": "frame_000056000.jpg", "requested_s": 56, "time_s": 56},
+    {"file": "frame_000058000.jpg", "requested_s": 58, "time_s": 58},
+    {"file": "frame_000060000.jpg", "requested_s": 60, "time_s": 60},
+    {"file": "frame_000062000.jpg", "requested_s": 62, "time_s": 62},
+    {"file": "frame_000064000.jpg", "requested_s": 64, "time_s": 64},
+    {"file": "frame_000066000.jpg", "requested_s": 66, "time_s": 66},
+    {"file": "frame_000068000.jpg", "requested_s": 68, "time_s": 68},
+    {"file": "frame_000070000.jpg", "requested_s": 70, "time_s": 70},
+    {"file": "frame_000072000.jpg", "requested_s": 72, "time_s": 72},
+    {"file": "frame_000074000.jpg", "requested_s": 74, "time_s": 74},
+    {"file": "frame_000076000.jpg", "requested_s": 76, "time_s": 76},
+    {"file": "frame_000078000.jpg", "requested_s": 78, "time_s": 78},
+    {"file": "frame_000080000.jpg", "requested_s": 80, "time_s": 80},
+    {"file": "frame_000082000.jpg", "requested_s": 82, "time_s": 82},
+    {"file": "frame_000084000.jpg", "requested_s": 84, "time_s": 84},
+    {"file": "frame_000086000.jpg", "requested_s": 86, "time_s": 86},
+    {"file": "frame_000088000.jpg", "requested_s": 88, "time_s": 88},
+    {"file": "frame_000090000.jpg", "requested_s": 90, "time_s": 90},
+    {"file": "frame_000092000.jpg", "requested_s": 92, "time_s": 92},
+    {"file": "frame_000094000.jpg", "requested_s": 94, "time_s": 94},
+    {"file": "frame_000096000.jpg", "requested_s": 96, "time_s": 96},
+    {"file": "frame_000098000.jpg", "requested_s": 98, "time_s": 98},
+    {"file": "frame_000100000.jpg", "requested_s": 100, "time_s": 100},
+    {"file": "frame_000102000.jpg", "requested_s": 102, "time_s": 102},
+    {"file": "frame_000104000.jpg", "requested_s": 104, "time_s": 104},
+    {"file": "frame_000106000.jpg", "requested_s": 106, "time_s": 106}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "OFFICE_MORNING_SPEECH",
+    "SALES_SPECIAL_TREATMENT_LESSON",
+    "MOSTLY_STATIC_WIDE_SHOT",
+    "WHITE_VERBATIM_SUBTITLES",
+    "RED_VERTICAL_HOOK",
+    "PINK_AUDIENCE_CORRECTIONS",
+    "YELLOW_SPECIALNESS_EMPHASIS",
+    "BRIEF_AUDIENCE_CUTAWAYS",
+    "HOTEL_INVITATION_ANALOGY"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14, 16],
+      "observed": "会議室のホワイトボード前に立つ人物を縦の引き画で固定し、赤い縦書きの『その商品は』を先出しする。営業経験について話すという白字幕、8秒の参加者側への短いカットを挟み、複数のサービス会社と話しているという導入へ戻る。",
+      "limits": "朝礼、会社、営業経験、取引先、人物関係、発話、音は未確認。"
+    },
+    {
+      "sample_requested_s": [18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40],
+      "observed": "メール、問い合わせフォーム、AI電話という営業手段らしい例を白字幕で列挙し、良い商品を作るだけでは足りないという話へ進む。特定地域へ連絡する場面らしい例から、白い大きな『特別感超大事』へ要点を上げる。",
+      "limits": "サービス、営業手段、AI電話、会社名、地域、連絡先、成果は未検証。画面上の営業例を実行せず、同意・規約・個人情報の扱いもUNKNOWN。"
+    },
+    {
+      "sample_requested_s": [42, 44, 46, 48, 50, 52, 54],
+      "observed": "特別感を、ホテルへ誘う時のトークと全く同じだという白字幕の比喩へ移す。全員を誘ってはいけないという話に対し、別の参加者が画面へ入り、ピンク字幕で複数の短いツッコミを返す。",
+      "limits": "親密な場への誘いを営業や対人関係の手本にしない。相手の同意、関係、状況は不明で、参加者の反応も直接聴取していない。"
+    },
+    {
+      "sample_requested_s": [56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78],
+      "observed": "営業を受けてその場でサービスを申し込むことは稀という白字幕から、相手が決めるためのきっかけを作るという説明へ進む。AI対策らしい顧客例と疑問を聞いたという言い方を挟み、黄色い『うちの店だけ来た特別感』で要点を再提示する。",
+      "limits": "顧客、申込、AI対策、モデルケース、特別扱い、購買効果は未検証。心理的圧力や誤認を使う販売手法として再利用しない。"
+    },
+    {
+      "sample_requested_s": [80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106],
+      "observed": "再びホテルへ誘う場面を例に、終電を逃した、今日は特別、酔っているという状況を白字幕で長く積む。ピンクの『無理があるでしょ』、参加者を映した『そうかじゃないです』で比喩への異議を残し、最後は顧客へ特別感をしっかり出すという白字幕へ戻る。",
+      "limits": "飲酒・終電・親密な場への誘いを対人テンプレートにしない。参加者の異議があるため、話者の例をチャンネルの推奨ルールとも確定しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_sales_specialness_argument_and_audience_corrections": "HIGH",
+    "sales_effectiveness_company_context_and_speaker_intent": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "54点の2秒間隔静止画目視であり、107.75秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSは本資料では同値だが、参加者カット、字幕、比喩、ツッコミの境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 106秒。最後の約1.75秒と全サンプル間は未視聴。",
+    "営業、サービス、AI電話、顧客、特別感、申込効果は話者の説明で、会社、運用、成果、規約適合を検証していない。",
+    "ホテル、終電、飲酒を含む比喩は参加者の異議も表示され、営業や対人関係の推奨テンプレートにしない。",
+    "人物、会社、場所、ホワイトボード、撮影同意、素材権利と音はUNKNOWN。"
+  ]
+}
