@@ -1,0 +1,74 @@
+{
+  "video_id": "d7Az1N1rx68",
+  "reference_video": "https://www.youtube.com/watch?v=d7Az1N1rx68",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 16,
+  "reviewed_sheet_count": 3,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "CAR_INTERVIEW",
+    "VENUE_BROLL",
+    "PICTURE_IN_PICTURE",
+    "CASINO_COMMENTARY",
+    "VISIBLE_REPOST_WATERMARK"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6],
+      "observed": "車内の固定人物画へ、インスパイアカジノが楽しいという導入と、施設内に遊びに行ける・良かったという会話を白・青縁字幕で置く。左下にYouTube Shortsと別ハンドル風の透かしが見える。",
+      "limits": "0秒の黒い矩形の内容、話者、施設訪問、感想、撮影元、透かし元、再投稿・許諾関係は未確認。"
+    },
+    {
+      "sample_requested_s": [8, 10, 12],
+      "observed": "車内から青い水槽・デジタル空間・舞台風の施設B-rollへ切り替え、上下2分割のような構図に金色の『非現実的な空間』を重ねる。B-roll内にはAurora、Le Spaceらしい表示が見える。",
+      "limits": "施設名、場所、展示名、営業状況、撮影許可、映像権利、体験内容は未確認。広告素材として転用しない。"
+    },
+    {
+      "sample_requested_s": [14, 16, 18, 20, 22, 24, 26],
+      "observed": "車内固定画へ戻り、驚き、デート向きという評価、現地へ行ったのかという質問、同行者がいない間に行ったという返答を白・青縁字幕でテンポよく往復する。",
+      "limits": "訪問、同行、関係、施設評価は会話上の主張。推奨・広告・現在の営業案内へ変換しない。"
+    },
+    {
+      "sample_requested_s": [28, 30],
+      "observed": "100万円を持って行ったという黄強調の字幕と、バカラ卓らしい映像の円形ピクチャーインピクチャーを右下へ重ねる。最後は全部なくなったという白字幕で落とす。",
+      "limits": "100万円と全損は自己申告。賭け、通貨、回数、払戻、純損失、時期、円形挿入映像との同一性は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_venue_and_loss_claims": "HIGH",
+    "visit_gambling_and_loss_verification": "LOW",
+    "source_and_reuse_rights": "UNKNOWN",
+    "audio_and_cut_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "16点の2秒間隔静止画目視であり、30.45秒の連続視聴・聴取ではない。",
+    "time_sは抽出画像のsource PTS。B-roll、車内復帰、円形インセット、字幕の開始・終了とは異なる。",
+    "最終サンプルはsource PTS 30.000秒。動画尺30.45秒に対する最後の約0.45秒と全サンプル間は未視聴。",
+    "人物、施設、訪問、金額、賭け、撮影元、透かし元、B-roll・挿入映像の素材権利は未確認。"
+  ]
+}
