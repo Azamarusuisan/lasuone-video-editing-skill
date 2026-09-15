@@ -1,0 +1,379 @@
+{
+  "video_id": "tQacIY4Q4Fo",
+  "reference_video": "https://www.youtube.com/watch?v=tQacIY4Q4Fo",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 51,
+  "reviewed_sheet_count": 9,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {
+      "file": "frame_000000000.jpg",
+      "requested_s": 0,
+      "time_s": 0
+    },
+    {
+      "file": "frame_000002000.jpg",
+      "requested_s": 2,
+      "time_s": 2.009
+    },
+    {
+      "file": "frame_000004000.jpg",
+      "requested_s": 4,
+      "time_s": 4.018
+    },
+    {
+      "file": "frame_000006000.jpg",
+      "requested_s": 6,
+      "time_s": 6.028
+    },
+    {
+      "file": "frame_000008000.jpg",
+      "requested_s": 8,
+      "time_s": 8.003
+    },
+    {
+      "file": "frame_000010000.jpg",
+      "requested_s": 10,
+      "time_s": 10.013
+    },
+    {
+      "file": "frame_000012000.jpg",
+      "requested_s": 12,
+      "time_s": 12.022
+    },
+    {
+      "file": "frame_000014000.jpg",
+      "requested_s": 14,
+      "time_s": 14.031
+    },
+    {
+      "file": "frame_000016000.jpg",
+      "requested_s": 16,
+      "time_s": 16.007
+    },
+    {
+      "file": "frame_000018000.jpg",
+      "requested_s": 18,
+      "time_s": 18.016
+    },
+    {
+      "file": "frame_000020000.jpg",
+      "requested_s": 20,
+      "time_s": 20.025
+    },
+    {
+      "file": "frame_000022000.jpg",
+      "requested_s": 22,
+      "time_s": 22.001
+    },
+    {
+      "file": "frame_000024000.jpg",
+      "requested_s": 24,
+      "time_s": 24.01
+    },
+    {
+      "file": "frame_000026000.jpg",
+      "requested_s": 26,
+      "time_s": 26.02
+    },
+    {
+      "file": "frame_000028000.jpg",
+      "requested_s": 28,
+      "time_s": 28.029
+    },
+    {
+      "file": "frame_000030000.jpg",
+      "requested_s": 30,
+      "time_s": 30.005
+    },
+    {
+      "file": "frame_000032000.jpg",
+      "requested_s": 32,
+      "time_s": 32.014
+    },
+    {
+      "file": "frame_000034000.jpg",
+      "requested_s": 34,
+      "time_s": 34.023
+    },
+    {
+      "file": "frame_000036000.jpg",
+      "requested_s": 36,
+      "time_s": 36.032
+    },
+    {
+      "file": "frame_000038000.jpg",
+      "requested_s": 38,
+      "time_s": 38.008
+    },
+    {
+      "file": "frame_000040000.jpg",
+      "requested_s": 40,
+      "time_s": 40.017
+    },
+    {
+      "file": "frame_000042000.jpg",
+      "requested_s": 42,
+      "time_s": 42.027
+    },
+    {
+      "file": "frame_000044000.jpg",
+      "requested_s": 44,
+      "time_s": 44.002
+    },
+    {
+      "file": "frame_000046000.jpg",
+      "requested_s": 46,
+      "time_s": 46.012
+    },
+    {
+      "file": "frame_000048000.jpg",
+      "requested_s": 48,
+      "time_s": 48.021
+    },
+    {
+      "file": "frame_000050000.jpg",
+      "requested_s": 50,
+      "time_s": 50.03
+    },
+    {
+      "file": "frame_000052000.jpg",
+      "requested_s": 52,
+      "time_s": 52.006
+    },
+    {
+      "file": "frame_000054000.jpg",
+      "requested_s": 54,
+      "time_s": 54.015
+    },
+    {
+      "file": "frame_000056000.jpg",
+      "requested_s": 56,
+      "time_s": 56.024
+    },
+    {
+      "file": "frame_000058000.jpg",
+      "requested_s": 58,
+      "time_s": 58
+    },
+    {
+      "file": "frame_000060000.jpg",
+      "requested_s": 60,
+      "time_s": 60.009
+    },
+    {
+      "file": "frame_000062000.jpg",
+      "requested_s": 62,
+      "time_s": 62.019
+    },
+    {
+      "file": "frame_000064000.jpg",
+      "requested_s": 64,
+      "time_s": 64.028
+    },
+    {
+      "file": "frame_000066000.jpg",
+      "requested_s": 66,
+      "time_s": 66.004
+    },
+    {
+      "file": "frame_000068000.jpg",
+      "requested_s": 68,
+      "time_s": 68.013
+    },
+    {
+      "file": "frame_000070000.jpg",
+      "requested_s": 70,
+      "time_s": 70.022
+    },
+    {
+      "file": "frame_000072000.jpg",
+      "requested_s": 72,
+      "time_s": 72.031
+    },
+    {
+      "file": "frame_000074000.jpg",
+      "requested_s": 74,
+      "time_s": 74.007
+    },
+    {
+      "file": "frame_000076000.jpg",
+      "requested_s": 76,
+      "time_s": 76.016
+    },
+    {
+      "file": "frame_000078000.jpg",
+      "requested_s": 78,
+      "time_s": 78.026
+    },
+    {
+      "file": "frame_000080000.jpg",
+      "requested_s": 80,
+      "time_s": 80.001
+    },
+    {
+      "file": "frame_000082000.jpg",
+      "requested_s": 82,
+      "time_s": 82.011
+    },
+    {
+      "file": "frame_000084000.jpg",
+      "requested_s": 84,
+      "time_s": 84.02
+    },
+    {
+      "file": "frame_000086000.jpg",
+      "requested_s": 86,
+      "time_s": 86.029
+    },
+    {
+      "file": "frame_000088000.jpg",
+      "requested_s": 88,
+      "time_s": 88.005
+    },
+    {
+      "file": "frame_000090000.jpg",
+      "requested_s": 90,
+      "time_s": 90.014
+    },
+    {
+      "file": "frame_000092000.jpg",
+      "requested_s": 92,
+      "time_s": 92.023
+    },
+    {
+      "file": "frame_000094000.jpg",
+      "requested_s": 94,
+      "time_s": 94.033
+    },
+    {
+      "file": "frame_000096000.jpg",
+      "requested_s": 96,
+      "time_s": 96.008
+    },
+    {
+      "file": "frame_000098000.jpg",
+      "requested_s": 98,
+      "time_s": 98.018
+    },
+    {
+      "file": "frame_000100000.jpg",
+      "requested_s": 100,
+      "time_s": 100.027
+    }
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "TAKAO_MOUNTAIN_SELFIE_TALK",
+    "LIFE_PHILOSOPHY_MONOLOGUE",
+    "GAMBLING_LOSS_CALLBACK",
+    "SCENIC_VIEW_CUTAWAY",
+    "OFFICE_DIGITAL_PET_GAG",
+    "WORK_BOUNDARY_JOKE",
+    "NEXT_SHOOT_CTA",
+    "COMMENT_PROMPT_ENDING"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "observed": "曇天の屋外で人物の顔を近距離の自撮り固定にし、白い『高尾山 Day2』から黄発光の『中道』へ進む。この世は無である、無の世界、悲しい人生と思えばその人生が確定するという黄字幕を顔の上部へ短く積む。",
+      "limits": "人物、場所、Day2、発話、中道、無、人生への因果は未確認。宗教的・哲学的説明や心理助言にしない。"
+    },
+    {
+      "sample_requested_s": [
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42
+      ],
+      "observed": "中立を生き、自分がどの位置にいるか見直すことが大事という黄字幕から、『だからなんだ』という自己ツッコミを挟む。人生の良い時・悪い時、世のため人のためという話を黄発光の『良いことがあるんじゃないでしょうか』へ上げ、青いギャンブル負けと『全て世のため』という冗談へつなぎ、白い高尾山2日目の掛け声で区切る。",
+      "limits": "人生観、善行の効果、ギャンブル参加、負け、因果は画面上の発言で未検証。"
+    },
+    {
+      "sample_requested_s": [
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60
+      ],
+      "observed": "人物から山上らしい曇天の景色へ切り、橙発光の『これが成功者の景色です』を置く。白い『しかし』『曇っています』『何故ならば』を間を空けて積み、最後に青縁の『先週競馬で負け』で曇天の理由を賭博負けへ結び付けるオチにする。",
+      "limits": "場所、景色、天候、成功者、競馬、時期、負け、金額、損益、因果は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88
+      ],
+      "observed": "オフィスの着席人物が青緑とピンクの携帯育成玩具らしい物を操作する画へ切る。こまめな世話らしい黄字幕、排泄物は掃除した方がよいという説明へ、白い『これ仕事ですか？』を重ねる。階層という説明、ピンク発光の『ここが たまごっちです』、白い『何言ってるかわからない』『いきなり？w』を挟み、玩具操作と会話のずれを笑いにする。",
+      "limits": "製品名、公式性、キャラクター、状態、操作、階層、世話、仕事、玩具・画面の権利は未確認。"
+    },
+    {
+      "sample_requested_s": [
+        90,
+        92,
+        94,
+        96,
+        98,
+        100
+      ],
+      "observed": "玩具を首から下げた人物が、これから年収チャンネルの撮影へ行くという黄字幕と挨拶を出す。最後は橙縁の角丸字幕で、たまごっちが何日もつかコメントで答える趣旨を反復し、カメラがモニター背面側へ動く画で終える。",
+      "limits": "チャンネル名、撮影予定、参加、玩具の寿命、応募・コメント条件は未確認。コメントを実行しない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_life_gambling_and_digital_pet_statements": "HIGH",
+    "philosophy_location_gambling_result_and_product_behavior": "UNVERIFIED",
+    "audio_speaker_and_exact_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "51点の2秒間隔静止画目視であり、101.61秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大約0.033秒の差があり、自撮り、景色、オフィス、字幕、コメント募集の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 100.027秒。最後の約1.583秒と全サンプル間は未視聴。",
+    "中道、無、人生、善行の説明は画面上の簡略化された話で、宗教的・哲学的・心理的妥当性を検証していない。",
+    "競馬で負けたという表示は金額、券種、結果、精算、因果の証拠にしない。",
+    "人物、場所、景色、天候、オフィス、携帯育成玩具、撮影同意、素材権利と音は未確認。"
+  ]
+}
