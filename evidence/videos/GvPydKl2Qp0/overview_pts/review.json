@@ -1,0 +1,111 @@
+{
+  "video_id": "GvPydKl2Qp0",
+  "reference_video": "https://www.youtube.com/watch?v=GvPydKl2Qp0",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 44,
+  "reviewed_sheet_count": 8,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.009},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.018},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6.027},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.002},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.011},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12.02},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.029},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.005},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18.014},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.023},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.032},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24.007},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.016},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.025},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30.001},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.01},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.019},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.028},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.003},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.012},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42.021},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44.03},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46.006},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48.015},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50.024},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52.033},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54.008},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56.017},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58.026},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60.002},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62.011},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64.02},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66.029},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68.004},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70.013},
+    {"file":"frame_000072000.jpg","requested_s":72,"time_s":72.022},
+    {"file":"frame_000074000.jpg","requested_s":74,"time_s":74.031},
+    {"file":"frame_000076000.jpg","requested_s":76,"time_s":76.007},
+    {"file":"frame_000078000.jpg","requested_s":78,"time_s":78.016},
+    {"file":"frame_000080000.jpg","requested_s":80,"time_s":80.024},
+    {"file":"frame_000082000.jpg","requested_s":82,"time_s":82},
+    {"file":"frame_000084000.jpg","requested_s":84,"time_s":84.009},
+    {"file":"frame_000086000.jpg","requested_s":86,"time_s":86.018}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "OFFICE_MONITOR_COMEDY",
+    "SLOT_SYMBOL_REFERENCE_BOARD",
+    "ANIMAL_SYMBOL_IMAGE_OVERLAYS",
+    "ONE_LINER_SEQUENCE",
+    "REPEATED_REACTION_PUNCHLINES",
+    "STAFF_CHALLENGE_INTERTITLE",
+    "CROSS_CHARACTER_MASHUP_JOKE"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8],
+      "observed": "黒地の『こちらは人間の暇の極めた動画です』から、会議室の大型モニター前に立つ人物へ切り替える。白い『本日』『暇すぎるので』の後、水色の角丸カードで『海物語が言いそうなシリーズ！』を企画見出しにし、タコから始めると宣言する。",
+      "limits": "企画名、製品・作品との公式関係、人物、場所、暇という設定、音は未確認。"
+    },
+    {
+      "sample_requested_s": [10, 12, 14, 16, 18, 20, 22, 24, 26],
+      "observed": "モニターに並ぶ絵柄を背景に、赤いタコ風図柄を『1番タコ』、緑のカメ風図柄を『3番タコ』として画面下へ大きく貼る。工場、タコかどうか、社内調整という会社員風の一言を白い大型字幕で重ね、各まとまりを『おもんな』で切る。",
+      "limits": "図柄名、番号、台詞、工場・会社設定、元ゲーム内の意味は未検証。画像の誤ラベルらしい表現も意図を確定しない。"
+    },
+    {
+      "sample_requested_s": [28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48],
+      "observed": "歯形、調整、LDEらしい語、熱くならない、全部自分のせいでよい、ママが来た、という脈絡をずらした一言を続ける。紫のサメ風4番、赤いアンコウ風6番、青緑の親子風7番の画像を下部で差し替え、『どゆこと』を反復反応に使う。",
+      "limits": "専門語、台詞の正確な聞き取り、図柄・番号・ゲーム機能・期待度・演出条件は未確認。"
+    },
+    {
+      "sample_requested_s": [50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70],
+      "observed": "黄色い魚風8番へ『踊り子？』という大型字幕を当て、海物語なら単発、スロットやサバンナ系なら強いという台詞風表示へ進む。カニ風9番では祭りと議事録を結び付け、再び『どゆこと』で締める。",
+      "limits": "図柄、ゲーム名、単発、スロット、強さ、演出、期待値、祭り、議事録の正確な意味と公式性は未検証。実遊技・ベット・勝敗・配当は映っていない。"
+    },
+    {
+      "sample_requested_s": [72, 74, 76, 78, 80, 82, 84, 86],
+      "observed": "黒地の『スタッフも挑戦』を章切替にし、別人物を背後からモニター前に立たせる。親子風7番の図柄へ、魚群が来て台を叩く人という説明、青い猫型キャラクター風の顔と『ママ怖いよぉー』を足し、白い『ドラえもんじゃんw』で終える。",
+      "limits": "人物、魚群、台を叩く行為、キャラクター名・画像出典・許諾・公式関係は未確認。行為の推奨や実演として扱わない。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_symbol_images_labels_and_punchlines": "HIGH",
+    "game_symbol_names_mechanics_and_expected_value": "UNKNOWN",
+    "official_brand_and_character_relationship": "UNVERIFIED",
+    "audio_and_exact_comedic_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "44点の2秒間隔静止画目視であり、87.63秒の連続視聴・聴取ではない。",
+    "requested_sに対する実source PTSは0〜約0.033秒後で、画像差替え、字幕、反応、章切替の境界はサンプル間にある可能性がある。",
+    "最終サンプルは実PTS 86.018秒。最後の約1.61秒と全サンプル間は未視聴。",
+    "ゲーム図柄を使った言葉遊びで、実際の機械、遊技、ベット、結果、配当、期待値を示す記録ではない。",
+    "人物、会社、会議室、モニター内容、図柄、キャラクター、撮影同意、画面・字幕・映像の素材権利と音は未確認。"
+  ]
+}
