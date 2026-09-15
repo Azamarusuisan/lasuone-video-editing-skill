@@ -1,0 +1,104 @@
+{
+  "video_id": "w7MQgXCLafU",
+  "reference_video": "https://www.youtube.com/watch?v=w7MQgXCLafU",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 37,
+  "reviewed_sheet_count": 7,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56},
+    {"file":"frame_000058000.jpg","requested_s":58,"time_s":58},
+    {"file":"frame_000060000.jpg","requested_s":60,"time_s":60},
+    {"file":"frame_000062000.jpg","requested_s":62,"time_s":62},
+    {"file":"frame_000064000.jpg","requested_s":64,"time_s":64},
+    {"file":"frame_000066000.jpg","requested_s":66,"time_s":66},
+    {"file":"frame_000068000.jpg","requested_s":68,"time_s":68},
+    {"file":"frame_000070000.jpg","requested_s":70,"time_s":70},
+    {"file":"frame_000072000.jpg","requested_s":72,"time_s":72}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "OFFICE_MORNING_MEETING",
+    "WHITEBOARD_EXPLANATION",
+    "CHECKLIST_OVERLAY",
+    "AI_AUTOMATION_SERVICE_PITCH",
+    "PRICE_AND_LIST_SIZE_CALLOUTS",
+    "ANTHROPOMORPHIC_WORKER_JOKE",
+    "CHARACTER_SHIRT_TAG"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2, 4, 6, 8, 10, 12, 14],
+      "observed": "オフィスの朝礼らしい二人立ちを白板込みの縦長ワイドで見せ、白い通常字幕と縦書きの赤い強調を使う。白板へAutoClaw、続いてOpenClawと読める名称を書き、説明へ入る。",
+      "limits": "朝礼、人物の役割、ソフトウェア名の表記・関係、会話順、白板内容、撮影同意と音は未確認。"
+    },
+    {
+      "sample_requested_s": [16, 18, 20, 22, 24, 26, 28, 30],
+      "observed": "半透明の淡いチェックリストを画面下寄りへ重ね、スキル、GitHub、顧客ごとの設定・導入らしい項目を説明する。26秒以降はカードを外し、人物と白板へ戻る。",
+      "limits": "小さいチェック項目は一部判読困難。項目の正確な文面、実施状況、顧客、アカウント、機能、提供範囲を補完しない。"
+    },
+    {
+      "sample_requested_s": [32, 34, 36, 38, 40],
+      "observed": "赤い感謝・反響字幕から、大型の白い縁取り文字でAI導入が遅れた人への逆転訴求を出し、担当者が設定へ行くという白字幕へつなぐ。",
+      "limits": "顧客の声、人数、成果、AI導入、逆転可能性、設定予定は話者・画面の訴求であり、実績や保証として確定しない。"
+    },
+    {
+      "sample_requested_s": [42, 44, 46, 48, 50, 52, 54, 56, 58],
+      "observed": "赤い料金カード、営業リスト120万件の赤文字と金色の強調、リスト費用10万円の白字幕、Mac mini込みの伴走プラン25万円（税抜）の赤字幕、月100万円相当の仕事をするという白字幕を順に置く。",
+      "limits": "構築料金15万円、税、リスト件数・費用、端末同梱、プラン価格、期間、利益・仕事量、契約・成果はすべて未検証。購入・契約の根拠にしない。"
+    },
+    {
+      "sample_requested_s": [60, 62, 64, 66, 68, 70, 72],
+      "observed": "辞めないという説明から大きな明朝風の『社畜1』、炎風の勤務激励、ピンクの『ちいかわ』へ急転し、着用Tシャツらしい短い説明と二人の反応で暗転気味に終える。",
+      "limits": "雇用関係、労働条件、比喩の対象、キャラクター・衣服の出典、正確な末尾発言、反応尺と音は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_price_list_and_marketing_text": "HIGH",
+    "small_checklist_wording": "LOW",
+    "software_service_pricing_list_size_and_profit_claims": "UNVERIFIED",
+    "audio_and_exact_comedy_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "37点の2秒間隔静止画目視であり、74.03秒の連続視聴・聴取ではない。",
+    "全画像でrequested_sと実source PTSは一致するが、字幕・カード・反応の境界はサンプル間にある可能性がある。",
+    "requested_s 74秒のレコードはNO_FRAME_AT_SOURCE_ENDの終端タグで、画像・レビュー数から除外した。最終画像は72秒で、最後の約2.03秒と全サンプル間は未視聴。",
+    "ソフトウェア、サービス、料金、税、営業リスト、端末同梱、顧客反響、利益・仕事量は未検証。小さいチェックリストの文面を補完しない。",
+    "人物、会社、オフィス、白板、モニター、ソフトウェア名、端末・キャラクター・衣服、撮影同意、画面・字幕・映像の素材権利は未確認。"
+  ]
+}
