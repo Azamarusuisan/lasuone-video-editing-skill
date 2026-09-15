@@ -1,0 +1,97 @@
+{
+  "video_id": "ps4AE8tPDC0",
+  "reference_video": "https://www.youtube.com/watch?v=ps4AE8tPDC0",
+  "reviewed_at": "2026-09-15",
+  "review_type": "MANUAL_REVIEW_OF_PERIODIC_WHOLE_DURATION_SOURCE_PTS_SAMPLES",
+  "evidence": "capture.json",
+  "reviewed_frame_count": 29,
+  "reviewed_sheet_count": 5,
+  "sample_step_s": 2,
+  "reviewed_frames": [
+    {"file":"frame_000000000.jpg","requested_s":0,"time_s":0},
+    {"file":"frame_000002000.jpg","requested_s":2,"time_s":2.011},
+    {"file":"frame_000004000.jpg","requested_s":4,"time_s":4.022},
+    {"file":"frame_000006000.jpg","requested_s":6,"time_s":6},
+    {"file":"frame_000008000.jpg","requested_s":8,"time_s":8.011},
+    {"file":"frame_000010000.jpg","requested_s":10,"time_s":10.022},
+    {"file":"frame_000012000.jpg","requested_s":12,"time_s":12},
+    {"file":"frame_000014000.jpg","requested_s":14,"time_s":14.011},
+    {"file":"frame_000016000.jpg","requested_s":16,"time_s":16.023},
+    {"file":"frame_000018000.jpg","requested_s":18,"time_s":18},
+    {"file":"frame_000020000.jpg","requested_s":20,"time_s":20.011},
+    {"file":"frame_000022000.jpg","requested_s":22,"time_s":22.023},
+    {"file":"frame_000024000.jpg","requested_s":24,"time_s":24},
+    {"file":"frame_000026000.jpg","requested_s":26,"time_s":26.012},
+    {"file":"frame_000028000.jpg","requested_s":28,"time_s":28.023},
+    {"file":"frame_000030000.jpg","requested_s":30,"time_s":30},
+    {"file":"frame_000032000.jpg","requested_s":32,"time_s":32.012},
+    {"file":"frame_000034000.jpg","requested_s":34,"time_s":34.023},
+    {"file":"frame_000036000.jpg","requested_s":36,"time_s":36.001},
+    {"file":"frame_000038000.jpg","requested_s":38,"time_s":38.012},
+    {"file":"frame_000040000.jpg","requested_s":40,"time_s":40.023},
+    {"file":"frame_000042000.jpg","requested_s":42,"time_s":42.001},
+    {"file":"frame_000044000.jpg","requested_s":44,"time_s":44.012},
+    {"file":"frame_000046000.jpg","requested_s":46,"time_s":46.023},
+    {"file":"frame_000048000.jpg","requested_s":48,"time_s":48.001},
+    {"file":"frame_000050000.jpg","requested_s":50,"time_s":50.012},
+    {"file":"frame_000052000.jpg","requested_s":52,"time_s":52.023},
+    {"file":"frame_000054000.jpg","requested_s":54,"time_s":54.001},
+    {"file":"frame_000056000.jpg","requested_s":56,"time_s":56.012}
+  ],
+  "format_tags": [
+    "SHORT",
+    "VERTICAL",
+    "LAS_VEGAS_100_DAY_DAILY_SERIES",
+    "MOUNTAIN_LOCATION",
+    "WALKING_BROLL_OPEN",
+    "DIRECT_TO_CAMERA",
+    "LOCATION_CHANGE_WITHIN_SAME_SHOOT",
+    "SERVICE_PROMOTION",
+    "PRICE_CALLOUT",
+    "LIMITED_RECRUITMENT_CTA",
+    "BLACK_END_CARD"
+  ],
+  "full_continuous_visual_review": false,
+  "direct_audio_review": false,
+  "observations": [
+    {
+      "sample_requested_s": [0, 2],
+      "observed": "森の階段を登る人物を背後から追う無字幕B-rollで始め、現地の行動を説明前のフックにする。",
+      "limits": "登山経路、撮影順、歩行尺、音は未確認。"
+    },
+    {
+      "sample_requested_s": [4, 6, 8, 10, 12, 14, 16, 18],
+      "observed": "森林内の立ち話へ切り替え、白い太字・黒縁字幕を下部へ置く。高尾山で体力と気力が回復するという話から、伸び悩む経営者への導入では橙文字へ変える。",
+      "limits": "体力・気力の回復効果と経営者一般への適用は話者の主張で、健康・経営上の効果を検証していない。"
+    },
+    {
+      "sample_requested_s": [20, 22, 24, 26, 28, 30],
+      "observed": "20秒サンプルで細い縦像を挟み、山頂らしい展望地点の正面ショットへ移る。橙の到着報告から赤い会社名・Claude Code研修の告知へ進み、通常説明は白字幕へ戻す。",
+      "limits": "20秒付近の正確な転換方法、場所、会社・研修の提供主体、Claudeとの公式関係は未確認。"
+    },
+    {
+      "sample_requested_s": [32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52],
+      "observed": "『営業AIを強化プラン 年間100万円』を白い見出しと大きな黄色数字で複数サンプルに保持し、白い自信表明を重ねる。単独の『100万円』、送金を促す冗談めいた字幕、橙の『あと5社募集』、連絡と一緒に登山するCTAへ続ける。",
+      "limits": "価格、契約期間、内容、成果、募集枠、支払先、申込方法、発言の冗談性を検証していない。画面表示から送金・契約を実行しない。"
+    },
+    {
+      "sample_requested_s": [54, 56],
+      "observed": "山頂ショットへピンクの『さ、団子食お。』を置いた後、黒地の白い三行カードで団子・登山・AI習得をまとめて締める。",
+      "limits": "団子購入・飲食、研修参加、AI習得の因果、終端カードの正確な出入りと音は未確認。"
+    }
+  ],
+  "confidence": {
+    "observed_sample_design": "HIGH",
+    "displayed_advertising_text": "HIGH",
+    "service_terms_and_effectiveness": "UNVERIFIED",
+    "location_and_affiliation": "LOW",
+    "audio_and_transition_timing": "UNKNOWN"
+  },
+  "limitations": [
+    "29点の2秒間隔静止画目視であり、56.89秒の連続視聴・聴取ではない。",
+    "requested_sと実source PTSには最大0.023秒の差があり、カット・字幕・CTAの境界はサンプル間にある可能性がある。",
+    "最終サンプルはsource PTS 56.012秒。最後の約0.878秒と全サンプル間は未視聴。",
+    "登山、健康、経営、AI研修、価格、募集、送金に関する字幕は画面上の主張であり、効果・提供条件・契約・支払を検証していない。",
+    "人物、会社、場所、撮影同意、Claude／Claude Code名称、字幕・映像の素材権利は未確認。"
+  ]
+}
